@@ -2,43 +2,36 @@ name: Collecte RSS quotidienne
 
 on:
   schedule:
-    # Trois fois par jour : 8h, 12h, 18h UTC (= 9h, 13h, 19h heure de Paris)
-    # Syntaxe cron : minute heure jour mois jour-semaine
     - cron: "0 */3 * * *"
-  
-  # Permet de lancer manuellement depuis l'onglet "Actions" sur GitHub
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   collect:
     runs-on: ubuntu-latest
     
     steps:
-      # Clone le repo
       - uses: actions/checkout@v4
       
-      # Configure Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
       
-      # Installe les dépendances
       - name: Installer les dépendances
         run: |
           python -m pip install --upgrade pip
           pip install feedparser
       
-      # Lance la collecte
       - name: Collecte RSS
         run: python collect.py
       
-      # Commit et pousse les changements
       - name: Committer et pousser
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/articles.json
-          # || true : ne pas échouer s'il n'y a aucun changement (aucun nouvel article)
           git commit -m "Auto: collecte articles $(date -u +'%Y-%m-%d %H:%M UTC')" || true
           git push
