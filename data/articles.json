@@ -1,33 +1,531 @@
 [
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Roland-Garros : Diane Parry sur le chemin des huitièmes de finale, le prodige Moïse Kouame attendu après Sabalenka...",
+    "title": "EN DIRECT - Roland-Garros : Moïse Kouame à la lutte dans la deuxième manche, magique Diane Parry qui élimine la 6e mondiale",
     "link": "https://www.lefigaro.fr/sports/tennis/roland-garros/en-direct-roland-garros-le-prodige-moise-kouame-attendu-diane-parry-egalement-la-tenante-du-titre-gauff-en-piste-suivez-la-7e-journee-20260530",
-    "summary": "Ce samedi Porte d’Auteuil se déroule la 7e journée de Roland-Garros. Moïse Kouame, le prodige français, et Diane Parry tenteront de se hisser en 8es de finale.",
-    "published": "2026-05-30T13:39:02+00:00",
+    "summary": "Ce samedi Porte d’Auteuil se déroule la 7e journée de Roland-Garros. Diane Parry et Moïse Kouame, le prodige français, tentent de se hisser en 8es de finale.",
+    "published": "2026-05-30T16:03:03+00:00",
     "authors": [],
     "categories": [
       "Roland Garros"
     ],
     "guid": "https://www.lefigaro.fr/sports/tennis/roland-garros/en-direct-roland-garros-le-prodige-moise-kouame-attendu-diane-parry-egalement-la-tenante-du-titre-gauff-en-piste-suivez-la-7e-journee-20260530",
-    "image": "https://i.f1g.fr/media/cms/2847x1601_crop/2026/05/30/51194d28a17e1f02cd8e129f9f1a12ac0755b409ced25d07d2abe93fc014f05b.jpg",
+    "image": "https://i.f1g.fr/media/cms/2995x1685_crop/2026/05/30/bf4a8898c3348eae7b17e0a281f145e62048399a2c82d1fda81fa863cf028a6d.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636120+00:00"
+    "fetched_at": "2026-05-30T16:05:23.188887+00:00"
   },
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT – PSG-Arsenal : les Parisiens en route vers une deuxième étoile, les supporters à Budapest (déjà) bouillants, les légendes au rendez-vous... Suivez la journée avant la grande finale",
+    "title": "EN DIRECT - PSG-Arsenal : dans une Puskas Arena bouillante, la finale de la Ligue des champions est lancée",
+    "link": "https://www.lefigaro.fr/sports/football/live/ligue-des-champions/2025/2629032/paris-sg-arsenal",
+    "summary": "Le Paris Saint-Germain affronte, ce samedi à Budapest, Arsenal en finale de la Ligue des champions. Avec le rêve de décrocher une deuxième étoile.",
+    "published": "2026-05-30T16:03:00+00:00",
+    "authors": [],
+    "categories": [
+      "Ligue des champions"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/live/ligue-des-champions/2025/2629032/paris-sg-arsenal",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/05/30/d86301dd3662346c1a7470764cd08f1ee8794012b9081c3ab0e6cce26a4629c2.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188277+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "PSG-Arsenal : cortège parisien, cadre majestueux à Budapest... Les images de la finale de Ligue des champions",
+    "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-arsenal-cortege-parisien-cadre-majestueux-a-budapest-les-images-de-la-finale-de-ligue-des-champions-20260530",
+    "summary": "DIAPORAMA - Découvrez les plus belles images de la finale de Ligue des champions opposant le Paris Saint-Germain à Arsenal, ce samedi, à Budapest.",
+    "published": "2026-05-30T16:02:58+00:00",
+    "authors": [],
+    "categories": [
+      "Ligue des champions"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-arsenal-cortege-parisien-cadre-majestueux-a-budapest-les-images-de-la-finale-de-ligue-des-champions-20260530",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.189210+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - PSG-Arsenal : «Des centaines de milliers de personnes» attendues à Paris pour la finale de la Ligue des champions, 8000 policiers mobilisés",
+    "link": "https://www.lefigaro.fr/faits-divers/en-direct-psg-arsenal-des-centaines-de-milliers-de-personnes-attendues-dans-les-rues-de-paris-pour-la-finale-de-la-ligue-des-champions-20260530",
+    "summary": "En 2025, après le sacre parisien devant l’Inter Milan (5-0), des scènes de pillages, de bris de mobilier urbain, de vitrines dégradées et d’incendies de voitures et de vélos avaient déjà eu lieu dans la capitale.",
+    "published": "2026-05-30T16:02:33+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/en-direct-psg-arsenal-des-centaines-de-milliers-de-personnes-attendues-dans-les-rues-de-paris-pour-la-finale-de-la-ligue-des-champions-20260530",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/05/30/3c1ce55b603be9210821c6205f4228b5607e9621d69237a1c32f872ba15f625e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188803+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Plusieurs dizaines de personnes, dont Jean-Luc Mélenchon, se sont rassemblées près de L’Olympia à Paris pour s’opposer à Vincent Bolloré",
+    "link": "https://www.lefigaro.fr/actualite-france/plusieurs-dizaines-de-personnes-dont-jean-luc-melenchon-se-sont-rassemblees-pres-de-l-olympia-a-paris-pour-s-opposer-a-vincent-bollore-20260530",
+    "summary": "«Vincent Bolloré met en danger la liberté de penser en France en créant un monopole idéologique sur la presse, la culture et l’éducation, dans l’édition», a déclaré à l’AFP le leader insoumis, qui n’a pas pris la parole en tribune.",
+    "published": "2026-05-30T16:01:04+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/plusieurs-dizaines-de-personnes-dont-jean-luc-melenchon-se-sont-rassemblees-pres-de-l-olympia-a-paris-pour-s-opposer-a-vincent-bollore-20260530",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/05/30/a0bdd041a27bb50b6044999e84acb1d2fb48d1c406e967752c0ef537b2976878.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.189103+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Roland-Garros : sensationnelle, Diane Parry s’offre un premier 8e de finale en Grand Chelem",
+    "link": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-sensationnelle-diane-parry-s-offre-un-premier-8-e-de-finale-en-grand-chelem-20260530",
+    "summary": "La dernière Française en lice a dominé l’Américaine Amanda Anisimova. La belle aventure continue pour la Niçoise.",
+    "published": "2026-05-30T15:56:07+00:00",
+    "authors": [],
+    "categories": [
+      "Roland Garros"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-sensationnelle-diane-parry-s-offre-un-premier-8-e-de-finale-en-grand-chelem-20260530",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/05/30/10fe8d442d114241b78521ee8ff2358642b1ef03b59c850723445ba132a3493a.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188988+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "PSG-Arsenal : du Parc des Princes à Budapest, plongée au coeur d’une folle ambiance avant la finale de Ligue des champions",
     "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/en-direct-psg-arsenal-les-parisiens-en-route-vers-une-deuxieme-etoile-20-000-supporters-attendus-a-budapest-suivez-la-journee-avant-le-choc-20260530",
-    "summary": "Ce samedi (18h00), le Paris Saint-Germain a l’occasion de remporter la Ligue des champions pour la deuxième année consécutive, face à Arsenal, à Budapest.",
-    "published": "2026-05-30T13:38:03+00:00",
+    "summary": "Ce samedi, le club parisien a l’occasion de remporter la Ligue des champions pour la deuxième année consécutive. Revivez les heures qui ont précédé ce grand moment.",
+    "published": "2026-05-30T15:47:53+00:00",
     "authors": [],
     "categories": [
       "Ligue des champions"
     ],
     "guid": "https://www.lefigaro.fr/sports/football/ligue-des-champions/en-direct-psg-arsenal-les-parisiens-en-route-vers-une-deuxieme-etoile-20-000-supporters-attendus-a-budapest-suivez-la-journee-avant-le-choc-20260530",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/05/30/eaaa7a1abcac11805d486da565d88ed5997a3b7fb2341157fa80105eb6b5145c.jpg",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/05/30/c057373575a3d08245262b4ac4d7768041b5c4d3f5aab7de76ad656eafd06bba.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636257+00:00"
+    "fetched_at": "2026-05-30T16:05:23.188771+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Insécurité : 72 % des Français estiment que la délinquance est hors de contrôle, selon un sondage",
+    "link": "https://www.valeursactuelles.com/societe/insecurite-72-des-francais-estiment-que-la-delinquance-est-hors-de-controle-selon-un-sondage",
+    "summary": "La montée de l’insécurité en France nourrit un sentiment de perte de contrôle. Selon un sondage CSA réalisé pour CNews, Europe 1 et Le JDD, 72 % des Français estiment... L’article Insécurité : 72 % des Français estiment que la délinquance est hors de contrôle, selon un sondage est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-05-30T15:25:46+00:00",
+    "authors": [
+      "6medias2"
+    ],
+    "categories": [
+      "Non classé",
+      "délinquance",
+      "insécurité",
+      "sentiment d'insécurité",
+      "sondage"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/insecurite-72-des-francais-estiment-que-la-delinquance-est-hors-de-controle-selon-un-sondage",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:24.126810+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mort d’Edgar Morin : «Jusqu’au bout, il a gardé une urgence à vivre», par Cyril Dion",
+    "link": "https://www.liberation.fr/idees-et-debats/mort-dedgar-morin-jusquau-bout-il-a-garde-une-urgence-a-vivre-par-cyril-dion-20260530_2HHSRMMSJVCOTBVLZIGQTLTAUY/",
+    "summary": "Ecrivain et cinéaste, le militant écologiste rend hommage au sociologue et philosophe, mort samedi à 104 ans.",
+    "published": "2026-05-30T15:20:19+00:00",
+    "authors": [
+      "Cyril Dion"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/mort-dedgar-morin-jusquau-bout-il-a-garde-une-urgence-a-vivre-par-cyril-dion-20260530_2HHSRMMSJVCOTBVLZIGQTLTAUY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.660849+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Roland-Garros : complètement fou, le tournoi sait déjà qu’il sacrera un lauréat inédit",
+    "link": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-sens-dessus-dessous-le-doux-parfum-de-l-inedit-20260530",
+    "summary": "Le tableau masculin n’héberge plus, ce samedi, que deux joueurs du Top 10. Et pour la première fois de l’ère Open, aucun lauréat en Grand Chelem ne sera en 8es de finale des Internationaux de France.",
+    "published": "2026-05-30T15:18:46+00:00",
+    "authors": [],
+    "categories": [
+      "Roland Garros"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-sens-dessus-dessous-le-doux-parfum-de-l-inedit-20260530",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/05/30/82f3ee1701f15421a67ac3e3f82d434e2ce89f7be4ed96f76278dc4a77dbbd6c.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188966+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Roland-Garros : «Nous devons arrêter d'accepter» des Russes qui «soutiennent leur dictateur», juge Oleksandra Oliynykova",
+    "link": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-nous-devons-arreter-d-accepter-des-russes-qui-soutiennent-leur-dictateur-juge-oleksandra-oliynykova-20260530",
+    "summary": "LE SCAN SPORT - Dominée en 8es de finale par la Russe Dania Shnaider, l’Ukrainienne en a rajouté une couche en conférence de presse sur son adversaire.",
+    "published": "2026-05-30T15:17:42+00:00",
+    "authors": [],
+    "categories": [
+      "Roland Garros"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-nous-devons-arreter-d-accepter-des-russes-qui-soutiennent-leur-dictateur-juge-oleksandra-oliynykova-20260530",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/05/30/de97c25995fdceb1582ff4c0f75966e693804c06cb6009587c4a9a8f926050b1.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.189014+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Un point de deal, c’est toujours dégueulasse» : à Villeurbanne, des habitants occupent le terrain face aux petites mains du narcotrafic",
+    "link": "https://www.liberation.fr/societe/ville/un-point-de-deal-cest-toujours-degueulasse-a-villeurbanne-des-habitants-occupent-le-terrain-face-aux-petites-mains-du-narcotrafic-20260530_GX3JNO53MNDARC42H77VLEROLA/",
+    "summary": "Lancé il y a six ans dans un quartier de la ville limitrophe de Lyon, le collectif Tonkin Paix-sible s’efforce de nettoyer les traces laissées par le trafic de drogue, mais aussi de susciter un échange avec guetteurs et dealeurs pour limiter les nuisances aux habitants.",
+    "published": "2026-05-30T15:02:29+00:00",
+    "authors": [
+      "Maïté Darnault, photo Bruno Amsellem"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/ville/un-point-de-deal-cest-toujours-degueulasse-a-villeurbanne-des-habitants-occupent-le-terrain-face-aux-petites-mains-du-narcotrafic-20260530_GX3JNO53MNDARC42H77VLEROLA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.660889+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Science-fiction : « Star Wars a changé l’expérience émotionnelle du cinéma », confie l’actrice Orli Shoshan",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/culture/science-fiction-star-wars-a-change-lexperience-emotionnelle-du-cinema-confie-lactrice-orli-shoshan",
+    "summary": "Valeurs actuelles. Entre 2002 et 2005, vous avez incarné la maître jedi Shaak Ti dans la nouvelle prélogie de films Star Wars. En tant qu’actrice, avez-vous le sentiment que Star... L’article Science-fiction : « Star Wars a changé l’expérience émotionnelle du cinéma », confie l’actrice Orli Shoshan est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-05-30T15:00:48+00:00",
+    "authors": [
+      "Maxime Coupeau"
+    ],
+    "categories": [
+      "Non classé",
+      "cinéma",
+      "espace",
+      "fusée",
+      "hollywood",
+      "science-fiction"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/science-fiction-star-wars-a-change-lexperience-emotionnelle-du-cinema-confie-lactrice-orli-shoshan",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:24.126866+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "PSG-Arsenal : Dembélé, Ruiz et Hakimi titulaires pour Paris, des surprises chez les Gunners… Les compos de la finale de Ligue des champions",
+    "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-arsenal-ruiz-et-hakimi-titulaires-zaire-emery-sur-le-banc-les-compos-de-la-finale-de-ligue-des-champions-20260530",
+    "summary": "Luis Enrique et Mikel Arteta ont dévoilé leurs choix avant la finale de C1 entre le PSG et Arsenal ce samedi, à Budapest.",
+    "published": "2026-05-30T14:58:27+00:00",
+    "authors": [],
+    "categories": [
+      "Ligue des champions"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/ligue-des-champions/psg-arsenal-ruiz-et-hakimi-titulaires-zaire-emery-sur-le-banc-les-compos-de-la-finale-de-ligue-des-champions-20260530",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/05/30/1c5a0686d77826d7468d9dcbc51d2b0739d0a539dd97f855edb2c4ec95feabd3.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188703+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, canicule : Météo-France prévoit la fin de l’épisode dimanche à 6 heures du matin",
+    "link": "https://www.lemonde.fr/planete/live/2026/05/30/en-direct-canicule-meteo-france-prevoit-la-fin-de-l-episode-dimanche-a-6-heures-du-matin_6693854_3244.html",
+    "summary": "Une nuit plus fraîche que les précédentes est annoncée, ce qui permettra, dans les départements encore en vigilance orange (Paris et sa petite couronne), « un retour en vigilance jaune à partir de 22 heures ».",
+    "published": "2026-05-30T14:57:26+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/live/2026/05/30/en-direct-canicule-meteo-france-prevoit-la-fin-de-l-episode-dimanche-a-6-heures-du-matin_6693854_3244.html",
+    "image": "https://img.lemde.fr/2026/05/28/889/0/6000/3000/644/322/60/0/746f227_ftp-1-t6ueyqtmuoed-5164000-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200118+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Olivier Bourdeaut, auteur d’«Une histoire d’amour et de violence» : mon père, ce bourreau",
+    "link": "https://www.liberation.fr/culture/livres/olivier-bourdeaut-mon-pere-ce-bourreau-20260530_JU3USRAVIRHZPD56AWAYMLRSNE/",
+    "summary": "Dans son dernier ouvrage, l’auteur d‘«En attendant Bojangles» raconte une enfance atroce sous l’autorité d’un géniteur notaire.",
+    "published": "2026-05-30T14:49:00+00:00",
+    "authors": [
+      "Virginie Bloch-Lainé"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/olivier-bourdeaut-mon-pere-ce-bourreau-20260530_JU3USRAVIRHZPD56AWAYMLRSNE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.660916+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Bobigny, un policier tue un homme qui le menaçait avec des couteaux",
+    "link": "https://www.liberation.fr/societe/police-justice/a-bobigny-un-policier-tue-un-homme-qui-le-menacait-avec-des-couteaux-20260530_67LVFVDH7FGMFEPOES56VHIBAA/",
+    "summary": "L’homme aurait blessé deux de ses voisins ce samedi 30 mai et l’un des policiers présents lors de l’intervention aurait été contraint de «faire usage de son arme», affirme la préfecture de police de Paris.",
+    "published": "2026-05-30T14:48:46+00:00",
+    "authors": [
+      "LIBERATION,  AFP"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/a-bobigny-un-policier-tue-un-homme-qui-le-menacait-avec-des-couteaux-20260530_67LVFVDH7FGMFEPOES56VHIBAA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.660945+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La vague de chaleur régresse en France, des orages attendus dans la moitié nord",
+    "link": "https://www.liberation.fr/environnement/climat/la-vague-de-chaleur-regresse-en-france-paris-et-la-petite-couronne-toujours-en-vigilance-orange-20260530_KHUWTLASCRDS7PT722BSI6N5NA/",
+    "summary": "La vigilance orange à la canicule ne concerne plus, ce samedi, que Paris et la petite couronne. Une quarantaine de départements connaissent une vigilance jaune aux orages de plus ou moins courte durée.",
+    "published": "2026-05-30T14:44:29+00:00",
+    "authors": [
+      "LIBERATION,  AFP"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/la-vague-de-chaleur-regresse-en-france-paris-et-la-petite-couronne-toujours-en-vigilance-orange-20260530_KHUWTLASCRDS7PT722BSI6N5NA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.660972+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "En librairies : Arno Schmidt, Pascal Boroto, Max Frisch...",
+    "link": "https://www.liberation.fr/culture/livres/en-librairies-arno-schmidt-pascal-boroto-max-frisch-20260530_RNSRCBTWEFAULD2D4WI5MSARO4/",
+    "summary": "Le sentiment amoureux atomisé, une mère qui était une grande figure congolaise du journalisme combattant, un pari viriliste et suicidaire, un père tyran...",
+    "published": "2026-05-30T14:44:00+00:00",
+    "authors": [
+      "Jean-Didier Wagneur, Nathalie Agogué, Frédérique Roussel, Claire Devarrieux, Virginie Bloch-Lainé, Robert Maggiori"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/en-librairies-arno-schmidt-pascal-boroto-max-frisch-20260530_RNSRCBTWEFAULD2D4WI5MSARO4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.660995+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Les guerres sont économiquement irrationnelles. Pourtant, le risque de nouveaux conflits est élevé »",
+    "link": "https://www.lemonde.fr/idees/article/2026/05/30/les-guerres-sont-economiquement-irrationnelles-pourtant-le-risque-de-nouveaux-conflits-est-eleve_6695270_3232.html",
+    "summary": "L’économiste Patrick Artus liste, dans sa chronique au « Monde », cinq catégories de raisons qui plaident en faveur d’une bellicisation des relations internationales.",
+    "published": "2026-05-30T14:30:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/05/30/les-guerres-sont-economiquement-irrationnelles-pourtant-le-risque-de-nouveaux-conflits-est-eleve_6695270_3232.html",
+    "image": "https://img.lemde.fr/2026/05/24/567/0/4652/2326/644/322/60/0/ec9bb6e_ftp-1-gvhbl7px0edz-2026-05-24t063959z-1761579952-rc2gflas3jek-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200281+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Yeon Sang-ho, réalisateur de « Colony » : « Pour faire ce film, je me suis demandé quelle était l’horreur de notre temps »",
+    "link": "https://www.lemonde.fr/culture/article/2026/05/30/yeon-sang-ho-realisateur-de-colony-pour-faire-ce-film-je-me-suis-demande-quelle-etait-l-horreur-de-notre-temps_6695269_3246.html",
+    "summary": "Dans un entretien au « Monde », le réalisateur sud-coréen raconte comment il s’est inspiré, pour son film de zombies, de la société hyperconnectée qui devient comme un organisme vivant unique",
+    "published": "2026-05-30T14:30:05+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/05/30/yeon-sang-ho-realisateur-de-colony-pour-faire-ce-film-je-me-suis-demande-quelle-etait-l-horreur-de-notre-temps_6695269_3246.html",
+    "image": "https://img.lemde.fr/2026/05/15/1083/0/5760/2880/644/322/60/0/7bda671_ftp-1-1fl5wy8qw7j9-c2f5c0cbc68a4303b0117696e46a12ff-0-c9e770f2a4794028ae242a68f0b1b79a.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200092+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En images, Aya Nakamura « brûle » les injures racistes d’un groupuscule d’extrême droite à son concert au Stade de France",
+    "link": "https://www.lemonde.fr/videos/video/2026/05/30/en-images-aya-nakamura-brule-les-injures-racistes-d-un-groupuscule-d-extreme-droite-a-son-concert-au-stade-de-france_6695268_1669088.html",
+    "summary": "La chanteuse profite de ses trois concerts au Stade de France pour répondre aux nombreuses remarques racistes et sexistes dont elle est victime.",
+    "published": "2026-05-30T14:29:35+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/videos/video/2026/05/30/en-images-aya-nakamura-brule-les-injures-racistes-d-un-groupuscule-d-extreme-droite-a-son-concert-au-stade-de-france_6695268_1669088.html",
+    "image": "https://img.lemde.fr/2026/05/30/690/0/1080/540/644/322/60/0/1cc40eb_upload-1-zluqu0fhdkda-v-montage-00-01-57-13-still001.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200356+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Il pourrait me dire qu’on va aller sur la Lune, je le crois» : Luis Enrique, le « gourou » qui a révolutionné le PSG",
+    "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/il-pourrait-me-dire-qu-on-va-aller-sur-la-lune-je-le-crois-luis-enrique-le-gourou-qui-a-revolutionne-le-psg-20260530",
+    "summary": "PORTRAIT – Passionné, possédé, envoûtant, le technicien espagnol de 56 ans a modelé le club de la capitale à son image pour l’amener jusqu’aux plus hauts sommets.",
+    "published": "2026-05-30T14:24:43+00:00",
+    "authors": [],
+    "categories": [
+      "Ligue des champions"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/ligue-des-champions/il-pourrait-me-dire-qu-on-va-aller-sur-la-lune-je-le-crois-luis-enrique-le-gourou-qui-a-revolutionne-le-psg-20260530",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/05/29/64e2619465947826f989e6ff66653d2976eb20df83bc5f4a668b629396910d19.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188739+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Liverpool annonce le départ « avec effet immédiat » de son entraîneur Arne Slot",
+    "link": "https://www.lemonde.fr/sport/article/2026/05/30/liverpool-annonce-le-depart-avec-effet-immediat-de-son-entraineur-arne-slot_6695267_3242.html",
+    "summary": "Le coach néerlandais de 47 ans, champion d’Angleterre en 2025 avec le club de la Mersey, a connu une saison à remous, avec des objectifs sportifs remplis sur le fil.",
+    "published": "2026-05-30T14:18:31+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/article/2026/05/30/liverpool-annonce-le-depart-avec-effet-immediat-de-son-entraineur-arne-slot_6695267_3242.html",
+    "image": "https://img.lemde.fr/2026/05/30/129/0/3470/1735/644/322/60/0/9b33bf8_ftp-1-n87j2sutmla0-2026-05-30t113421z-1982966783-rc2ufla2722u-rtrmadp-3-soccer-england-slot.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200248+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Narcotrafic : Sébastien Lecornu réclame un « changement d’échelle » dans la réponse de l’État",
+    "link": "https://www.valeursactuelles.com/politique/narcotrafic-sebastien-lecornu-reclame-un-changement-dechelle-dans-la-reponse-de-letat",
+    "summary": "« Le compte n’y est pas » a insisté Sébastien Lecornu. Le Premier ministre a appelé vendredi 29 mai à un « changement d’échelle de la réponse » des autorités... L’article Narcotrafic : Sébastien Lecornu réclame un « changement d’échelle » dans la réponse de l’État est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-05-30T14:09:55+00:00",
+    "authors": [
+      "6medias2"
+    ],
+    "categories": [
+      "Non classé",
+      "gouvernement",
+      "narcobanditisme",
+      "Narcotrafic",
+      "sébastien lecornu",
+      "trafic de drogue"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/narcotrafic-sebastien-lecornu-reclame-un-changement-dechelle-dans-la-reponse-de-letat",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:24.126912+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Gabriel Attal, lors de son premier discours de candidat à la présidentielle : « Mes adversaires, c’est La France insoumise et le Rassemblement national »",
+    "link": "https://www.lemonde.fr/politique/article/2026/05/30/gabriel-attal-lors-de-son-premier-discours-de-candidat-a-la-presidentielle-mes-adversaires-c-est-la-france-insoumise-et-le-rassemblement-national_6695266_823448.html",
+    "summary": "« Je laisse à d’autres le sang et les larmes. Moi, je vous promets l’action et l’espoir », a affirmé l’ex-premier ministre, lors de son premier meeting de campagne à Paris, au Parc des expositions de la porte de Versailles.",
+    "published": "2026-05-30T14:03:31+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/05/30/gabriel-attal-lors-de-son-premier-discours-de-candidat-a-la-presidentielle-mes-adversaires-c-est-la-france-insoumise-et-le-rassemblement-national_6695266_823448.html",
+    "image": "https://img.lemde.fr/2026/05/30/586/0/7034/3517/644/322/60/0/427d0aa_ftp-1-c6nt9gafwx9u-5181184-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200037+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Bourse : Les marchés y croient",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/bourse/bourse-les-marches-y-croient",
+    "summary": "​Cette fois-ci sera-t-elle la bonne ? Un énième espoir de paix entre les États-Unis et l’Iran redonne des couleurs aux marchés actions. La prudence demeure face à la versatilité de... L’article Bourse : Les marchés y croient est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-05-30T14:00:59+00:00",
+    "authors": [
+      "David Blanchard"
+    ],
+    "categories": [
+      "Non classé",
+      "détroit d'Ormuz",
+      "États-Unis",
+      "guerre en Iran",
+      "L'analyse du marché",
+      "pétrole"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/bourse/bourse-les-marches-y-croient",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:24.126957+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au Liban, des réfugiés palestiniens fuient le Sud : « Toute ma vie, je n’ai connu que des déplacements »",
+    "link": "https://www.lemonde.fr/international/article/2026/05/30/au-liban-des-refugies-palestiniens-fuient-le-sud-toute-ma-vie-je-n-ai-connu-que-des-deplacements_6695264_3210.html",
+    "summary": "Des ordres d’évacuation de l’armée israélienne, synonymes de bombardements à venir, englobent pour la première fois les trois camps palestiniens de la région de Tyr. Emis mercredi 27 mai, ils ont été renouvelés le lendemain, poussant des milliers de réfugiés palestiniens à fuir leur maison.",
+    "published": "2026-05-30T14:00:10+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/05/30/au-liban-des-refugies-palestiniens-fuient-le-sud-toute-ma-vie-je-n-ai-connu-que-des-deplacements_6695264_3210.html",
+    "image": "https://img.lemde.fr/2026/05/29/293/0/4000/2000/644/322/60/0/bbce030_upload-1-sighahh5mm4s-raf-bey-29-05-26-006.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.199976+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En images | Les hippopotames de Pablo Escobar, une attraction touristique devenue une véritable menace pour les habitants et la biodiversité colombienne",
+    "link": "https://www.lemonde.fr/planete/article/2026/05/30/en-images-les-hippopotames-de-pablo-escobar-une-attraction-touristique-devenue-une-veritable-menace-pour-les-habitants-et-la-biodiversite-colombienne_6695265_3244.html",
+    "summary": "Achetés dans les années 1980 par le célèbre narcotrafiquant, ces animaux ont proliféré. On compte désormais plus de 200 hippopotames en Colombie. Malgré les difficultés de cohabitation, ces pachydermes sont devenus une manne financière pour le tourisme.",
+    "published": "2026-05-30T14:00:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/05/30/en-images-les-hippopotames-de-pablo-escobar-une-attraction-touristique-devenue-une-veritable-menace-pour-les-habitants-et-la-biodiversite-colombienne_6695265_3244.html",
+    "image": "https://img.lemde.fr/2026/05/08/461/0/5500/2750/644/322/60/0/c4ba580_ftp-1-eyhsdekyrvad-2026-05-08t140309z-1731046236-rc2m2laniq2d-rtrmadp-3-colombia-hippopotamus-euthanasia.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200383+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Seine-Saint-Denis : un policier ouvre le feu sur un homme muni d’un couteau",
+    "link": "https://www.valeursactuelles.com/regions/ile-de-france/seine-saint-denis/na/faits-divers/seine-saint-denis-un-policier-ouvre-le-feu-sur-un-homme-muni-dun-couteau",
+    "summary": "Un policier de la brigade anticriminalité de Pantin a fait usage de son arme, samedi 30 mai, à Bobigny. Le fonctionnaire a ouvert le feu par deux fois pour neutraliser... L’article Seine-Saint-Denis : un policier ouvre le feu sur un homme muni d’un couteau est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-05-30T13:59:47+00:00",
+    "authors": [
+      "Adrien Renouard"
+    ],
+    "categories": [
+      "Non classé",
+      "police"
+    ],
+    "guid": "https://www.valeursactuelles.com/regions/ile-de-france/seine-saint-denis/na/faits-divers/seine-saint-denis-un-policier-ouvre-le-feu-sur-un-homme-muni-dun-couteau",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:24.126994+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev affirme avoir détruit un lanceur Iskander et deux avions russes Tu-142 à Taganrog",
+    "link": "https://www.lemonde.fr/international/live/2026/05/30/en-direct-guerre-en-ukraine-kiev-affirme-avoir-detruit-un-lanceur-iskander-et-deux-avions-russes-tu-142-a-taganrog_6693162_3210.html",
+    "summary": "L’attaque a été menée dans la nuit de jeudi à vendredi contre un aérodrome militaire à Taganrog, dans le sud de la Russie.",
+    "published": "2026-05-30T13:54:38+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/05/30/en-direct-guerre-en-ukraine-kiev-affirme-avoir-detruit-un-lanceur-iskander-et-deux-avions-russes-tu-142-a-taganrog_6693162_3210.html",
+    "image": "https://img.lemde.fr/2026/05/26/471/0/2951/1475/644/322/60/0/c780660_ftp-1-0plfayoow3gb-2026-05-26t081221z-2141475006-rc2fglasfpd7-rtrmadp-3-ukraine-crisis-frontline.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200173+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Au Sénégal, la folle semaine qui a déchiré le couple exécutif",
+    "link": "https://www.liberation.fr/international/afrique/au-senegal-la-folle-semaine-qui-a-dechire-le-couple-executif-20260530_OK6RN6ML5BG7HID4ULJ6PN6LS4/",
+    "summary": "Après des mois de tensions, le président Bassirou Diomaye Faye a limogé son Premier ministre, Ousmane Sonko. Dans la foulée, l’ancien allié s’est fait élire à la tête de l’Assemblée nationale, d’où il pourrait paralyser les institutions du pays.",
+    "published": "2026-05-30T13:48:00+00:00",
+    "authors": [
+      "Pierre Favennec"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/afrique/au-senegal-la-folle-semaine-qui-a-dechire-le-couple-executif-20260530_OK6RN6ML5BG7HID4ULJ6PN6LS4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.661025+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Sophie la girafe : le fabricant du célèbre jouet visé par une enquête pour « tromperie »",
+    "link": "https://www.valeursactuelles.com/economie/sophie-la-girafe-le-fabricant-du-celebre-jouet-vise-par-une-enquete-pour-tromperie",
+    "summary": "La célèbre Sophie la girafe, star des nouveau-nés autant que de leurs parents, est-elle réellement fabriquée en France ? La question se pose depuis qu’une enquête de Mediapart, publiée au début... L’article Sophie la girafe : le fabricant du célèbre jouet visé par une enquête pour « tromperie » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-05-30T13:43:31+00:00",
+    "authors": [
+      "6medias2"
+    ],
+    "categories": [
+      "Non classé",
+      "chine",
+      "Entreprise",
+      "fraude",
+      "made in France"
+    ],
+    "guid": "https://www.valeursactuelles.com/economie/sophie-la-girafe-le-fabricant-du-celebre-jouet-vise-par-une-enquete-pour-tromperie",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:24.127041+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Election présidentielle : Marine Tondelier dévoile ses mesures pour la santé environnementale",
+    "link": "https://www.liberation.fr/politique/elections/election-presidentielle-marine-tondelier-devoile-ses-mesures-pour-la-sante-environnementale-20260530_5A4EZA6ZBBB6JF7RY5HRVEBXYQ/",
+    "summary": "La patronne des Ecologistes et candidate à la présidentielle 2027 souhaite mettre la santé environnementale au centre de son projet.",
+    "published": "2026-05-30T13:42:05+00:00",
+    "authors": [
+      "LIBERATION,  AFP"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/election-presidentielle-marine-tondelier-devoile-ses-mesures-pour-la-sante-environnementale-20260530_5A4EZA6ZBBB6JF7RY5HRVEBXYQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.661048+00:00"
   },
   {
     "source": "Libération",
@@ -42,7 +540,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/le-directeur-operationnel-duber-met-un-coup-de-frein-sur-lia-20260530_JQLJYDK67NAUXNXGW6MEWCFXCU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589227+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661074+00:00"
   },
   {
     "source": "Libération",
@@ -57,7 +555,7 @@
     "guid": "https://www.liberation.fr/environnement/biodiversite/evenement-exceptionnel-une-baleine-echouee-sur-une-plage-de-lile-de-re-20260530_IH5RCQYRQBEWZPWMCQKA7546TY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589262+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661100+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -80,7 +578,7 @@
     "guid": "https://www.valeursactuelles.com/economie/smic-carburant-gaz-ce-qui-change-au-1er-juin-pour-les-francais",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.837917+00:00"
+    "fetched_at": "2026-05-30T16:05:24.127081+00:00"
   },
   {
     "source": "Mediapart",
@@ -98,7 +596,22 @@
     "guid": "1324675 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/29/260529-img-l-irak-pris-au-piege-de-la-confrontation-entre-l-iran-et-les-etats-unis.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523667+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242119+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Je serai fan de lui toute ma vie » : Moïse Kouame, une pépite bien entourée et très protégée à Roland-Garros",
+    "link": "https://www.lefigaro.fr/sports/tennis/roland-garros/je-serai-fan-de-lui-toute-ma-vie-moise-kouame-une-pepite-bien-entouree-et-tres-protegee-a-roland-garros-20260530",
+    "summary": "DECRYPTAGE - Le Français de 17 ans confirme sur la terre battue parisienne son potentiel avec un entourage déjà structuré pour le très haut niveau. Reste à stabiliser le coaching.",
+    "published": "2026-05-30T13:10:37+00:00",
+    "authors": [],
+    "categories": [
+      "Roland Garros"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/tennis/roland-garros/je-serai-fan-de-lui-toute-ma-vie-moise-kouame-une-pepite-bien-entouree-et-tres-protegee-a-roland-garros-20260530",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/05/29/2e4fb2bbf6df973c82942830af20c2cd805d41c23fa7172dc33e784149463769.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188914+00:00"
   },
   {
     "source": "Libération",
@@ -113,7 +626,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-trump-ne-signera-avec-liran-que-si-ses-lignes-rouges-sont-satisfaites-20260530_XX3FN3DHGJAQ3CYGPXN7XQONO4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589297+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661130+00:00"
   },
   {
     "source": "Le Figaro",
@@ -143,7 +656,7 @@
     "guid": "https://www.liberation.fr/sports/football/de-big-mac-a-idole-de-monterrey-andre-pierre-gignac-va-disputer-son-dernier-match-au-mexique-20260530_66GZYQR44BGHJHWEIOBLCSWG2M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589328+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661159+00:00"
   },
   {
     "source": "Mediapart",
@@ -161,7 +674,7 @@
     "guid": "1324540 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/28/260530-eclatsdesciences.png",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523704+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242154+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -183,7 +696,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/alexandre-del-valle-leurope-redevenue-un-champ-de-confrontation-strategique-entre-empires-rivaux",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.837971+00:00"
+    "fetched_at": "2026-05-30T16:05:24.127123+00:00"
   },
   {
     "source": "Le Monde",
@@ -239,7 +752,7 @@
     "guid": "https://www.liberation.fr/societe/humanisme-fait-personne-penseur-resistant-les-politiques-unanimes-apres-la-mort-dedgar-morin-20260530_Q7REK4ABWJBV7K6UYSYL3XTHWY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589356+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661185+00:00"
   },
   {
     "source": "Libération",
@@ -254,20 +767,20 @@
     "guid": "https://www.liberation.fr/culture/jeux-video/avec-zero-parades-zaum-ne-perd-pas-le-lore-20260530_5C6T74PTBJGK5MZPHXDLB2GG3I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589381+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661210+00:00"
   },
   {
     "source": "Le Monde",
     "title": "Deux trains Trenitalia bloqués toute la nuit en pleine voie entre l’Yonne et la Côte-d’Or",
     "link": "https://www.lemonde.fr/societe/article/2026/05/30/deux-trains-trenitalia-bloques-toute-la-nuit-en-pleine-voie-entre-l-yonne-et-la-cote-d-or_6695260_3224.html",
-    "summary": "Dans la nuit, des voyageurs ont raconté sur les réseaux sociaux avoir souffert d’une absence de climatisation dans le train et du manque d’eau, en pleine canicule.",
+    "summary": "Dans la nuit, des voyageurs du Milan-Paris et du Lyon-Paris ont raconté sur les réseaux sociaux avoir souffert d’une absence de climatisation dans le train et du manque d’eau, en pleine canicule.",
     "published": "2026-05-30T12:51:31+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/societe/article/2026/05/30/deux-trains-trenitalia-bloques-toute-la-nuit-en-pleine-voie-entre-l-yonne-et-la-cote-d-or_6695260_3224.html",
     "image": "https://img.lemde.fr/2023/08/28/900/0/6720/3360/644/322/60/0/ec96639_1693204651222-000-9uv8rp.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.514736+00:00"
+    "fetched_at": "2026-05-30T16:05:23.200197+00:00"
   },
   {
     "source": "Le Monde",
@@ -281,21 +794,6 @@
     "image": "https://img.lemde.fr/2026/04/02/550/0/6603/3301/644/322/60/0/223769a_ftp-1-ovwcwvyae01i-5664200-01-06.jpg",
     "full_text": null,
     "fetched_at": "2026-05-30T13:40:30.514713+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Roland-Garros, tournoi complètement fou, sait déjà qu’il sacrera un lauréat inédit",
-    "link": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-sens-dessus-dessous-le-doux-parfum-de-l-inedit-20260530",
-    "summary": "Le tableau masculin n’héberge plus, ce samedi matin, que deux joueurs du Top 10. Et pour la première fois de l’ère Open, aucun lauréat en Grand Chelem ne sera en 8es de finale des Internationaux de France.",
-    "published": "2026-05-30T12:45:21+00:00",
-    "authors": [],
-    "categories": [
-      "Roland Garros"
-    ],
-    "guid": "https://www.lefigaro.fr/sports/tennis/roland-garros/roland-garros-sens-dessus-dessous-le-doux-parfum-de-l-inedit-20260530",
-    "image": "https://i.f1g.fr/media/cms/orig/2026/05/30/82f3ee1701f15421a67ac3e3f82d434e2ce89f7be4ed96f76278dc4a77dbbd6c.JPG",
-    "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636146+00:00"
   },
   {
     "source": "Le Figaro",
@@ -343,7 +841,7 @@
     "guid": "1324785 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/29/260529-img-sante-publique-france.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523741+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242190+00:00"
   },
   {
     "source": "Le Monde",
@@ -375,16 +873,16 @@
   },
   {
     "source": "Le Monde",
-    "title": "EN DIRECT, Roland-Garros 2026 : Diane Parry, dernière Française en lice, empoche le premier set face à Amanda Anisimova, 6ᵉ mondiale",
+    "title": "EN DIRECT, Roland-Garros 2026 : Diane Parry écarte la 6ᵉ mondiale et se qualifie pour les 8ᵉˢ ; Moïse Kouamé empoche le premier set face à Alejandro Tabilo",
     "link": "https://www.lemonde.fr/sport/live/2026/05/30/en-direct-roland-garros-2026-diane-parry-derniere-francaise-en-lice-au-defi-d-amanda-anisimova_6695226_3242.html",
     "summary": "Roland-Garros se poursuit, samedi à Paris, avec la suite des rencontres du troisième tour du tournoi. Derniers Tricolores en lice, Moïse Kouamé et Diane Parry tenteront d’accéder à la seconde semaine.",
     "published": "2026-05-30T12:25:17+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/sport/live/2026/05/30/en-direct-roland-garros-2026-diane-parry-derniere-francaise-en-lice-au-defi-d-amanda-anisimova_6695226_3242.html",
-    "image": "https://img.lemde.fr/2026/05/30/450/0/3723/1861/644/322/60/0/fb94b13_ftp-1-u9je95kwyckb-5180821-01-06.jpg",
+    "image": "https://img.lemde.fr/2026/05/30/413/0/8256/4128/644/322/60/0/920ce64_ftp-1-554fovjelsr5-124f0c0edb384a6bbfc726ea543830d7-0-a02aef829dce4bfd838a33b33f565fd5.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.514467+00:00"
+    "fetched_at": "2026-05-30T16:05:23.200006+00:00"
   },
   {
     "source": "Libération",
@@ -399,7 +897,7 @@
     "guid": "https://www.liberation.fr/politique/delocalises-en-lozere-les-sages-du-conseil-constitutionnel-font-passer-leurs-messages-20260530_HRC4MJIKAVD6DAHS7YRHUNACOE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589413+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661239+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -420,7 +918,7 @@
     "guid": "https://www.valeursactuelles.com/politique/pour-michel-platini-kylian-mbappe-devrait-davantage-se-taire-sur-la-politique",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.838023+00:00"
+    "fetched_at": "2026-05-30T16:05:24.127166+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -442,7 +940,33 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/art-de-vivre/le-jambon-de-luxeuil-un-fume-comtois",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.838067+00:00"
+    "fetched_at": "2026-05-30T16:05:24.127210+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, PSG-Arsenal : un doublé pour le PSG ou un premier sacre pour Arsenal ? La finale de la Ligue des champions commence",
+    "link": "https://www.lemonde.fr/sport/live/2026/05/30/en-direct-psg-arsenal-suivez-la-finale-de-la-ligue-des-champions_6695252_3242.html",
+    "summary": "Après sa première victoire dans la compétition, en 2025, le PSG peut réaliser le doublé, samedi. Pour cela, les hommes de Luis Enrique doivent battre les Gunners, récemment sacrés champions d’Angleterre.",
+    "published": "2026-05-30T12:00:20+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/live/2026/05/30/en-direct-psg-arsenal-suivez-la-finale-de-la-ligue-des-champions_6695252_3242.html",
+    "image": "https://img.lemde.fr/2026/05/30/684/0/8210/4105/644/322/60/0/09eabfc_ftp-1-qys7oxaq1f7q-499b948b3e4c46e28198bd5c41afe4aa-0-33bd32a651dd4efc855b1abed2fc7bb7.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.199938+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Corse : le parquet européen enquête sur des soupçons de fraudes massives aux aides d’après-pandémie de Covid-19",
+    "link": "https://www.lemonde.fr/societe/article/2026/05/30/corse-le-parquet-europeen-enquete-sur-des-soupcons-de-fraudes-massives-aux-aides-d-apres-pandemie-de-covid-19_6695251_3224.html",
+    "summary": "Des perquisitions ont été menées mercredi 27 et jeudi 28 mai, notamment à la Collectivité de Corse. La justice européenne soupçonne des conflits d’intérêts dans l’attribution des aides aux entreprises en difficulté à la suite de la pandémie.",
+    "published": "2026-05-30T12:00:16+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/05/30/corse-le-parquet-europeen-enquete-sur-des-soupcons-de-fraudes-massives-aux-aides-d-apres-pandemie-de-covid-19_6695251_3224.html",
+    "image": "https://img.lemde.fr/2026/05/04/377/0/4527/2263/644/322/60/0/c21264f_ftp-1-ga26rhak2law-5940563-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.200225+00:00"
   },
   {
     "source": "Le Monde",
@@ -483,7 +1007,7 @@
     "guid": "https://www.liberation.fr/culture/livres/top-des-ventes-de-livres-fred-vargas-siri-hustvedt-et-virginie-grimaldi-au-sommet-20260530_ONBTJCZ37NBOPDZFANDMRMECVU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589438+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661262+00:00"
   },
   {
     "source": "Libération",
@@ -498,7 +1022,7 @@
     "guid": "https://www.liberation.fr/economie/transports/bourgogne-deux-trains-trenitalia-bloques-toute-la-nuit-en-pleine-voie-20260530_AT2DFXMKMBHVJE6S2U3INPPHUY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589464+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661315+00:00"
   },
   {
     "source": "Libération",
@@ -513,7 +1037,22 @@
     "guid": "https://www.liberation.fr/international/europe/en-grece-le-pari-politique-et-rassembleur-dalexis-tsipras-avec-son-nouveau-parti-elas-20260530_V2ZUTH3NAJFRDOAR5FN5ILOZ5E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589492+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661346+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "À 17 ans, Moïse Kouame brille à Roland-Garros sans abandonner l’école",
+    "link": "https://etudiant.lefigaro.fr/article/lycee/a-17-ans-moise-kouame-brille-a-roland-garros-sans-abandonner-l-ecole-20260530/",
+    "summary": "Le prodige de Roland Garros, suit une scolarité particulière qui lui permet de poursuivre sa carrière.",
+    "published": "2026-05-30T11:29:13+00:00",
+    "authors": [],
+    "categories": [
+      "Actus du lycée"
+    ],
+    "guid": "https://etudiant.lefigaro.fr/article/lycee/a-17-ans-moise-kouame-brille-a-roland-garros-sans-abandonner-l-ecole-20260530/",
+    "image": "https://i.f1g.fr/media/cms/3000x1998_crop/2026/05/28/ae4e2aad230bbe47bf2beef4f8e875eb8a9199ddf09587b85d0d01a88f64d298.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.188939+00:00"
   },
   {
     "source": "Libération",
@@ -528,7 +1067,7 @@
     "guid": "https://www.liberation.fr/sports/jeux-olympiques/gachis-historique-nice-rayee-de-la-carte-olympique-2030-lyon-va-recuperer-le-pole-glace-20260530_MJIXMMGT3RAONERGY2MLMBYNNM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589518+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661377+00:00"
   },
   {
     "source": "Libération",
@@ -543,7 +1082,7 @@
     "guid": "https://www.liberation.fr/forums/la-route-du-rock-furies-rio-loco-dix-festivals-a-la-loupe-20260530_5CPPF7HALVBZHBK2WN6QYNDCCA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589541+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661401+00:00"
   },
   {
     "source": "Libération",
@@ -558,7 +1097,7 @@
     "guid": "https://www.liberation.fr/culture/livres/son-ciel-de-cendres-de-valerie-cibot-linconnu-du-lac-20260530_NRRTRHBEYJC3RCSP4LHQCAIMUE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589563+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661422+00:00"
   },
   {
     "source": "Libération",
@@ -573,7 +1112,7 @@
     "guid": "https://www.liberation.fr/culture/musique/blanche-sabbah-a-mes-funerailles-si-les-gens-dansent-un-peu-ce-sera-cool-20260530_42MNMBLEOFDL3BTDHLVV6VKQLM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589586+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661453+00:00"
   },
   {
     "source": "Le Figaro",
@@ -606,7 +1145,7 @@
     "guid": "1324839 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/30/260530-img-politique-des-drogues-en-colombie-le-systeme-prohibitionniste-n-pas-fonctionne-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523775+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242221+00:00"
   },
   {
     "source": "Mediapart",
@@ -624,7 +1163,7 @@
     "guid": "1324736 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/30/260530-img-malgre-la-paix-totale-promise-par-gustavo-petro-la-colombie-subit-une-nouvelle-vague-de-violences-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523807+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242253+00:00"
   },
   {
     "source": "Le Figaro",
@@ -676,7 +1215,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/au-canada-un-homme-accuse-davoir-vendu-des-centaines-de-kits-de-suicide-en-ligne-plaide-coupable-20260530_HHR4XEHPWJDSTOIBCQOJFEP25M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589620+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661486+00:00"
   },
   {
     "source": "Libération",
@@ -691,7 +1230,7 @@
     "guid": "https://www.liberation.fr/lifestyle/intimites/dans-les-metavers-on-peut-se-caresser-sans-peur-detre-maltraite-au-japon-le-boom-des-papouilles-virtuelles-20260530_MQXICC6PJ5F5PEURTZNBORYKTE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589663+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661514+00:00"
   },
   {
     "source": "Libération",
@@ -706,7 +1245,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-roland-garros-glucksmann-pic-de-chaleur-20260530_TSX4TQDQYRCBREQQPHG45NTW6I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589682+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661534+00:00"
   },
   {
     "source": "Le Monde",
@@ -772,7 +1311,7 @@
     "guid": "1324743 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/29/proces-ns-vignette-youtube-appel11.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523838+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242307+00:00"
   },
   {
     "source": "Le Figaro",
@@ -802,7 +1341,7 @@
     "guid": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-je-mappelle-20260530_VDM36LPWGNFPFD4XJ374GYEEP4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589704+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661555+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -872,7 +1411,7 @@
     "guid": "https://www.liberation.fr/environnement/biodiversite/timmy-la-baleine-echouee-retrouvee-morte-au-danemark-est-deplacee-pour-etre-autopsiee-20260530_HXEKT5SKFZEYVPIWYZ3ESGQKY4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589730+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661581+00:00"
   },
   {
     "source": "Libération",
@@ -887,7 +1426,7 @@
     "guid": "https://www.liberation.fr/politique/presidentielle-comment-melenchon-et-glucksmann-veulent-ecraser-la-concurrence-a-gauche-20260530_TGQQ75RKIZBBHLD37RA7STCXQA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589759+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661608+00:00"
   },
   {
     "source": "Le Figaro",
@@ -917,7 +1456,7 @@
     "guid": "https://www.liberation.fr/checknews/donnees-personnelles-faut-il-sinquieter-dutiq-le-nouveau-tracker-publicitaire-qui-fait-polemique-20260530_YJOAP4WC2RAUZLQHIO6IIYYERI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589785+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661635+00:00"
   },
   {
     "source": "Le Monde",
@@ -945,7 +1484,7 @@
     "guid": "https://www.liberation.fr/lifestyle/mode/des-americains-a-paris-ici-il-y-a-une-vraie-fierte-de-lindustrie-de-la-mode-20260530_SNQVYREST5G33BEJZQN7NXBD3Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589813+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661665+00:00"
   },
   {
     "source": "Le Figaro",
@@ -975,7 +1514,7 @@
     "guid": "https://www.liberation.fr/international/europe/vols-suspendus-a-laeroport-de-munich-apres-un-reperage-de-drone-20260530_CCTSY2NZGVDT3AN525AUTHG4TA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589837+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661690+00:00"
   },
   {
     "source": "Libération",
@@ -990,7 +1529,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/prisons-88-654-detenus-en-france-au-1er-mai-un-nouveau-record-20260530_ALYA7DCEPBEGLH4XPJCHPQLOX4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589859+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661713+00:00"
   },
   {
     "source": "Mediapart",
@@ -1008,7 +1547,7 @@
     "guid": "1324751 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/29/260529-img-canicule-ostracisation-personnes-racisees-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523864+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242338+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1086,7 +1625,7 @@
     "guid": "https://www.liberation.fr/lifestyle/gastronomie/les-gens-viennent-autant-pour-la-cuisine-que-pour-nous-les-restos-prennent-la-cle-des-champs-20260530_CPGPFVVEBZGGZJBY5TXZN5NKRQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589886+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661741+00:00"
   },
   {
     "source": "Libération",
@@ -1101,7 +1640,7 @@
     "guid": "https://www.liberation.fr/culture/bd/space-montaigne-les-dessins-de-stress-de-marion-montaigne-20260530_A2EOIE4H3FGIVKJWUFPLBYYA2U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589910+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661766+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1137,7 +1676,7 @@
     "guid": "https://www.liberation.fr/societe/education/baccalaureat-et-langues-regionales-imbroglio-autour-dune-epreuve-en-basque-des-cette-annee-20260530_QSFFML3WFVGUZAZR5BEZE3WUWA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589939+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661797+00:00"
   },
   {
     "source": "Libération",
@@ -1152,7 +1691,7 @@
     "guid": "https://www.liberation.fr/sports/football/psg-arsenal-derriere-son-virevoltant-georgien-kvaratskhelia-les-parisiens-en-quete-dun-double-en-ligue-des-champions-20260530_6XIJVQ3YFZELVD34FQDORMUKRI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589968+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661827+00:00"
   },
   {
     "source": "Le Monde",
@@ -1168,19 +1707,17 @@
     "fetched_at": "2026-05-30T10:47:52.078937+00:00"
   },
   {
-    "source": "Le Figaro",
-    "title": "« Je serai fan de lui toute ma vie » : Moïse Kouame, une pépite bien entourée et très protégée à Roland-Garros",
-    "link": "https://www.lefigaro.fr/sports/tennis/roland-garros/je-serai-fan-de-lui-toute-ma-vie-moise-kouame-une-pepite-bien-entouree-et-tres-protegee-a-roland-garros-20260530",
-    "summary": "DECRYPTAGE - Le Français de 17 ans confirme sur la terre battue parisienne son potentiel avec un entourage déjà structuré pour le très haut niveau. Reste à stabiliser le coaching.",
-    "published": "2026-05-30T08:15:00+00:00",
+    "source": "Le Monde",
+    "title": "Mort d’Edgar Morin : « Résistant penseur », « militant et affranchi », « théoricien de la complexité »… Les hommages du monde politique se multiplient",
+    "link": "https://www.lemonde.fr/disparitions/article/2026/05/30/mort-d-edgar-morin-resistant-penseur-engage-et-ouvert-theoricien-de-la-complexite-les-hommages-du-monde-politique-se-multiplient_6695228_3382.html",
+    "summary": "Le sociologue et philosophe, figure majeure de la vie intellectuelle française, est mort vendredi, à l’âge de 104 ans, a annoncé son épouse, samedi.",
+    "published": "2026-05-30T08:20:26+00:00",
     "authors": [],
-    "categories": [
-      "Roland Garros"
-    ],
-    "guid": "https://www.lefigaro.fr/sports/tennis/roland-garros/je-serai-fan-de-lui-toute-ma-vie-moise-kouame-une-pepite-bien-entouree-et-tres-protegee-a-roland-garros-20260530",
-    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/05/29/2e4fb2bbf6df973c82942830af20c2cd805d41c23fa7172dc33e784149463769.jpg",
+    "categories": [],
+    "guid": "https://www.lemonde.fr/disparitions/article/2026/05/30/mort-d-edgar-morin-resistant-penseur-engage-et-ouvert-theoricien-de-la-complexite-les-hommages-du-monde-politique-se-multiplient_6695228_3382.html",
+    "image": "https://img.lemde.fr/2026/05/30/456/0/5472/2736/644/322/60/0/e7c03c7_ftp-1-srcvurvly7sz-5179765-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T10:47:52.037739+00:00"
+    "fetched_at": "2026-05-30T16:05:23.200065+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1210,7 +1747,7 @@
     "guid": "https://www.liberation.fr/culture/musique/thibaut-pez-ange-jean-louis-murat-autour-de-lucie-coup-dur-folamour-leon-phal-la-playlist-du-cahier-musique-de-liberation-20260530_OJPRXGGZYVFP7HVVJ3CBG3HUS4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.589992+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661853+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1225,7 +1762,7 @@
     "guid": "https://www.lefigaro.fr/conjoncture/psg-arsenal-plusieurs-stations-de-metro-fermees-ce-samedi-a-partir-de-17-h-a-paris-20260530",
     "image": "https://i.f1g.fr/media/cms/orig/2026/05/30/2d26448f28aeb9eb599660ec4947837cf277701df73c21e20fee098486eb6a02.JPG",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636299+00:00"
+    "fetched_at": "2026-05-30T16:05:23.188855+00:00"
   },
   {
     "source": "Libération",
@@ -1240,7 +1777,7 @@
     "guid": "https://www.liberation.fr/societe/avant-il-y-avait-des-chaises-avec-des-choufs-tous-les-50-metres-aux-gresilles-a-dijon-le-trafic-de-drogue-marche-a-lombre-20260530_LHDJ2LRI3VFTJP4HCZGJJLQ6NM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590027+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661885+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1275,7 +1812,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/face-a-la-precarite-etudiante-reformons-le-systeme-boursier-20260530_33L7IOS6QJG3DFLIHZRHQGYBFY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590052+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661909+00:00"
   },
   {
     "source": "Le Monde",
@@ -1349,7 +1886,7 @@
     "guid": "https://www.lemonde.fr/m-le-mag/article/2026/05/30/les-ronchons-des-bonnes-notes-si-tout-le-monde-a-18-ca-n-a-aucun-interet_6695222_4500055.html",
     "image": "https://img.lemde.fr/2026/05/27/584/0/7008/3504/644/322/60/0/a95d12c_upload-1-1vnnrrmr1l1b-hl-nguyonnet-2828498.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.514556+00:00"
+    "fetched_at": "2026-05-30T16:05:23.200331+00:00"
   },
   {
     "source": "Le Monde",
@@ -1392,7 +1929,7 @@
     "guid": "https://www.liberation.fr/international/amerique/aux-etats-unis-lidee-dune-rupture-avec-israel-commence-a-setendre-20260530_AUVBFAQMLRAJJJTVXW36VBL5UQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590081+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661939+00:00"
   },
   {
     "source": "Libération",
@@ -1407,7 +1944,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/mort-dedgar-morin-eternel-resistant-20260530_I6BIKF3QSZHANMDF6YYIOG4CYE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590106+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661967+00:00"
   },
   {
     "source": "Libération",
@@ -1422,7 +1959,7 @@
     "guid": "https://www.liberation.fr/societe/les-enfants-abandonnes-au-portugal-par-leur-mere-confies-a-des-membres-de-leur-famille-en-france-20260530_JW3QCDDMCZCALCTOWJ4ZFE353A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590131+00:00"
+    "fetched_at": "2026-05-30T16:05:23.661992+00:00"
   },
   {
     "source": "Libération",
@@ -1437,7 +1974,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/des-que-jai-decouvert-edgar-morin-je-me-suis-senti-moins-seul-20210708_JS7IOV3BONGUDNMWRCO44KRN3Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590156+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662018+00:00"
   },
   {
     "source": "Libération",
@@ -1452,7 +1989,7 @@
     "guid": "https://www.liberation.fr/sports/tennis/roland-garros-2026-tout-sauf-abattues-les-ukrainiennes-en-force-sur-la-terre-battue-20260530_HTO3BX5KEVGTTKN65HXDVC7RSU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590184+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662044+00:00"
   },
   {
     "source": "Le Monde",
@@ -1523,7 +2060,7 @@
     "guid": "https://www.liberation.fr/sports/tennis/roland-garros-2026-pour-les-sportifs-de-haut-niveau-le-plus-important-cest-de-sacclimater-a-la-chaleur-20260530_FHSKAOG5JJDMZO7UXX2MEYMSIQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590214+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662073+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1553,22 +2090,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/quand-liberation-rencontrait-edgar-morin-20260530_GPKRERHOCNHU7GANO6AXY2C2AU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590239+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "La vague de chaleur régresse en France, Paris et la petite couronne toujours en vigilance orange",
-    "link": "https://www.liberation.fr/environnement/climat/la-vague-de-chaleur-regresse-en-france-paris-et-la-petite-couronne-toujours-en-vigilance-orange-20260530_KHUWTLASCRDS7PT722BSI6N5NA/",
-    "summary": "En parallèle, une quarantaine de départements sont ce samedi 30 mai sous vigilance jaune pour orages de plus ou moins courte durée tandis que 24 départements restent en vigilance jaune canicule.",
-    "published": "2026-05-30T07:05:23+00:00",
-    "authors": [
-      "LIBERATION,  AFP"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/environnement/climat/la-vague-de-chaleur-regresse-en-france-paris-et-la-petite-couronne-toujours-en-vigilance-orange-20260530_KHUWTLASCRDS7PT722BSI6N5NA/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590264+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662099+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1618,7 +2140,7 @@
     "guid": "https://www.liberation.fr/international/amerique/donald-trump-est-toujours-en-excellente-sante-mais-doit-perdre-du-poids-selon-son-medecin-20260530_46PTMUJPIJHLPD3MBXAJNSCWW4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590291+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662125+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1648,7 +2170,7 @@
     "guid": "https://www.liberation.fr/environnement/proteger-la-biodiversite-de-ce-lieu-magique-est-dans-notre-adn-en-bateau-avec-les-gardiens-du-banc-darguin-20260530_OQHDNVTKDJBVDF65JDTO2W5KV4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590321+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662154+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1678,7 +2200,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/mort-dedgar-morin-adieu-vieux-maitre-par-jean-viard-20260530_G26RY62635ACREEW5PR6EKJDSQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590349+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662178+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1708,7 +2230,7 @@
     "guid": "https://www.liberation.fr/societe/sante/traitements-contre-le-cancer-la-chine-est-en-train-de-devenir-le-leader-mondial-du-medicament-20260530_AIG46JYQVRD4RCEFEBY53FHWTI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.590381+00:00"
+    "fetched_at": "2026-05-30T16:05:23.662209+00:00"
   },
   {
     "source": "Mediapart",
@@ -1726,7 +2248,7 @@
     "guid": "1324551 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/29/260529-img-sociologue-et-philosophe-edgar-morin-fut-aussi-journaliste-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523902+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242365+00:00"
   },
   {
     "source": "Libération",
@@ -1875,7 +2397,7 @@
     "guid": "https://madame.lefigaro.fr/bien-etre/psycho/j-ai-peur-que-la-reponse-soit-non-tdah-hpi-ces-adultes-qui-se-cherchent-une-neuroatypie-a-tout-prix-20260530",
     "image": "https://i.f1g.fr/media/cms/1900x1200_crop/2026/05/29/e4a7c8dc880cf2b4b58e738cc40ece95a62fa6a964036fa4d85f29d3f2ca79aa.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636081+00:00"
+    "fetched_at": "2026-05-30T16:05:23.189186+00:00"
   },
   {
     "source": "Libération",
@@ -1941,7 +2463,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/ce-sera-notre-secret-dans-l-affaire-patrick-bruel-autopsie-de-la-procedure-des-masseuses-qui-rattrape-le-chanteur-20260530",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/05/29/85f96936dea55789af345df8c02b993a08a46f5a6124948034648d27b1bf68c7.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636355+00:00"
+    "fetched_at": "2026-05-30T16:05:23.189046+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1972,21 +2494,6 @@
     "image": "https://i.f1g.fr/media/cms/1807x1016_crop/2026/05/29/3e5e813487337332b944266bbe9d208298983e48b64b2801586d04d7e7e274f7.jpg",
     "full_text": null,
     "fetched_at": "2026-05-30T10:47:52.037945+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "«Il pourrait me dire qu’on va aller sur la lune, je le crois» : Luis Enrique, le « gourou » qui a révolutionné le PSG",
-    "link": "https://www.lefigaro.fr/sports/football/ligue-des-champions/il-pourrait-me-dire-qu-on-va-aller-sur-la-lune-je-le-crois-luis-enrique-le-gourou-qui-a-revolutionne-le-psg-20260530",
-    "summary": "PORTRAIT – Passionné, possédé, envoûtant, le technicien espagnol de 56 ans a modelé le club de la capitale à son image pour l’amener jusqu’aux plus hauts sommets.",
-    "published": "2026-05-30T04:45:00+00:00",
-    "authors": [],
-    "categories": [
-      "Ligue des champions"
-    ],
-    "guid": "https://www.lefigaro.fr/sports/football/ligue-des-champions/il-pourrait-me-dire-qu-on-va-aller-sur-la-lune-je-le-crois-luis-enrique-le-gourou-qui-a-revolutionne-le-psg-20260530",
-    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/05/29/64e2619465947826f989e6ff66653d2976eb20df83bc5f4a668b629396910d19.jpg",
-    "full_text": null,
-    "fetched_at": "2026-05-30T08:29:17.228870+00:00"
   },
   {
     "source": "Libération",
@@ -2716,7 +3223,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/05/29/la-justice-francaise-etend-ses-investigations-sur-la-disparition-des-millions-d-actions-hermes_6694817_3234.html",
     "image": "https://img.lemde.fr/2026/05/29/275/0/4992/2496/644/322/60/0/524c67d_upload-1-pjxew3m90m4y-krech260518a-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.514531+00:00"
+    "fetched_at": "2026-05-30T16:05:23.200150+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2767,7 +3274,7 @@
     "guid": "https://www.lefigaro.fr/musique/apres-son-depart-des-enfoires-patrick-bruel-annule-ses-concerts-dans-les-festivals-cet-ete-20260529",
     "image": "https://i.f1g.fr/media/cms/orig/2026/05/29/1f23b9e6b20a876016f82304c14e961bef08cf3b3b4bb3c8c7e31c4efc8a7120.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636381+00:00"
+    "fetched_at": "2026-05-30T16:05:23.189074+00:00"
   },
   {
     "source": "Libération",
@@ -2885,7 +3392,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/psg-arsenal-pour-eviter-le-chaos-les-forces-de-l-ordre-sur-le-qui-vive-face-a-une-deferlante-de-supporteurs-20260529",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/05/29/3022b8582035aac1d086c50d8d56e5ef8eb7c56f04a9f30047edf58c81c25827.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.636326+00:00"
+    "fetched_at": "2026-05-30T16:05:23.188832+00:00"
   },
   {
     "source": "Mediapart",
@@ -2903,7 +3410,7 @@
     "guid": "1324780 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/29/260529-img-bruno-lasserre.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523935+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242397+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2936,7 +3443,7 @@
     "guid": "1324766 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/05/29/260529-img-face-aux-violences-contre-les-activistes-de-la-flottille-pour-gaza-le.jpg",
     "full_text": null,
-    "fetched_at": "2026-05-30T13:40:30.523964+00:00"
+    "fetched_at": "2026-05-30T16:05:23.242426+00:00"
   },
   {
     "source": "Mediapart",
@@ -3733,6 +4240,21 @@
     "fetched_at": "2026-05-30T03:30:17.966347+00:00"
   },
   {
+    "source": "Le Figaro",
+    "title": "Juliette Binoche regrette l’utilisation « maladroite » du mot « fasciste » dans la tribune anti-Bolloré, qu’elle a signée",
+    "link": "https://www.lefigaro.fr/cinema/juliette-binoche-regrette-l-utilisation-maladroite-du-mot-fasciste-dans-la-tribune-anti-bollore-qu-elle-a-signee-20260529",
+    "summary": "L’actrice a déclaré au micro de France Culture que la publication de la pétition à l’adresse du principal actionnaire de Canal+ était « une expression de grande inquiétude » des professionnels du monde du cinéma.",
+    "published": "2026-05-29T15:10:10+00:00",
+    "authors": [],
+    "categories": [
+      "Cinéma"
+    ],
+    "guid": "https://www.lefigaro.fr/cinema/juliette-binoche-regrette-l-utilisation-maladroite-du-mot-fasciste-dans-la-tribune-anti-bollore-qu-elle-a-signee-20260529",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/05/29/6a1e2c1f621ce69e2d3131cc49d40345e88d2b69c3ec38553e8ef7b31725c6af.JPG",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.189158+00:00"
+  },
+  {
     "source": "Valeurs actuelles",
     "title": "Suspecté de conflit d’intérêts, le député Charles Alloncle blanchi par le déontologue de l’Assemblée nationale",
     "link": "https://www.valeursactuelles.com/politique/suspecte-de-conflit-dinterets-le-depute-charles-alloncle-blanchi-par-le-deontologue-de-lassemblee-nationale",
@@ -3832,6 +4354,21 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-05-30T03:30:17.966371+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Tribune anti-Bolloré : Maxime Saada dément toute «liste noire» de la part de Canal+",
+    "link": "https://www.lefigaro.fr/medias/tribune-anti-bollore-maxime-saada-dement-toute-liste-noire-de-la-part-de-canal-20260529",
+    "summary": "Le président du directoire du groupe audiovisuel dont Vincent Bolloré est l’actionnaire de référence a toutefois affirmé qu’une «nouvelle dimension» serait prise en compte à l’avenir dans l’examen des projets de films et de séries soutenus par Canal+.",
+    "published": "2026-05-29T14:58:44+00:00",
+    "authors": [],
+    "categories": [
+      "Médias & Publicité"
+    ],
+    "guid": "https://www.lefigaro.fr/medias/tribune-anti-bollore-maxime-saada-dement-toute-liste-noire-de-la-part-de-canal-20260529",
+    "image": "https://i.f1g.fr/media/cms/3000x1948_crop/2026/05/29/f7f8d274c51e4c73a72887cd26b08fe6e949b628fd71f44da9d4c79f8fbc5a0b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-05-30T16:05:23.189131+00:00"
   },
   {
     "source": "Le Monde",
