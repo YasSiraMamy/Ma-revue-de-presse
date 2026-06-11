@@ -1,6 +1,972 @@
 [
   {
     "source": "Le Figaro",
+    "title": "EN DIRECT - Coupe du monde 2026 : le Mexique enflamme le mythique stade Azteca pour lancer le Mondial, l’Afrique du Sud réduite à dix",
+    "link": "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608241/mexique-afrique-du-sud",
+    "summary": "Pour la troisième fois de l’histoire après 1970 et 1986, le mythique stade de Mexico accueille, ce jeudi, le premier des 104 matches du tournoi, un Mexique-Afrique du Sud en forme de remake du match d’ouverture du Mondial 2010.",
+    "published": "2026-06-11T20:22:38+00:00",
+    "authors": [],
+    "categories": [
+      "Coupe du monde"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/live/coupe-du-monde/2025/2608241/mexique-afrique-du-sud",
+    "image": "https://i.f1g.fr/media/cms/3000x1960_crop/2026/06/11/3b5b3cfd15063726e2d6383abeca1ce9caa5f8cea105768a9737d25e755562d4.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592285+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Coupe du monde 2026 : premier entraînement à Bentley pour les Bleus, le Mexique parfaitement lancé, Shakira a enflammé la cérémonie d’ouverture",
+    "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-infantino-deroule-le-tapis-rouge-a-trump-les-bleus-sont-arrives-a-boston-une-grande-fete-d-ouverture-attendue-au-mexique-20260611",
+    "summary": "Le Mondial 2026 s’ouvre en grande pompe, ce jeudi, par une cérémonie d’ouverture particulièrement attendue au Mexique. Suivez cette première journée sur le continent nord-américain.",
+    "published": "2026-06-11T20:21:17+00:00",
+    "authors": [],
+    "categories": [
+      "Coupe du monde"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-infantino-deroule-le-tapis-rouge-a-trump-les-bleus-sont-arrives-a-boston-une-grande-fete-d-ouverture-attendue-au-mexique-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/06/11/5a6966d13305bf10e55b2464e979fbca49bf2367f9a8346cdb3c7cb3127072d6.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592318+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT - Coupe du monde, jour 1 : le Mexique mène face à l’Afrique du Sud en match d’ouverture",
+    "link": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-1-les-bleus-ont-pris-leurs-quartiers-a-boston-la-colere-sociale-se-fait-entendre-a-mexico-20260611_AXHDB76U2RGNZKRMQ3K3NCE3E4/",
+    "summary": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
+    "published": "2026-06-11T20:17:00+00:00",
+    "authors": [
+      "Sylvain Mouillard, Antoine  Rondel, Louis Moulin, Reuters ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-1-les-bleus-ont-pris-leurs-quartiers-a-boston-la-colere-sociale-se-fait-entendre-a-mexico-20260611_AXHDB76U2RGNZKRMQ3K3NCE3E4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.418891+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le gouvernement donne le coup d’envoi à onze projets de parcs éoliens en mer",
+    "link": "https://www.lefigaro.fr/societes/le-gouvernement-donne-le-coup-d-envoi-a-onze-projets-de-parcs-eoliens-en-mer-20260611",
+    "summary": "Une étape importante est franchie ce jeudi avec la publication du cahier des charges de l’appel d’offres portant sur onze projets, répartis sur l’ensemble des façades maritimes.",
+    "published": "2026-06-11T20:16:29+00:00",
+    "authors": [],
+    "categories": [
+      "Entreprises"
+    ],
+    "guid": "https://www.lefigaro.fr/societes/le-gouvernement-donne-le-coup-d-envoi-a-onze-projets-de-parcs-eoliens-en-mer-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/06/11/80b698b7bc796e6adc6869a540bb2f3a142eb76b84a447e00c7d0d9275a48cc1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592642+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Coupe du monde 2026 : affrontements entre manifestants et police à l'extérieur du stade Azteca de Mexico",
+    "link": "https://www.lefigaro.fr/international/coupe-du-monde-2026-affrontements-entre-manifestants-et-police-a-l-exterieur-du-stade-azteca-de-mexico-20260611",
+    "summary": "Les manifestants exigent justice pour les personnes disparues, un fléau dans un pays marqué par les violences liées au trafic de drogue.",
+    "published": "2026-06-11T20:15:13+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/coupe-du-monde-2026-affrontements-entre-manifestants-et-police-a-l-exterieur-du-stade-azteca-de-mexico-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/11/00fba22ce203717f3eac54a83aa3abb70ec12f31d4976433d730a73f04807d09.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592343+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Un premier traité mondial protégeant les travailleurs des plateformes numériques en voie d’adoption",
+    "link": "https://www.liberation.fr/economie/economie-numerique/un-premier-traite-mondial-protegeant-les-travailleurs-des-plateformes-numeriques-en-voie-dadoption-20260611_MWC6D563TVFGNLSNW3ARWYXS5U/",
+    "summary": "Un texte sur le «travail décent dans l’économie des plateformes» devrait être finalisé le vendredi 12 juin par l’Organisation internationale du travail. Près de 435 millions de personnes pourraient être concernées.",
+    "published": "2026-06-11T20:03:55+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/economie-numerique/un-premier-traite-mondial-protegeant-les-travailleurs-des-plateformes-numeriques-en-voie-dadoption-20260611_MWC6D563TVFGNLSNW3ARWYXS5U/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.418934+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Guerre au Moyen-Orient : Trump évoque une signature d’accord avec l’Iran, «peut-être en Europe», dans les prochains jours",
+    "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-le-detroit-d-ormuz-20260611",
+    "summary": "Le président américain avait annoncé plus tôt vouloir frapper «très fort» l’Iran et prendre le contrôle de l’île de Kharg avant de se raviser et d’évoquer la possible «signature» d’un accord dont les «derniers points» seraient validés.",
+    "published": "2026-06-11T19:54:13+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-le-detroit-d-ormuz-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x2031_crop/2026/06/11/fda9fe6e1150cac5f6c876c08aae3507e067d8dbb367d6a12804ef7f699a2043.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592395+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le journaliste français détenu en Algérie Christophe Gleizes «va bien», assure le ministre des Affaires étrangères",
+    "link": "https://www.lefigaro.fr/flash-actu/le-journaliste-francais-detenu-en-algerie-christophe-gleizes-va-bien-assure-le-ministre-des-affaires-etrangeres-20260611",
+    "summary": "Christophe Gleizes a été arrêté en mai 2024 en Algérie dans le cadre d’un reportage sur un club de football kabyle. D’abord placé sous contrôle judiciaire, il a été incarcéré en juin 2025, après sa condamnation pour «apologie du terrorisme» à sept ans de prison.",
+    "published": "2026-06-11T19:53:59+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-actu/le-journaliste-francais-detenu-en-algerie-christophe-gleizes-va-bien-assure-le-ministre-des-affaires-etrangeres-20260611",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/06/11/b25902beac419f8d696f5b2b4e0dbb0926a70054e77ba2dba1c902c9f855d39c.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592619+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Meurtre de Jonathan Coulom en 2004 : Martin Ney fait appel",
+    "link": "https://www.liberation.fr/societe/police-justice/meurtre-de-jonathan-coulom-en-2004-martin-ney-fait-appel-20260611_BFFHMKZAEFAPRIGYBGF3MJ2TLM/",
+    "summary": "Condamné à la réclusion criminelle à perpétuité pour le meurtre de Jonathan, 10 ans, le pédocriminel allemand a interjeté appel ce jeudi 11 juin.",
+    "published": "2026-06-11T19:49:21+00:00",
+    "authors": [
+      "Anaïs Condomines"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/meurtre-de-jonathan-coulom-en-2004-martin-ney-fait-appel-20260611_BFFHMKZAEFAPRIGYBGF3MJ2TLM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.418976+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Guerre au Moyen-Orient : un «très bon accord» a été trouvé avec l’Iran, annonce Donald Trump",
+    "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-ormuz-20260611_LFXIPFP4S5GORFCIYU3KT56OT4/",
+    "summary": "Le président américain est revenu ce jeudi soir sur ses menaces de frappes contre l’Iran, après des discussions «au plus haut niveau» et la possible signature d’un accord ce week-end en Europe.",
+    "published": "2026-06-11T19:45:22+00:00",
+    "authors": [
+      "Romain Métairie, Charles Delouche-Bertolasi, Service Photo, AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-ormuz-20260611_LFXIPFP4S5GORFCIYU3KT56OT4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419006+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le journaliste Christophe Gleizes, emprisonné en Algérie, « va bien, malgré l’épreuve très douloureuse qu’il traverse », assure Jean-Noël Barrot",
+    "link": "https://www.lemonde.fr/international/article/2026/06/11/le-journaliste-christophe-gleizes-emprisonne-en-algerie-va-bien-malgre-l-epreuve-tres-douloureuse-qu-il-traverse-assure-jean-noel-barrot_6700798_3210.html",
+    "summary": "« Je souhaite qu’il puisse retrouver sa place dans le monde de la presse et dans le monde du sport », a expliqué le ministre des affaires étrangères au « 20 heures » de France 2.",
+    "published": "2026-06-11T19:35:02+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/06/11/le-journaliste-christophe-gleizes-emprisonne-en-algerie-va-bien-malgre-l-epreuve-tres-douloureuse-qu-il-traverse-assure-jean-noel-barrot_6700798_3210.html",
+    "image": "https://img.lemde.fr/2025/12/17/52/0/2536/1268/644/322/60/0/03c4ae4_ftp-1-tox1ziikn5v4-5703649-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247265+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Une société israélienne « probablement à l’origine » de la campagne de désinformation ayant visé LFI pendant les municipales, selon Viginum",
+    "link": "https://www.lemonde.fr/pixels/article/2026/06/11/une-societe-israelienne-probablement-a-l-origine-de-la-campagne-de-desinformation-ayant-vise-lfi-pendant-les-municipales-selon-viginum_6700797_4408996.html",
+    "summary": "L’organe gouvernemental de veille sur la désinformation est revenu jeudi sur l’opération d’ingérence ayant visé La France insoumise, révélée en mars par « Le Monde ». Pour le premier ministre, Sébastien Lecornu, elle préfigure « des menaces lourdes sur l’élection présidentielle ».",
+    "published": "2026-06-11T19:30:48+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/pixels/article/2026/06/11/une-societe-israelienne-probablement-a-l-origine-de-la-campagne-de-desinformation-ayant-vise-lfi-pendant-les-municipales-selon-viginum_6700797_4408996.html",
+    "image": "https://img.lemde.fr/2026/06/11/7/0/3906/1953/644/322/60/0/4b88da3_ftp-1-vqxeg62e9e8b-5288596-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247074+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«D’une importance majeure pour comprendre leur évolution» : un cimetière de près de 500 baleines découvert au fond de l’océan Indien",
+    "link": "https://www.liberation.fr/environnement/biodiversite/dune-importance-majeure-pour-comprendre-leur-evolution-un-cimetiere-de-pres-de-500-baleines-decouvert-au-fond-de-locean-indien-20260611_RRZZYUVNABAIHGLGVRZX7WJXUE/",
+    "summary": "Dans une étude publiée mercredi 10 juin dans «Nature», des scientifiques révèlent avoir découvert des squelettes de baleines à 7 000 mètres de profondeur à l’ouest de l’Australie. Certains sont vieux de 5,3 millions d’années.",
+    "published": "2026-06-11T19:26:51+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/biodiversite/dune-importance-majeure-pour-comprendre-leur-evolution-un-cimetiere-de-pres-de-500-baleines-decouvert-au-fond-de-locean-indien-20260611_RRZZYUVNABAIHGLGVRZX7WJXUE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419037+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Selon la Cour des comptes, l’envoi des migrants en régions mérite d’être «optimisé»",
+    "link": "https://www.liberation.fr/societe/immigration/selon-la-cour-des-comptes-lenvoi-des-migrants-en-regions-merite-detre-optimise-20260611_B5I5UI7T2ZGLTKSBJH2HYUW3P4/",
+    "summary": "L’Ile-de-France enregistre 46 % des demandes d’asile. Or, sa capacité d’hébergement représente 19 % du dispositif national d’accueil.",
+    "published": "2026-06-11T19:20:40+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/immigration/selon-la-cour-des-comptes-lenvoi-des-migrants-en-regions-merite-detre-optimise-20260611_B5I5UI7T2ZGLTKSBJH2HYUW3P4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419063+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Liste noire aérienne : quelles sont les nouvelles compagnies interdites de vol vers l’UE ?",
+    "link": "https://www.lefigaro.fr/voyages/guides/liste-noire-aerienne-quelles-sont-les-nouvelles-compagnies-interdites-de-vol-vers-l-ue-20260611",
+    "summary": "Les compagnies aériennes kirghizes ne sont plus interdites de vol vers l’Union européenne, une décision qui ouvre la voie à de nouvelles liaisons directes et soutient les ambitions touristiques du pays d’Asie centrale.",
+    "published": "2026-06-11T19:18:10+00:00",
+    "authors": [],
+    "categories": [
+      "Guides"
+    ],
+    "guid": "https://www.lefigaro.fr/voyages/guides/liste-noire-aerienne-quelles-sont-les-nouvelles-compagnies-interdites-de-vol-vers-l-ue-20260611",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/06/11/c4b7f7501c7472890d5f16403dbced9afc7cef1f0679fbb8ff982bd65c979580.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592591+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Donald Trump renonce à l’escalade avec l’Iran et annonce un accord imminent",
+    "link": "https://www.lefigaro.fr/international/donald-trump-renonce-a-l-escalade-avec-l-iran-20260611",
+    "summary": "DÉCRYPTAGE - Quelques heures après avoir promis de nouvelles attaques, le président américain a fait marche arrière en invoquant des pourparlers en cours.",
+    "published": "2026-06-11T19:00:45+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/donald-trump-renonce-a-l-escalade-avec-l-iran-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/11/7e9330d7f314d16322545a33ecf673b5ff8be1dd4af0030ba52339aec975041b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592417+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "José Mourinho nommé entraîneur du Real Madrid jusqu’en juin 2029",
+    "link": "https://www.liberation.fr/sports/football/jose-mourinho-nomme-entraineur-du-real-madrid-jusquen-juin-2029-20260611_YZCNA7ZY2NGPZINHKUXMYEQ3JQ/",
+    "summary": "Le coach portugais, surnommé le «Special One », avait déjà entraîné le club entre 2010 et 2013.",
+    "published": "2026-06-11T18:58:08+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/football/jose-mourinho-nomme-entraineur-du-real-madrid-jusquen-juin-2029-20260611_YZCNA7ZY2NGPZINHKUXMYEQ3JQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419087+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Ingérences étrangères : Sébastien Lecornu met en garde contre des «menaces lourdes sur l’élection présidentielle»",
+    "link": "https://www.liberation.fr/politique/elections/ingerences-etrangeres-lecornu-met-en-garde-contre-des-menaces-lourdes-sur-lelection-presidentielle-20260611_OFWV2TAJS5HJPA3B5QZPQH6P74/",
+    "summary": "Le Premier ministre a reçu jeudi 11 juin les forces politiques à Matignon puis, devant la presse, annoncé qu’il ferait bientôt des propositions pour renforcer l’arsenal législatif afin d’empêcher toute perturbation des prochains scrutins.",
+    "published": "2026-06-11T18:48:50+00:00",
+    "authors": [
+      "Amaelle Guiton"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/ingerences-etrangeres-lecornu-met-en-garde-contre-des-menaces-lourdes-sur-lelection-presidentielle-20260611_OFWV2TAJS5HJPA3B5QZPQH6P74/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419118+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, Mexique - Afrique du Sud : Sphephelo Shitole reçoit le premier carton rouge de cette Coupe du monde après une faute sur le Mexicain Brian Gutierrez",
+    "link": "https://www.lemonde.fr/sport/live/2026/06/11/en-direct-mexique-afrique-du-sud-un-public-en-fete-un-stade-azteca-mythique-la-coupe-du-monde-2026-peut-commencer_6700760_3242.html",
+    "summary": "Pays organisateur avec les Etats-Unis et le Canada, le Mexique lance, jeudi, la Coupe du monde 2026 de football à Mexico. Il affronte l’Afrique du Sud, comme lors du match d’ouverture du Mondial 2010.",
+    "published": "2026-06-11T18:40:38+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/live/2026/06/11/en-direct-mexique-afrique-du-sud-un-public-en-fete-un-stade-azteca-mythique-la-coupe-du-monde-2026-peut-commencer_6700760_3242.html",
+    "image": "https://img.lemde.fr/2026/06/11/109/0/1917/958/644/322/60/0/ebe5001_ftp-1-pbonal3vidjv-2026-06-11t195346z-1217334050-up1em6b1j9kna-rtrmadp-3-soccer-worldcup-mex-zaf.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.246987+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Affaire Lyhanna : une de ses petites-filles témoigne sur BFM des viols qu’elle aurait subis de la part du père de Jérôme B.",
+    "link": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-une-de-ses-petites-filles-temoigne-sur-bfm-des-viols-quelle-aurait-subis-de-la-part-du-pere-de-jerome-b-20260611_XSNTM3ITWJGJFAN37AVMLKSI5A/",
+    "summary": "Prescyllia assure avoir été violée par Joël B. entre ses 10 et 13 ans. Une plainte déposée en 2013 s’est conclue par une ordonnance de non-lieu. Sa demi-sœur, Maëva, accuse aussi son grand-père.",
+    "published": "2026-06-11T18:35:52+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-une-de-ses-petites-filles-temoigne-sur-bfm-des-viols-quelle-aurait-subis-de-la-part-du-pere-de-jerome-b-20260611_XSNTM3ITWJGJFAN37AVMLKSI5A/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419148+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "A Perpignan, l’employé municipal qui arborait un tatouage nazi a été licencié",
+    "link": "https://www.lemonde.fr/politique/article/2026/06/11/a-perpignan-l-employe-municipal-qui-arborait-un-tatouage-nazi-a-ete-licencie_6700792_823448.html",
+    "summary": "Ancien conseiller municipal, l’agent contractuel portait de façon visible sur son avant-bras une inscription faisant référence à l’Allemagne nazie. Il a été licencié sans plus de commentaires de la part de la mairie Rassemblement national.",
+    "published": "2026-06-11T18:32:11+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/06/11/a-perpignan-l-employe-municipal-qui-arborait-un-tatouage-nazi-a-ete-licencie_6700792_823448.html",
+    "image": "https://img.lemde.fr/2026/06/11/794/0/6720/3360/644/322/60/0/9d9e769_upload-1-zjtzbpa72tc0-000-1u08n5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247230+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Emeutes racistes en Irlande du Nord : «Leur colère pointe une mauvaise cible»",
+    "link": "https://www.liberation.fr/international/europe/emeutes-racistes-en-irlande-du-nord-leur-colere-pointe-une-mauvaise-cible-20260611_B52Y3ICHNBCAJMJB3DCZNCCREU/",
+    "summary": "Une attaque au couteau perpétrée par un réfugié soudanais et instrumentalisée par l’extrême droite a provoqué deux nuits de violences anti-immigrés à Belfast. Les habitants reprennent leur souffle mais craignent de voir ce genre d’événements se reproduire. Les associations, elles, dénoncent une campagne d’intimidation et de terreur.",
+    "published": "2026-06-11T18:28:23+00:00",
+    "authors": [
+      "Juliette Démas"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/emeutes-racistes-en-irlande-du-nord-leur-colere-pointe-une-mauvaise-cible-20260611_B52Y3ICHNBCAJMJB3DCZNCCREU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419181+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Selon le Conseil d’orientation des retraites, l’immigration a des effets positifs sur l’équilibre du régime",
+    "link": "https://www.liberation.fr/economie/social/selon-le-conseil-dorientation-des-retraites-limmigration-a-des-effets-positifs-sur-lequilibre-du-regime-20260611_US64CIQBQZAU7LCBSTC46OO66Y/",
+    "summary": "Aidées par le doublement du solde migratoire en 2026, les prévisions décrivent un déficit du système stabilisé jusqu’en 2045. Avec l’évolution plus lente de l’espérance de vie, la hausse du nombre d’immigrés devrait même compenser le coût du décalage de la réforme des retraites de 2023.",
+    "published": "2026-06-11T18:25:20+00:00",
+    "authors": [
+      "Margo Magny"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/social/selon-le-conseil-dorientation-des-retraites-limmigration-a-des-effets-positifs-sur-lequilibre-du-regime-20260611_US64CIQBQZAU7LCBSTC46OO66Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419218+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Non à l’«artwashing» du centre Pompidou avec le groupe Hanwha, fournisseur d’armes à Israël",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/non-a-lartwashing-du-centre-pompidou-avec-le-groupe-hanwha-fournisseur-darmes-a-israel-20260611_MLIVDTX3GZCSPBGEVD3JYNPLZI/",
+    "summary": "Interpellant les «amis» du musée réunis ce lundi 11 juin, un collectif d’artistes et d’intellectuels, dont Taysir Batniji, Judith Butler et Adèle Haenel, dénonce le partenariat noué avec la fondation du groupe coréen lié aux entreprises d’armement israéliennes.",
+    "published": "2026-06-11T18:01:38+00:00",
+    "authors": [
+      "Un collectif d'artistes  et d'intellectuels"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/non-a-lartwashing-du-centre-pompidou-avec-le-groupe-hanwha-fournisseur-darmes-a-israel-20260611_MLIVDTX3GZCSPBGEVD3JYNPLZI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419247+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Une étude révèle l’ampleur insoupçonnée de réseaux souterrains indispensables au vivant",
+    "link": "https://www.mediapart.fr/journal/ecologie/110626/embargo-jeudi-1106-20h-une-etude-revele-l-ampleur-insoupconnee-de-reseaux-souterrains-indispensables-au",
+    "summary": "Une équipe de recherche publie jeudi 11 juin dans la revue «Science» la première carte mondiale des réseaux de champignons mycorhiziens. Ces êtres vivants qui interagissent avec les plantes présentent des atouts considérables pour affronter les catastrophes écologiques en cours.",
+    "published": "2026-06-11T18:01:15+00:00",
+    "authors": [
+      "Amélie Poinssot"
+    ],
+    "categories": [
+      "Écologie",
+      "Biodiversité, champignons, Climat, Sciences"
+    ],
+    "guid": "1327388 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-une-etude-revele-l-ampleur-insoupconnee-de-reseaux-souterrains-indispensables-au-02.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.256102+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Une première carte mondiale des réseaux de champignons du sol, essentiels à la vie des plantes",
+    "link": "https://www.lemonde.fr/sciences/article/2026/06/11/une-premiere-carte-mondiale-des-reseaux-de-champignons-du-sol-essentiels-a-la-vie-des-plantes_6700790_1650684.html",
+    "summary": "La revue « Science » publie, jeudi 11 juin, une cartographie planétaire de la densité des filaments mycorhiziens qui colonisent les racines de 70 % des espèces végétales terrestres, établissant avec elles des symbioses vitales. Un appel à préserver la bonne santé de ces réseaux fongiques.",
+    "published": "2026-06-11T18:00:13+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sciences/article/2026/06/11/une-premiere-carte-mondiale-des-reseaux-de-champignons-du-sol-essentiels-a-la-vie-des-plantes_6700790_1650684.html",
+    "image": "https://img.lemde.fr/2026/06/11/373/0/1840/920/644/322/60/0/a7616fc_upload-1-xfuo4kl335xx-330-spore-12-01-63x-191121-color-coded-projection-19.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247172+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Mobilité stratégique : la défense de la France ne doit pas se piloter depuis Bruxelles !",
+    "link": "https://www.valeursactuelles.com/societe/mobilite-strategique-la-defense-de-la-france-ne-doit-pas-se-piloter-depuis-bruxelles",
+    "summary": "Le général de Gaulle rappelait qu’« une politique de défense est nationale ou elle n’est pas ». Cette vérité demeure plus actuelle que jamais. Depuis plusieurs mois, la Commission européenne... L’article Mobilité stratégique : la défense de la France ne doit pas se piloter depuis Bruxelles ! est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-06-11T18:00:06+00:00",
+    "authors": [
+      "Maxime Coupeau"
+    ],
+    "categories": [
+      "Non classé",
+      "armée française",
+      "commission européenne",
+      "défense",
+      "France",
+      "Ursula von der Leyen"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/mobilite-strategique-la-defense-de-la-france-ne-doit-pas-se-piloter-depuis-bruxelles",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.507082+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au Royaume-Uni, face à l’incapacité de Keir Starmer à fixer son plan d’investissement militaire, le ministre de la défense démissionne",
+    "link": "https://www.lemonde.fr/international/article/2026/06/11/au-royaume-uni-face-a-l-incapacite-de-keir-starmer-a-fixer-son-plan-d-investissement-militaire-le-ministre-de-la-defense-demissionne_6700788_3210.html",
+    "summary": "John Healey reproche notamment au premier ministre travailliste de ne pas avoir été « en mesure d’engager les ressources dont la nation a besoin pour se défendre face à la montée des menaces ».",
+    "published": "2026-06-11T17:58:23+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/06/11/au-royaume-uni-face-a-l-incapacite-de-keir-starmer-a-fixer-son-plan-d-investissement-militaire-le-ministre-de-la-defense-demissionne_6700788_3210.html",
+    "image": "https://img.lemde.fr/2026/06/11/145/0/5500/2750/644/322/60/0/9f06be8_ftp-1-rkibc4vjv1e2-2026-06-11t111902z-1408748163-rc2llla3yt96-rtrmadp-3-britain-politics-healey.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247357+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Affaire Lyhanna : Jérôme B. avait été signalé par un organisme américain de lutte contre la pédocriminalité internationale",
+    "link": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-jerome-b-avait-ete-signale-par-un-organisme-americain-de-lutte-contre-la-pedocriminalite-internationale-20260611_W2LGMOG73FCSPCFZFGDMVVQK3E/",
+    "summary": "Le principal suspect du meurtre de la collégienne de 11 ans avait fait l’objet d’alertes transmises aux autorités françaises par le NCMEC, sans que cela ne donne lieu à l’ouverture d’une enquête, révèle ce jeudi 11 juin «le Monde».",
+    "published": "2026-06-11T17:50:39+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-jerome-b-avait-ete-signale-par-un-organisme-americain-de-lutte-contre-la-pedocriminalite-internationale-20260611_W2LGMOG73FCSPCFZFGDMVVQK3E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419278+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Malgré la croissance qui ralentit, la Banque centrale européenne augmente ses taux d’intérêt",
+    "link": "https://www.lemonde.fr/economie/article/2026/06/11/malgre-la-croissance-qui-ralentit-la-banque-centrale-europeenne-augmente-ses-taux-d-interet_6700787_3234.html",
+    "summary": "Le taux directeur passe de 2 % à 2,25 %, la BCE s’inquiétant d’une inflation qui restera forte jusqu’au deuxième semestre 2027",
+    "published": "2026-06-11T17:50:28+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/06/11/malgre-la-croissance-qui-ralentit-la-banque-centrale-europeenne-augmente-ses-taux-d-interet_6700787_3234.html",
+    "image": "https://img.lemde.fr/2026/06/11/467/0/5500/2750/644/322/60/0/ab4045b_ftp-1-ypgouupw2rct-2026-06-11t134048z-604688761-rc2prlan9wjp-rtrmadp-3-ecb-policy.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247380+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Après les insoumis, les communistes obtiennent la nationalisation d’ArcelorMittal à l’Assemblée",
+    "link": "https://www.mediapart.fr/journal/politique/110626/apres-les-insoumis-les-communistes-obtiennent-la-nationalisation-d-arcelormittal-l-assemblee",
+    "summary": "Adopté jeudi par les députés, le texte doit désormais revenir au Sénat et être mis à l’ordre du jour par le gouvernement. En attendant cet horizon incertain, la gauche engrange une victoire politique notable à un an de la présidentielle.",
+    "published": "2026-06-11T17:47:55+00:00",
+    "authors": [
+      "Pauline Graulle"
+    ],
+    "categories": [
+      "Politique",
+      "ArcelorMittal, communistes, industrie, Jean-Luc Mélenchon, La France insoumise, Parlement"
+    ],
+    "guid": "1327482 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-arcelormittal.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.256141+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Présidentielle : Sébastien Lecornu lance l’alerte contre les menaces d’ingérences étrangères",
+    "link": "https://www.lefigaro.fr/politique/presidentielle-sebastien-lecornu-lance-l-alerte-contre-les-menaces-d-ingerences-etrangeres-20260611",
+    "summary": "DÉCRYPTAGE - À l’occasion d’une conférence de presse, le premier ministre a présenté jeudi une série de pistes pour endiguer ce risque, qui peut concerner « l’ensemble de la classe politique ».",
+    "published": "2026-06-11T17:42:18+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/presidentielle-sebastien-lecornu-lance-l-alerte-contre-les-menaces-d-ingerences-etrangeres-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/11/dd96ae60a6e887665d329f74fb46a94f9d5d147c0fe0011b9821f8f32d4f2bf9.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592566+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Avion de combat du futur : entre la France et l’Allemagne, bisbille repetita",
+    "link": "https://www.liberation.fr/economie/avion-de-combat-du-futur-entre-la-france-et-lallemagne-bisbille-repetita-20260611_I3IVJOGSBVFINNYCXVIYUBYEZ4/",
+    "summary": "L’arrêt du «système de combat aérien du futur» (Scaf) franco-allemand est un camouflet pour la France. Airbus va développer son appareil avec des industriels allemands. Mais Dassault a la capacité de produire un «super Rafale» boosté aux drones et à l’IA.",
+    "published": "2026-06-11T17:40:50+00:00",
+    "authors": [
+      "Jean-Christophe Féraud"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/avion-de-combat-du-futur-entre-la-france-et-lallemagne-bisbille-repetita-20260611_I3IVJOGSBVFINNYCXVIYUBYEZ4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419307+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Vous n’achetez pas une entreprise. Vous achetez un rêve» : avec l’entrée de SpaceX à Wall Street, Elon Musk défie les lois de la gravité financière",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/vous-n-achetez-pas-une-entreprise-vous-achetez-un-reve-avec-l-entree-de-spacex-a-wall-street-elon-musk-defie-les-lois-de-la-gravite-financiere-20260611",
+    "summary": "RÉCIT - Valorisation hors norme, gouvernance atypique, appel aux particuliers… Elon Musk a mis toutes les chances de son côté pour réussir la plus importante opération de l’histoire de Wall Street, en levant jusqu’à 75 milliards de dollars",
+    "published": "2026-06-11T17:34:44+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/vous-n-achetez-pas-une-entreprise-vous-achetez-un-reve-avec-l-entree-de-spacex-a-wall-street-elon-musk-defie-les-lois-de-la-gravite-financiere-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/11/e626f05b9fd2960b499e8cc2c6562688c2bfb91232e2fbe9137bd4c960955fcf.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592498+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre au Moyen-Orient : le chef de l’armée iranienne menace d’une guerre « plus étendue » en cas de nouvelles attaques américaines",
+    "link": "https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-au-moyen-orient-le-chef-de-l-armee-iranienne-menace-d-une-guerre-plus-etendue-en-cas-de-nouvelles-attaques-americaines_6697888_3210.html",
+    "summary": "« Si les Etats-Unis tentent une nouvelle fois de mener des attaques contre l’Iran héroïque, ils s’exposeront à une riposte plus sévère qu’auparavant », a déclaré dans un communiqué le général Ali Abdollahi Aliabadi.",
+    "published": "2026-06-11T17:33:33+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-au-moyen-orient-le-chef-de-l-armee-iranienne-menace-d-une-guerre-plus-etendue-en-cas-de-nouvelles-attaques-americaines_6697888_3210.html",
+    "image": "https://img.lemde.fr/2026/06/10/4/0/5640/2820/644/322/60/0/1ed9d5b_ftp-1-udsliseyv0kz-2026-06-10t071204z-717777840-rc2tqla179no-rtrmadp-3-iran-crisis.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247108+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Déchets plastiques, le grand enfumage",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/dechets-plastiques-le-grand-enfumage-20260611_RZ7MLNDSMJDE3LZZQYO743TNOA/",
+    "summary": "Subventions exorbitantes, pollution de l’air, risques pour les riverains… les nouveaux incinérateurs CSR, vantés comme vertueux, sont en réalité un scandale économique, écologique et sanitaire.",
+    "published": "2026-06-11T17:33:10+00:00",
+    "authors": [
+      "Hamdam Mostafavi"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/editorial/dechets-plastiques-le-grand-enfumage-20260611_RZ7MLNDSMJDE3LZZQYO743TNOA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419330+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Les recettes fiscales liées au tabac et à l’alcool sont en nette baisse",
+    "link": "https://www.lemonde.fr/politique/article/2026/06/11/les-recettes-fiscales-liees-au-tabac-et-a-l-alcool-sont-en-nette-baisse-depuis-des-annees_6700785_823448.html",
+    "summary": "Les taxes sur l’alcool et le tabac ont rapporté seulement 3 milliards d’euros au premier trimestre de 2026, en raison du recul de la consommation.",
+    "published": "2026-06-11T17:31:42+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/06/11/les-recettes-fiscales-liees-au-tabac-et-a-l-alcool-sont-en-nette-baisse-depuis-des-annees_6700785_823448.html",
+    "image": "https://img.lemde.fr/2026/06/11/946/0/5974/2987/644/322/60/0/461575c_upload-1-thbusukjtj03-kew2026003g0205-8395.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247432+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Saint-Etienne accueille (enfin) la Galerie nationale du design",
+    "link": "https://www.liberation.fr/lifestyle/design/saint-etienne-accueille-enfin-la-galerie-nationale-du-design-20260611_A6ZJHUM5H5FUTJ6VWWTXRZ52BU/",
+    "summary": "Inaugurée mercredi 10 juin, la nouvelle institution culturelle doit permettre de valoriser la discipline, souvent mal comprise par le grand public. Et confirme la centralité de l’ancienne cité industrielle pour le design en France.",
+    "published": "2026-06-11T17:28:29+00:00",
+    "authors": [
+      "Florian Bardou"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/design/saint-etienne-accueille-enfin-la-galerie-nationale-du-design-20260611_A6ZJHUM5H5FUTJ6VWWTXRZ52BU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419357+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Affaire Lyhanna : les Français chargent la justice et Gérald Darmanin, mais n’appellent pas à sa démission",
+    "link": "https://www.lefigaro.fr/politique/affaire-lyhanna-les-francais-pointent-la-responsabilite-de-darmanin-mais-n-appellent-pas-a-sa-demission-20260611",
+    "summary": "SONDAGE - Selon notre sondage Odoxa-Backbone pour Le Figaro, seuls 39 % des Français souhaitent voir démissionner le garde des Sceaux alors qu’après les Insoumis, les patrons du PS et du RN l’ont sommé de quitter ses fonctions.",
+    "published": "2026-06-11T17:27:34+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/affaire-lyhanna-les-francais-pointent-la-responsabilite-de-darmanin-mais-n-appellent-pas-a-sa-demission-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/11/77b1fd436fb5efa3701be0acb63293a31cd6232062154a52e0aa09d9043ac899.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592669+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Radio France épinglée par l’Arcom, mort du skipper Charlie Dalin, coup d’envoi de la Coupe du monde de foot… L’actu de ce jeudi 11 juin",
+    "link": "https://www.liberation.fr/international/europe/radio-france-epinglee-par-larcom-mort-du-skipper-charlie-dalin-coup-denvoi-de-la-coupe-du-monde-de-foot-lactu-de-ce-jeudi-11-juin-20260611_6S2VLVINYFG7HFPLZ6R6QKSCBE/",
+    "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du jeudi 11 juin 2026.",
+    "published": "2026-06-11T17:20:49+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/radio-france-epinglee-par-larcom-mort-du-skipper-charlie-dalin-coup-denvoi-de-la-coupe-du-monde-de-foot-lactu-de-ce-jeudi-11-juin-20260611_6S2VLVINYFG7HFPLZ6R6QKSCBE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419382+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Israël empêche l’entrée en Cisjordanie d’une journaliste de RFI et accroît la pression sur la presse étrangère",
+    "link": "https://www.lemonde.fr/international/article/2026/06/11/israel-empeche-l-entree-en-cisjordanie-d-une-journaliste-de-rfi-et-accroit-la-pression-sur-la-presse-etrangere_6700784_3210.html",
+    "summary": "L’expulsion d’Alice Froussard, journaliste pour Radio France internationale (RFI), intervient dans un contexte de violences graves dans le territoire occupé et de fermeture totale de la bande de Gaza à la presse internationale, où plus de 260 journalistes palestiniens ont été tués depuis les massacres du 7 octobre 2023.",
+    "published": "2026-06-11T17:17:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/06/11/israel-empeche-l-entree-en-cisjordanie-d-une-journaliste-de-rfi-et-accroit-la-pression-sur-la-presse-etrangere_6700784_3210.html",
+    "image": "https://img.lemde.fr/2026/06/07/855/0/6000/3000/644/322/60/0/bc5f0a2_ftp-1-bugiogyohdgj-5249659-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247142+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’éditorial de Jacques-Olivier Martin : «L’Amérique invente toujours le futur»",
+    "link": "https://www.lefigaro.fr/vox/economie/l-editorial-de-jacques-olivier-martin-l-amerique-invente-toujours-le-futur-20260611",
+    "summary": "SpaceX, OpenAI... Pendant que l’Amérique innove, que fait l’Europe ?",
+    "published": "2026-06-11T17:15:37+00:00",
+    "authors": [],
+    "categories": [
+      "Vox Économie"
+    ],
+    "guid": "https://www.lefigaro.fr/vox/economie/l-editorial-de-jacques-olivier-martin-l-amerique-invente-toujours-le-futur-20260611",
+    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/06/11/dec26754d1ff4548661e509c10e0377224b85da99fa130a0cea44ffd4df5ff71.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592517+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Les États-Unis soupçonnés de crime de guerre en Iran",
+    "link": "https://www.mediapart.fr/journal/international/110626/les-etats-unis-soupconnes-de-crime-de-guerre-en-iran",
+    "summary": "Les États-Unis semblent avoir coupé l’accès à l’eau de plusieurs dizaines de milliers de personnes lors d’une frappe sur deux réservoirs, le 9 juin. Les faits pourraient être qualifiés de crime de guerre. «Les États-Unis frapperont l’Iran TRÈS FORT ce soir», menace à nouveau Donald Trump jeudi.",
+    "published": "2026-06-11T17:13:15+00:00",
+    "authors": [
+      "Justine Brabant"
+    ],
+    "categories": [
+      "International",
+      "crime de guerre, Défense et diplomatie, États-Unis, Iran"
+    ],
+    "guid": "1327463 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-les-etats-unis-ont-bombarde-des-reservoirs-d-eau-potable-dans-le-sud-de-l-iran-promettent-de-frappe.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.256175+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "«On est assis sur un tapis de bombes»: des magistrats noyés sous les procédures témoignent",
+    "link": "https://www.mediapart.fr/journal/france/110626/est-assis-sur-un-tapis-de-bombes-des-magistrats-noyes-sous-les-procedures-temoignent",
+    "summary": "Alors que Gérald Darmanin s’absout de toute responsabilité dans l’affaire Lyhanna et cible des fautes individuelles dans la chaîne judiciaire, «Mediapart» donne la parole à des magistrats qui croulent sous les dossiers et les injonctions contradictoires.",
+    "published": "2026-06-11T17:06:47+00:00",
+    "authors": [
+      "Michel Deléan, Mathilde Mathieu"
+    ],
+    "categories": [
+      "France",
+      "Gérald Darmanin, Justice, Meurtre de Lyhanna"
+    ],
+    "guid": "1327412 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-paroles-de-magistrats-noyes-sous-les-procedures-et-les-consignes-urgentes.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.256206+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Violences sexuelles sur les enfants: «Il n’y a pas un dossier aujourd’hui qui est traité correctement»",
+    "link": "https://www.mediapart.fr/journal/france/110626/violences-sexuelles-sur-les-enfants-il-n-y-pas-un-dossier-aujourd-hui-qui-est-traite-correctement",
+    "summary": "L’affaire Lyhanna devient nationale et suscite la colère. Gérald Darmanin pointe les magistrats. À qui la faute? Notre émission spéciale avec la comédienne et militante Andréa Bescond, la magistrate Manon Lefebvre, et une mère qui a vécu, jusqu’au drame, un parcours judiciaire similaire dans une affaire d’inceste.",
+    "published": "2026-06-11T17:03:16+00:00",
+    "authors": [
+      "À l’air libre"
+    ],
+    "categories": [
+      "À l’air libre",
+      "Enfants, femmes, Gérald Darmanin, Justice, Lyhanna, violences sexistes et sexuelles"
+    ],
+    "guid": "1327408 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-lyhanna-faillite-systeme-versiona.png",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.256240+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Gérer son épargne avec l’IA : la tendance qui monte",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/economie/gerer-son-epargne-avec-lia-la-tendance-qui-monte",
+    "summary": "Longtemps réservé aux professionnels de la finance et aux investisseurs aguerris, le recours à l’intelligence artificielle pour orienter ses choix d’épargne progresse désormais chez les particuliers. Encore minoritaire tout de... L’article Gérer son épargne avec l’IA : la tendance qui monte est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-06-11T17:00:09+00:00",
+    "authors": [
+      "Stagiaire VA"
+    ],
+    "categories": [
+      "Non classé",
+      "amf",
+      "économie",
+      "épargne",
+      "intelligence artificielle",
+      "statistiques"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/gerer-son-epargne-avec-lia-la-tendance-qui-monte",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.507140+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Expulsion d’Alice Froussard : Israël continue d’entraver le travail des journalistes étrangers",
+    "link": "https://www.liberation.fr/international/moyen-orient/expulsion-dalice-froussard-israel-continue-dentraver-le-travail-des-journalistes-etrangers-20260611_ZUJHTYGGBVCNNPNULEZKCE7PJ4/",
+    "summary": "Envoyée spéciale de RFI pour un reportage en Cisjordanie, la reporter indépendante s’est vu refuser ce jeudi 11 juin l’entrée sur le territoire israélien. Une nouvelle étape pour le gouvernement, qui honnit la presse internationale.",
+    "published": "2026-06-11T16:58:01+00:00",
+    "authors": [
+      "Antoine Galindo"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/expulsion-dalice-froussard-israel-continue-dentraver-le-travail-des-journalistes-etrangers-20260611_ZUJHTYGGBVCNNPNULEZKCE7PJ4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419410+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : près de 50 000 personnes privées d’électricité à Zaporijia",
+    "link": "https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-en-ukraine-sebastien-lecornu-fixe-une-ligne-rouge-concernant-le-renouvellement-du-titre-de-sejour-de-xenia-fedorova_6698620_3210.html",
+    "summary": "Par ailleurs, douze personnes ont été blessées jeudi dans l’oblast de Dnipropetrovsk, dans l’est du pays.",
+    "published": "2026-06-11T16:56:21+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/06/11/en-direct-guerre-en-ukraine-sebastien-lecornu-fixe-une-ligne-rouge-concernant-le-renouvellement-du-titre-de-sejour-de-xenia-fedorova_6698620_3210.html",
+    "image": "https://img.lemde.fr/2026/06/10/686/0/5450/2725/644/322/60/0/e43d71e_ftp-1-dokokjko5sxk-5275935-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247194+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Guerre au Moyen-Orient : la BCE relève ses taux d’intérêt, sans s’engager pour la suite",
+    "link": "https://www.lefigaro.fr/conjoncture/la-bce-releve-ses-taux-de-0-25-point-face-a-l-inflation-liee-a-la-guerre-au-moyen-orient-20260611",
+    "summary": "DÉCRYPTAGE - L’institution a revu à la hausse ses prévisions d’inflation, estimées à 3 % pour cette année et 2,3 % 2027. La crise énergétique pèse.",
+    "published": "2026-06-11T16:51:25+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/la-bce-releve-ses-taux-de-0-25-point-face-a-l-inflation-liee-a-la-guerre-au-moyen-orient-20260611",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/06/11/5d4a1582e9c94c4660fb5734102bce02017c52d635f374016440f7493c370808.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592442+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Aux Canaries, le pape Léon XIV dénonce l’indifférence envers les migrants : « Nous ne pouvons pas nous accoutumer à compter les morts »",
+    "link": "https://www.lemonde.fr/international/article/2026/06/11/aux-canaries-le-pape-leon-xiv-denonce-l-indifference-envers-les-migrants-nous-ne-pouvons-pas-nous-accoutumer-a-compter-les-morts_6700780_3210.html",
+    "summary": "Le chef de l’Eglise catholique achève, jeudi et vendredi, sa visite en Espagne dans l’archipel que s’efforcent d’atteindre des exilés venus du continent africain voisin. Dans le même registre que son prédécesseur, François, il a affirmé que leurs destins interrogent « ce qu’il reste de notre humanité ».",
+    "published": "2026-06-11T16:49:42+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/06/11/aux-canaries-le-pape-leon-xiv-denonce-l-indifference-envers-les-migrants-nous-ne-pouvons-pas-nous-accoutumer-a-compter-les-morts_6700780_3210.html",
+    "image": "https://img.lemde.fr/2026/06/11/76/0/7087/3543/644/322/60/0/33dacd5_ftp-1-oyha4uc3dppf-2026-06-11t155104z-745554565-rc2qrla3bvbg-rtrmadp-3-pope-spain.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247299+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le philosophe des sciences Etienne Klein va perdre son doctorat en raison de plagiats massifs, selon «Arrêt sur images»",
+    "link": "https://www.liberation.fr/societe/education/le-philosophe-etienne-klein-va-perdre-son-doctorat-en-raison-de-plagiats-massifs-selon-arret-sur-images-20260611_5TWCAZFR6FHM7FXMTVELPQGOMA/",
+    "summary": "Dans une enquête interne, l’université Paris-Cité a découvert des copier-coller dans les deux tiers de la thèse du philosophe, révèle ce jeudi 11 juin le média en ligne. La fac confirme à «Libé» avoir «prononcé des décisions individuelles» à son encontre.",
+    "published": "2026-06-11T16:47:36+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/education/le-philosophe-etienne-klein-va-perdre-son-doctorat-en-raison-de-plagiats-massifs-selon-arret-sur-images-20260611_5TWCAZFR6FHM7FXMTVELPQGOMA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419440+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Éviter une autre Lyhanna » : la colère d’un père après la mise en cause d’un animateur périscolaire pour des viols sur des fillettes près de Lyon",
+    "link": "https://www.lefigaro.fr/lyon/eviter-une-autre-lyhanna-la-colere-d-un-pere-apres-la-mise-en-cause-d-un-animateur-periscolaire-pour-des-viols-sur-des-fillettes-pres-de-lyon-20260611",
+    "summary": "Un animateur de Charly (Rhône) a été remis en liberté à l’issue de sa garde à vue début mai, malgré des plaintes pour viols et agressions sexuelles visant deux fillettes. Au désarroi du père de l’une d’elles, qui a choisi de médiatiser l’affaire et permis de révéler une nouvelle victime.",
+    "published": "2026-06-11T16:47:23+00:00",
+    "authors": [],
+    "categories": [
+      "Lyon"
+    ],
+    "guid": "https://www.lefigaro.fr/lyon/eviter-une-autre-lyhanna-la-colere-d-un-pere-apres-la-mise-en-cause-d-un-animateur-periscolaire-pour-des-viols-sur-des-fillettes-pres-de-lyon-20260611",
+    "image": "https://i.f1g.fr/media/cms/1999x1124_crop/2026/06/11/4c14082cbe57acbd83bf327c1c99da49d989c9250712607771540c321521620b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592701+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Elias Sanbar : «Boycotter Nadav Lapid, c’est se tromper de cible»",
+    "link": "https://www.liberation.fr/idees-et-debats/elias-sanbar-boycotter-nadav-lapid-cest-se-tromper-de-cible-20260611_HIKLCT72ZJDUDIR7G7JXTQHBO4/",
+    "summary": "Alors que le cinéaste israélien opposé à la politique de Nétanyahou a dû renoncer à sa participation au Festival international de cinéma à Marseille, l’historien palestinien comprend la colère face au «carnage en Palestine et au Liban» mais appelle à «fuir les simplismes».",
+    "published": "2026-06-11T16:47:04+00:00",
+    "authors": [
+      "Alexandra Schwartzbrod"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/elias-sanbar-boycotter-nadav-lapid-cest-se-tromper-de-cible-20260611_HIKLCT72ZJDUDIR7G7JXTQHBO4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419472+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Epargne : le taux du livret A devrait grimper en juillet grâce à l’inflation",
+    "link": "https://www.liberation.fr/economie/conso/epargne-le-taux-du-livret-a-devrait-grimper-en-juillet-grace-a-linflation-20260611_X5OKRTSP2VEGDCVZE46DNEWDDI/",
+    "summary": "Selon le directeur général de la Caisse des dépôts, le taux actuel de 1,5 % pourrait augmenter le mois prochain. L’inflation en France s’est établie à 2,4 % sur un an en mai, la hausse des prix s’étant accélérée en raison de la hausse des prix de l’énergie liée à la guerre au Moyen-Orient.",
+    "published": "2026-06-11T16:45:51+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/conso/epargne-le-taux-du-livret-a-devrait-grimper-en-juillet-grace-a-linflation-20260611_X5OKRTSP2VEGDCVZE46DNEWDDI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419504+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« J’étais un otage du clan Tebboune » : Boualem Sansal, légende littéraire et visage de résistance",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/boualem-sansal-le-prix-de-la-legende",
+    "summary": "Avis à ceux qui aiment les polémiques politico-littéraires, les querelles germanopratines et l’affrontement entre le camp du Bien et l’axe du Mal : ils peuvent sauter les 220 premières pages... L’article « J’étais un otage du clan Tebboune » : Boualem Sansal, légende littéraire et visage de résistance est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-06-11T16:30:31+00:00",
+    "authors": [
+      "Adrien Renouard"
+    ],
+    "categories": [
+      "Non classé",
+      "Algérie",
+      "boualem sansal",
+      "littérature",
+      "Relation franco-algérienne"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/boualem-sansal-le-prix-de-la-legende",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.507193+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Immigration : les nouvelles règles européennes durcies en matière d’asile entrent en application",
+    "link": "https://www.lemonde.fr/international/article/2026/06/11/immigration-les-nouvelles-regles-europeennes-en-matiere-d-asile-entrent-en-application_6700778_3210.html",
+    "summary": "Négocié pendant dix ans, un ensemble de textes durcit les règles applicables aux demandeurs d’asile à leur arrivée, accélère le traitement de leur situation et institue un fragile mécanisme de solidarité entre pays. Mais tous les Etats, dont la France, n’ont pas encore suffisamment adapté leur législation.",
+    "published": "2026-06-11T16:30:04+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/06/11/immigration-les-nouvelles-regles-europeennes-en-matiere-d-asile-entrent-en-application_6700778_3210.html",
+    "image": "https://img.lemde.fr/2026/06/11/0/0/4252/2126/644/322/60/0/f057158_upload-1-katvm50mu4fm-000-98fx9we.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.247330+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Lyon: Aulas sous la menace après des révélations sur son «spin doctor»",
+    "link": "https://www.mediapart.fr/journal/politique/110626/lyon-aulas-sous-la-menace-apres-des-revelations-sur-son-spin-doctor",
+    "summary": "Une élue lyonnaise a porté plainte pour viol contre Roman Abreu, le conseiller stratégique de Jean-Michel Aulas. Alerté, l’ancien candidat à la mairie de Lyon a pourtant continué de travailler avec le directeur de campagne officieux. Il se défend auprès de «Rue89 Lyon». Sa place à la métropole est remise en question.",
+    "published": "2026-06-11T16:28:16+00:00",
+    "authors": [
+      "Elian Delacôte et Pierre Lemerle (Rue89 Lyon)"
+    ],
+    "categories": [
+      "Politique",
+      "Jean-Michel Aulas, Rue89 Lyon, violences sexistes et sexuelles"
+    ],
+    "guid": "1327448 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-plainte-pour-viol-contre-le-spin-doctor-daulas-la-gestion-de-laffaire-en-question.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.256274+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "El Niño, «l’enfant terrible du Pacifique», a officiellement commencé",
+    "link": "https://www.liberation.fr/environnement/climat/el-nino-lenfant-terrible-du-pacifique-a-officiellement-commence-20260611_NWOFULYITJC5FNP46N2LST2XBE/",
+    "summary": "D’après la vigie américaine de l’océan, le phénomène climatique naturel, synonyme de sécheresses, inondations et températures records dans le monde, s’est bien installé dans le Pacifique tropical. Les experts estiment à 63 % le risque d’un épisode très fort entre novembre et janvier.",
+    "published": "2026-06-11T16:25:23+00:00",
+    "authors": [
+      "Julie Renson Miquel"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/el-nino-lenfant-terrible-du-pacifique-a-officiellement-commence-20260611_NWOFULYITJC5FNP46N2LST2XBE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419534+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Israël refuse l’entrée sur son territoire à Alice Froussard, une journaliste française, suscitant l’indignation",
+    "link": "https://www.liberation.fr/international/europe/israel-refuse-lentree-sur-son-territoire-a-une-journaliste-francaise-rfi-denonce-une-entrave-a-la-liberte-de-la-presse-20260611_GHTUVSVKJZED5OHLUEJJ23SLTE/",
+    "summary": "Journaliste à Radio France et RFI, la reporter de 33 ans a été interceptée mercredi à l’aéroport Ben Gourion à tel Aviv puis expulsée jeudi vers la France. Les autorités israéliennes l’accusent d’être un soutien au mouvement islamiste palestinien Hamas.",
+    "published": "2026-06-11T16:23:45+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/israel-refuse-lentree-sur-son-territoire-a-une-journaliste-francaise-rfi-denonce-une-entrave-a-la-liberte-de-la-presse-20260611_GHTUVSVKJZED5OHLUEJJ23SLTE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419563+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Jordan, éborgné par un tir de LBD: «Je suis allé voir le match du PSG et à la fin de la soirée, j’ai un œil en moins»",
+    "link": "https://www.mediapart.fr/journal/france/100626/jordan-eborgne-par-un-tir-de-lbd-je-suis-alle-voir-le-match-du-psg-et-la-fin-de-la-soiree-j-ai-un-oeil-en",
+    "summary": "Venu assister aux feux d’artifice avec deux de ses amis, ce mannequin de 26 ans «même pas fan de foot» a reçu un projectile dans l’œil gauche à deux pas de l’Arc de triomphe. Il a perdu la vue. Le parquet de Paris a ouvert une enquête.",
+    "published": "2026-06-11T16:18:22+00:00",
+    "authors": [
+      "Camille Polloni, Laura Wojcik"
+    ],
+    "categories": [
+      "France",
+      "A la Une, LBD, Ligue des champions, Police, PSG, Violences policières"
+    ],
+    "guid": "1327175 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/10/yt-16-9-jordan-lbd.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.256307+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Guerre au Moyen-Orient : le FMI révise à la baisse ses prévisions de croissance pour la zone euro",
+    "link": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-le-fmi-revise-a-la-baisse-ses-previsions-de-croissance-pour-la-zone-euro-20260611",
+    "summary": "L’institution table sur une croissance de 0,9% cette année, contre 1,1% anticipé en avril dernier. La guerre en Iran et la hausse des prix de l’énergie pénalisent la zone euro plus fortement qu’anticipé jusqu’à présent.",
+    "published": "2026-06-11T16:16:10+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-le-fmi-revise-a-la-baisse-ses-previsions-de-croissance-pour-la-zone-euro-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/11/b2b3ed462d5c5492f45a3689064dfb996e7110bed6e89b8fc550c7f98cf176b0.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592468+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Nouvelle hausse des taux : la Banque Centrale Européenne joue au pompier pyromane",
+    "link": "https://www.valeursactuelles.com/economie/nouvelle-hausse-des-taux-la-banque-centrale-europeenne-joue-au-pompier-pyromane",
+    "summary": "La Banque centrale européenne a décidé ce jeudi d’augmenter ses taux directeurs de 0,25 point, une première depuis septembre 2023. Dans les salles de marché comme chez les économistes, nombreux... L’article Nouvelle hausse des taux : la Banque Centrale Européenne joue au pompier pyromane est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-06-11T16:15:59+00:00",
+    "authors": [
+      "Marie De Greef-Madelin"
+    ],
+    "categories": [
+      "Non classé",
+      "banque",
+      "Banque centrale européenne",
+      "Immobilier",
+      "taux d'intérêt"
+    ],
+    "guid": "https://www.valeursactuelles.com/economie/nouvelle-hausse-des-taux-la-banque-centrale-europeenne-joue-au-pompier-pyromane",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.507237+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A l’Assemblée nationale, les communistes font voter une nouvelle fois la nationalisation d’ArcelorMittal",
+    "link": "https://www.liberation.fr/politique/a-lassemblee-nationale-les-communistes-font-voter-une-nouvelle-fois-la-nationalisation-darcelormittal-20260611_54MMTULBBRF3JAWEVVRMBKI6K4/",
+    "summary": "Les députés du groupe de la gauche démocrate et républicaine ont réussi, ce jeudi, à l’occasion de leur niche parlementaire, à faire adopter une deuxième fois la proposition de loi portée par les insoumis fin novembre. Le texte sera réexaminé par le Sénat.",
+    "published": "2026-06-11T16:13:02+00:00",
+    "authors": [
+      "Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/a-lassemblee-nationale-les-communistes-font-voter-une-nouvelle-fois-la-nationalisation-darcelormittal-20260611_54MMTULBBRF3JAWEVVRMBKI6K4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.419592+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "Les meilleurs hymnes officiels et officieux de l’histoire de la Coupe du Monde",
     "link": "https://www.lefigaro.fr/musique/les-meilleurs-hymnes-officiels-et-officieux-de-l-histoire-de-la-coupe-du-monde-20260611",
     "summary": "Shakira, Queen, Gloria Gaynor, Vegedream... À quelques heures du coup d’envoi du Mondial 2026, Le Figaro a répertorié les cinq plus grandes chansons associées à la plus prestigieuse compétition de football.",
@@ -42,7 +1008,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/cyberattaques-sept-personnes-interpellees-soupconnees-davoir-vole-plusieurs-dizaines-de-millions-de-donnees-sensibles-en-france-20260611_NZKKV2DAENEXVH5B66ZPFMDRZU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785663+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419614+00:00"
   },
   {
     "source": "Le Monde",
@@ -70,7 +1036,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/mort-delisa-pilarski-quatre-ans-de-prison-avec-sursis-pour-son-compagnon-christophe-ellul-le-chien-curtis-doit-etre-euthanasie-20260611_UJUEJTFWZBDC7OBOHTMEMAZXYI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785706+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419646+00:00"
   },
   {
     "source": "Libération",
@@ -85,7 +1051,7 @@
     "guid": "https://www.liberation.fr/societe/narcotrafic-au-moins-40-nouvelles-drogues-de-synthese-identifiees-en-france-entre-2024-et-2025-20260611_7LHUI4M4XZFGFMCJU4DTIFCLL4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785737+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419672+00:00"
   },
   {
     "source": "Le Figaro",
@@ -104,18 +1070,18 @@
   },
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Coupe du monde 2026 : accord trouvé avec les Bleus pour les primes, les Ivoiriens en colère, des manifestants autour du stade avant la cérémonie d’ouverture au Mexique",
-    "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-infantino-deroule-le-tapis-rouge-a-trump-les-bleus-sont-arrives-a-boston-une-grande-fete-d-ouverture-attendue-au-mexique-20260611",
-    "summary": "Le Mondial 2026 s’ouvre en grande pompe, ce jeudi, par une cérémonie d’ouverture particulièrement attendue au Mexique. Suivez cette première journée sur le continent nord-américain.",
-    "published": "2026-06-11T15:56:02+00:00",
+    "title": "SpaceX, OpenAI, Anthropic… Wall Street peut-il absorber trois introductions en Bourse de cette ampleur ?",
+    "link": "https://www.lefigaro.fr/economie/spacex-openai-anthropic-wall-street-peut-il-absorber-trois-introductions-en-bourse-de-cette-ampleur-20260611",
+    "summary": "DÉCRYPTAGE - La valorisation cumulée de ces trois sociétés approcherait les 4 000 milliards de dollars et les montants levés avoisineraient les 160 milliards de dollars. Du jamais vu dans l’histoire financière.",
+    "published": "2026-06-11T15:56:54+00:00",
     "authors": [],
     "categories": [
-      "Coupe du monde"
+      "Économie"
     ],
-    "guid": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-infantino-deroule-le-tapis-rouge-a-trump-les-bleus-sont-arrives-a-boston-une-grande-fete-d-ouverture-attendue-au-mexique-20260611",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/11/90a3a00d9dfba184f89f3a3e0ce9e0d0be33f27aa476ddf8ac0b6833d645a7d6.jpg",
+    "guid": "https://www.lefigaro.fr/economie/spacex-openai-anthropic-wall-street-peut-il-absorber-trois-introductions-en-bourse-de-cette-ampleur-20260611",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/11/5f8aa230ad91ff23cf67ff8c6254670dd4c2d9e7d66283d479b35753b6a08ae3.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.348290+00:00"
+    "fetched_at": "2026-06-11T20:23:15.592542+00:00"
   },
   {
     "source": "Le Figaro",
@@ -145,7 +1111,7 @@
     "guid": "https://www.liberation.fr/sports/football/coupe-du-monde-les-hymnes-seront-chantes-au-centre-du-terrain-par-tous-les-joueurs-enfin-sil-veulent-les-chanter-ils-font-bien-ce-quils-veulent-20260611_EUJ4PEJ62FG5BOBGZKIKIQRMZA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785767+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419701+00:00"
   },
   {
     "source": "Le Figaro",
@@ -180,7 +1146,7 @@
     "guid": "https://www.valeursactuelles.com/politique/objectif-remigration-bally-bagayoko-furieux-apres-le-deploiement-dune-banderole-sur-la-basilique-de-saint-denis",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.471418+00:00"
+    "fetched_at": "2026-06-11T20:23:15.507287+00:00"
   },
   {
     "source": "Libération",
@@ -195,7 +1161,7 @@
     "guid": "https://www.liberation.fr/culture/musique/cest-un-deuil-de-mon-adolescence-apres-la-mise-en-examen-de-patrick-bruel-ses-fans-restent-divises-20260611_GY5BILPEIJBH5D4FIQG5DKH4AE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785795+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419726+00:00"
   },
   {
     "source": "Le Monde",
@@ -208,7 +1174,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/06/11/la-nationalisation-d-arcelormittal-de-nouveau-decidee-par-l-assemblee-nationale_6700766_3234.html",
     "image": "https://img.lemde.fr/2026/06/11/701/0/6000/3000/644/322/60/0/48aa3de_ftp-1-hfnlggfpp6b5-5285376-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.342121+00:00"
+    "fetched_at": "2026-06-11T20:23:15.247462+00:00"
   },
   {
     "source": "Le Figaro",
@@ -223,22 +1189,7 @@
     "guid": "https://www.lefigaro.fr/vox/societe/haim-korsia-l-affaire-lyhanna-revele-notre-incapacite-a-traduire-dans-les-faits-les-valeurs-que-nous-affichons-20260611",
     "image": "https://i.f1g.fr/media/cms/1861x1046_crop/2026/06/11/75e29007bacf4311976ad9b0dda541ecc758e9bca904edea41e1f4b1ac20fa43.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.347934+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Guerre au Moyen-Orient : les États-Unis vont frapper l’Iran «très fort ce soir», prévient Donald Trump",
-    "link": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-le-detroit-d-ormuz-20260611",
-    "summary": "«D’ici peu, nous prendrons le contrôle de l’île de Kharg et d’autres sites pétroliers, et nous prendrons le contrôle total de leurs marchés du pétrole et du gaz», a par ailleurs affirmé le président américain ce jeudi.",
-    "published": "2026-06-11T15:29:03+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/en-direct-guerre-au-moyen-orient-l-iran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-le-detroit-d-ormuz-20260611",
-    "image": "https://i.f1g.fr/media/cms/3000x2031_crop/2026/06/11/fda9fe6e1150cac5f6c876c08aae3507e067d8dbb367d6a12804ef7f699a2043.jpg",
-    "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.347962+00:00"
+    "fetched_at": "2026-06-11T20:23:15.592763+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -260,7 +1211,7 @@
     "guid": "https://www.valeursactuelles.com/societe/jaime-en-secret-tripoter-mon-fils-un-show-de-drag-queen-suscite-la-polemique-devant-la-basilique-de-saint-quentin",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.471475+00:00"
+    "fetched_at": "2026-06-11T20:23:15.507333+00:00"
   },
   {
     "source": "Libération",
@@ -275,37 +1226,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/saint-denis-la-mairie-de-linsoumis-bagayoko-va-porter-plainte-contre-une-banderole-raciste-accrochee-sur-la-basilique-20260611_K3PF4P4ADFEOTLXZNZXTXDSW7Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785824+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Affaire Lyhanna : les Français pointent la responsabilité de Darmanin mais n’appellent pas à sa démission",
-    "link": "https://www.lefigaro.fr/politique/affaire-lyhanna-les-francais-pointent-la-responsabilite-de-darmanin-mais-n-appellent-pas-a-sa-demission-20260611",
-    "summary": "SONDAGE - Selon notre sondage Odoxa-Backbone pour Le Figaro, seuls 39% des Français souhaitent voir démissionner le garde des Sceaux alors qu’après les Insoumis, les patrons du PS et du RN l’ont sommé de quitter ses fonctions.",
-    "published": "2026-06-11T15:25:58+00:00",
-    "authors": [],
-    "categories": [
-      "Politique"
-    ],
-    "guid": "https://www.lefigaro.fr/politique/affaire-lyhanna-les-francais-pointent-la-responsabilite-de-darmanin-mais-n-appellent-pas-a-sa-demission-20260611",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/11/edc77216ef0a05cebea496d8d8bbbdf814e36ac53238692f8ec167dc2741f63f.jpg",
-    "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.347837+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "« Éviter une autre Lyhanna » : la colère d’un père après la mise en cause d’un animateur périscolaire pour des viols sur des fillettes près de Lyon",
-    "link": "https://www.lefigaro.fr/lyon/eviter-une-autre-lyhanna-la-colere-d-un-pere-apres-la-mise-en-cause-d-un-animateur-periscolaire-pour-des-viols-sur-des-fillettes-pres-de-lyon-20260611",
-    "summary": "Un animateur de Charly (Rhône) a été remis en liberté à l’issue de sa garde à vue début mai, malgré des plaintes pour viols et agressions sexuelles visant deux fillettes. Au désarroi du père de l’une d’elles, qui a choisi de médiatiser l’affaire et permis de révéler une nouvelle victime.",
-    "published": "2026-06-11T15:12:26+00:00",
-    "authors": [],
-    "categories": [
-      "Lyon"
-    ],
-    "guid": "https://www.lefigaro.fr/lyon/eviter-une-autre-lyhanna-la-colere-d-un-pere-apres-la-mise-en-cause-d-un-animateur-periscolaire-pour-des-viols-sur-des-fillettes-pres-de-lyon-20260611",
-    "image": "https://i.f1g.fr/media/cms/1999x1124_crop/2026/06/11/4c14082cbe57acbd83bf327c1c99da49d989c9250712607771540c321521620b.jpg",
-    "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.347876+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419754+00:00"
   },
   {
     "source": "Libération",
@@ -320,7 +1241,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/violences-sexuelles-les-associations-appellent-a-manifester-chaque-lundi-et-le-4-juillet-20260611_2CSNO6JGARE4LG5WTJL26M6AKM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785849+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419778+00:00"
   },
   {
     "source": "Libération",
@@ -335,7 +1256,7 @@
     "guid": "https://www.liberation.fr/economie/medias/israel-expulse-la-journaliste-alice-froussard-liberation-condamne-une-atteinte-inadmissible-a-la-liberte-de-la-presse-20260611_OGO2OYJZHJD5BEFPOAKNL2CBTQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785886+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419808+00:00"
   },
   {
     "source": "Le Monde",
@@ -348,7 +1269,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/06/11/affaire-lyhanna-jerome-barella-avait-ete-signale-a-la-police-francaise-par-un-organisme-anti-pedocriminalite-americain_6700762_3224.html",
     "image": "https://img.lemde.fr/2026/06/10/498/0/4500/2250/644/322/60/0/e91c4d1_upload-1-439pm41f6hhp-mfache-06062026-le-monde-affaire-lyhanna-gers-france-046.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.341820+00:00"
+    "fetched_at": "2026-06-11T20:23:15.247038+00:00"
   },
   {
     "source": "Libération",
@@ -363,7 +1284,7 @@
     "guid": "https://www.liberation.fr/politique/hausse-du-smic-de-20-police-de-proximite-matthieu-pigasse-se-dit-pret-a-se-presenter-en-2027-si-la-gauche-a-besoin-de-lui-20260611_BTVMQBFBP5CZHBWSKWYYMBZ42Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785921+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419841+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -383,7 +1304,7 @@
     "guid": "https://www.valeursactuelles.com/monde/lalgerie-pourrait-alimenter-toute-leurope-le-pari-algerien-de-lunion-europeenne-sur-lenergie",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.471524+00:00"
+    "fetched_at": "2026-06-11T20:23:15.507378+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -404,7 +1325,7 @@
     "guid": "https://www.valeursactuelles.com/faits-divers/affaire-pilarski-christophe-ellul-condamne-avec-sursis-le-chien-curtis-sera-euthanasie-la-chasse-a-cour-hors-de-cause",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.471596+00:00"
+    "fetched_at": "2026-06-11T20:23:15.507427+00:00"
   },
   {
     "source": "Le Figaro",
@@ -419,22 +1340,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/violences-sexuelles-des-associations-appellent-a-manifester-tous-les-lundis-20260611",
     "image": "https://i.f1g.fr/media/cms/orig/2026/06/11/ea3442a63e75ca812831438ebd16924608dc123b3a022f3cdcd8e31651678113.JPG",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.347903+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT - Guerre au Moyen-Orient : Donald Trump assure que l’armée américaine va frapper l’Iran «très fort ce soir»",
-    "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-ormuz-20260611_LFXIPFP4S5GORFCIYU3KT56OT4/",
-    "summary": "Washington et Téhéran ont échangé de nouvelles frappes dans la nuit de mercredi à jeudi. Les négociations semblent dans l’impasse totale. Au Liban, l’armée israélienne poursuit ses bombardements.",
-    "published": "2026-06-11T14:36:55+00:00",
-    "authors": [
-      "Romain Métairie, Charles Delouche-Bertolasi, Service Photo, AFP ., Reuters ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-liran-a-nouveau-bombarde-par-les-etats-unis-riposte-et-promet-de-refermer-ormuz-20260611_LFXIPFP4S5GORFCIYU3KT56OT4/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785949+00:00"
+    "fetched_at": "2026-06-11T20:23:15.592732+00:00"
   },
   {
     "source": "Le Figaro",
@@ -488,7 +1394,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/pays-de-la-loire/maine-et-loire/angers/politique/culpabiliser-les-francais-hostiles-a-limmigration-apres-sa-condamnation-jean-eudes-gannat-denonce-une-justice-ideologique",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.471649+00:00"
+    "fetched_at": "2026-06-11T20:23:15.507477+00:00"
   },
   {
     "source": "Libération",
@@ -503,7 +1409,7 @@
     "guid": "https://www.liberation.fr/culture/bd/marina-lisa-komiya-vivre-entre-deux-pays-entre-deux-genres-cest-etre-condamne-a-ne-jamais-appartenir-completement-au-monde-20260611_LLQUGSQILNGDHFUVNGW7EJ7NRQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.785978+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419868+00:00"
   },
   {
     "source": "Le Figaro",
@@ -541,7 +1447,7 @@
     "guid": "https://www.valeursactuelles.com/monde/peche-de-racisme-amitie-envers-les-immigres-aux-etats-unis-le-fosse-se-creuse-entre-eveques-catholiques-et-evangeliques",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.471700+00:00"
+    "fetched_at": "2026-06-11T20:23:15.507527+00:00"
   },
   {
     "source": "Mediapart",
@@ -559,7 +1465,7 @@
     "guid": "1327348 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-contrad-licenciement-annonces-chez-nespresso-se-sent-insultes-c-est-une-trahison.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.356427+00:00"
+    "fetched_at": "2026-06-11T20:23:15.256333+00:00"
   },
   {
     "source": "Le Figaro",
@@ -587,7 +1493,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/06/11/el-nino-le-phenomene-climatique-qui-rechauffe-les-temperatures-dans-le-pacifique-equatorial-a-commence_6700752_3244.html",
     "image": "https://img.lemde.fr/2026/06/11/448/0/5374/2687/644/322/60/0/2b890b3_ftp-1-my25pwguuxik-e392d20921ee4a7dbebc594b15b3a616-2-c74bcc5283c84c7cae4ae0fc51516f3f.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.341991+00:00"
+    "fetched_at": "2026-06-11T20:23:15.247409+00:00"
   },
   {
     "source": "Le Monde",
@@ -615,7 +1521,7 @@
     "guid": "https://www.liberation.fr/economie/medias/intervenant-sur-cnews-le-juriste-amine-elbahi-saisit-larcom-contre-cnews-20260611_NOQMBLEZFBG4BMIX4XH7HZ6NZ4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786007+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419898+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -663,7 +1569,7 @@
     "guid": "https://www.liberation.fr/societe/religions/il-faut-garder-les-portes-ouvertes-de-passage-en-france-le-cardinal-pizzaballa-evoque-le-conflit-israelo-palestinien-20260611_OEYXEF6X3FH6HCX2PO4AZZGWUQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786037+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419928+00:00"
   },
   {
     "source": "Libération",
@@ -678,7 +1584,7 @@
     "guid": "https://www.liberation.fr/economie/la-bce-releve-ses-taux-pour-faire-face-a-la-guerre-au-moyen-orient-20260611_XNCJGIU44VBF3BK2FWXER7B5EI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786064+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419966+00:00"
   },
   {
     "source": "Le Monde",
@@ -706,37 +1612,7 @@
     "guid": "https://www.liberation.fr/sports/lis-la-comme-wemby-a-san-antonio-les-bibliotheques-surfent-sur-le-gout-pour-la-lecture-de-leur-star-20260611_UUFHF6KWNVHLFF2KEUNJ5NJ7IM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786091+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT - Coupe du monde, jour 1 : l’administration Trump assure que les matchs seront «très sécurisés»",
-    "link": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-1-les-bleus-ont-pris-leurs-quartiers-a-boston-la-colere-sociale-se-fait-entendre-a-mexico-20260611_AXHDB76U2RGNZKRMQ3K3NCE3E4/",
-    "summary": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
-    "published": "2026-06-11T13:38:59+00:00",
-    "authors": [
-      "Service Sport"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-1-les-bleus-ont-pris-leurs-quartiers-a-boston-la-colere-sociale-se-fait-entendre-a-mexico-20260611_AXHDB76U2RGNZKRMQ3K3NCE3E4/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786116+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Israël refuse l’entrée sur son territoire à une journaliste française, RFI dénonce une «entrave à la liberté de la presse»",
-    "link": "https://www.liberation.fr/international/europe/israel-refuse-lentree-sur-son-territoire-a-une-journaliste-francaise-rfi-denonce-une-entrave-a-la-liberte-de-la-presse-20260611_GHTUVSVKJZED5OHLUEJJ23SLTE/",
-    "summary": "Alice Froussard, journaliste à Radio France et RFI, a été expulsée et remise mercredi dans un avion pour la France. Les autorités israéliennes l’accusent d’être un soutien au mouvement islamiste palestinien Hamas.",
-    "published": "2026-06-11T13:37:20+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/europe/israel-refuse-lentree-sur-son-territoire-a-une-journaliste-francaise-rfi-denonce-une-entrave-a-la-liberte-de-la-presse-20260611_GHTUVSVKJZED5OHLUEJJ23SLTE/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786144+00:00"
+    "fetched_at": "2026-06-11T20:23:15.419994+00:00"
   },
   {
     "source": "Le Monde",
@@ -814,7 +1690,7 @@
     "guid": "https://www.liberation.fr/portraits/alice-taglioni-elle-jouait-du-piano-surtout-20260611_AWUFAXKDIBBTRGNQIPKOHZCHNU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786164+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420015+00:00"
   },
   {
     "source": "Le Monde",
@@ -858,7 +1734,7 @@
     "guid": "1327275 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-50-millions-d-euros-evapores-le-tour-de-passe-passe-de-mutares-dans-les-comptes-de-walor-bordeaux-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.356466+00:00"
+    "fetched_at": "2026-06-11T20:23:15.256365+00:00"
   },
   {
     "source": "Mediapart",
@@ -876,7 +1752,7 @@
     "guid": "1327222 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/10/260610-img-abramovitch-roman-abramovitch-oligarque-devoue-poutine-et-espoir-de-l-ukraine-p-02.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.356495+00:00"
+    "fetched_at": "2026-06-11T20:23:15.256393+00:00"
   },
   {
     "source": "Libération",
@@ -891,7 +1767,7 @@
     "guid": "https://www.liberation.fr/sports/football/coupe-du-monde-de-nouveaux-cartons-rouges-chasse-aux-gains-de-temps-les-nouveautes-arbitrales-de-cette-edition-2026-20260611_CDENQZD7NNEYJJWHBP7OP2WH3E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786188+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420039+00:00"
   },
   {
     "source": "Le Figaro",
@@ -969,7 +1845,7 @@
     "guid": "https://www.liberation.fr/economie/medias/larcom-met-en-demeure-france-inter-et-france-info-pour-avoir-diffuse-la-parole-du-rn-majoritairement-la-nuit-20260611_NPVWHWVDXNDS5FXLD5FSKZ53XE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786216+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420068+00:00"
   },
   {
     "source": "Mediapart",
@@ -1051,7 +1927,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/blackcore-avant-loperation-anti-lfi-une-fausse-ong-daide-a-la-palestine-20260611_VZFFNYMWS5B7NDF6CLGKM2OMZU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786247+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420099+00:00"
   },
   {
     "source": "Le Monde",
@@ -1079,7 +1955,7 @@
     "guid": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-shakira-vegedream-et-katy-perry-le-programme-des-trois-ceremonies-douverture-20260611_PWC24YA3OFHRXGEWJP4JT4DXLY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786280+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420129+00:00"
   },
   {
     "source": "Libération",
@@ -1094,7 +1970,7 @@
     "guid": "https://www.liberation.fr/sports/football/coupe-du-monde-2026-toulouse-et-clermont-instaurent-un-couvre-feu-pour-les-moins-de-16-ans-20260611_F7BX56XGUZEXXK6RTWZOINPDJM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786308+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420158+00:00"
   },
   {
     "source": "Libération",
@@ -1109,7 +1985,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/meurtre-de-noahm-a-metz-la-justice-ouvre-la-piste-homophobe-20260611_GOKHJSB3WNDXNMSEX32IU2XMMA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786337+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420186+00:00"
   },
   {
     "source": "Libération",
@@ -1124,11 +2000,11 @@
     "guid": "https://www.liberation.fr/societe/police-justice/affaire-patrick-bruel-pourquoi-le-chanteur-na-t-il-finalement-pas-ete-mis-en-detention-provisoire-20260611_AW4645THTBDDBMPQHTQ37NWPVM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786368+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420217+00:00"
   },
   {
     "source": "Libération",
-    "title": "Incinérateurs à plastique : la fabrique d’une «fable écologique»",
+    "title": "Incinérateurs de plastiques : la fabrique d’une «fable écologique»",
     "link": "https://www.liberation.fr/environnement/incinerateur-a-plastiques-la-fabrique-dune-fable-ecologique-20260611_CFY5WQP2ZBGGPFPFOU5KTBKQPI/",
     "summary": "Transformer nos déchets en combustible vert : avec cette trouvaille, les industriels font un carton. Subventions publiques à la pelle, élus qui signent les yeux fermés pour ces «chaufferies CSR». Derrière, la réalité est beaucoup moins responsable. Premier volet de cette enquête : les dessous d’un greenwashing à grande échelle.",
     "published": "2026-06-11T10:55:12+00:00",
@@ -1139,7 +2015,7 @@
     "guid": "https://www.liberation.fr/environnement/incinerateur-a-plastiques-la-fabrique-dune-fable-ecologique-20260611_CFY5WQP2ZBGGPFPFOU5KTBKQPI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786398+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420247+00:00"
   },
   {
     "source": "Libération",
@@ -1154,7 +2030,7 @@
     "guid": "https://www.liberation.fr/lifestyle/hightech/pourquoi-pornhub-de-retour-en-france-ne-propose-plus-de-porno-gratuit-20260611_OI4BCIPJWBEHPBI6OU7VYVWZPQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786424+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420273+00:00"
   },
   {
     "source": "Libération",
@@ -1169,7 +2045,7 @@
     "guid": "https://www.liberation.fr/sports/football/cinq-entraineurs-francais-au-mondial-de-foot-pourquoi-les-coachs-tricolores-ont-la-cote-20260611_XV6FYCA5TJH5LMBDOPR3CULABQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786450+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420299+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1365,7 +2241,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/bertrand-badie-macron-ou-dix-ans-dune-diplomatie-incapable-de-transformer-de-belles-idees-en-realite-concrete-20260611_IZPU5QL4AVGABGGYY6ZMEZFUZI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-11T16:03:13.786478+00:00"
+    "fetched_at": "2026-06-11T20:23:15.420327+00:00"
   },
   {
     "source": "Libération",
@@ -8986,6 +9862,21 @@
     "image": "https://img.lemde.fr/2026/06/09/70/0/2022/1011/644/322/60/0/cd64708_ftp-1-dtd8zntaghdg-5267166-01-06.jpg",
     "full_text": null,
     "fetched_at": "2026-06-09T14:53:33.936627+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Coupe du monde 2026 : où, quand et comment suivre le Mondial en direct à la télévision ?",
+    "link": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/coupe-du-monde-2026-ou-quand-et-comment-suivre-le-mondial-en-direct-a-la-television-20260609",
+    "summary": "La compétition sera accessible en clair gratuitement avec une sélection des meilleurs matchs et sera diffusée en intégralité dans une offre payante.",
+    "published": "2026-06-09T11:07:59+00:00",
+    "authors": [],
+    "categories": [
+      "Actu télé"
+    ],
+    "guid": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/coupe-du-monde-2026-ou-quand-et-comment-suivre-le-mondial-en-direct-a-la-television-20260609",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/09/109815a89823ffd12679553c920ede738ee78f749e9fa1f7964856183cbd21ed.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-11T20:23:15.592366+00:00"
   },
   {
     "source": "Le Figaro",
