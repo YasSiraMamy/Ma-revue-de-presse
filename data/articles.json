@@ -1,5 +1,605 @@
 [
   {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Stade Français-La Rochelle : Paris déjà bien lancé dans un Jean-Bouin plein à craquer",
+    "link": "https://www.lefigaro.fr/sports/rugby/live/top-14/2026/948370/st-francais-la-rochelle",
+    "summary": "Une semaine après une confrontation en saison régulière, Parisiens et Rochelais se retrouvent ce dimanche pour rejoindre Montpellier en demi-finale de Top 14.",
+    "published": "2026-06-14T19:27:03+00:00",
+    "authors": [],
+    "categories": [
+      "Top 14"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/rugby/live/top-14/2026/948370/st-francais-la-rochelle",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/14/63f80486088f5dd15201966b94c7c5de2c587870f44b2981ecd2f788a54881e8.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849384+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Guerre au Moyen-Orient : Donald Trump dit qu’un accord sera signé «dans quelques heures», après avoir «réprimandé Netanyahou»",
+    "link": "https://www.lefigaro.fr/international/guerre-moyen-orient-iran-trump-arme-nucleaire-ormuz-etats-unis-accord-de-paix-pakistan-20260614",
+    "summary": "Le principal négociateur iranien a accusé dimanche les États-Unis de ne pas respecter leurs engagements après des frappes israéliennes sur le sud de Beyrouth qui risquent de compromettre, selon lui, les pourparlers entre Téhéran et Washington.",
+    "published": "2026-06-14T19:22:03+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/guerre-moyen-orient-iran-trump-arme-nucleaire-ormuz-etats-unis-accord-de-paix-pakistan-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/14/e04321ae4d61d31c825e6f9f2b0fc1672fedf88f269f3d42cc981ec5e6a5d92f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849151+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Qui est Oliver Tree, ce chanteur américain décédé au Brésil dans un accident d’hélicoptère ?",
+    "link": "https://www.lefigaro.fr/international/qui-est-oliver-tree-ce-chanteur-americain-decede-au-bresil-dans-un-accident-d-helicoptere-20260614",
+    "summary": "L’artiste américain est décédé à Rio, où il s’était rendu dans le cadre d’une tournée mondiale. Il était notamment connu pour ses personnages loufoques qui accompagnaient ses sorties musicales.",
+    "published": "2026-06-14T19:21:53+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/qui-est-oliver-tree-ce-chanteur-americain-decede-au-bresil-dans-un-accident-d-helicoptere-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/06/14/9e2f51749d1f0343668e4a8596f1e72b9d672df15ee422d5f1afd8372feedd88.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849090+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Pourquoi la suspension de modèles d’Anthropic change la donne dans le monde de l’IA",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/pourquoi-la-suspension-de-modeles-d-anthropic-change-la-donne-dans-le-monde-de-l-ia-20260614",
+    "summary": "DÉCRYPTAGE - Contrainte par l’Administration Trump de couper l’accès à ses modèles Mythos 5 et Fable 5 pour raison de sécurité, l’entreprise cofondée par Dario Amodei se voit fragilisée.",
+    "published": "2026-06-14T19:21:26+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/pourquoi-la-suspension-de-modeles-d-anthropic-change-la-donne-dans-le-monde-de-l-ia-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/14/9a12fec87394467101bc0694230a534a2b3bf5e501b36a4a5e979c5aa12146f8.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849408+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "États-Unis: 12 personnes tuées dans un accident d’avion",
+    "link": "https://www.lefigaro.fr/international/etats-unis-12-personnes-tuees-dans-un-accident-d-avion-20260614",
+    "summary": "L’accident s’est produit au-dessus de la ville de Butler dans l’État du Missouri, selon la police.",
+    "published": "2026-06-14T19:20:08+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/etats-unis-12-personnes-tuees-dans-un-accident-d-avion-20260614",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/06/14/6533044869752e35996d9a0c1812990610024cf0b5919ab9d3a591bb57fd4841.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849537+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Yvelines: un jeune homme mis en examen et écroué pour viols et agressions sexuelles",
+    "link": "https://www.lefigaro.fr/faits-divers/yvelines-un-jeune-homme-mis-en-examen-et-ecroue-pour-viols-et-agressions-sexuelles-20260614",
+    "summary": "Selon une source policière, dix jeunes filles ont déclaré avoir été victimes de ce jeune adulte pour des faits s’étalant de juin 2021 à mars 2023.",
+    "published": "2026-06-14T19:17:46+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/yvelines-un-jeune-homme-mis-en-examen-et-ecroue-pour-viols-et-agressions-sexuelles-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/14/81ac468c361e9740d6646aeedb03af72fc53fe5eccd06db3feb338fff79148f0.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849292+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Coupe du monde 2026 : passée une petite frayeur, l’Allemagne s’est régalé face à Curaçao",
+    "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-passee-une-petite-frayeur-l-allemagne-s-est-regale-face-a-curacao-20260614",
+    "summary": "Si Curaçao a inscrit le premier but de son histoire en phase finale, celui-ci n’aura pas pesé bien lourd face à la Mannschaft (7-1).",
+    "published": "2026-06-14T19:17:46+00:00",
+    "authors": [],
+    "categories": [
+      "Coupe du monde"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/coupe-du-monde/coupe-du-monde-2026-passee-une-petite-frayeur-l-allemagne-s-est-regale-face-a-curacao-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x2027_crop/2026/06/14/975c59f627a87f032f83ce71d2d0e4eefa4123797d8588f48ecd677d243ed4be.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849315+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT - Coupe du monde, jour 4 : face à l’Allemagne, Curaçao prend l’eau (7-1)",
+    "link": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/",
+    "summary": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
+    "published": "2026-06-14T19:05:57+00:00",
+    "authors": [
+      "Sylvain Mouillard, AFP ., Reuters ., Louis Moulin, Johanna Luyssen"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907342+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Evian-les-Bains, les sujets du G7 éclipsés par la guerre entre les Etats-Unis et l’Iran",
+    "link": "https://www.liberation.fr/international/a-evian-les-bains-les-sujets-du-g7-eclipses-par-la-guerre-entre-les-etats-unis-et-liran-20260614_IKHVMJKDABG7ZKYO2Q72WJKBDE/",
+    "summary": "A la veille de l’ouverture de l’événement et de l’arrivée de Donald Trump en Haute-Savoie, le déroulé du programme du sommet était chancelant jusque dans les ultimes instants en raison de la crise au Moyen-Orient.",
+    "published": "2026-06-14T18:58:43+00:00",
+    "authors": [
+      "Damien Dole"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/a-evian-les-bains-les-sujets-du-g7-eclipses-par-la-guerre-entre-les-etats-unis-et-liran-20260614_IKHVMJKDABG7ZKYO2Q72WJKBDE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907382+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Brésil : le chanteur américain Oliver Tree est mort à 32 ans dans la collision de deux hélicoptères à Rio ce dimanche",
+    "link": "https://www.liberation.fr/international/amerique/bresil-le-chanteur-americain-oliver-tree-est-mort-a-32-ans-dans-la-collision-de-deux-helicopteres-a-rio-ce-dimanche-20260614_TGB7PKQI25FQDJYF63SOV4AYBU/",
+    "summary": "L’artiste était en tournée mondiale. Il faisait partie des six passagers de l’accident, aucun n’a survécu.",
+    "published": "2026-06-14T18:56:58+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/bresil-le-chanteur-americain-oliver-tree-est-mort-a-32-ans-dans-la-collision-de-deux-helicopteres-a-rio-ce-dimanche-20260614_TGB7PKQI25FQDJYF63SOV4AYBU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907412+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Provence Rugby-Perpignan : la «furia» de Yato, l’Usap en mode «Rambo», Vareiro pas au niveau... Les tops et flops",
+    "link": "https://www.lefigaro.fr/sports/rugby/top-14/provence-rugby-perpignan-la-furia-de-yato-l-usap-en-mode-rambo-vareiro-pas-au-niveau-les-tops-et-flops-du-barrage-top-14-pro-d2-20260614",
+    "summary": "DÉCRYPTAGE – Après la large victoire de Perpignan face à Provence Rugby dimanche, lors du barrage d’accession au Top 14, découvrez ce qu’il faut retenir.",
+    "published": "2026-06-14T18:54:02+00:00",
+    "authors": [],
+    "categories": [
+      "Top 14"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/rugby/top-14/provence-rugby-perpignan-la-furia-de-yato-l-usap-en-mode-rambo-vareiro-pas-au-niveau-les-tops-et-flops-du-barrage-top-14-pro-d2-20260614",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/06/14/2af13660beaa74f368a0d957f3b47be9f419aa7e4ef0c8445fc3490261c13c6f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849339+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Un sujet de souveraineté nationale » : la suspension d’Anthropic, un électrochoc salutaire pour les prétendants à l’Élysée",
+    "link": "https://www.lefigaro.fr/economie/un-sujet-de-souverainete-nationale-la-suspension-d-anthropic-un-electrochoc-salutaire-pour-les-pretendants-a-l-elysee-20260614",
+    "summary": "DÉCRYPTAGE - La décision de Washington de restreindre l’accès aux modèles les plus puissants du fleuron américain de l’intelligence artificielle à « tout ressortissant étranger » suscite les critiques unanimes des prétendants à l’Élysée.",
+    "published": "2026-06-14T18:54:01+00:00",
+    "authors": [],
+    "categories": [
+      "Économie"
+    ],
+    "guid": "https://www.lefigaro.fr/economie/un-sujet-de-souverainete-nationale-la-suspension-d-anthropic-un-electrochoc-salutaire-pour-les-pretendants-a-l-elysee-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/14/71e0b3ab714e9b6f900c3c21f5796ad6ba3410c1cee3d8c896109da860a16dae.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849435+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Brésil : le chanteur américain Oliver Tree parmi les victimes d’une collision entre deux hélicoptères à Rio, au moins 6 morts",
+    "link": "https://www.lefigaro.fr/international/bresil-six-morts-dans-la-collision-de-deux-helicopteres-a-rio-de-janeiro-20260614",
+    "summary": "En s’écrasant, les appareils ont provoqué un incendie au milieu d’un parc automobile, endommageant au moins 20 véhicules.",
+    "published": "2026-06-14T18:42:09+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/bresil-six-morts-dans-la-collision-de-deux-helicopteres-a-rio-de-janeiro-20260614",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/06/14/2154befe5155cb216fe36cff539319473cbca191c3d9e78d839dceb68e1231b1.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849055+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre au Moyen-Orient : l’Iran menace Israël à la suite de l’attaque sur la banlieue sud de Beyrouth ; D. Trump « énervé » contre B. Nétanyahou",
+    "link": "https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-menace-israel-apres-l-attaque-sur-la-banlieue-sud-de-beyrouth-donald-trump-enerve-contre-netanyahou_6701050_3210.html",
+    "summary": "« Il ne devrait plus y avoir d’attaques israéliennes nulle part au Liban, mais il ne devrait pas non plus y avoir d’attaques de la part d’aucune autre partie, y compris le Hezbollah, contre Israël », a affirmé le président américain, dimanche.",
+    "published": "2026-06-14T18:19:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/06/14/en-direct-guerre-au-moyen-orient-l-iran-menace-israel-apres-l-attaque-sur-la-banlieue-sud-de-beyrouth-donald-trump-enerve-contre-netanyahou_6701050_3210.html",
+    "image": "https://img.lemde.fr/2026/06/14/926/0/5837/2918/644/322/60/0/dccef3a_ftp-1-u1i6xzgvjgdc-5315209-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.689778+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "G7 : le dernier tour de piste d’Emmanuel Macron auprès d’une Europe plus souveraine",
+    "link": "https://www.liberation.fr/international/europe/g7-le-dernier-tour-de-piste-demmanuel-macron-aupres-dune-europe-plus-souveraine-20260614_VAZQLNXM7FA7JBXSSZZBDJ6MCE/",
+    "summary": "Sept ans après le sommet de Biarritz, le chef de l’Etat accueille à nouveau les grandes puissances dans un monde bouleversé. Emancipation vis-à-vis des Etats-Unis, mesures de protection contre la Chine : la guerre en Ukraine, le retour de Donald Trump et l’agressivité commerciale de Pékin ont forcé le président français à changer son projet pour l’Europe.",
+    "published": "2026-06-14T18:08:07+00:00",
+    "authors": [
+      "Veronika Dorman, Damien Dole"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/g7-le-dernier-tour-de-piste-demmanuel-macron-aupres-dune-europe-plus-souveraine-20260614_VAZQLNXM7FA7JBXSSZZBDJ6MCE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907452+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT - Guerre au Moyen-Orient : Donald Trump assure qu’un accord avec l’Iran sera signé «dans quelques heures»",
+    "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
+    "summary": "Le président américain espère pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth pourrait contrecarrer ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.",
+    "published": "2026-06-14T18:07:51+00:00",
+    "authors": [
+      "Libération ., Service Photo, AFP ., Reuters ., Eve Roger, Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907486+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Remboursement des traitements anti-obésité : un remède miracle ?",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/remboursement-des-traitements-anti-obesite-un-remede-miracle-20260614_BQQWZ67CPFEOTGVMOXVZEFSWI4/",
+    "summary": "A partir de ce lundi, environ un million de Français souffrant d’obésité sévère devraient se voir en partie rembourser leurs traitements. Une bonne nouvelle, mais il y a encore des progrès à faire.",
+    "published": "2026-06-14T18:07:29+00:00",
+    "authors": [
+      "Paul Quinio"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/editorial/remboursement-des-traitements-anti-obesite-un-remede-miracle-20260614_BQQWZ67CPFEOTGVMOXVZEFSWI4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907515+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "G7 d’Evian : plongez dans le bain grâce à l’envoyé spécial de «Libé»",
+    "link": "https://www.liberation.fr/international/europe/g7-devian-plongez-dans-le-bain-grace-a-lenvoye-special-de-libe-20260614_UMALM3CSYBGHPNEIR3ZDSA57YY/",
+    "summary": "Que se passe-t-il quand Emmanuel Macron, Donald Trump et leurs amis des pays les plus riches de la planète se retrouvent dans une station thermale militarisée ? Pendant quatre jours, «Libération» vous embarque dans la «bulle» d’Evian pour un récit de l’intérieur.",
+    "published": "2026-06-14T18:05:48+00:00",
+    "authors": [
+      "Damien Dole"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/g7-devian-plongez-dans-le-bain-grace-a-lenvoye-special-de-libe-20260614_UMALM3CSYBGHPNEIR3ZDSA57YY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907546+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Exposition : Un si bel inconnu, «rien de plus délicat »",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/culture/exposition-un-si-bel-inconnu",
+    "summary": "Les particularités de la vie de Martin Schongauer (1445-1491) sont pour nous un livre clos. La science archéologique en est réduite à des conjectures. Près de deux siècles après ce... L’article Exposition : Un si bel inconnu, «rien de plus délicat » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-06-14T18:00:40+00:00",
+    "authors": [
+      "Adrien Renouard"
+    ],
+    "categories": [
+      "Non classé",
+      "culture",
+      "exposition",
+      "musée",
+      "musée du Louvre",
+      "oeuvre d'art"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/exposition-un-si-bel-inconnu",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:50.435236+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Mort de Lyhanna : « Les solutions proposées par Gérald Darmanin ne sont pas à la hauteur du moment »",
+    "link": "https://www.lemonde.fr/idees/article/2026/06/14/mort-de-lyhanna-les-solutions-proposees-par-gerald-darmanin-ne-sont-pas-a-la-hauteur-du-moment_6702857_3232.html",
+    "summary": "Un collectif de représentants du Syndicat de la magistrature regrette, dans une tribune au « Monde », que le garde des sceaux désigne à la hâte des responsables, alors que les défaillances dont souffre la justice pour prendre en charge les violences sexuelles sur les enfants sont connues de longue date.",
+    "published": "2026-06-14T18:00:10+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/06/14/mort-de-lyhanna-les-solutions-proposees-par-gerald-darmanin-ne-sont-pas-a-la-hauteur-du-moment_6702857_3232.html",
+    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/20323ff_upload-1-hdyaafygvbv8-frame-987.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690177+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Lewis Hamilton renoue avec la victoire au Grand Prix de Barcelone, son premier succès avec Ferrari",
+    "link": "https://www.lemonde.fr/sport/article/2026/06/14/lewis-hamilton-renoue-avec-la-victoire-au-grand-prix-de-barcelone-son-premier-succes-avec-ferrari_6702824_3242.html",
+    "summary": "Le septuple champion du monde britannique a remporté, dimanche, sa première victoire au volant d’une monoplace rouge, lors de la première course non remportée par une Mercedes cette saison.",
+    "published": "2026-06-14T17:43:38+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/article/2026/06/14/lewis-hamilton-renoue-avec-la-victoire-au-grand-prix-de-barcelone-son-premier-succes-avec-ferrari_6702824_3242.html",
+    "image": "https://img.lemde.fr/2026/06/14/667/0/5147/2573/644/322/60/0/43adf8b_ftp-1-zdyxs0s1w4st-5315925-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690574+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Soulagés et heureux» : les Suisses rejettent l’initiative anti-immigration portée par l’extrême droite",
+    "link": "https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/",
+    "summary": "Combattue par le gouvernement et les principaux partis, la proposition qui visait à limiter l’immigration afin d’empêcher que la population résidente permanente dépasse les 10 millions d’habitants d’ici à 2050 a été rejetée ce dimanche 14 juin par 54 % des électeurs.",
+    "published": "2026-06-14T17:40:46+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907582+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Négociations de paix au Moyen-Orient, plafonnement des arrêts maladie, Coupe du Monde de foot… L’actu de ce week-end des 13 et 14 juin",
+    "link": "https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/",
+    "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée de ces samedi 13 juin et dimanche 14 juin.",
+    "published": "2026-06-14T17:40:16+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/negociations-de-paix-au-moyen-orient-plafonnement-des-arrets-maladie-coupe-du-monde-de-foot-lactu-de-ce-week-end-des-13-et-14-juin-20260614_BCCZE5GAIVBH7F7FOOJL7WBOZM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907609+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’éditorial de Philippe Gélie : « Donald Trump et le jeu des apparences »",
+    "link": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-et-le-jeu-des-apparences-20260614",
+    "summary": "À Évian pour le G7, Trump s’apprête à jouer les grands faiseurs de paix, fort d’un accord avec l’Iran qu’il dit imminent. Mais derrière le triomphe de façade, le chemin vers une résolution durable du conflit reste très long.",
+    "published": "2026-06-14T17:38:31+00:00",
+    "authors": [],
+    "categories": [
+      "Vox Monde"
+    ],
+    "guid": "https://www.lefigaro.fr/vox/monde/l-editorial-de-philippe-gelie-donald-trump-et-le-jeu-des-apparences-20260614",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/06/14/89b34b4261ebe9dac058be40262fbdbd2087f96f682298533f0a3bf69e5815dd.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849178+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au Nigeria, une attaque djihadiste cause 20 morts, selon un rapport de l’ONU",
+    "link": "https://www.lemonde.fr/afrique/article/2026/06/14/au-nigeria-une-attaque-djihadiste-cause-20-morts-selon-un-rapport-de-l-onu_6702823_3212.html",
+    "summary": "Les djihadistes du groupe Lakurawa ont mené un raid contre la communauté de Fesken Rafi dans le district d’Arewa, dans l’Etat de Kebbi, près de la frontière avec le Niger.",
+    "published": "2026-06-14T17:23:03+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/06/14/au-nigeria-une-attaque-djihadiste-cause-20-morts-selon-un-rapport-de-l-onu_6702823_3212.html",
+    "image": "https://img.lemde.fr/2026/06/12/435/0/5472/2736/644/322/60/0/caee0a1_ftp-1-dp3jyvefces2-5295951-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690363+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Genève, un «non» ferme au G7",
+    "link": "https://www.liberation.fr/international/europe/a-geneve-un-non-ferme-au-g7-20260614_L5W2Z5VAJ5GDHAYHUJWAFTCKEU/",
+    "summary": "A la veille du début du sommet à Evian, des milliers de personnes ont manifesté ce dimanche 14 juin en Suisse à l’appel de la coalition No-G7, sous étroite surveillance des forces de l’ordre.",
+    "published": "2026-06-14T17:17:39+00:00",
+    "authors": [
+      "Nicolas Vultier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/a-geneve-un-non-ferme-au-g7-20260614_L5W2Z5VAJ5GDHAYHUJWAFTCKEU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907636+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "En amont du G7, Trump échange au téléphone avec Poutine et Zelensky",
+    "link": "https://www.liberation.fr/international/europe/en-amont-du-g7-trump-echange-au-telephone-avec-poutine-et-zelensky-20260614_3AHAIPDSTNBJ7FQEXU5CUEBZCM/",
+    "summary": "Les deux chefs d’Etat ont appelé le président des Etats-Unis ce dimanche 14 juin, à l’occasion de ses 80 ans. Avec le chef du Kremlin, il a été convenu d’une visite d’émissaires américains en Russie qui doit avoir lieu «bientôt».",
+    "published": "2026-06-14T17:16:23+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/en-amont-du-g7-trump-echange-au-telephone-avec-poutine-et-zelensky-20260614_3AHAIPDSTNBJ7FQEXU5CUEBZCM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907667+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Suisse : l’initiative visant à plafonner le nombre d’habitants rejetée par plus de 54 % des votants",
+    "link": "https://www.lemonde.fr/international/article/2026/06/14/suisse-l-initiative-visant-a-plafonner-le-nombre-d-habitants-rejetee-par-plus-de-54-des-votants_6702822_3210.html",
+    "summary": "Cette initiative, portée par l’extrême droite, visait à limiter l’immigration afin d’empêcher que les résidents permanents soient plus de 10 millions avant 2050.",
+    "published": "2026-06-14T17:07:17+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/06/14/suisse-l-initiative-visant-a-plafonner-le-nombre-d-habitants-rejetee-par-plus-de-54-des-votants_6702822_3210.html",
+    "image": "https://img.lemde.fr/2026/06/14/889/0/5500/2750/644/322/60/0/2ce2f7d_ftp-1-o3cyqmsbw4dv-2026-06-14t115355z-1719108385-rc2ltla8gql1-rtrmadp-3-swiss-population.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690233+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Liberté 250 » : deux siècles de fraternité d’armes entre les pilotes français et américains",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/monde/liberte-250-deux-siecles-de-fraternite-darmes-entre-les-pilotes-francais-et-americains",
+    "summary": "New-York, 9 juin 2026. Ils surgirent comme une signature d’acier fendant l’azur de la côte Est. Survolant la Statue de la Liberté et la baie de New-York, pour une photo... L’article « Liberté 250 » : deux siècles de fraternité d’armes entre les pilotes français et américains est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-06-14T17:06:59+00:00",
+    "authors": [
+      "Maxime Coupeau"
+    ],
+    "categories": [
+      "Non classé",
+      "armée américaine",
+      "armée de l'Air",
+      "Général de Gaulle",
+      "seconde guerre mondiale",
+      "Washington"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/liberte-250-deux-siecles-de-fraternite-darmes-entre-les-pilotes-francais-et-americains",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:50.435297+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Nodule cancéreux disparu, pseudoscience, «univers parallèle» : j’ai infiltré Wake Up, la machine à vendre des compléments alimentaires",
+    "link": "https://www.lefigaro.fr/actualite-france/nodule-cancereux-disparu-pseudoscience-univers-parallele-j-ai-infiltre-wake-up-la-machine-a-vendre-des-complements-alimentaires-20260614",
+    "summary": "ENQUÊTE (1/2) - Pendant près de deux mois, un journaliste du Figaro est devenu vendeur dans une entreprise de marketing relationnel au discours antisystème, où les fausses promesses sont légion.",
+    "published": "2026-06-14T17:05:00+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/nodule-cancereux-disparu-pseudoscience-univers-parallele-j-ai-infiltre-wake-up-la-machine-a-vendre-des-complements-alimentaires-20260614",
+    "image": "https://i.f1g.fr/media/cms/2962x1666_crop/2026/06/12/d1ff5b346e4d9ddadb262dccef8925ba34b9de9d7f097e840bd46a76e43aad74.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849247+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Sur les retraites, Le Pen fixe la ligne et renvoie Bardella à son statut de second",
+    "link": "https://www.liberation.fr/politique/sur-les-retraites-le-pen-fixe-la-ligne-et-renvoie-bardella-a-son-statut-de-second-20260614_2JR3SXOC5FAKNEIJRUULXI6GPU/",
+    "summary": "Invitée ce dimanche midi sur France 3, la patronne du Rassemblement national a confirmé que son parti défendait toujours le retour à un âge de départ à 62 ans. Son héritier avait pourtant expliqué que «l’âge légal ne veut rien dire».",
+    "published": "2026-06-14T17:00:53+00:00",
+    "authors": [
+      "Lilian Alemagna"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/sur-les-retraites-le-pen-fixe-la-ligne-et-renvoie-bardella-a-son-statut-de-second-20260614_2JR3SXOC5FAKNEIJRUULXI6GPU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907698+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Violences sexuelles dans le périscolaire : « La République doit donner aux acteurs de la protection de l’enfance les moyens d’assumer pleinement leur mission »",
+    "link": "https://www.lemonde.fr/idees/article/2026/06/14/violences-sexuelles-dans-le-periscolaire-la-republique-doit-donner-aux-acteurs-de-la-protection-de-l-enfance-les-moyens-d-assumer-pleinement-leur-mission_6702789_3232.html",
+    "summary": "Dans une tribune au « Monde », un collectif formé à l’initiative de parents de victimes appelle à une véritable prise de conscience et à des choix politiques forts pour assurer une protection effective des enfants et faire de leur sécurité « une exigence permanente de notre société ».",
+    "published": "2026-06-14T17:00:03+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/06/14/violences-sexuelles-dans-le-periscolaire-la-republique-doit-donner-aux-acteurs-de-la-protection-de-l-enfance-les-moyens-d-assumer-pleinement-leur-mission_6702789_3232.html",
+    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3542fe8_upload-1-91mvclxd2fsp-frame-845.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690072+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Vague de chaleur ou canicule : des températures extrêmes en France pendant plusieurs jours dès lundi 15 juin",
+    "link": "https://www.liberation.fr/environnement/climat/vague-de-chaleur-ou-canicule-des-temperatures-extremes-en-france-pendant-plusieurs-jours-des-lundi-15-juin-20260614_KTDFJPYP5JF55HP5VHSVHQSZ74/",
+    "summary": "Après l’épisode précoce de la fin mai, le pays va de nouveau devenir une fournaise, d’abord au Sud puis sur l’ensemble du territoire. A partir de mercredi, il fera plus chaud qu’à la fin du mois de mai mais il est encore trop tôt pour qualifier le phénomène.",
+    "published": "2026-06-14T16:58:16+00:00",
+    "authors": [
+      "Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/vague-de-chaleur-ou-canicule-des-temperatures-extremes-en-france-pendant-plusieurs-jours-des-lundi-15-juin-20260614_KTDFJPYP5JF55HP5VHSVHQSZ74/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907731+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Tennis de table : Félix Lebrun a de nouveau l’aval sur son frère Alexis en finale des championnats de France",
+    "link": "https://www.liberation.fr/sports/ou-et-quand-voir-ce-dimanche-la-finale-des-freres-lebrun-ce-dimanche-aux-championnats-de-france-de-tennis-de-table-20260614_ZA3ZSVAJY5CLVPJ55QR75CCS3E/",
+    "summary": "Le 4e duel fratricide au sommet ce dimanche 14 juin à Laval a encore tourné à l’avantage du cadet, 4e joueur mondial, qui obtient sa seconde couronne française d’affilée en gagnant 4 sets à 2. Côté femmes, Prithika Pavade a été sacrée pour la deuxième fois.",
+    "published": "2026-06-14T16:55:56+00:00",
+    "authors": [
+      "Quentin Descamps"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/ou-et-quand-voir-ce-dimanche-la-finale-des-freres-lebrun-ce-dimanche-aux-championnats-de-france-de-tennis-de-table-20260614_ZA3ZSVAJY5CLVPJ55QR75CCS3E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907764+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Nantes ensanglantée : le traumatisme d’une ville devenue champ de bataille des narcos",
+    "link": "https://www.lefigaro.fr/nantes/des-nantais-se-reveillent-avec-des-impacts-dans-la-cuisine-dans-l-enfer-d-un-printemps-sous-les-balles-20260613",
+    "summary": "RÉCIT - Le narcotrafic frappe durement Nantes : en cinq semaines, quatre morts sont à déplorer. Dans les quartiers touchés, la peur s’installe chez les riverains.",
+    "published": "2026-06-14T16:54:53+00:00",
+    "authors": [],
+    "categories": [
+      "Nantes"
+    ],
+    "guid": "https://www.lefigaro.fr/nantes/des-nantais-se-reveillent-avec-des-impacts-dans-la-cuisine-dans-l-enfer-d-un-printemps-sous-les-balles-20260613",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/12/6047ff3ef2908e684bcd20b2d4d89d1b29f9a28f2ed7e31d446d5f1fd1beb72a.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849361+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Iran : la nécessaire amnistie, par Fariba Adelkhah",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/iran-la-necessaire-amnistie-par-fariba-adelkhah-20260614_C3X5O2TTU5CGJGEYFYITS6U2DU/",
+    "summary": "Après quarante-cinq ans d’exécutions, de tortures, d’emprisonnements, d’exils, la haine ronge chaque famille, chaque quartier. Il serait temps de dépasser différences et divergences, de tourner la page, plaide l’anthropologue franco-iranienne.",
+    "published": "2026-06-14T16:47:36+00:00",
+    "authors": [
+      "Fariba Adelkhah"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/iran-la-necessaire-amnistie-par-fariba-adelkhah-20260614_C3X5O2TTU5CGJGEYFYITS6U2DU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907792+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Ukraine, de nouvelles mesures annoncées pour répondre à la crise des effectifs dans l’armée",
+    "link": "https://www.lemonde.fr/international/article/2026/06/14/en-ukraine-de-nouvelles-mesures-annoncees-pour-repondre-a-la-crise-des-effectifs-dans-l-armee_6702756_3210.html",
+    "summary": "Augmentation des soldes, contrats à durée déterminée, démarches facilitées pour changer d’unité : la présidence ukrainienne et le ministère de la défense viennent d’annoncer une réforme majeure pour enrayer les désertions et encourager les nouvelles recrues.",
+    "published": "2026-06-14T16:37:56+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/06/14/en-ukraine-de-nouvelles-mesures-annoncees-pour-repondre-a-la-crise-des-effectifs-dans-l-armee_6702756_3210.html",
+    "image": "https://img.lemde.fr/2026/06/14/627/0/4300/2150/644/322/60/0/5f9a8ca_upload-1-gohcxrlxnybf-sloviansk-kramatorsk-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690123+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Au sommet du G7, Trump compte sur le soutien de ses alliés dans l’attente d’un «deal» avec l’Iran",
+    "link": "https://www.lefigaro.fr/international/au-sommet-du-g7-trump-compte-sur-le-soutien-de-ses-allies-dans-l-attente-d-un-deal-avec-l-iran-20260614",
+    "summary": "Le président américain doit obtenir le soutien de ses partenaires pour régler une crise qu’il a lui-même déclenchée.",
+    "published": "2026-06-14T16:35:34+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/au-sommet-du-g7-trump-compte-sur-le-soutien-de-ses-allies-dans-l-attente-d-un-deal-avec-l-iran-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/06/14/143a9c28d866b716decf4007585e9126a982e24139c831f220beb4a5fe426ef0.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849201+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Il se présentait comme un pseudo docteur» : un ancien dirigeant du FC Gueugnon accusé de pédocriminalité dans les années 80",
+    "link": "https://www.liberation.fr/societe/police-justice/il-se-presentait-comme-un-pseudo-docteur-un-ancien-dirigeant-du-fc-gueugnon-accuse-de-pedocriminalite-dans-les-annees-80-20260614_WP7N3KLLAVFIXNZVVC6RHJPM5M/",
+    "summary": "Selon une enquête du «Journal de Saône-et-Loire» (JSL), l’ex-dirigeant, aujourd’hui décédé, est accusé d’agressions sexuelles et de viols contre de très jeunes enfants qui s’entraînaient au club.",
+    "published": "2026-06-14T16:35:01+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/il-se-presentait-comme-un-pseudo-docteur-un-ancien-dirigeant-du-fc-gueugnon-accuse-de-pedocriminalite-dans-les-annees-80-20260614_WP7N3KLLAVFIXNZVVC6RHJPM5M/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.907822+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Cet accord récompenserait l’intransigeance iranienne » : entre Washington et Téhéran, une mauvaise paix préparerait la prochaine guerre",
+    "link": "https://www.lefigaro.fr/international/cet-accord-recompenserait-l-intransigeance-iranienne-entre-washington-et-teheran-une-mauvaise-paix-preparerait-la-prochaine-guerre-20260614",
+    "summary": "ANALYSE - Le mémorandum qui pourrait être signé entre les États-Unis et l’Iran peut être considéré comme une défaite pour Donald Trump.",
+    "published": "2026-06-14T16:23:56+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/cet-accord-recompenserait-l-intransigeance-iranienne-entre-washington-et-teheran-une-mauvaise-paix-preparerait-la-prochaine-guerre-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/06/14/93f329d7337e2922d5ee826ca99def9dd969200994211bbc79aec956a9e1cf3e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849120+00:00"
+  },
+  {
     "source": "Mediapart",
     "title": "«Tout le monde met des œillères»: un policier raconte sa corruption par des narcotrafiquants (2/2)",
     "link": "https://www.mediapart.fr/journal/france/140626/tout-le-monde-met-des-oeilleres-un-policier-raconte-sa-corruption-par-des-narcotrafiquants-22",
@@ -9,37 +609,37 @@
       "Pascale Pascariello"
     ],
     "categories": [
-      "France",
+      "Sur un fil",
       "Corruption, narcotrafic, Police"
     ],
     "guid": "1326690 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/10/sur-un-fil-chapo-ep02.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727128+00:00"
+    "fetched_at": "2026-06-14T19:27:49.779835+00:00"
   },
   {
     "source": "Mediapart",
     "title": "«Pourquoi pas moi?»: un policier raconte sa corruption par des narcotrafiquants (1/2)",
     "link": "https://www.mediapart.fr/journal/france/140626/pourquoi-pas-moi-un-policier-raconte-sa-corruption-par-des-narcotrafiquants-12",
-    "summary": "Pour «Sur un fil», une nouvelle série de podcasts, «Mediapart» a recueilli le témoignage rare d'un policier, Laurent, qui fournit depuis des années des informations secrètes à des trafiquants de drogue, moyennant finances. Il explique comment et pourquoi il en est arrivé là, en s’arrangeant avec sa conscience.",
+    "summary": "Pour «Sur un fil», une nouvelle série de podcasts, «Mediapart» a recueilli le témoignage rare d’un policier, Laurent, qui fournit depuis des années des informations secrètes à des trafiquants de drogue, moyennant finances. Il explique comment et pourquoi il en est arrivé là, en s’arrangeant avec sa conscience.",
     "published": "2026-06-14T16:19:41+00:00",
     "authors": [
       "Pascale Pascariello"
     ],
     "categories": [
-      "France",
-      "Corruption, narcotrafic, Police"
+      "Sur un fil",
+      "A la Une, Corruption, narcotrafic, Police"
     ],
     "guid": "1326682 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/10/sur-un-fil-chapo-ep01.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727167+00:00"
+    "fetched_at": "2026-06-14T19:27:49.779877+00:00"
   },
   {
     "source": "Mediapart",
     "title": "Donald Trump réprouve les frappes israéliennes de dimanche sur le Liban",
     "link": "https://www.mediapart.fr/journal/international/140626/donald-trump-reprouve-les-frappes-israeliennes-de-dimanche-sur-le-liban",
-    "summary": "Les frappes israéliennes dimanche sur Beyrouth «n’auraient pas dû avoir lieu», a regretté dimanche Donald Trump, alors qu’il espérait parvenir à arracher le principe d’un accord avec l’Iran le jour de son anniversaire.",
+    "summary": "Les frappes israéliennes dimanche sur Beyrouth «n’auraient pas dû avoir lieu», a regretté dimanche Donald Trump, alors qu’il espérait parvenir à arracher le principe d’un accord avec l’Iran dimanche, jour de son anniversaire.",
     "published": "2026-06-14T16:12:05+00:00",
     "authors": [
       "La rédaction de Mediapart, Agence France-Presse"
@@ -51,7 +651,7 @@
     "guid": "1327970 at https://www.mediapart.fr/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727199+00:00"
+    "fetched_at": "2026-06-14T19:27:49.779911+00:00"
   },
   {
     "source": "Le Figaro",
@@ -66,7 +666,7 @@
     "guid": "https://www.lefigaro.fr/international/suisse-vers-un-rejet-de-l-initiative-anti-immigration-20260614",
     "image": "https://i.f1g.fr/media/cms/orig/2026/06/14/a48d8ea428862a9f86c99b81a22511359f0ab6c0e43fd2368fa138bb6dca510c.JPG",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.688948+00:00"
+    "fetched_at": "2026-06-14T19:27:49.849488+00:00"
   },
   {
     "source": "Le Figaro",
@@ -85,36 +685,6 @@
   },
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Guerre au Moyen-Orient : l’Iran accuse les États-Unis de ne pas respecter leurs engagements, Trump appelle à la fin des attaques israéliennes sur Beyrouth",
-    "link": "https://www.lefigaro.fr/international/guerre-moyen-orient-iran-trump-arme-nucleaire-ormuz-etats-unis-accord-de-paix-pakistan-20260614",
-    "summary": "Le principal négociateur iranien a accusé dimanche les États-Unis de ne pas respecter leurs engagements après des frappes israéliennes sur le sud de Beyrouth qui risquent de compromettre, selon lui, les pourparlers entre Téhéran et Washington.",
-    "published": "2026-06-14T16:04:03+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/guerre-moyen-orient-iran-trump-arme-nucleaire-ormuz-etats-unis-accord-de-paix-pakistan-20260614",
-    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/14/e04321ae4d61d31c825e6f9f2b0fc1672fedf88f269f3d42cc981ec5e6a5d92f.jpg",
-    "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.689098+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT - Guerre au Moyen-Orient : Trump déclare que les frappes israéliennes contre le Liban «n’auraient pas dû avoir lieu», Téhéran menace de stopper les pourparlers",
-    "link": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
-    "summary": "Le président américain espère pouvoir signer un accord ce dimanche, jour de ses 80 ans. Mais la frappe mortelle d’Israël sur la banlieue sud de Beyrouth pourrait contrecarrer ses projets, Téhéran accusant les Etats-Unis de ne pas tenir ses engagements.",
-    "published": "2026-06-14T16:01:28+00:00",
-    "authors": [
-      "Libération ., Service Photo, AFP ., Reuters ., Eve Roger, Arthur Louis"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/moyen-orient/en-direct-guerre-au-moyen-orient-donald-trump-assure-quun-accord-sera-signe-ce-dimanche-avec-liran-jour-de-son-anniversaire-20260614_GH5F2EVEKBHQ7C3C2ML4A6ER2Q/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.924994+00:00"
-  },
-  {
-    "source": "Le Figaro",
     "title": "Paris: deux hommes mis en examen pour tentative d'extorsion sur un producteur de rap",
     "link": "https://www.lefigaro.fr/faits-divers/paris-deux-hommes-mis-en-examen-pour-tentative-d-extorsion-sur-un-producteur-de-rap-20260614",
     "summary": "La victime a déposé plainte après plusieurs tentatives d’intimidation possiblement en lien avec le gang de narcotrafiquants DZ Mafia.",
@@ -127,6 +697,39 @@
     "image": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/06/14/fbc84c8833bf6a5b8adf2e9a99cf6a4b15664e3a31ac6e3651625c847d310dd0.jpg",
     "full_text": null,
     "fetched_at": "2026-06-14T16:22:50.689307+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Intelligence artificielle : “Allonger la vie augmente la taille des questions”",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/intelligence-artificielle-allonger-la-vie-augmente-la-taille-des-questions",
+    "summary": "Les champions de l’intelligence artificielle l’assurent : il faudra moins de dix ans pour porter l’espérance de vie à 160 ans et guère plus de temps pour rendre l’homme immortel.... L’article Intelligence artificielle : “Allonger la vie augmente la taille des questions” est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-06-14T16:00:16+00:00",
+    "authors": [
+      "Adrien Renouard"
+    ],
+    "categories": [
+      "Non classé",
+      "chatgpt",
+      "intelligence artificielle",
+      "transhumanisme"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/intelligence-artificielle-allonger-la-vie-augmente-la-taille-des-questions",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:50.435358+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "L’Auberge Port-Gitana, une escale de style sur le lac Léman",
+    "link": "https://www.lemonde.fr/m-styles/article/2026/06/14/l-auberge-port-gitana-une-escale-de-style-sur-le-lac-leman_6702753_4497319.html",
+    "summary": "La commune de Bellevue, au nord de Genève, a ressuscité l’esprit du pavillon construit en 1875 par Julie de Rothschild. L’Auberge Port-Gitana accueille aussi bien les clients de passage qui séjournent dans l’une des 18 chambres pour explorer les environs que les riverains qui viennent dîner en profitant de la vue sur le lac.",
+    "published": "2026-06-14T16:00:13+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/m-styles/article/2026/06/14/l-auberge-port-gitana-une-escale-de-style-sur-le-lac-leman_6702753_4497319.html",
+    "image": "https://img.lemde.fr/2026/06/03/581/0/1125/562/644/322/60/0/b186760_ftp-1-uvcvavoptvp4-430737-3474790.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690473+00:00"
   },
   {
     "source": "Le Figaro",
@@ -156,7 +759,7 @@
     "guid": "https://www.liberation.fr/culture/arts/art-contemporain/leandro-erlich-au-grand-palais-lart-est-laventure-dans-laquelle-tu-peux-faillir-sans-que-ce-soit-grave-20260614_BJYM3B3OAJFYLM2JVW26HLTVKE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925033+00:00"
+    "fetched_at": "2026-06-14T19:27:49.907857+00:00"
   },
   {
     "source": "Le Monde",
@@ -169,22 +772,7 @@
     "guid": "https://www.lemonde.fr/afrique/article/2026/06/14/le-president-du-somaliland-abdirahman-mohamed-abdullahi-a-reserve-sa-premiere-visite-d-etat-a-israel_6702750_3212.html",
     "image": "https://img.lemde.fr/2026/06/14/428/0/5131/2565/644/322/60/0/52d2501_ftp-1-mkbseq2mt62a-dceaee2083854b47b68ba917bbf88e1f-0-f8a3edff6bca43daa73aedfb43bcb94d.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.689783+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Où voir la finale des frères Lebrun aux championnats de France 2026 de tennis de table ?",
-    "link": "https://www.liberation.fr/sports/ou-et-quand-voir-ce-dimanche-la-finale-des-freres-lebrun-ce-dimanche-aux-championnats-de-france-de-tennis-de-table-20260614_ZA3ZSVAJY5CLVPJ55QR75CCS3E/",
-    "summary": "Le quatrième duel fratricide en finale est programmé ce dimanche 14 juin à partir de 18h sur France 3. Félix et Alexis ont respectivement écarté en demi-finales Flavien Coton et Simon Gauzy. Côté femmes, Prithika Pavade a été sacrée pour la deuxième fois.",
-    "published": "2026-06-14T15:55:47+00:00",
-    "authors": [
-      "Libération ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/sports/ou-et-quand-voir-ce-dimanche-la-finale-des-freres-lebrun-ce-dimanche-aux-championnats-de-france-de-tennis-de-table-20260614_ZA3ZSVAJY5CLVPJ55QR75CCS3E/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925069+00:00"
+    "fetched_at": "2026-06-14T19:27:49.690323+00:00"
   },
   {
     "source": "Le Monde",
@@ -201,16 +789,16 @@
   },
   {
     "source": "Le Monde",
-    "title": "G7 à Evian : des milliers de manifestants à Genève à l’appel de la coalition « No-G7 », pour une « riposte » face au « fascisme » et à « l’impérialisme »",
+    "title": "G7 à Evian : des milliers de personnes ont défilé à Genève à l’appel de la coalition No-G7 ; de multiples affrontements ont opposé des manifestants à la police",
     "link": "https://www.lemonde.fr/international/article/2026/06/14/g7-a-evian-des-milliers-de-manifestants-a-geneve-a-l-appel-de-la-coalition-no-g7-pour-une-riposte-face-au-fascisme-et-a-l-imperialisme_6702748_3210.html",
-    "summary": "Les autorités suisses ont engagé un important dispositif pour contenir tout débordement et éviter une répétition du fiasco du G8 de 2003, dans la station thermale française, où des groupes violents avaient provoqué émeutes, pillages et affrontements.",
+    "summary": "Les autorités suisses ont engagé un important dispositif pour contenir tout débordement et éviter une répétition du fiasco du G8 de 2003, qui se tenait dans la même station thermale française, lors duquel des groupes violents avaient provoqué émeutes, pillages et affrontements à Genève et à Lausanne.",
     "published": "2026-06-14T15:49:17+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/international/article/2026/06/14/g7-a-evian-des-milliers-de-manifestants-a-geneve-a-l-appel-de-la-coalition-no-g7-pour-une-riposte-face-au-fascisme-et-a-l-imperialisme_6702748_3210.html",
-    "image": "https://img.lemde.fr/2026/06/14/540/0/6704/3352/644/322/60/0/626d88b_ftp-1-jk2u4yej2gns-5315777-01-06.jpg",
+    "image": "https://img.lemde.fr/2026/06/14/577/0/6921/3460/644/322/60/0/fb84513_ftp-1-md1sg0zrveum-5317936-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.689629+00:00"
+    "fetched_at": "2026-06-14T19:27:49.689863+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -230,7 +818,7 @@
     "guid": "https://www.valeursactuelles.com/monde/tribune-jean-messiha-la-nuit-des-longs-couteaux-belfast-ou-le-cri-dun-peuple-quon-pretend-fantome",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:51.840707+00:00"
+    "fetched_at": "2026-06-14T19:27:50.435403+00:00"
   },
   {
     "source": "Le Figaro",
@@ -260,7 +848,7 @@
     "guid": "https://www.liberation.fr/culture/scenes/la-parabole-du-seum-rebecca-chaillon-en-connait-un-rayon-20260614_LDO4BSNLJBGLLLLPPBPAEMXMQI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925099+00:00"
+    "fetched_at": "2026-06-14T19:27:49.907889+00:00"
   },
   {
     "source": "Le Figaro",
@@ -276,6 +864,19 @@
     "image": "https://i.f1g.fr/media/cms/orig/2026/06/14/0e6683f2b4527e37545f8ab8a4ea74eec7fd8999686ef9f88ab0a7ce9f44f0fe.JPG",
     "full_text": null,
     "fetched_at": "2026-06-14T16:22:50.689450+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : à vélo sur les routes de France, la campagne décalée d’un candidat « citoyen »",
+    "link": "https://www.lemonde.fr/politique/article/2026/06/14/presidentielle-2027-a-velo-sur-les-routes-de-france-la-campagne-decalee-d-un-candidat-citoyen_6702744_823448.html",
+    "summary": "A 27 ans, Benoît Mathieu, qui souhaite replacer les citoyens au cœur des décisions, s’est lancé dans une campagne atypique pour rencontrer des maires et tenter de recueillir les 500 parrainages nécessaires à sa candidature.",
+    "published": "2026-06-14T15:15:17+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/06/14/presidentielle-2027-a-velo-sur-les-routes-de-france-la-campagne-decalee-d-un-candidat-citoyen_6702744_823448.html",
+    "image": "https://img.lemde.fr/2026/06/07/510/0/4080/2040/644/322/60/0/f581654_upload-1-h604wgdbjksx-20260519-180303.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690283+00:00"
   },
   {
     "source": "Le Figaro",
@@ -318,7 +919,7 @@
     "guid": "https://www.liberation.fr/politique/cest-maintenant-que-ca-se-joue-quatre-maires-appellent-a-lunion-de-la-gauche-20260614_VAJZGW7GJJFABPLKK26K6FCJAQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925136+00:00"
+    "fetched_at": "2026-06-14T19:27:49.907927+00:00"
   },
   {
     "source": "Libération",
@@ -333,7 +934,7 @@
     "guid": "https://www.liberation.fr/sports/cyclisme/tour-auvergne-rhone-alpes-paul-seixas-finit-par-lacher-laffaire-a-trois-semaines-du-tour-de-france-20260614_DZQMZEH3O5B7XORCUCOWS7TZTU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925167+00:00"
+    "fetched_at": "2026-06-14T19:27:49.907976+00:00"
   },
   {
     "source": "Libération",
@@ -348,7 +949,22 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/guerre-au-liban-beyrouth-accuse-israel-davoir-pulverise-du-glyphosate-a-sa-frontiere-et-saisit-lonu-20260614_3Z77XOFYUFALDPXDE3LNNJO5ZY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925198+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908006+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Mounjaro, Wegovy… Le phénomène des médicaments antiobésité s’installe en France",
+    "link": "https://www.lefigaro.fr/societes/mounjaro-wegovy-le-phenomene-des-medicaments-antiobesite-s-installe-en-france-20260614",
+    "summary": "Ces deux traitements sont désormais remboursés par la Sécurité sociale pour les personnes obèses ou diabétiques.",
+    "published": "2026-06-14T15:10:00+00:00",
+    "authors": [],
+    "categories": [
+      "Entreprises"
+    ],
+    "guid": "https://www.lefigaro.fr/societes/mounjaro-wegovy-le-phenomene-des-medicaments-antiobesite-s-installe-en-france-20260614",
+    "image": "https://i.f1g.fr/media/cms/3000x2150_crop/2026/06/14/f38ebe116618223f922886452091eba53687d9e4b660debc7073cb90328e18a3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849269+00:00"
   },
   {
     "source": "Libération",
@@ -363,7 +979,7 @@
     "guid": "https://www.liberation.fr/societe/education/baccalaureat-et-vague-de-chaleur-le-ministre-de-leducation-nationale-bricole-sur-les-horaires-20260614_PGELQGJBEVG3VPFUARGPBEU5DU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925232+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908040+00:00"
   },
   {
     "source": "Le Figaro",
@@ -412,7 +1028,20 @@
     "guid": "https://www.valeursactuelles.com/societe/lfi-maintient-son-meeting-pro-palestinien-avec-medine-a-strasbourg",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:51.840764+00:00"
+    "fetched_at": "2026-06-14T19:27:50.435452+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, Allemagne-Curaçao : la Mannschaft impitoyable avec le petit poucet de la Coupe du monde 2026",
+    "link": "https://www.lemonde.fr/sport/live/2026/06/14/en-direct-allemagne-curacao-suivez-le-match-de-la-coupe-du-monde-de-football_6702710_3242.html",
+    "summary": "L’Allemagne a idéalement lancé sa Coupe du monde, dimanche à Houston, face à Curaçao (7-1). L’île caribéenne, qui disputait le premier match de son histoire dans un Mondial est parvenue à inscrire un but.",
+    "published": "2026-06-14T15:00:21+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/live/2026/06/14/en-direct-allemagne-curacao-suivez-le-match-de-la-coupe-du-monde-de-football_6702710_3242.html",
+    "image": "https://img.lemde.fr/2026/06/14/1059/0/7607/3803/644/322/60/0/013da1d_ftp-1-ljiofwluxuof-5318455-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690011+00:00"
   },
   {
     "source": "Le Monde",
@@ -440,7 +1069,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/nous-sommes-face-a-une-montee-de-la-radicalite-et-de-la-violence-la-galaxie-d-ultragauche-en-pleine-mutation-prend-le-chemin-de-l-action-directe-20260614",
     "image": "https://i.f1g.fr/media/cms/2915x1640_crop/2026/06/14/c0103ee641e6b051d163c33a058978d4ee3ac443d5c29780eab514e3f80df1c2.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.689211+00:00"
+    "fetched_at": "2026-06-14T19:27:49.849519+00:00"
   },
   {
     "source": "Mediapart",
@@ -458,7 +1087,7 @@
     "guid": "1315012 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/13/athanor-djalil-m-1-jpg.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727226+00:00"
+    "fetched_at": "2026-06-14T19:27:49.779973+00:00"
   },
   {
     "source": "Mediapart",
@@ -476,22 +1105,7 @@
     "guid": "1327928 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2024/03/14/20240314-img-infanticide-de-lisa-au-coeur-de-l-enquete-les-responsabilites-des-adulte-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727259+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT - Coupe du monde, jour 4 : l’Allemagne s’apprête à affronter Curaçao, qui entame son premier Mondial",
-    "link": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/",
-    "summary": "Matchs, reportages, portraits… Retrouvez toute l’actualité de la Coupe du monde 2026 au fil de la journée par nos envoyés spéciaux en Amérique du Nord et nos journalistes sportifs.",
-    "published": "2026-06-14T14:29:05+00:00",
-    "authors": [
-      "Sylvain Mouillard, AFP ., Reuters ., Louis Moulin, Johanna Luyssen"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/sports/football/en-direct-coupe-du-monde-jour-4-lequipe-iranienne-attendue-sur-le-sol-americain-avant-son-match-contre-la-nouvelle-zelande-lundi-20260614_FVSFHGYD55AS3IQVKNSKC3I4Z4/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925259+00:00"
+    "fetched_at": "2026-06-14T19:27:49.780015+00:00"
   },
   {
     "source": "Le Monde",
@@ -526,7 +1140,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/art-de-vivre/le-printemps-de-la-peugeot-408",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:51.840812+00:00"
+    "fetched_at": "2026-06-14T19:27:50.435505+00:00"
   },
   {
     "source": "Le Monde",
@@ -569,7 +1183,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-ce-que-contient-le-protocole-daccord-20260613_FFO7VY2XTFGEDHHI72OD4GGI7E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925286+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908067+00:00"
   },
   {
     "source": "Le Figaro",
@@ -644,7 +1258,7 @@
     "guid": "https://www.liberation.fr/culture/livres/leau-comme-la-foudre-de-laure-pfeffer-lu-par-judith-soria-archiviste-20260614_RROWT44NMNBCDOWARJP4GXC7PE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925308+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908090+00:00"
   },
   {
     "source": "Le Monde",
@@ -657,7 +1271,7 @@
     "guid": "https://www.lemonde.fr/sport/article/2026/06/14/paul-seixas-abandonne-lors-de-la-derniere-etape-du-tour-auvergne-rhone-alpes-a-trois-semaines-du-tour-de-france_6702635_3242.html",
     "image": "https://img.lemde.fr/2026/06/14/160/0/2400/1200/644/322/60/0/e862adb_ftp-1-yn87zvwy865t-5314973-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.689900+00:00"
+    "fetched_at": "2026-06-14T19:27:49.690614+00:00"
   },
   {
     "source": "Le Monde",
@@ -685,7 +1299,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/dans-sa-course-aux-mineraux-critiques-le-g7-ne-peut-ignorer-les-droits-des-peuples-autochtones-20260614_AVKTQIV6KBE6FNBZV7G3YBAW74/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925338+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908120+00:00"
   },
   {
     "source": "Le Monde",
@@ -713,7 +1327,7 @@
     "guid": "https://www.liberation.fr/culture/ils-sont-en-train-de-tout-casser-a-saint-nazaire-habitants-et-elus-se-mobilisent-contre-la-fermeture-du-centre-dart-contemporain-20260614_HJZM3YSQVRHDFIAGJIXXTZDE7Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925367+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908150+00:00"
   },
   {
     "source": "Libération",
@@ -728,7 +1342,7 @@
     "guid": "https://www.liberation.fr/portraits/melanie-berger-resistante-et-si-bien-20260614_V4DQ2KOSIBDJ5EPK4CHNMV2U5U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925388+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908171+00:00"
   },
   {
     "source": "Libération",
@@ -743,7 +1357,7 @@
     "guid": "https://www.liberation.fr/international/europe/un-mort-et-neuf-blesses-dans-une-attaque-de-drones-ukrainiens-contre-un-immeuble-dhabitation-russe-20260614_QI3HHAFIKNBMNLLLLM6KY5IJ4A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925411+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908196+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -765,7 +1379,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/livre-apocalypse-now-une-fin-du-monde-sans-importance-volume-3",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:51.840852+00:00"
+    "fetched_at": "2026-06-14T19:27:50.435548+00:00"
   },
   {
     "source": "Le Monde",
@@ -821,7 +1435,7 @@
     "guid": "https://www.liberation.fr/societe/education/au-bac-le-niveau-de-maitrise-du-francais-plus-sanctionne-la-langue-cest-un-peu-la-religion-de-notre-pays-laique-peu-pratiquee-mais-veneree-20260614_IULSFDGURZFTLDFDBR65UJIV34/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925443+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908230+00:00"
   },
   {
     "source": "Le Monde",
@@ -852,21 +1466,6 @@
     "fetched_at": "2026-06-14T14:04:46.068583+00:00"
   },
   {
-    "source": "Libération",
-    "title": "«Soulagés et heureux» : vers un rejet dans les urnes de l’initiative anti-immigration en Suisse",
-    "link": "https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/",
-    "summary": "Selon une projection publiée par l’institut de sondage gfs.bern après la fermeture des bureaux de vote, la proposition portée par l’extrême droite et baptisée «Non à une Suisse à 10 millions d’habitants» devrait être repoussée à 55%.",
-    "published": "2026-06-14T12:03:40+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/europe/une-tendance-au-non-vers-un-rejet-dans-les-urnes-de-linitiative-anti-immigration-en-suisse-20260614_GHTYCJEJRFHIDGAATRULSW63XY/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925472+00:00"
-  },
-  {
     "source": "Valeurs actuelles",
     "title": "Déjà sous l’empereur Néron, une émeute après les jeux",
     "link": "https://www.valeursactuelles.com/clubvaleurs/histoire/deja-sous-lempereur-neron-une-emeute-apres-les-jeux",
@@ -886,7 +1485,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/deja-sous-lempereur-neron-une-emeute-apres-les-jeux",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:51.840898+00:00"
+    "fetched_at": "2026-06-14T19:27:50.435598+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -906,7 +1505,7 @@
     "guid": "https://www.valeursactuelles.com/societe/affaire-lyhanna-83-des-francais-sont-pour-la-castration-chimique-des-pedocriminels",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:51.840960+00:00"
+    "fetched_at": "2026-06-14T19:27:50.435647+00:00"
   },
   {
     "source": "Le Monde",
@@ -975,7 +1574,7 @@
     "guid": "https://www.liberation.fr/economie/medias/plusieurs-temoins-dun-documentaire-sur-patrick-bruel-se-plaignent-davoir-ete-diffuses-sur-cnews-sans-avoir-ete-prevenus-20260614_WAHG7EGAG5ACNDW7A5ZJOMBFQY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925501+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908264+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -994,7 +1593,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/lia-a-lecole-lultime-lavage-de-cerveau-pour-les-eleves",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:51.840997+00:00"
+    "fetched_at": "2026-06-14T19:27:50.435686+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1028,7 +1627,7 @@
     "guid": "https://www.liberation.fr/societe/sante/nicolas-demorand-revele-dans-telerama-avoir-ete-interne-sans-son-consentement-20260614_76BFP7VAWNHQND3OAVFFYS3BCI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925531+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908294+00:00"
   },
   {
     "source": "Mediapart",
@@ -1046,7 +1645,7 @@
     "guid": "1327692 at https://www.mediapart.fr/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727294+00:00"
+    "fetched_at": "2026-06-14T19:27:49.780051+00:00"
   },
   {
     "source": "Mediapart",
@@ -1064,7 +1663,7 @@
     "guid": "1326895 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/11/260611-img-l-esprit-critique-litterature-le-cas-sansal-la-mecanique-du-travail-et-de-bonnes-nouvelles.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727319+00:00"
+    "fetched_at": "2026-06-14T19:27:49.780077+00:00"
   },
   {
     "source": "Le Monde",
@@ -1105,12 +1704,12 @@
     ],
     "categories": [
       "Écologie",
-      "A la Une, Agriculture et alimentation, Monsanto, OGM, propriété intellectuelle"
+      "Agriculture et alimentation, Monsanto, OGM, propriété intellectuelle"
     ],
     "guid": "1327497 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/12/260612-img-nouveaux-ogm-ultime-bataille-europeenne-contre-la-brevetabilite-du-vivant.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727348+00:00"
+    "fetched_at": "2026-06-14T19:27:49.780106+00:00"
   },
   {
     "source": "Mediapart",
@@ -1123,12 +1722,12 @@
     ],
     "categories": [
       "France",
-      "A la Une, Agriculture et alimentation, NGT"
+      "Agriculture et alimentation, NGT"
     ],
     "guid": "1327812 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/14/20260614-img-plus-de-brevets-moins-de-tracabilite-des-semenciers-francais-s-inquietent.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727377+00:00"
+    "fetched_at": "2026-06-14T19:27:49.780134+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1173,7 +1772,7 @@
     "guid": "https://www.liberation.fr/societe/veronique-bechu-ancienne-de-la-brigade-des-mineurs-en-2025-105-millions-de-contenus-issus-de-lexploitation-sexuelle-de-mineurs-ont-ete-decouverts-dans-le-monde-20260614_XFXTXKDVVBA3BJNIEYWQ27V4BY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925565+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908330+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1223,7 +1822,7 @@
     "guid": "https://www.liberation.fr/international/desequilibres-economiques-aide-au-developpement-minerais-critiques-dans-lombre-de-liran-un-g7-devian-tres-charge-20260614_Y3VPA6A3NFENRFAKJK5DRNFNKQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925593+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908361+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1253,7 +1852,7 @@
     "guid": "https://www.liberation.fr/culture/livres/celle-quon-appelle-emily-de-maria-navarro-skaranger-galeres-en-gestation-20260614_POZFK234S5DYPO4ZRWVKPDFBYI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925619+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908387+00:00"
   },
   {
     "source": "Libération",
@@ -1268,7 +1867,7 @@
     "guid": "https://www.liberation.fr/societe/education/ca-a-ete-tres-complique-pour-faire-mes-devoirs-cette-annee-avant-le-bac-ces-lyceens-qui-revisent-entre-deux-prises-de-poste-20260614_OZ7SSQAY5BG2ZHJUBYSP7R6UGM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925648+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908417+00:00"
   },
   {
     "source": "Libération",
@@ -1283,7 +1882,7 @@
     "guid": "https://www.liberation.fr/politique/le-pari-mendesiste-de-raphael-glucksmann-un-choix-risque-mais-valeureux-20260614_7VQMN2F65NCGRGSU2ZI36Y27AI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925675+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908444+00:00"
   },
   {
     "source": "Libération",
@@ -1298,7 +1897,7 @@
     "guid": "https://www.liberation.fr/international/europe/londres-annonce-linterception-dun-petrolier-de-la-flotte-fantome-russe-dans-la-manche-20260614_AMRW2CSXPBETPJGU2OD5ED3OUY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925702+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908471+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1386,7 +1985,7 @@
     "guid": "https://www.liberation.fr/sports/football/coupe-du-monde-danses-bedouines-rap-marocain-femmes-non-voilees-a-chaque-pays-arabe-son-refrain-20260614_NRJHTJQ6IVBXXEV4N3HFX7MBKM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925731+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908496+00:00"
   },
   {
     "source": "Libération",
@@ -1401,7 +2000,7 @@
     "guid": "https://www.liberation.fr/international/corentin-martiniault-charge-de-plaidoyer-les-pays-du-g7-ont-concentre-96-de-la-baisse-des-financements-de-laide-publique-au-developpement-en-2025-20260614_55EY4734HNAFVOQRHWJB45EE3A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925762+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908527+00:00"
   },
   {
     "source": "Mediapart",
@@ -1419,7 +2018,7 @@
     "guid": "1326864 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/09/260605-img-le-socle-de-l-habitabilite-au-dela-du-droit-de-l-environnement.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.727403+00:00"
+    "fetched_at": "2026-06-14T19:27:49.780161+00:00"
   },
   {
     "source": "Mediapart",
@@ -1452,7 +2051,7 @@
     "guid": "https://www.lefigaro.fr/international/faites-vous-confiance-a-donald-trump-pour-signer-un-bon-accord-avec-l-iran-20260614",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.689176+00:00"
+    "fetched_at": "2026-06-14T19:27:49.849220+00:00"
   },
   {
     "source": "Libération",
@@ -1467,7 +2066,7 @@
     "guid": "https://www.liberation.fr/culture/livres/la-copie-thriller-aux-frontieres-de-lirreel-20260614_6N6D5SRPLJC3BBFCS5BSC7DW4M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925786+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908549+00:00"
   },
   {
     "source": "Libération",
@@ -1482,7 +2081,7 @@
     "guid": "https://www.liberation.fr/societe/education/fortes-chaleurs-le-ministre-de-leducation-nationale-edouard-geffray-ne-souhaite-plus-dexamens-lapres-midi-20260614_N5JHAESM2FBGTG4WHVJZTA3ZKE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925813+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908578+00:00"
   },
   {
     "source": "Le Monde",
@@ -1525,7 +2124,7 @@
     "guid": "https://www.liberation.fr/lifestyle/gastronomie/une-fois-quon-a-essaye-il-ny-a-pas-de-retour-en-arriere-pour-le-poisson-les-restaurateurs-misent-sur-la-maturation-20260614_4U24KUWHQBFXHEMILEDM5GRMPI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925845+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908607+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1555,7 +2154,7 @@
     "guid": "https://www.liberation.fr/international/europe/le-president-roumain-annonce-la-nomination-dun-nouveau-premier-ministre-20260614_F5LDFFTJPVEXZJY55QDPC75HCA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925869+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908632+00:00"
   },
   {
     "source": "Libération",
@@ -1570,7 +2169,7 @@
     "guid": "https://www.liberation.fr/international/europe/incarceration-des-mineurs-en-suede-un-recul-sur-la-question-des-droits-de-lenfant-20260614_TT47CMT4DFGFVOUU3DGSDSZTCA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925894+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908657+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1605,7 +2204,7 @@
     "guid": "https://www.liberation.fr/culture/jeux-video/gta-crime-et-architecture-une-analyse-passionnante-sur-un-jeu-video-aussi-celebre-que-decrie-20260614_MLUFGP7QDVHXTO2YE5W2H3MACM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925935+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908682+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1623,6 +2222,21 @@
     "fetched_at": "2026-06-14T09:36:14.954441+00:00"
   },
   {
+    "source": "Le Figaro",
+    "title": "«Le gouvernement Trump déstabilise les avancées américaines» : tollé aux États-Unis après la suspension de l'IA d'Anthropic",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/le-gouvernement-trump-destabilise-les-avancees-americaines-tolle-aux-etats-unis-apres-la-suspension-de-l-ia-d-anthropic-20260614",
+    "summary": "Vendredi soir, la start-up de San Francisco a annoncé que le ministère américain du Commerce lui avait ordonné de suspendre ses modèles Mythos 5 et Fable 5, pour raisons de «sécurité nationale», sans plus de précisions.",
+    "published": "2026-06-14T07:30:37+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/le-gouvernement-trump-destabilise-les-avancees-americaines-tolle-aux-etats-unis-apres-la-suspension-de-l-ia-d-anthropic-20260614",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/06/14/141d542fcc08b8dcf6f227b2d5a29aefdfb178aeee86c2c7ea7d7d4aadce1319.JPG",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.849460+00:00"
+  },
+  {
     "source": "Libération",
     "title": "Derrière les bombardements réguliers contre l’Ukraine, un essoufflement de l’offensive russe",
     "link": "https://www.liberation.fr/international/europe/derriere-les-bombardements-reguliers-contre-lukraine-un-essoufflement-de-loffensive-russe-20260614_BSDU7IN44NDRBGSQVJSJU3FL2Q/",
@@ -1635,7 +2249,7 @@
     "guid": "https://www.liberation.fr/international/europe/derriere-les-bombardements-reguliers-contre-lukraine-un-essoufflement-de-loffensive-russe-20260614_BSDU7IN44NDRBGSQVJSJU3FL2Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925964+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908711+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1687,7 +2301,7 @@
     "guid": "https://www.liberation.fr/societe/mort-de-lyhanna-la-reponse-a-ce-fait-de-societe-doit-etre-integrale-dit-sebastien-lecornu-20260614_UBO73UZVGBE7VIUGEHCYECCOIE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.925992+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908743+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1724,7 +2338,7 @@
     "guid": "https://www.liberation.fr/lifestyle/argent-boulot/mon-proprio-impitoyable-la-nuit-je-reve-quils-viennent-me-chercher-pour-me-demander-des-papiers-20260614_SQ6HZ3SCGNEELB32OHAJOENRDM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.926019+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908771+00:00"
   },
   {
     "source": "Libération",
@@ -1739,7 +2353,7 @@
     "guid": "https://www.liberation.fr/sports/les-knicks-de-new-york-sacres-champions-nba-wembanyama-et-les-spurs-devront-patienter-20260614_FSIYYL4N7BF57EKBK2BPDM7A4U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.926045+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908795+00:00"
   },
   {
     "source": "Le Monde",
@@ -1842,7 +2456,7 @@
     "guid": "https://www.liberation.fr/sports/football/on-a-vu-le-match-nul-entre-le-bresil-et-le-maroc-dans-un-bar-de-los-angeles-deja-70-minutes-a-courir-ces-garcons-doivent-etre-fatigues-20260614_EM2SBRVZJ5H5XJXHMMK7O5B32M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.926076+00:00"
+    "fetched_at": "2026-06-14T19:27:49.908825+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2022,6 +2636,19 @@
     "fetched_at": "2026-06-14T09:36:15.047584+00:00"
   },
   {
+    "source": "Le Monde",
+    "title": "« A 17 ans, on n’a qu’une obsession : passer le permis. Sans voiture, ici, tu ne peux pas vivre »",
+    "link": "https://www.lemonde.fr/campus/article/2026/06/14/a-17-ans-on-n-a-qu-une-obsession-passer-le-permis-sans-voiture-ici-tu-ne-peux-pas-vivre_6702236_4401467.html",
+    "summary": "« Etre jeune à la campagne » (1/4). Repaires, sorties, virées nocturnes : dans les villages aux environs de Niort, la jeunesse rurale raconte au « Monde » sa vie quotidienne et ses rêves. Dans ce premier volet, l’entrée dans l’âge adulte est marquée par un achat indispensable, synonyme d’indépendance : une voiture.",
+    "published": "2026-06-14T03:45:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/campus/article/2026/06/14/a-17-ans-on-n-a-qu-une-obsession-passer-le-permis-sans-voiture-ici-tu-ne-peux-pas-vivre_6702236_4401467.html",
+    "image": "https://img.lemde.fr/2026/06/11/461/0/2315/1157/644/322/60/0/e67a8eb_upload-1-ubzflfl9ugvn-29-serie-niort-mobilite.jpg",
+    "full_text": null,
+    "fetched_at": "2026-06-14T19:27:49.690424+00:00"
+  },
+  {
     "source": "Le Figaro",
     "title": "EN DIRECT - Coupe du monde 2026 : ambiance de feu à Boston pour Ecosse-Haïti, le Maroc arrache un match nul au Brésil, Zidane est à New York",
     "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/en-direct-coupe-du-monde-2026-depart-de-reve-pour-les-etats-unis-cambriolage-chez-les-anglais-un-cadavre-retrouve-devant-le-stade-d-entrainement-de-l-iran-20260613",
@@ -2112,7 +2739,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/06/14/donald-trump-fete-ses-80-ans-son-ami-dana-white-apporte-le-mma-les-arts-martiaux-mixtes-au-c-ur-de-la-maison-blanche_6702228_3210.html",
     "image": "https://img.lemde.fr/2026/06/11/671/0/8054/4027/644/322/60/0/f9df699_ftp-1-xwfaglfzyddi-5286176-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-06-14T14:04:46.079840+00:00"
+    "fetched_at": "2026-06-14T19:27:49.689925+00:00"
   },
   {
     "source": "Le Monde",
@@ -2125,7 +2752,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/06/14/a-zagreb-en-croatie-les-premiers-robots-taxis-d-europe-tentent-de-s-inserer-dans-le-trafic_6702225_3234.html",
     "image": "https://img.lemde.fr/2026/05/15/172/0/4000/2000/644/322/60/0/00e10cd_ftp-1-uqihawnxmvcu-2026-05-15t103320z-769334457-rc219la8k3fp-rtrmadp-3-croatia-taxi-self-drive.JPG",
     "full_text": null,
-    "fetched_at": "2026-06-14T16:22:50.689973+00:00"
+    "fetched_at": "2026-06-14T19:27:49.690524+00:00"
   },
   {
     "source": "Libération",
