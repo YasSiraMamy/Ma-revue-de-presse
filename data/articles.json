@@ -1,6 +1,178 @@
 [
   {
     "source": "Le Figaro",
+    "title": "« Après quelques heures, si personne ne se manifeste, nous les retirons » : en Grèce, sur l’île de Kos, la guerre des transats, symptôme d’un tourisme de masse à bout de souffle",
+    "link": "https://www.lefigaro.fr/conjoncture/apres-quelques-heures-si-personne-ne-se-manifeste-nous-les-retirons-en-grece-sur-l-ile-de-kos-la-guerre-des-transats-symptome-d-un-tourisme-de-masse-a-bout-de-souffle-20260724",
+    "summary": "REPORTAGE - Applis de réservation, mise en place de surveillants… Les résidences hôtelières cherchent la parade à ce phénomène devenu récurrent chaque été, où, dès l’aube, les vacanciers se précipitent pour déposer leur serviette.",
+    "published": "2026-07-24T21:59:52+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/apres-quelques-heures-si-personne-ne-se-manifeste-nous-les-retirons-en-grece-sur-l-ile-de-kos-la-guerre-des-transats-symptome-d-un-tourisme-de-masse-a-bout-de-souffle-20260724",
+    "image": "https://i.f1g.fr/media/cms/2953x1661_crop/2026/07/24/c26e335368272829e666d0fc920841cbe668e16e4f6fd937aad14a6a0c70d578.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082336+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Incendies : Emmanuel Macron demande aux Armées de «venir en renfort maximal de la sécurité civile»",
+    "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
+    "summary": "Par ailleurs, le préfet de Gironde va ordonner l’évacuation de communes de l’agglomération bordelaise. De son côté, Laurent Nunez a précisé que 110.000 évacuations et 14.000 hectares ont été parcourus par le feu dans le Sud-Ouest.",
+    "published": "2026-07-24T21:46:03+00:00",
+    "authors": [],
+    "categories": [
+      "Météo"
+    ],
+    "guid": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
+    "image": "https://i.f1g.fr/media/cms/1458x820_crop/2026/07/24/173162b95b7ef054d0986e4b76635e669b8b5868c17635fb37a80107e7cb87ba.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.081849+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT - Incendies : 19 000 hectares parcourus en Gironde, la préfecture annonce des évacuations près de Bordeaux",
+    "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/",
+    "summary": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.",
+    "published": "2026-07-24T20:57:46+00:00",
+    "authors": [
+      "Zoé Vezyroglou, Mila Thiebault, Gilles Dhers, Service Photo, AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/en-direct-incendies-19-000-hectares-parcourus-en-gironde-la-prefecture-annonce-des-evacuations-pres-de-bordeaux-20260724_OV2AGG6HQNGX5JSV5S6B6ORQK4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.578872+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Anthropic sort Claude Opus 5, un modèle d’IA présenté comme moins dangereux pour la cybersécurité",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/anthropic-sort-une-nouvelle-intelligence-artificielle-presentee-comme-moins-dangereuse-pour-la-cybersecurite-20260724",
+    "summary": "Selon Anthropic, Opus 5 «s’approche des capacités de Fable 5 dans de nombreux domaines, pour la moitié du prix», selon un communiqué.",
+    "published": "2026-07-24T20:41:17+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/anthropic-sort-une-nouvelle-intelligence-artificielle-presentee-comme-moins-dangereuse-pour-la-cybersecurite-20260724",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/07/24/9fdc38b73e252b5471a15edd3302d1957986f9b411d0f780f0334f9fc510337d.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082257+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Les figures de l’IA «font peur aux gens» : les confidences de Jensen Huang, l’homme le plus puissant du monde de la tech",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/les-figures-de-l-ia-font-peur-aux-gens-les-confidences-de-jensen-huang-l-homme-le-plus-puissant-du-monde-de-la-tech-20260724",
+    "summary": "DÉCRYPTAGE - Le patron de Nvidia, à la tête de l’entreprise la plus valorisée au monde, a estimé dans un long entretien vidéo que le monde de la tech devait «absolument» utiliser les modèles chinois, malgré les restrictions américaines.",
+    "published": "2026-07-24T20:40:42+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/les-figures-de-l-ia-font-peur-aux-gens-les-confidences-de-jensen-huang-l-homme-le-plus-puissant-du-monde-de-la-tech-20260724",
+    "image": "https://i.f1g.fr/media/cms/3000x2037_crop/2026/07/24/49b83b603149255bd265b98f97375e8ee0671ccf02319fe1d85d60bbdc3e7dea.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082205+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Londres : un bateau de la police fluviale percute un pont sur la Tamise, cinq agents blessés",
+    "link": "https://www.lefigaro.fr/flash-actu/londres-un-bateau-de-la-police-fluviale-percute-un-pont-sur-la-tamise-cinq-agents-blesses-20260724",
+    "summary": "Plusieurs véhicules des services d’urgence étaient visibles sur le pont ainsi qu’aux alentours, tandis qu’un hélicoptère de la police survolait le lieu de l’incident.",
+    "published": "2026-07-24T20:28:23+00:00",
+    "authors": [],
+    "categories": [
+      "Flash Actu"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-actu/londres-un-bateau-de-la-police-fluviale-percute-un-pont-sur-la-tamise-cinq-agents-blesses-20260724",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/24/38eb57ee6b955f78b171d8b9e109e7fb9c797a4bcfa9f8c2ef758884f8ca024f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082280+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«On s’en fout que tu sois maire !» : un élu violemment agressé après avoir demandé à un conducteur de ralentir",
+    "link": "https://www.lefigaro.fr/actualite-france/on-s-en-fout-que-tu-sois-maire-un-elu-violemment-agresse-apres-avoir-demande-a-un-conducteur-de-ralentir-20260724",
+    "summary": "Stéphane Ramond, maire depuis quelques mois à la tête de Beaumont-sur-Sarthe, a été blessé au visage et a déposé plainte avant que le suspect ne se rende aux gendarmes.",
+    "published": "2026-07-24T20:23:25+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/on-s-en-fout-que-tu-sois-maire-un-elu-violemment-agresse-apres-avoir-demande-a-un-conducteur-de-ralentir-20260724",
+    "image": "https://i.f1g.fr/media/cms/3000x2238_crop/2026/07/24/bbf15e9c57ef093b258bea32175c0fdbd68ae9c6de49406fe0fa4c71619ff517.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082305+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Maxim Cain : avec le dessin «retrouver l’utilisation des sens»",
+    "link": "https://www.liberation.fr/forums/maxim-cain-avec-le-dessin-retrouver-lutilisation-des-sens-20260724_P76FT2NXQNCTJOYVRSWCF4YE6Y/",
+    "summary": "Ils sont écrivains, musiciens, photographes… Et racontent leurs rapports à la montagne.",
+    "published": "2026-07-24T20:13:00+00:00",
+    "authors": [
+      "Didier Arnaud"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/maxim-cain-avec-le-dessin-retrouver-lutilisation-des-sens-20260724_P76FT2NXQNCTJOYVRSWCF4YE6Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.578902+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Une situation catastrophique » : Climatiseurs, composants… Face aux canicules, l’Europe dépend toujours de l’industrie asiatique",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/economie/une-situation-catastrophique-climatiseurs-composants-face-aux-canicules-leurope-depend-toujours-de-lindustrie-asiatique",
+    "summary": "Les fortes chaleurs de ce début d’été ont provoqué une hausse spectaculaire de la demande en climatiseurs. Dans de nombreuses enseignes, les stocks se sont rapidement épuisés. « La demande... L’article « Une situation catastrophique » : Climatiseurs, composants… Face aux canicules, l’Europe dépend toujours de l’industrie asiatique est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-07-24T20:00:13+00:00",
+    "authors": [
+      "Stagiaire VA"
+    ],
+    "categories": [
+      "Non classé",
+      "asie",
+      "canicule",
+      "dépendance",
+      "Europe",
+      "production"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/une-situation-catastrophique-climatiseurs-composants-face-aux-canicules-leurope-depend-toujours-de-lindustrie-asiatique",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.915735+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’Ukraine a des renseignements «clairs» indiquant que la Russie prépare une mobilisation militaire, dit Zelensky",
+    "link": "https://www.lefigaro.fr/international/l-ukraine-a-des-renseignements-clairs-indiquant-que-la-russie-prepare-une-mobilisation-militaire-dit-zelensky-20260724",
+    "summary": "Le dirigeant ukrainien a appelé à se défendre «à tous les niveaux» face à cette menace : sur le front, en poursuivant des frappes en profondeur en Russie, et au niveau diplomatique.",
+    "published": "2026-07-24T19:51:34+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/l-ukraine-a-des-renseignements-clairs-indiquant-que-la-russie-prepare-une-mobilisation-militaire-dit-zelensky-20260724",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/24/a1fda29dcc5e8b36c54abd7103287d2a9571afcf56afae1c60b78393562280e7.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082076+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Incendies : 19 000 hectares parcourus en Gironde, la préfecture annonce des évacuations près de Bordeaux",
+    "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
+    "summary": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.",
+    "published": "2026-07-24T19:51:20+00:00",
+    "authors": [
+      "Zoé Vezyroglou, Mila Thiebault, Gilles Dhers, Service Photo, AFP ., Reuters ., Antoine  Rondel, Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.578934+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "Incendie : visualisez en carte les feux de forêt en cours près du bassin d’Arcachon",
     "link": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260723",
     "summary": "CARTE - Le feu qui sévit en Gironde depuis mercredi a désormais parcouru plus de 14.000 hectares. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
@@ -12,7 +184,7 @@
     "guid": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260723",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/23/ae3328f55ab8a7e438f6f8ad10725a447cd30474560562c0c58b5331878bd137.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759640+00:00"
+    "fetched_at": "2026-07-24T22:04:36.082011+00:00"
   },
   {
     "source": "Le Figaro",
@@ -31,21 +203,6 @@
   },
   {
     "source": "Libération",
-    "title": "EN DIRECT - Incendies : 14 000 hectares parcourus en Gironde, la pluie fait son apparition",
-    "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
-    "summary": "Alors que deux importants incendies sévissent, les évacuations se multiplient. La presqu’île du Cap Ferret est vidée de ses occupants. La France a fait appel au mécanisme de protection civile de l’Union européenne.",
-    "published": "2026-07-24T19:13:52+00:00",
-    "authors": [
-      "Zoé Vezyroglou, Mila Thiebault, Gilles Dhers, Service Photo, AFP ., Reuters ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/environnement/climat/en-direct-incendies-des-evacuations-par-bateau-en-gironde-la-situation-nest-pas-sous-controle-dans-les-landes-20260724_CUWC25TVWRFZ7JZIHU2QBJ66PI/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802551+00:00"
-  },
-  {
-    "source": "Libération",
     "title": "Des incendies «hors norme», vraiment ?",
     "link": "https://www.liberation.fr/idees-et-debats/editorial/des-incendies-hors-norme-vraiment-20260724_VW5WVSW2RBFUNLQMI3ALZMQOJI/",
     "summary": "Ces deux mots disent bien ce qu’ils veulent dire, les feux auxquels nous assistons sont exceptionnels. Mais ces phénomènes qui débordent des mois d’été, les surfaces cramées plus grandes et les territoires à risques plus nombreux : voilà la nouvelle norme.",
@@ -57,7 +214,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/des-incendies-hors-norme-vraiment-20260724_VW5WVSW2RBFUNLQMI3ALZMQOJI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802587+00:00"
+    "fetched_at": "2026-07-24T22:04:36.578965+00:00"
   },
   {
     "source": "Libération",
@@ -72,22 +229,7 @@
     "guid": "https://www.liberation.fr/environnement/cetait-effrayant-en-gironde-et-dans-les-landes-deux-ogres-de-feu-devorent-tout-sur-leur-passage-20260724_427JRR2BGZAXJI3DXEDMVOSWWI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802639+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Incendies : les autorités vont «tout faire pour protéger» la ville de Bordeaux, déclare le ministre de l’Intérieur",
-    "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
-    "summary": "Le préfet de Gironde va ordonner l’évacuation de communes de l’agglomération bordelaise, a déclaré Laurent Nunez, qui précise que 110.000 évacuations et 14.000 hectares ont été parcourus par le feu dans le Sud-Ouest.",
-    "published": "2026-07-24T19:08:56+00:00",
-    "authors": [],
-    "categories": [
-      "Météo"
-    ],
-    "guid": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-pompiers-evacuations-gironde-landes-cap-ferret-var-biscarosse-canicule-20260724",
-    "image": "https://i.f1g.fr/media/cms/1458x820_crop/2026/07/24/173162b95b7ef054d0986e4b76635e669b8b5868c17635fb37a80107e7cb87ba.jpg",
-    "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759488+00:00"
+    "fetched_at": "2026-07-24T22:04:36.578992+00:00"
   },
   {
     "source": "Libération",
@@ -102,7 +244,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/accuse-dagression-sexuelle-le-procureur-general-de-la-cpi-karim-khan-est-releve-de-ses-fonctions-20260724_W4F6JRWA2JBP3LTT7HAYS24TAY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802670+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579020+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -124,7 +266,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/les-aventures-dhenri-danselme-les-gardiens-dun-monde",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218587+00:00"
+    "fetched_at": "2026-07-24T22:04:36.915790+00:00"
   },
   {
     "source": "Le Figaro",
@@ -139,7 +281,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/feux-de-foret-en-france-quels-ont-ete-les-incendies-les-plus-devastateurs-20260724",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/14/303f593d9a146ea6868776f565f4edf3085a6d7b1b18863ef3cd741f35c56034.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759611+00:00"
+    "fetched_at": "2026-07-24T22:04:36.081985+00:00"
   },
   {
     "source": "Le Figaro",
@@ -154,7 +296,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/plus-de-50-maisons-detruites-35-000-personnes-evacuees-les-images-de-l-incendie-xxl-en-gironde-20260724",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759670+00:00"
+    "fetched_at": "2026-07-24T22:04:36.082042+00:00"
   },
   {
     "source": "Le Figaro",
@@ -184,7 +326,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/incendies-les-sautes-de-feu-ces-cauchemars-incandescents-pour-les-pompiers-20260723_PJF73PZF2VB2VCA2NDQ6FE5CPQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802700+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579048+00:00"
   },
   {
     "source": "Libération",
@@ -199,7 +341,7 @@
     "guid": "https://www.liberation.fr/economie/cest-le-saint-tropez-de-la-cote-atlantique-la-pointe-du-cap-ferret-petit-paradis-des-ultrariches-menace-par-les-flammes-20260724_BLI6Q5KFOJA65CIZHVUNVNAXGY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802735+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579081+00:00"
   },
   {
     "source": "Mediapart",
@@ -217,7 +359,22 @@
     "guid": "1336422 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-crepol.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744595+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111248+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Réservations de dernière minute, annulations… L’imprévisibilité des vacanciers vire au casse-tête pour les professionnels du tourisme",
+    "link": "https://www.lefigaro.fr/flash-eco/reservations-de-derniere-minute-annulations-l-imprevisibilite-des-vacanciers-vire-au-casse-tete-pour-les-professionnels-du-tourisme-20260724",
+    "summary": "DÉCRYPTAGE - Flambée de l’essence, canicules et incendies menacent de gâcher l’été des Français. Ces derniers s’adaptent en temps réel, donnant des sueurs froides aux hôteliers et aux restaurateurs.",
+    "published": "2026-07-24T18:16:35+00:00",
+    "authors": [],
+    "categories": [
+      "Flash Eco"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-eco/reservations-de-derniere-minute-annulations-l-imprevisibilite-des-vacanciers-vire-au-casse-tete-pour-les-professionnels-du-tourisme-20260724",
+    "image": "https://i.f1g.fr/media/cms/2988x1680_crop/2026/07/24/e6f8a4baaa52bbd0a552824da373b04685145c44cad8e1099afa19e23df295a1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082362+00:00"
   },
   {
     "source": "Libération",
@@ -232,7 +389,7 @@
     "guid": "https://www.liberation.fr/culture/scenes/festival-davignon-jour-21-un-bilan-pour-ne-rien-oublier-20260724_Z5DKATHNPRDSFI7GHMKQD34BPQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802761+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579107+00:00"
   },
   {
     "source": "Mediapart",
@@ -250,7 +407,7 @@
     "guid": "1336387 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-jobard-fabien.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744643+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111286+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -273,7 +430,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/tous-les-hommes-blancs-a-larriere-la-chanteuse-sophie-straat-fait-polemique-lors-de-son-concert-en-belgique",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218658+00:00"
+    "fetched_at": "2026-07-24T22:04:36.915855+00:00"
   },
   {
     "source": "Libération",
@@ -288,7 +445,7 @@
     "guid": "https://www.liberation.fr/culture/le-jeu-video-looking-for-fael-nous-attrape-par-le-coloc-20260724_4VGK2FSZWBDCTAZB6BIBXG2AHA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802788+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579132+00:00"
   },
   {
     "source": "Le Figaro",
@@ -333,7 +490,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/les-pompiers-ont-trouve-un-briquet-un-incendie-volontaire-suspecte-a-la-teste-de-buch-20260724",
     "image": "https://i.f1g.fr/media/cms/orig/2026/07/24/f5737d18e85c85883172923ba0f58b9a288c1adbc60c97e888b067db72491fca.JPG",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759551+00:00"
+    "fetched_at": "2026-07-24T22:04:36.081926+00:00"
   },
   {
     "source": "Le Figaro",
@@ -363,7 +520,7 @@
     "guid": "https://www.lefigaro.fr/gastronomie/separer-l-homme-de-l-artiste-dans-son-cas-il-n-y-a-pas-d-artiste-quand-jean-imbert-surcote-et-accuse-de-violences-conjugales-tombe-de-son-piedestal-20260724",
     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/07/24/77e337f89cc8b62e111efaf28ee49c9eda457b407c148e603ad5ccb25af88396.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759699+00:00"
+    "fetched_at": "2026-07-24T22:04:36.082174+00:00"
   },
   {
     "source": "Libération",
@@ -378,7 +535,7 @@
     "guid": "https://www.liberation.fr/international/europe/le-pire-cest-de-ne-pas-savoir-quand-on-va-revenir-autour-de-madrid-langoisse-grandissante-des-habitants-ayant-fui-les-incendies-20260724_QDLVZJ4MAJH6HOMP4V5GZHUJJI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802817+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579162+00:00"
   },
   {
     "source": "Libération",
@@ -393,7 +550,7 @@
     "guid": "https://www.liberation.fr/environnement/biodiversite/une-saison-de-feux-hors-normes-les-conditions-extremes-de-2026-ne-sont-rien-par-rapport-a-celles-qui-nous-attendent-en-2050-20260724_MYG7YW7QD5DZ5JWDMSQEL6EMAA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802858+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579196+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -417,7 +574,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/crepol-la-droite-se-rejouit-de-la-reconnaissance-du-racisme-anti-blanc-la-gauche-silencieuse",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218708+00:00"
+    "fetched_at": "2026-07-24T22:04:36.915903+00:00"
   },
   {
     "source": "Libération",
@@ -432,7 +589,7 @@
     "guid": "https://www.liberation.fr/international/amerique/trump-et-liran-quand-la-guerre-vire-au-bourbier-americain-20260724_LW3WUQ5ZNNHGLB72AX3TUW7N64/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802907+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579228+00:00"
   },
   {
     "source": "Libération",
@@ -447,7 +604,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/affaire-jacques-leveugle-la-plupart-des-faits-sont-prescrits-annonce-le-parquet-20260724_72JGB5HS2ZHC5BE6NFPSZ3T2MA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802937+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579255+00:00"
   },
   {
     "source": "Mediapart",
@@ -465,7 +622,7 @@
     "guid": "1336402 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-hanouna-niel.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744676+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111316+00:00"
   },
   {
     "source": "Libération",
@@ -480,7 +637,7 @@
     "guid": "https://www.liberation.fr/sports/cyclisme/tour-de-france-2026-a-lalpe-dhuez-un-pogacar-insatiable-gagne-et-explose-le-record-de-lascension-20260724_GKZSFF2KHRAGZHHD4WPVXWV7HY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802964+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579282+00:00"
   },
   {
     "source": "Le Figaro",
@@ -510,7 +667,7 @@
     "guid": "https://www.liberation.fr/sports/je-pensais-que-cen-etait-fini-pour-moi-lebron-james-annonce-quil-rejoint-les-76ers-de-philadelphie-20260724_3FBO7WRCDBGJNPERKPSVBWXNWM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.802991+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579310+00:00"
   },
   {
     "source": "Mediapart",
@@ -528,7 +685,7 @@
     "guid": "1336396 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-trump-droits-douaniers.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744708+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111345+00:00"
   },
   {
     "source": "Le Figaro",
@@ -633,7 +790,7 @@
     "guid": "https://www.liberation.fr/international/europe/incendies-dans-le-sud-ouest-nombre-de-noyades-record-netanyahou-accelere-la-colonisation-lactu-de-ce-vendredi-24-juillet-20260724_PQC5IBGSNZADTF77M5LZYUMTAY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803016+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579334+00:00"
   },
   {
     "source": "Libération",
@@ -648,7 +805,7 @@
     "guid": "https://www.liberation.fr/international/europe/incendies-en-europe-malgre-le-mecanisme-de-protection-civile-le-vrai-defi-reste-de-faire-face-a-la-simultaneite-des-feux-20260724_W3OUIQ2NWVG6JCD72DCB5WOLAY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803048+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579365+00:00"
   },
   {
     "source": "Le Figaro",
@@ -678,7 +835,7 @@
     "guid": "https://www.liberation.fr/politique/elections/marine-le-pen-a-tranche-en-faveur-de-sa-reforme-des-retraites-contre-celle-de-jordan-bardella-20260724_XYO7WE73WFHVBMZ3SWHJC3BC3Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803075+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579393+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -699,7 +856,7 @@
     "guid": "https://www.valeursactuelles.com/monde/le-seigneur-pourvoit-une-religieuse-court-des-marathons-et-recolte-26-millions-de-dollars-pour-les-pauvres",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218763+00:00"
+    "fetched_at": "2026-07-24T22:04:36.915952+00:00"
   },
   {
     "source": "Libération",
@@ -714,7 +871,7 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/succession-daretha-franklin-des-testaments-et-des-paraphes-en-carafe-20260725_VFA5ZVXT7FHLPHYACMF2GX22LM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803103+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579421+00:00"
   },
   {
     "source": "Libération",
@@ -729,7 +886,7 @@
     "guid": "https://www.liberation.fr/societe/sexualite-et-genres/aurore-berge-il-faut-dejudiciariser-les-procedures-de-changement-de-prenom-et-de-genre-a-letat-civil-20260724_JM2BGFXAEJA3JPQDVTEUF33A5A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803132+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579451+00:00"
   },
   {
     "source": "Libération",
@@ -744,7 +901,7 @@
     "guid": "https://www.liberation.fr/economie/medias/cyril-hanouna-debarque-sur-m6-a-la-rentree-et-conserve-sa-place-sur-w9-20260724_YUGIYVPFZJDVRNTJ5SXAW3YMIA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803165+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579476+00:00"
   },
   {
     "source": "Mediapart",
@@ -762,7 +919,7 @@
     "guid": "1336337 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-presidentielle-2027-le-gouvernement-vole-au-secours-de-marine-le-pen.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744744+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111378+00:00"
   },
   {
     "source": "Mediapart",
@@ -780,7 +937,7 @@
     "guid": "1336374 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2025/10/24/img-241025-dans-les-vosges-yasin-un-palestinien-de-gaza-doit-se-battre-contre-les-oqtf4.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744775+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111408+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -800,7 +957,7 @@
     "guid": "https://www.valeursactuelles.com/politique/bally-bagayoko-naurait-pas-accueilli-la-dj-lgbt-barbara-butch-au-vu-de-ses-positions-sur-la-guerre-a-gaza",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218812+00:00"
+    "fetched_at": "2026-07-24T22:04:36.916002+00:00"
   },
   {
     "source": "Libération",
@@ -815,7 +972,7 @@
     "guid": "https://www.liberation.fr/international/marshall-ganz-professeur-a-harvard-aux-etats-unis-la-democratie-devient-un-outil-de-marketing-ou-nous-ne-demandons-pas-de-comptes-au-pouvoir-20260724_B5DA2PQFRVFRFDD22O5OSFUBCI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803201+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579512+00:00"
   },
   {
     "source": "Libération",
@@ -830,7 +987,7 @@
     "guid": "https://www.liberation.fr/international/europe/espagne-deux-des-trois-incendies-a-louest-de-madrid-sur-le-point-de-fusionner-et-un-feu-hors-de-controle-20260724_EUJDLZQCEFFN5CXMFYOJA53R6I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803231+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579547+00:00"
   },
   {
     "source": "Le Figaro",
@@ -868,7 +1025,7 @@
     "guid": "https://www.valeursactuelles.com/societe/le-coup-que-tu-dois-porter-a-ton-epouse-ne-doit-rien-lui-casser-samy-philippe-chaouche-le-predicateur-islamiste-qui-preche-la-polygamie-et-les-conseils-conjugaux-archaiques",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218865+00:00"
+    "fetched_at": "2026-07-24T22:04:36.916055+00:00"
   },
   {
     "source": "Libération",
@@ -883,7 +1040,7 @@
     "guid": "https://www.liberation.fr/politique/de-nice-au-kilimandjaro-quest-devenu-lancien-maire-christian-estrosi-20260724_5OLUQRPUTNBGDOVOPEBO6IXDWU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803256+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579573+00:00"
   },
   {
     "source": "Libération",
@@ -898,7 +1055,7 @@
     "guid": "https://www.liberation.fr/societe/sante/soins-dentaires-medicaments-inefficaces-transport-sanitaire-de-nouveaux-transferts-de-la-secu-vers-les-mutuelles-20260724_ZMKT45YJMZBK5DBX7OHVAIFT4I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803283+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579601+00:00"
   },
   {
     "source": "Le Figaro",
@@ -928,7 +1085,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/larmee-israelienne-dit-se-preparer-a-mener-une-vaste-operation-en-cisjordanie-20260724_XEZ4A4XCYNFDRI2MVBT44WOVZE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803308+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579629+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -950,7 +1107,7 @@
     "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-matignon-veut-convaincre-les-banques-de-preter-au-rn",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218938+00:00"
+    "fetched_at": "2026-07-24T22:04:36.916102+00:00"
   },
   {
     "source": "Libération",
@@ -965,7 +1122,7 @@
     "guid": "https://www.liberation.fr/portraits/morgane-cabot-une-chanson-tousse-20260724_EVYPOLMYI5FJ5KKY32W2D2WBZQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803329+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579650+00:00"
   },
   {
     "source": "Libération",
@@ -980,7 +1137,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/racisme-envers-la-race-blanche-et-la-nation-francaise-retenue-dans-laffaire-de-crepol-une-circonstance-aggravante-qui-fait-debat-20260724_N3HUP26QVJB2JIL55RHHPZQ5XI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803357+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579678+00:00"
   },
   {
     "source": "Libération",
@@ -995,7 +1152,7 @@
     "guid": "https://www.liberation.fr/economie/les-billets-de-5-a-200-euros-font-peau-neuve-la-bce-lance-une-consultation-pour-choisir-leur-nouveau-look-20260724_XPMUCA3FU5ABFMJ3G43WSQ4CDM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803385+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579726+00:00"
   },
   {
     "source": "Libération",
@@ -1010,7 +1167,7 @@
     "guid": "https://www.liberation.fr/sports/rugby/rugby-apres-lerreur-de-leur-avocat-laction-en-justice-de-centaines-dex-joueurs-britanniques-victimes-de-commotion-menacee-20260724_DY7RLLA36RDDLF2PXGKSDLGRFQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803413+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579757+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1032,7 +1189,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/francois-hollande-deja-en-marche",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.218981+00:00"
+    "fetched_at": "2026-07-24T22:04:36.916143+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1062,7 +1219,7 @@
     "guid": "https://www.liberation.fr/lifestyle/hightech/pourquoi-jai-coupe-les-ponts-avec-pinterest-et-supprime-mon-compte-20260723_PFKPRETFKVBHPFURMFS5YZKCSA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803440+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579784+00:00"
   },
   {
     "source": "Libération",
@@ -1077,7 +1234,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/evacuation-du-cap-ferret-un-plan-devacuation-inedit-planifie-depuis-2023-20260724_SFFXJNT4WBGDTCCKLDDCI4AMZU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803462+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579807+00:00"
   },
   {
     "source": "Libération",
@@ -1092,7 +1249,7 @@
     "guid": "https://www.liberation.fr/politique/elections/presidentielle-2027-une-operation-de-desinformation-russe-visant-edouard-philippe-20260724_ENQ24FY7JZAMDGNWZBH3DS7RXM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803488+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579835+00:00"
   },
   {
     "source": "Libération",
@@ -1107,7 +1264,7 @@
     "guid": "https://www.liberation.fr/politique/action-contre-le-concert-de-barbara-butch-la-mairie-de-grenoble-annonce-une-plainte-contre-x-pour-violences-volontaires-20260724_F53PHZCV6JC2HHPAU5YGYAXQKQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803517+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579866+00:00"
   },
   {
     "source": "Libération",
@@ -1122,7 +1279,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/arretons-de-parler-de-kais-saied-comme-dun-autocrate-qui-derive-la-tunisie-est-une-dictature-assumee-20260724_BYLVFE4SGJEBBGF3OQDKI2EOPI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803552+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579899+00:00"
   },
   {
     "source": "Libération",
@@ -1137,7 +1294,7 @@
     "guid": "https://www.liberation.fr/societe/noyades-274-personnes-sont-mortes-depuis-le-mois-de-mai-principalement-pendant-la-canicule-20260724_WNLLXA5P2ZBL7BS4AVGRVMZAE4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803580+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579928+00:00"
   },
   {
     "source": "Libération",
@@ -1152,7 +1309,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/pourquoi-la-jordanie-est-elle-une-cible-strategique-pour-liran-20260724_4CMJT744QFA3RABEP3K2JNCDEY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803603+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579952+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1185,7 +1342,7 @@
     "guid": "1336349 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-une-secheresse-record-des-ecosystemes-en-souffrance.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744804+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111436+00:00"
   },
   {
     "source": "Mediapart",
@@ -1203,7 +1360,7 @@
     "guid": "1336148 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/23/260723-img-iryna-trotsko-et-serhii-kravtsiv-tues-par-l-armee-russe-pour-une-bonbonne-de-gaz.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744842+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111466+00:00"
   },
   {
     "source": "Libération",
@@ -1233,7 +1390,7 @@
     "guid": "https://www.liberation.fr/international/europe/dix-morts-et-une-centaine-de-blesses-a-kyiv-le-geant-russe-du-e-commerce-frappe-drone-abattu-en-roumanie-lactu-de-la-guerre-en-ukraine-ce-vendredi-24-juillet-20260724_JWVEHHC3JNEK3DWS5AR2REWHC4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803628+00:00"
+    "fetched_at": "2026-07-24T22:04:36.579976+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1270,7 +1427,7 @@
     "guid": "https://www.valeursactuelles.com/economie/ce-que-revele-la-derniere-enquete-de-linsee-sur-ladoption-de-lia-en-entreprise",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:04.219033+00:00"
+    "fetched_at": "2026-07-24T22:04:36.916195+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1285,7 +1442,7 @@
     "guid": "https://www.lefigaro.fr/bordeaux/fuir-l-incendie-par-la-mer-le-recit-de-l-exode-express-de-la-presqu-ile-du-cap-ferret-20260724",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/24/9d42635a653f1ce1dd8358a0b15837326785284ca910155d8aaaca897be11b72.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759588+00:00"
+    "fetched_at": "2026-07-24T22:04:36.081895+00:00"
   },
   {
     "source": "Libération",
@@ -1300,7 +1457,7 @@
     "guid": "https://www.liberation.fr/culture/arts/festival-normandie-impressionniste-fleurs-sur-la-ville-20260724_54UKRP7365HMHGCXB7NDXMZO7M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803652+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580001+00:00"
   },
   {
     "source": "Mediapart",
@@ -1318,7 +1475,7 @@
     "guid": "1336363 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-la-justice-ordonne-la-demolition-de-quatre-megabassines-en-charente-maritime.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744905+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111494+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1433,6 +1590,21 @@
   },
   {
     "source": "Le Figaro",
+    "title": "Raffineries ciblées, exportations perturbées… Les frappes ukrainiennes asphyxient le secteur pétrolier russe",
+    "link": "https://www.lefigaro.fr/conjoncture/raffineries-ciblees-exportations-perturbees-les-frappes-ukrainiennes-asphyxient-le-secteur-petrolier-russe-20260724",
+    "summary": "DÉCRYPTAGE - Plus de 80 % des capacités de raffinage ont été la cible d’attaques ukrainiennes cette année. Mais tandis que la Russie rationne les stations-service, les ventes de pétrole brut augmentent paradoxalement.",
+    "published": "2026-07-24T12:00:07+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/raffineries-ciblees-exportations-perturbees-les-frappes-ukrainiennes-asphyxient-le-secteur-petrolier-russe-20260724",
+    "image": "https://i.f1g.fr/media/cms/2999x1687_crop/2026/07/24/444658251e7b223f8c51353a55169199f7c8d795610306610ebf2ace4e75b64c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082143+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "« Une ligne rouge a été franchie » : à Grenoble, LFI souffle sur les braises de la division de la gauche",
     "link": "https://www.lefigaro.fr/politique/une-ligne-rouge-a-ete-franchie-a-grenoble-lfi-souffle-sur-les-braises-de-la-division-de-la-gauche-20260724",
     "summary": "REPORTAGE - Les Insoumis sont visés par plusieurs plaintes depuis la brutale interruption du concert de la DJ Barbara Butch, samedi dernier, sur fond d’appel au boycott de militants mélenchonistes et activistes propalestiniens.",
@@ -1459,7 +1631,7 @@
     "guid": "https://www.lefigaro.fr/meteo/incendies-dans-le-sud-ouest-pourquoi-l-arrivee-prochaine-d-orages-dans-la-region-est-une-fausse-bonne-nouvelle-20260724",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/07/24/d55b5d80a4ba7fbddd946314ccc663aa5c89851e3dce487d6861b3245c8cec9d.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.759522+00:00"
+    "fetched_at": "2026-07-24T22:04:36.081960+00:00"
   },
   {
     "source": "Libération",
@@ -1474,7 +1646,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/nouveaux-bombardements-en-iran-cinq-morts-en-cisjordanie-le-prix-du-petrole-senvole-lactu-de-la-guerre-au-moyen-orient-ce-vendredi-24-juillet-20260724_6JQIBEKY4BCXNJ6TAL342IE3DU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803674+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580024+00:00"
   },
   {
     "source": "Libération",
@@ -1489,7 +1661,7 @@
     "guid": "https://www.liberation.fr/international/amerique/nucleaire-saoudien-la-soudaine-volte-face-de-donald-trump-20260724_ROHLW5IZ3JEQVEIKNCHXE3DDJI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803700+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580048+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1541,7 +1713,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/moyen-orient-pourquoi-les-bases-americaines-sont-vulnerables-aux-frappes-iraniennes-20260724_PMGNSRDVENHS5IVGJY74YPOIOM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803727+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580080+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1571,7 +1743,7 @@
     "guid": "https://www.liberation.fr/lifestyle/design/longtemps-ringards-les-ventilateurs-dair-brisent-le-plafond-de-verre-20260724_UI3UHDY7RZBKJNII43RJNPCRHU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803754+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580106+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1631,7 +1803,7 @@
     "guid": "https://www.liberation.fr/economie/nouveaux-droits-de-douane-americains-les-europeens-soulages-laccord-de-turnberry-respecte-20260724_PSREOORX4VE5FJZIW5GRV4T3OM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803782+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580135+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1664,7 +1836,7 @@
     "guid": "1336311 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/24/260724-img-hausse-des-franchises-recul-de-l-assurance-maladie-une-saignee-pour-les-malades.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.744938+00:00"
+    "fetched_at": "2026-07-24T22:04:36.111523+00:00"
   },
   {
     "source": "Libération",
@@ -1679,7 +1851,7 @@
     "guid": "https://www.liberation.fr/sports/football/et-si-jurgen-klopp-etait-le-sauveur-du-foot-allemand-20260724_BCZ3DU6OSZCCNBNECPLLPFUFLY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803808+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580162+00:00"
   },
   {
     "source": "Libération",
@@ -1694,7 +1866,7 @@
     "guid": "https://www.liberation.fr/politique/elections/a-neuf-mois-de-la-presidentielle-qui-sont-les-candidats-a-gauche-20260724_QPS3AAPWJBBWHJXLMJR67EMWXA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803834+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580188+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1742,7 +1914,7 @@
     "guid": "https://www.liberation.fr/politique/bally-bagayoko-maire-lfi-de-saint-denis-affirme-que-barbara-butch-a-raison-de-porter-plainte-apres-linterruption-de-son-concert-20260724_DFJQUEGWRNFYVMG4L7HURETJ5E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803862+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580220+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1772,7 +1944,7 @@
     "guid": "https://www.liberation.fr/international/amerique/les-etats-unis-confrontes-a-leur-pire-epidemie-de-rougeole-depuis-trente-cinq-ans-20260724_NJ6DQH2GNFD5DD4UO2GIWVHBPE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803908+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580247+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1788,6 +1960,21 @@
     "image": "https://i.f1g.fr/media/cms/orig/2026/07/24/008202b86f76d919b2652293103a2ddc084aa0f79793005896f54392c434bb6c.jpg",
     "full_text": null,
     "fetched_at": "2026-07-24T16:42:35.240990+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats",
+    "link": "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
+    "summary": "ENQUÊTE - L’analyse de près de 9 500 courriers, dont la plupart ont été adressés par des soldats russes ou par leurs proches à la commissaire pour les Droits de l’homme, lève un coin du voile sur les pratiques barbares qui prospèrent sur le front ukrainien.",
+    "published": "2026-07-24T10:03:32+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
+    "image": "https://i.f1g.fr/media/cms/2997x1685_crop/2026/07/23/9a10cfc448aefa279c2441a3d1a42b23f7c133daec5004e93dc425f56c19dbb6.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082116+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1820,7 +2007,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/en-ukraine-le-mystere-de-la-chambre-noire-avec-vic-bakin-20260724_F2UXK6TWFBE57BIUFM4M7MS4DI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.803934+00:00"
+    "fetched_at": "2026-07-24T22:04:36.580275+00:00"
   },
   {
     "source": "Libération",
@@ -2078,7 +2265,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/07/24/concert-interrompu-de-barbara-butch-pour-l-insoumis-bally-bagayoko-la-dj-a-raison-de-porter-plainte_6731470_823448.html",
     "image": "https://img.lemde.fr/2026/03/20/403/0/4839/2419/644/322/60/0/aa8a936_ftp-1-adr93t6xqg4w-2026-03-20t105651z-735720669-rc268kalhob5-rtrmadp-3-religion-eid-france.JPG",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813465+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095244+00:00"
   },
   {
     "source": "Le Monde",
@@ -2091,7 +2278,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/07/24/en-inde-le-gouvernement-peine-a-desamorcer-un-mouvement-de-contestation-qui-cible-desormais-narendra-modi_6731469_3210.html",
     "image": "https://img.lemde.fr/2026/07/24/688/0/8256/4128/644/322/60/0/b448281_ftp-1-ftwiobuauwqa-5693485-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813585+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095364+00:00"
   },
   {
     "source": "Le Monde",
@@ -2104,7 +2291,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/07/24/presidentielle-2027-en-bretagne-gabriel-attal-mene-campagne-pour-faire-decoller-sa-candidature_6731467_823448.html",
     "image": "https://img.lemde.fr/2026/07/23/485/0/5815/2907/644/322/60/0/b64f60f_ftp-1-trrzulj1guoo-5689904-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813555+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095334+00:00"
   },
   {
     "source": "Libération",
@@ -2202,7 +2389,7 @@
     "guid": "https://www.lemonde.fr/pixels/live/2026/07/24/posez-vos-questions-sur-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans_6731466_4408996.html",
     "image": "https://img.lemde.fr/2024/09/06/261/0/3132/1566/644/322/60/0/a57c9a6_5604830-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813494+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095272+00:00"
   },
   {
     "source": "Libération",
@@ -2245,7 +2432,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/07/24/les-etats-membres-de-la-cpi-s-appretent-a-decider-du-sort-de-son-procureur-suspendu-pour-un-usage-abusif-de-pouvoir-ou-d-autorite-sur-son-assistante_6731464_3210.html",
     "image": "https://img.lemde.fr/2026/07/23/0/0/8640/4320/644/322/60/0/f9945be_upload-1-dyn6mqzkjxv1-000-372d7x4.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813612+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095390+00:00"
   },
   {
     "source": "Mediapart",
@@ -2313,7 +2500,7 @@
     "guid": "https://www.lemonde.fr/series-d-ete/article/2026/07/24/dans-les-permeables-judith-vanistendael-se-tient-au-chevet-des-migrants-belges-de-2071_6731463_3451060.html",
     "image": "https://img.lemde.fr/2026/07/15/193/92/1882/941/644/322/60/0/0523f50_upload-1-0vczxrt7zfla-ep2-int-lespermeables-00-fr-pg094.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813712+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095488+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2500,7 +2687,7 @@
     "guid": "https://www.lemonde.fr/m-styles/article/2026/07/24/chez-jars-dans-la-drome-du-gres-emaille-top-secret_6731427_4497319.html",
     "image": "https://img.lemde.fr/2026/06/17/324/0/2000/1000/644/322/60/0/fb60229_upload-1-uks6mwferrju-02-jars.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813760+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095536+00:00"
   },
   {
     "source": "Libération",
@@ -2573,7 +2760,7 @@
     "guid": "https://www.lemonde.fr/planete/live/2026/07/24/en-direct-incendies-plus-de-23-000-personnes-evacuees-dans-les-landes-en-gironde-la-prefecture-ordonne-l-evacuation-de-plusieurs-villages-de-la-presqu-ile-du-cap-ferret_6730417_3244.html",
     "image": "https://img.lemde.fr/2026/07/24/458/0/5500/2750/644/322/60/0/af325e7_ftp-1-hhhpxklg80aj-2026-07-24t020821z-940910565-rc20kmakr4my-rtrmadp-3-europe-weather-france-wildfire.JPG",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813430+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095209+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2706,7 +2893,7 @@
     "guid": "https://www.lemonde.fr/international/live/2026/07/24/en-direct-guerre-en-ukraine-une-attaque-de-drones-ukrainiens-a-saint-petersbourg-provoque-un-incendie-dans-un-entrepot_6725306_3210.html",
     "image": "https://img.lemde.fr/2026/07/24/351/0/3000/1500/644/322/60/0/3fcde96_ftp-1-naa7ymjdlbpy-5693161-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813525+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095304+00:00"
   },
   {
     "source": "Le Monde",
@@ -2719,7 +2906,7 @@
     "guid": "https://www.lemonde.fr/series-d-ete/article/2026/07/24/l-ete-au-bureau-vu-par-colcanopa-business-plantes_6731417_3451060.html",
     "image": "https://img.lemde.fr/2026/07/16/860/0/2064/1032/644/322/60/0/951bd7e_upload-1-bx0webfn1j11-media-appel-colcanopa.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813687+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095464+00:00"
   },
   {
     "source": "Libération",
@@ -2777,7 +2964,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/07/24/en-chine-la-celebration-opportune-des-tigres-volants-americains_6731341_3210.html",
     "image": "https://img.lemde.fr/2026/07/24/0/0/2934/1467/644/322/60/0/aafd95f_upload-1-pqeupajpxc9s-a-chinese-soldier-guards-a-line-of-american-p-40-fighter-planes-painted-with-the-shark-face-emblem-of-the-flying-nara-535531.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813735+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095511+00:00"
   },
   {
     "source": "Le Monde",
@@ -2790,7 +2977,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/07/24/quatre-bassines-d-irrigation-doivent-etre-demantelees-en-charente-maritime-ordonne-la-justice_6731275_3244.html",
     "image": "https://img.lemde.fr/2026/07/03/928/0/5568/2784/644/322/60/0/8f1bfe3_upload-1-ttjj0kmojbxw-000-363k7lz.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813661+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095438+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2818,7 +3005,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/07/24/donald-trump-ne-s-opposera-pas-a-l-extradition-des-freres-tate-vers-le-royaume-uni-selon-la-maison-blanche_6731242_3210.html",
     "image": "https://img.lemde.fr/2026/07/19/1103/0/7590/3795/644/322/60/0/255e783_ftp-1-henzhzc034uq-5655274-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-24T19:25:03.813636+00:00"
+    "fetched_at": "2026-07-24T22:04:36.095414+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2911,6 +3098,21 @@
     "fetched_at": "2026-07-24T05:50:39.765484+00:00"
   },
   {
+    "source": "Le Figaro",
+    "title": "Piratage «sans précédent» par ChatGPT : quand l’IA devient indomptable, entre complots, triche et projets d’assassinat",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-par-chatgpt-quand-l-ia-devient-indomptable-entre-complots-triche-et-projets-d-assassinat-20260723",
+    "summary": "ENQUÊTE - Des modèles d’OpenAI ont récemment infiltré, de leur propre chef, les systèmes d’une entreprise fondée en France. En réalité, ce type de comportements a déjà été constaté à de nombreuses reprises, et a été documenté par d’éminents chercheurs.",
+    "published": "2026-07-23T20:07:23+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/piratage-sans-precedent-par-chatgpt-quand-l-ia-devient-indomptable-entre-complots-triche-et-projets-d-assassinat-20260723",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/07/23/9d5adf0dd44a005fa91c377520ae3b9c3c4fd22f6169e04906354a6da2c8c744.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-24T22:04:36.082234+00:00"
+  },
+  {
     "source": "Libération",
     "title": "Présidentielle 2027 : le RN sans solution de prêt, le gouvernement et les banques planchent sur le financement de la campagne",
     "link": "https://www.liberation.fr/politique/elections/presidentielle-2027-le-rn-sans-solution-de-pret-le-gouvernement-et-les-banques-planchent-sur-le-financement-de-la-campagne-20260723_LTB5TLTBWFEOXHBQ5OTAZCJEJI/",
@@ -2942,21 +3144,6 @@
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/23/260723-img-loi-d-urgence-agricole.jpg",
     "full_text": null,
     "fetched_at": "2026-07-24T13:46:11.813726+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Jetés dans des trous, torturés et « annulés » : la sale guerre de Poutine, un business criminel et mafieux qui exploite et broie ses propres soldats",
-    "link": "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
-    "summary": "ENQUÊTE - L’analyse de près de 9 500 courriers, dont la plupart ont été adressés par des soldats russes ou par leurs proches à la commissaire pour les Droits de l’homme, lève un coin du voile sur les pratiques barbares qui prospèrent sur le front ukrainien.",
-    "published": "2026-07-23T19:34:30+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/jetes-dans-des-trous-tortures-et-annules-la-sale-guerre-de-poutine-un-business-criminel-et-mafieux-qui-exploite-et-broie-ses-propres-soldats-20260723",
-    "image": "https://i.f1g.fr/media/cms/2997x1685_crop/2026/07/23/9a10cfc448aefa279c2441a3d1a42b23f7c133daec5004e93dc425f56c19dbb6.jpg",
-    "full_text": null,
-    "fetched_at": "2026-07-24T02:42:32.611197+00:00"
   },
   {
     "source": "Libération",
