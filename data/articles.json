@@ -1,25 +1,389 @@
 [
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Vague migratoire à Ceuta : ces images «terribles» sont un avertissement pour les États-Unis, réagit Donald Trump",
+    "title": "EN DIRECT - Vague migratoire à Ceuta : plus de 48.000 migrants déjà rentrés au Maroc, annonce le gouvernement espagnol",
     "link": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
-    "summary": "Au moins soixante mille migrants ont rejoint l’enclave espagnole de Ceuta au Maroc en quelques jours, provoquant une crise diplomatique européenne quant à la potentielle suspension de l’Espagne de l’espace Schengen.",
-    "published": "2026-07-31T13:56:03+00:00",
+    "summary": "Le premier ministre espagnol a demandé vendredi aux dirigeants européens de «ne pas se diviser» dans le contexte de la crise migratoire à Ceuta, en réponse aux vives critiques de certains, dont la chef du gouvernement italien Giorgia Meloni.",
+    "published": "2026-07-31T16:40:03+00:00",
     "authors": [],
     "categories": [
       "International"
     ],
     "guid": "https://www.lefigaro.fr/international/en-direct-ceuta-l-espagne-estime-que-49-000-migrants-sont-entres-dans-l-enclave-espagnole-au-cours-des-dernieres-24-heures-20260731",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/31/5316705dcbc9c7c66d47c58391fc7ae7c229cdc9b9646c3f6b4e14b98696739d.jpg",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/07/31/1ec3a4302675de64ec7534387e5105fd3828d775fb3fd3855f078aca7da95b7c.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214205+00:00"
+    "fetched_at": "2026-07-31T16:45:57.287632+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Au Mali, des crimes de guerre documentés des deux côtés",
+    "link": "https://www.liberation.fr/international/afrique/ces-preuves-sont-irrefutables-au-mali-des-crimes-de-guerre-documentes-des-deux-cotes-20260731_FU65YDAE7NH3DGF22IHXKCUYLU/",
+    "summary": "Bombardements de civils, exécutions sommaires… Human Rights Watch et Amnesty International publient deux rapports documentant de nouvelles exactions commises par les belligérants.",
+    "published": "2026-07-31T16:36:00+00:00",
+    "authors": [
+      "Célian Macé"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/afrique/ces-preuves-sont-irrefutables-au-mali-des-crimes-de-guerre-documentes-des-deux-cotes-20260731_FU65YDAE7NH3DGF22IHXKCUYLU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752256+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Investisseurs privés à la Fifa : Michel Platini a félicité Aleksander Ceferin pour la menace de boycott de l’UEFA",
+    "link": "https://www.lefigaro.fr/sports/football/coupe-du-monde/investisseurs-prives-a-la-fifa-michel-platini-a-felicite-aleksander-ceferin-pour-la-menace-de-boycott-de-l-uefa-20260731",
+    "summary": "L’ancien président de l’UEFA a salué la menace d’un boycott de la Coupe du monde si Gianni Infantino poursuivait son projet de vendre des parts de la Fifa.",
+    "published": "2026-07-31T16:34:19+00:00",
+    "authors": [],
+    "categories": [
+      "Coupe du monde"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/coupe-du-monde/investisseurs-prives-a-la-fifa-michel-platini-a-felicite-aleksander-ceferin-pour-la-menace-de-boycott-de-l-uefa-20260731",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/07/31/8f71a6cfd2770a51546ed9727063b899019acf9221d78ea9543930a404fbed6f.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.288105+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Incendies en France : le Var confronté à une reprise de feu à Correns, de nouvelles évacuations ordonnées",
+    "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
+    "summary": "Des évacuations de population ont été ordonnées vendredi après-midi dans le Var en raison d’une reprise localisée de l’important incendie du Gros Bessillon qui avait fait rage durant une semaine et brûlé 4500 hectares, a indiqué la préfecture.",
+    "published": "2026-07-31T16:33:22+00:00",
+    "authors": [],
+    "categories": [
+      "Météo"
+    ],
+    "guid": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/07/31/87931a855a8db5e760d2789e2186f3ac48b65b5ba2de68fa4fd9ec9f90517ed9.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287979+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Paris : une octogénaire se fait dérober plus d’un million d’euros en lingots et pièces d’or par un faux policier",
+    "link": "https://www.lefigaro.fr/faits-divers/paris-une-octogenaire-se-fait-derober-plus-d-un-million-d-euros-en-lingots-et-pieces-d-or-par-un-faux-policier-20260731",
+    "summary": "Mardi soir, peu avant 22 heures, l’octogénaire, résidant dans le XIVe arrondissement de la capitale, a été appelée par un homme se présentant comme un conseiller bancaire, a relaté la source policière.",
+    "published": "2026-07-31T16:33:07+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/paris-une-octogenaire-se-fait-derober-plus-d-un-million-d-euros-en-lingots-et-pieces-d-or-par-un-faux-policier-20260731",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/07/31/c2c9dc69b009e74906774f56190ee802f9c5f10da2afd2a3e33c2b964e9e90ee.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.288145+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT - Ceuta : plus de 48 000 migrants déjà rentrés au Maroc, l’UE ne constate pas de flux de migrants «vers le continent européen»",
+    "link": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
+    "summary": "Alors que des dizaines de milliers de ressortissants marocains traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, dans le nord du Maroc, ils sont presque 50 000 à avoir déjà fait le chemin en sens inverse. Il s’agit de l’arrivée de migrants la plus importante depuis 2021.",
+    "published": "2026-07-31T16:29:54+00:00",
+    "authors": [
+      "Alexandre Billette, Ludovic Séré, Zoé Vezyroglou, Service Photo, AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752322+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Ceuta, l’une des deux portes terrestres de l’Afrique vers l’UE, au cœur des tensions migratoires",
+    "link": "https://www.lefigaro.fr/international/ceuta-cette-enclave-autonome-espagnole-au-coeur-des-tensions-migratoires-20260731",
+    "summary": "Coincée entre la mer Méditerranée et le Maroc, la ville autonome espagnole de Ceuta est l’une des deux seules frontières terrestres entre l’UE et l’Afrique. Immigration, tensions avec le Maroc, vestige de l’époque coloniale... Le Figaro fait le point sur ce territoire au centre d’enjeux stratégiques.",
+    "published": "2026-07-31T16:23:38+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/ceuta-cette-enclave-autonome-espagnole-au-coeur-des-tensions-migratoires-20260731",
+    "image": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/07/31/5afdc02fda1f5ab1c181baef5d656722e3c5bee2302a2c08cefc2b50d18452cd.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287720+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Incendie en Gironde : Sophie Brocas, préfète, et Marc Vermeulen, patron des pompiers du département, racontent dix jours de lutte contre le feu et expliquent leurs choix",
+    "link": "https://www.lemonde.fr/planete/article/2026/07/31/incendie-en-gironde-sophie-brocas-prefete-et-marc-vermeulen-patron-des-pompiers-du-departement-racontent-dix-jours-de-lutte-contre-le-feu-et-expliquent-leurs-choix_6737157_3244.html",
+    "summary": "Dans un entretien au « Monde », la préfète de Gironde et le directeur du Service départemental d’incendie et de secours reviennent sur leur gestion du mégafeu qui sévit dans le département depuis le 22 juillet.",
+    "published": "2026-07-31T16:21:45+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/07/31/incendie-en-gironde-sophie-brocas-prefete-et-marc-vermeulen-patron-des-pompiers-du-departement-racontent-dix-jours-de-lutte-contre-le-feu-et-expliquent-leurs-choix_6737157_3244.html",
+    "image": "https://img.lemde.fr/2026/07/31/307/0/4500/2250/644/322/60/0/c269dac_upload-1-hsphvo8zko6p-30072026-1a0a8455-incendies-gironde-carrot.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166203+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, Ceuta : 37 500 des 50 000 personnes entrées illégalement à Ceuta sont retournées au Maroc ; face aux critiques, Pedro Sanchez appelle à l’unité des Européens",
+    "link": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-37-500-des-50-000-personnes-entrees-illegalement-a-ceuta-sont-rentrees-au-maroc-face-aux-critiques-pedro-sanchez-appelle-a-l-unite-des-europeens_6737133_3210.html",
+    "summary": "« Ce n’est pas le moment de se diviser. C’est le moment de continuer à construire une Union européenne forte et unie », a réclamé le premier ministre espagnol sur le réseau social X. Selon le quotidien « El Pais », 57 migrants sont morts en tentant de rejoindre le territoire à la nage.",
+    "published": "2026-07-31T16:15:39+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/07/31/en-direct-ceuta-37-500-des-50-000-personnes-entrees-illegalement-a-ceuta-sont-rentrees-au-maroc-face-aux-critiques-pedro-sanchez-appelle-a-l-unite-des-europeens_6737133_3210.html",
+    "image": "https://img.lemde.fr/2026/07/31/414/0/4968/2484/644/322/60/0/02bcbe5_ftp-1-oc0ey2ucadmy-559c94e727d34346ae892e17c2aaa268-0-1b758ced5d584de38814e1ce531025ee.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166159+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Un abus scandaleux de la fonction présidentielle» : Trump peut-il monétiser l’accès à ses publications sur Truth Social ?",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/un-abus-scandaleux-de-la-fonction-presidentielle-trump-peut-il-monetiser-l-acces-a-ses-publications-sur-truth-social-20260731",
+    "summary": "DÉCRYPTAGE - La holding du président américain lance ce samedi un abonnement à 100.000 dollars par mois donnant aux traders un accès anticipé à ses publications sur Truth Social. Une offre qui relance le débat sur la marchandisation du pouvoir.",
+    "published": "2026-07-31T16:15:00+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/un-abus-scandaleux-de-la-fonction-presidentielle-trump-peut-il-monetiser-l-acces-a-ses-publications-sur-truth-social-20260731",
+    "image": "https://i.f1g.fr/media/cms/1200x782_crop/2026/07/31/812f370ff5797e1077fcfbca1ff79c7de7d9c693c3787b6cab70e33a534ae433.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287923+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le puissant El Niño s’apprête «à dominer les régimes climatiques mondiaux d’août à octobre», prévient l’OMM",
+    "link": "https://www.liberation.fr/environnement/le-puissant-el-nino-sapprete-a-dominer-les-regimes-climatiques-mondiaux-daout-a-octobre-previent-lomm-20260731_XOFIG7HCQFGL5IANOXSDQ24TLQ/",
+    "summary": "Selon l’Organisation météorologique mondiale, le phénomène naturel s’intensifie dans le Pacifique, avec pour conséquence une hausse du thermomètre mondial, un bouleversement du régime des précipitations et une mise sous tension des systèmes agricoles.",
+    "published": "2026-07-31T16:15:00+00:00",
+    "authors": [
+      "Julie Renson Miquel"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/le-puissant-el-nino-sapprete-a-dominer-les-regimes-climatiques-mondiaux-daout-a-octobre-previent-lomm-20260731_XOFIG7HCQFGL5IANOXSDQ24TLQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752356+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Corps de bébés retrouvés à Orange: la mère mise en examen et placée en détention provisoire",
+    "link": "https://www.lefigaro.fr/faits-divers/corps-de-bebes-retrouves-a-orange-la-mere-deferee-devant-le-juge-son-compagnon-relache-20260731",
+    "summary": "Elle avait été interpellée mercredi à sa sortie d’hôpital et placée en garde à vue à Avignon. Une information judiciaire pour «meurtre de cinq mineurs» a été ouverte.",
+    "published": "2026-07-31T16:14:01+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/corps-de-bebes-retrouves-a-orange-la-mere-deferee-devant-le-juge-son-compagnon-relache-20260731",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/07/31/d52c20490c7513577333833d40ea502849fb9ccbca92562f83a4392e9ee9f62d.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287892+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Gaza : Trump annonce un accord sur le désarmement du Hamas, Nétanyahou muré dans le silence",
+    "link": "https://www.liberation.fr/international/moyen-orient/gaza-trump-annonce-un-accord-sur-le-desarmement-du-hamas-netanyahou-mure-dans-le-silence-20260731_MH3TWE7EC5GKVCPL56HDRCJ7KU/",
+    "summary": "Selon Washington, le mouvement islamiste a accepté de se désarmer ce vendredi 31 juillet. Mais il exige le retrait de l’armée israélienne de la bande de Gaza, ce qu’elle a toujours refusé de faire malgré le cessez-le-feu signé en octobre.",
+    "published": "2026-07-31T16:01:16+00:00",
+    "authors": [
+      "Luc Mathieu"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/gaza-trump-annonce-un-accord-sur-le-desarmement-du-hamas-netanyahou-mure-dans-le-silence-20260731_MH3TWE7EC5GKVCPL56HDRCJ7KU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752388+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Les aventures d’Henri d’Anselme : l’âme de l’Alsace",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/les-aventures-dhenri-lame-de-lalsace",
+    "summary": "La pente est raide, la chaleur écrasante, et depuis une heure nous longeons un mur qui ne ressemble à rien. Des blocs de grès énormes, empilés sans mortier et retenus... L’article Les aventures d’Henri d’Anselme : l’âme de l’Alsace est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-07-31T16:00:11+00:00",
+    "authors": [
+      "Stagiaire VA"
+    ],
+    "categories": [
+      "Non classé",
+      "Alsace",
+      "bas rhin",
+      "Europe",
+      "Haut-rhin",
+      "tradition",
+      "vignobles"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/les-aventures-dhenri-lame-de-lalsace",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.689574+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Quand le gouvernement américain publie une carte fantaisiste de l’Afrique",
+    "link": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
+    "summary": "Lors d’une conférence internationale sur le sida, au Brésil, fin juillet, le département d’Etat a présenté une carte de l’Afrique où la Côte d’Ivoire s’est retrouvée dans le sud du continent et le Nigeria enclavé dans le Sahara. Le Cameroun, quant à lui, est devenu un Etat fantôme.",
+    "published": "2026-07-31T16:00:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/07/31/quand-le-gouvernement-americain-publie-une-carte-fantaisiste-de-l-afrique_6737154_3212.html",
+    "image": "https://img.lemde.fr/2026/07/30/504/0/4032/2016/644/322/60/0/e857852_ftp-1-uw6kr3x3gva2-2026-07-30t130842z-266872612-rc2nlmav1qgq-rtrmadp-3-usa-africa-politics.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166415+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Labeyrie, la succession qui agite le bocal de foie gras",
+    "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/labeyrie-la-succession-qui-agite-le-bocal-de-foie-gras-20260731_X2RBZ462IREY5G3BK6P4EDFCJA/",
+    "summary": "Mort en 2020 à presque 97 ans, l’industriel landais qui a fondé un empire du luxe gastronomique laisse une fortune de plus de 15 millions d’euros. Mais ses enfants accusent sa seconde femme d’avoir voulu profiter de sa faiblesse.",
+    "published": "2026-07-31T16:00:00+00:00",
+    "authors": [
+      "Willy Le Devin"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/labeyrie-la-succession-qui-agite-le-bocal-de-foie-gras-20260731_X2RBZ462IREY5G3BK6P4EDFCJA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752417+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Un logiciel espion surpuissant a été déployé au profit de LVMH",
+    "link": "https://www.mediapart.fr/journal/france/310726/un-logiciel-espion-surpuissant-ete-deploye-au-profit-de-lvmh",
+    "summary": "Un outil israélien permettant de géolocaliser des millions de téléphones est vendu en France à des grandes entreprises en toute confidentialité, selon des documents consultés par «Mediapart». En 2025, il a été mis au service d’une filiale du numéro un mondial du luxe, qui affirme y avoir finalement renoncé.",
+    "published": "2026-07-31T15:59:26+00:00",
+    "authors": [
+      "Yann Philippin, Antton Rouget"
+    ],
+    "categories": [
+      "France",
+      "A la Une, Penlink, Webloc"
+    ],
+    "guid": "1337788 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/31/260730-img-espion-01.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.213614+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Une solution de «cybermercenaires» aux mains des entreprises françaises",
+    "link": "https://www.mediapart.fr/journal/france/310726/une-solution-de-cybermercenaires-aux-mains-des-entreprises-francaises",
+    "summary": "L’outil de géolocalisation Webloc, qui a investi le marché privé français depuis 2025, comme le révèle «Mediapart», a été développé par une entreprise fondée par trois vétérans de l’armée israélienne. La société, bannie par Facebook à la suite du scandale Pegasus, a depuis été rachetée par un fonds états-unien.",
+    "published": "2026-07-31T15:59:23+00:00",
+    "authors": [
+      "Yann Philippin, Antton Rouget"
+    ],
+    "categories": [
+      "France",
+      "A la Une, cybersurveillance, Espionnage, Pegasus, Penlink, Webloc"
+    ],
+    "guid": "1337791 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/31/260730-img-espion-03.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.213679+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Ceuta, une enclave espagnole au cœur des tensions avec le Maroc",
+    "link": "https://www.liberation.fr/international/ceuta-une-enclave-espagnole-au-coeur-des-tensions-avec-le-maroc-20260731_B2F5QTIZOZDD3BKHH5QPBKZM7Y/",
+    "summary": "Le territoire ibérique coincé entre le royaume chérifien et la mer Méditerranée est confronté depuis jeudi 30 juillet à sa plus grosse vague migratoire depuis six ans, avec 60 000 personnes sur le territoire.",
+    "published": "2026-07-31T15:49:37+00:00",
+    "authors": [
+      "Emilien Hostyn"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/ceuta-une-enclave-espagnole-au-coeur-des-tensions-avec-le-maroc-20260731_B2F5QTIZOZDD3BKHH5QPBKZM7Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752445+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Insultée par un syndicaliste agricole, Marine Tondelier réclame des excuses publiques... qu’elle obtient",
+    "link": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/",
+    "summary": "Le président de la FDSEA de l’Oise s’en est pris sur Facebook à la secrétaire nationale des écolos, qui déplorait le vote récent de la loi d’urgence agricole.",
+    "published": "2026-07-31T15:44:58+00:00",
+    "authors": [
+      "Chez Pol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752472+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Taux du livret A, tarifs de l’électricité, démarchage téléphonique et produits IA… ce qui change au 1er août",
+    "link": "https://www.liberation.fr/economie/conso/taux-du-livret-a-tarifs-de-lelectricite-demarchage-telephonique-et-produits-ia-ce-qui-change-au-1er-aout-20260731_SYLCTZ7PL5F6BPCPXZXK6AQMNI/",
+    "summary": "De la hausse de l’électricité au consentement obligatoire pour la prospection de clients, «Libé» fait le tour des changements qui prennent effet prochainement.",
+    "published": "2026-07-31T15:43:11+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/conso/taux-du-livret-a-tarifs-de-lelectricite-demarchage-telephonique-et-produits-ia-ce-qui-change-au-1er-aout-20260731_SYLCTZ7PL5F6BPCPXZXK6AQMNI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752499+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«L’appel d’air migratoire massif frappera l’Europe et la France» : la lettre de Ciotti à Lecornu face au «flux de clandestins» de Ceuta",
+    "link": "https://www.lefigaro.fr/politique/l-appel-d-air-migratoire-massif-frappera-l-europe-et-la-france-la-lettre-de-ciotti-a-lecornu-face-au-flux-de-clandestins-de-ceuta-20260731",
+    "summary": "INFO LE FIGARO - Dans un courrier adressé au premier ministre, le président de l’UDR et maire de Nice exhorte l’exécutif à «rétablir immédiatement les contrôles à la frontière franco-espagnole» et demande de mettre l’Espagne sous contrôle renforcé dans l’espace Schengen.",
+    "published": "2026-07-31T15:42:17+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/l-appel-d-air-migratoire-massif-frappera-l-europe-et-la-france-la-lettre-de-ciotti-a-lecornu-face-au-flux-de-clandestins-de-ceuta-20260731",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/07/31/65b258d2aeca538b541c45e7cddea1e86ee7f789350dbf8f0932073c1fc2eff6.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.288180+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Un responsable de la FNSEA présente ses excuses à Marine Tondelier, après l’avoir insultée",
+    "link": "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html",
+    "summary": "Ce responsable agricole de l’Oise l’avait traitée de « grosse salope » sur sa page privée après l’adoption de la loi d’urgence agricole. La candidate écologiste avait exigé des excuses, menaçant le responsable syndical de « poursuites judiciaires ».",
+    "published": "2026-07-31T15:42:00+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/07/31/un-responsable-de-la-fnsea-presente-ses-excuses-a-marine-tondelier-apres-l-avoir-insultee_6737126_823449.html",
+    "image": "https://img.lemde.fr/2026/07/22/98/0/4252/2126/644/322/60/0/32970d3_upload-1-7oc0kscusphe-marinetondelierpasdecalais-06.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166379+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au Pakistan, sur les pentes du Broad Peak, les difficiles recherches pour retrouver les 10 alpinistes ensevelis, dont Nirmal Purja",
+    "link": "https://www.lemonde.fr/sport/article/2026/07/31/au-pakistan-sur-les-pentes-du-broad-peak-les-difficiles-recherches-pour-retrouver-les-dix-alpinistes-ensevelis-dont-nirmal-purja_6737151_3242.html",
+    "summary": "Dix personnes ont été prises dans une avalanche, jeudi, dans la chaîne du Karakoram. Parmi elles, l’alpiniste népalais connu pour avoir gravi les 14 plus hauts sommets du monde en un temps record. Quatre corps ont été repérés. Les recherches reprendront samedi.",
+    "published": "2026-07-31T15:38:23+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/article/2026/07/31/au-pakistan-sur-les-pentes-du-broad-peak-les-difficiles-recherches-pour-retrouver-les-dix-alpinistes-ensevelis-dont-nirmal-purja_6737151_3242.html",
+    "image": "https://img.lemde.fr/2026/07/31/1341/0/6019/3009/644/322/60/0/74774e5_ftp-1-na6yzrthib3n-2026-07-31t061439z-881137528-rc2uomajpazy-rtrmadp-3-nepal-pakistan-climbers.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166351+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Dans la série de Larry David «Life, Larry and the Pursuit of Unhappiness», il était un moi l’Amérique",
+    "link": "https://www.liberation.fr/culture/series/dans-la-serie-de-larry-david-life-larry-and-the-pursuit-of-unhappiness-il-etait-un-moi-lamerique-20260731_44F4YABGQRHBTMQN4WB5RXW4QM/",
+    "summary": "Produite par Barack Obama, le sketch show de l’humoriste réécrit l’histoire des Etats-Unis. Du fan service faussement engagé mais formidablement mégalo.",
+    "published": "2026-07-31T15:38:00+00:00",
+    "authors": [
+      "Théo  Ribeton"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/series/dans-la-serie-de-larry-david-life-larry-and-the-pursuit-of-unhappiness-il-etait-un-moi-lamerique-20260731_44F4YABGQRHBTMQN4WB5RXW4QM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752525+00:00"
   },
   {
     "source": "Libération",
     "title": "EN DIRECT - Incendies : reprise de feu dans le Var, nouvelles évacuations",
     "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
     "summary": "Des habitants de Correns et de son camping sont évacués ce vendredi après-midi en raison d’une reprise localisée de l’important incendie du Gros Bessillon qui avait fait rage entre le 21 et le 28 juillet et brûlé 4 500 hectares.",
-    "published": "2026-07-31T13:52:30+00:00",
+    "published": "2026-07-31T15:34:37+00:00",
     "authors": [
       "Libération ., Service Photo, AFP ., Reuters ."
     ],
@@ -27,7 +391,343 @@
     "guid": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.586883+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752556+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Ça suffit» : à Vierzon, une résistance citoyenne s’organise face à la mairie d’extrême droite",
+    "link": "https://www.liberation.fr/politique/elections/ca-suffit-a-vierzon-une-resistance-citoyenne-sorganise-face-a-la-mairie-dextreme-droite-20260731_WPIV275WIVGXHMZZYJRYZ2YU3I/",
+    "summary": "Quatre mois après le basculement de la commune du Cher, les vexations infligées à une figure de la vie locale indignent et stimulent un collectif de gauche, qui refuse de se résigner au nouveau climat ambiant.",
+    "published": "2026-07-31T15:27:40+00:00",
+    "authors": [
+      "Nicolas Massol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/ca-suffit-a-vierzon-une-resistance-citoyenne-sorganise-face-a-la-mairie-dextreme-droite-20260731_WPIV275WIVGXHMZZYJRYZ2YU3I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752584+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Guerre en Ukraine : la Russie envoie des enfants ukrainiens dans un «camp d’amitié» en Corée du Nord",
+    "link": "https://www.liberation.fr/international/asie-pacifique/guerre-en-ukraine-la-russie-envoie-des-enfants-ukrainiens-dans-un-camp-damitie-en-coree-du-nord-20260731_4N4KFXSAE5HEFKTQN2UKV77VZQ/",
+    "summary": "Depuis le début de l’invasion en 2022, Moscou mène une politique d’assimilation de la population. Un quotidien japonais cité par «Courrier International» révèle l’existence de ces séjours où sont dispensés entraînements militaires et éducation patriotique.",
+    "published": "2026-07-31T15:26:26+00:00",
+    "authors": [
+      "Maud Mathias"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/asie-pacifique/guerre-en-ukraine-la-russie-envoie-des-enfants-ukrainiens-dans-un-camp-damitie-en-coree-du-nord-20260731_4N4KFXSAE5HEFKTQN2UKV77VZQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752614+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Parcours, diffusion, horaires, favorites : tout savoir sur le Tour de France femmes 2026",
+    "link": "https://www.liberation.fr/sports/cyclisme/parcours-diffusion-horaires-favorites-tout-savoir-sur-le-tour-de-france-femmes-2026-20260731_EKCRA2VXTNFELBN3L424RUN6N4/",
+    "summary": "«Libération» fait le point sur les principales informations à connaître pour regarder dans les meilleures conditions la Grande Boucle, qui débute ce samedi 1er août à Lausanne en Suisse et s’achève le dimanche 9 août à Nice.",
+    "published": "2026-07-31T15:26:16+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/cyclisme/parcours-diffusion-horaires-favorites-tout-savoir-sur-le-tour-de-france-femmes-2026-20260731_EKCRA2VXTNFELBN3L424RUN6N4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752641+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La plateforme de prédiction Kalshi, accusée d’activité illégale de paris en ligne, poursuivie en justice par l’Etat de New York",
+    "link": "https://www.lemonde.fr/international/article/2026/07/31/la-plateforme-de-prediction-kalshi-accusee-d-activite-illegale-de-paris-en-ligne-poursuivie-en-justice-par-l-etat-de-new-york_6737150_3210.html",
+    "summary": "La procureure générale fait valoir que Kalshi (où les utilisateurs peuvent parier sur des événements d’actualité) viole les lois de l’Etat américain en opérant sans licence appropriée depuis son lancement en 2021.",
+    "published": "2026-07-31T15:23:12+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/07/31/la-plateforme-de-prediction-kalshi-accusee-d-activite-illegale-de-paris-en-ligne-poursuivie-en-justice-par-l-etat-de-new-york_6737150_3210.html",
+    "image": "https://img.lemde.fr/2026/07/28/484/0/6113/3056/644/322/60/0/8837221_ftp-1-2o2ufm0qhg4p-f6acccbdade145b1b094f0049ce51692-0-4e793c533b424956b0e7efe6125b55c5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166554+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’accord de Schengen peut-il vraiment être suspendu avec l’Espagne, comme le demande l’Italie ?",
+    "link": "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
+    "summary": "DÉCRYPTAGE - Face à l’afflux d’environ 60.000 migrants en provenance du Maroc dans l’enclave espagnole de Ceuta en 48 heures, la première ministre italienne a annoncé vouloir «suspendre» l’accord de libre circulation avec l’Espagne.",
+    "published": "2026-07-31T15:22:03+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/l-accord-de-schengen-peut-il-vraiment-etre-suspendu-avec-l-espagne-comme-le-demande-l-italie-20260731",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/07/31/cc7d3cd7cede72f20a153d3fc00d2ea1bf1c0e20aa617492679a77efd27ead5f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287577+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN IMAGES - A Ceuta, la traversée de dizaines de milliers de migrants",
+    "link": "https://www.liberation.fr/international/en-images-a-ceuta-la-traversee-de-dizaines-de-milliers-de-migrants-marocains-20260731_IPOBZ2UVD5BN5MIZ4RXZXSELFA/",
+    "summary": "Quelque 60 000 personnes principalement venues du Maroc traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, en Afrique du Nord. Il s’agit de l’arrivée de migrants la plus importante depuis 2021.",
+    "published": "2026-07-31T15:08:28+00:00",
+    "authors": [
+      "Service Photo"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/en-images-a-ceuta-la-traversee-de-dizaines-de-milliers-de-migrants-marocains-20260731_IPOBZ2UVD5BN5MIZ4RXZXSELFA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752667+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "En Occitanie, les vendanges commencent beaucoup plus tôt que d’habitude",
+    "link": "https://www.liberation.fr/environnement/agriculture/en-occitanie-les-vendanges-commencent-beaucoup-plus-tot-que-dhabitude-20260731_O4IBMYUB6VGGBET4KQAWHLTST4/",
+    "summary": "Plusieurs viticulteurs de l’Aude et des Pyrénées-Orientales ont commencé à vendanger, avec au moins une semaine d’avance. Une précocité liée aux fortes chaleurs qui rappelle l’impact du changement climatique sur les cultures.",
+    "published": "2026-07-31T15:04:40+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/agriculture/en-occitanie-les-vendanges-commencent-beaucoup-plus-tot-que-dhabitude-20260731_O4IBMYUB6VGGBET4KQAWHLTST4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752693+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Nouvelle-Calédonie, un nouveau président de gouvernement sans majorité et avec des défis majeurs",
+    "link": "https://www.lemonde.fr/politique/article/2026/07/31/en-nouvelle-caledonie-un-nouveau-president-de-gouvernement-sans-majorite-et-avec-des-defis-majeurs_6737146_823448.html",
+    "summary": "A 41 ans, le président de l’Eveil océanien, Milakulo Tukumuli, a été désigné vendredi président du gouvernement collégial de l’archipel. Mais son élection, fruit d’un accord avec les non-indépendantistes, ne lui garantit pas de faire passer les réformes qu’il a promis de mener.",
+    "published": "2026-07-31T15:00:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/07/31/en-nouvelle-caledonie-un-nouveau-president-de-gouvernement-sans-majorite-et-avec-des-defis-majeurs_6737146_823448.html",
+    "image": "https://img.lemde.fr/2026/07/31/321/100/4900/2450/644/322/60/0/e568f1d_ftp-1-xdqpjf3cxrqv-5745517-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166446+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "[ENTRETIEN] Crise à Ceuta : « Une brèche s’ouvre et il faut immédiatement la colmater », déclare l’eurodéputé Fabrice Leggeri, ancien directeur de Frontex",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/politique/entretien-crise-a-ceuta-une-breche-souvre-et-il-faut-immediatement-la-colmater-declare-leurodepute-fabrice-leggeri-ancien-directeur-de-frontex",
+    "summary": "Valeurs actuelles. Que vous inspirent les images qui nous parviennent de la ville autonome de Ceuta ? Fabrice Leggeri. Elles me rappellent immédiatement celles que j’ai vues en Grèce en 2015,... L’article [ENTRETIEN] Crise à Ceuta : « Une brèche s’ouvre et il faut immédiatement la colmater », déclare l’eurodéputé Fabrice Leggeri, ancien directeur de Frontex est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-07-31T15:00:02+00:00",
+    "authors": [
+      "Valentin Gaure"
+    ],
+    "categories": [
+      "Politique",
+      "ceuta",
+      "espagne",
+      "Europe",
+      "France",
+      "frontex",
+      "frontière",
+      "gauche",
+      "immigration",
+      "maroc",
+      "Pedro Sánchez",
+      "submersion"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/entretien-crise-a-ceuta-une-breche-souvre-et-il-faut-immediatement-la-colmater-declare-leurodepute-fabrice-leggeri-ancien-directeur-de-frontex",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.689649+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Incendie en Gironde : la carte des feux de forêt en cours près du bassin d’Arcachon",
+    "link": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731",
+    "summary": "CARTE – Le feu qui sévit dans la région bordelaise depuis le 22 juillet a détruit 42.000 hectares. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
+    "published": "2026-07-31T14:44:22+00:00",
+    "authors": [],
+    "categories": [
+      "Bordeaux"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/28/fd4bb3f8f47546ec0efa5f66216a93ee5ce72eb8600dc0051cd7f39d96105235.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.288038+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La Slovaquie refuse d’enregistrer les mariages homosexuels conclus à l’étranger",
+    "link": "https://www.lemonde.fr/international/article/2026/07/31/la-slovaquie-refuse-d-enregistrer-les-mariages-homosexuels-conclus-a-l-etranger_6737145_3210.html",
+    "summary": "En novembre 2025, la Cour de justice de l’Union européenne avait conclu que tout pays de l’Union européenne était tenu de reconnaître une union entre personnes de même sexe conclue dans un autre Etat membre.",
+    "published": "2026-07-31T14:42:26+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/07/31/la-slovaquie-refuse-d-enregistrer-les-mariages-homosexuels-conclus-a-l-etranger_6737145_3210.html",
+    "image": "https://img.lemde.fr/2024/05/15/541/0/6500/3250/644/322/60/0/f466142_c472a3cf6c5f42efb320198b84f27b4f-0-13da8557b53546978ad0935ae7d85bd3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166577+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Livrés à eux-mêmes, des enfants placés dénoncent des violences dans un foyer en Alsace",
+    "link": "https://www.mediapart.fr/journal/france/310726/livres-eux-memes-des-enfants-places-denoncent-des-violences-dans-un-foyer-en-alsace",
+    "summary": "Des employés et des jeunes d’un foyer de la protection de l’enfance à Saverne témoignent de violences et de graves défauts d’encadrement. Une situation qu’ils attribuent aux carences de la hiérarchie et au manque de moyens.",
+    "published": "2026-07-31T14:38:54+00:00",
+    "authors": [
+      "Thibault Vetter (Rue89 Strasbourg)"
+    ],
+    "categories": [
+      "Protection de l’enfance : une mission sacrifiée",
+      "Aide sociale à l’enfance, Enfances, Rue89 Strasbourg"
+    ],
+    "guid": "1337281 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/29/copie-de-montage-apei-centre-alsace-4.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.213732+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Maroc: liberté provisoire pour le rappeur Mehdi Black Wind, qui reste poursuivi",
+    "link": "https://www.mediapart.fr/journal/international/310726/maroc-liberte-provisoire-pour-le-rappeur-mehdi-black-wind-qui-reste-poursuivi",
+    "summary": "L’artiste est toujours poursuivi pour «atteinte aux institutions». Une prochaine audience est fixée au 2 octobre.",
+    "published": "2026-07-31T14:37:52+00:00",
+    "authors": [
+      "Agence France-Presse"
+    ],
+    "categories": [
+      "International",
+      "Afrique(s), El Mahdi Lyoubi, Maroc, Mehdi Black Wind"
+    ],
+    "guid": "1337847 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/31/260731-img-maroc-liberte-provisoire-pour-le-rappeur-mehdi-black-wind-qui-reste-poursuivi.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.213782+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Après l’Arabie saoudite, la Corée du Sud demande elle aussi aux Etats-Unis d’avoir le droit d’enrichir de l’uranium",
+    "link": "https://www.lemonde.fr/international/article/2026/07/31/apres-l-arabie-saoudite-la-coree-du-sud-demande-elle-aussi-aux-etats-unis-d-avoir-le-droit-d-enrichir-de-l-uranium_6737144_3210.html",
+    "summary": "Washington, qui vient d’annoncer un accord autorisant Riyad à se doter de ses propres moyens d’enrichissement, refuse toujours ce droit à Séoul. La Corée du Sud dit en avoir besoin pour faire face à des besoins énergétiques croissants et pour développer des sous-marins à propulsion nucléaire.",
+    "published": "2026-07-31T14:35:49+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/07/31/apres-l-arabie-saoudite-la-coree-du-sud-demande-elle-aussi-aux-etats-unis-d-avoir-le-droit-d-enrichir-de-l-uranium_6737144_3210.html",
+    "image": "https://img.lemde.fr/2026/07/30/356/0/4275/2137/644/322/60/0/f7885d0_ftp-1-vhoejd6qi76e-a51990db9c52477682038b7a104c19cc-0-5de3cbe0a023427ba87ab760f5148ece.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166502+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Taxe de séjour : nouvelle victoire de l’île d’Oléron dans son bras de fer avec Airbnb",
+    "link": "https://www.liberation.fr/economie/conso/taxe-de-sejour-lile-doleron-remporte-son-bras-de-fer-avec-airbnb-20260731_CMDKX5TKQ5F4DPHPWYM2JAQZXU/",
+    "summary": "Le Conseil constitutionnel a déclaré, vendredi 31 juillet, conforme à la Constitution le code des collectivités, qui a valu une amende de 8,6 millions d’euros à la plateforme dans le cadre de son litige sur la taxe de séjour avec l’île d’Oléron, dont l’entreprise américaine contestait la «proportionnalité».",
+    "published": "2026-07-31T14:31:03+00:00",
+    "authors": [
+      "AFP ., Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/conso/taxe-de-sejour-lile-doleron-remporte-son-bras-de-fer-avec-airbnb-20260731_CMDKX5TKQ5F4DPHPWYM2JAQZXU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752724+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« L’Italie ne restera pas les bras croisés » : derrière l’afflux migratoire à Ceuta, une crise diplomatique ouverte entre Madrid et Rome",
+    "link": "https://www.lefigaro.fr/international/l-italie-ne-restera-pas-les-bras-croises-derriere-l-afflux-migratoire-a-ceuta-une-crise-diplomatique-ouverte-entre-madrid-et-rome-20260731",
+    "summary": "DÉCRYPTAGE - Alors que Giorgia Meloni réclame à la Commission européenne une suspension de l’Espagne de l’espace Schengen avec la vague migratoire massive sur l’enclave, les tensions font rejaillir d’autres litiges entre les deux nations européennes.",
+    "published": "2026-07-31T14:30:00+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/l-italie-ne-restera-pas-les-bras-croises-derriere-l-afflux-migratoire-a-ceuta-une-crise-diplomatique-ouverte-entre-madrid-et-rome-20260731",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/07/31/90088c473c85dc64f5671dcb3e62e2c1f2fc3d5ebeb40a4c7358ec3b8fdd9f27.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287673+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«C’est une invasion», «toutes les limites ont été franchies» : la classe politique européenne inquiète et en colère devant la vague migratoire massive de Ceuta",
+    "link": "https://www.lefigaro.fr/international/c-est-une-invasion-toutes-les-limites-ont-ete-franchies-la-classe-politique-europeenne-inquiete-et-en-colere-devant-la-vague-migratoire-massive-de-ceuta-20260731",
+    "summary": "60.000 personnes sont entrées dans l’enclave espagnole de Ceuta après des rumeurs faisant état d’une ouverture de la frontière. Les forces de l’ordre ont été débordées.",
+    "published": "2026-07-31T14:29:25+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/c-est-une-invasion-toutes-les-limites-ont-ete-franchies-la-classe-politique-europeenne-inquiete-et-en-colere-devant-la-vague-migratoire-massive-de-ceuta-20260731",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/07/31/eabe2479f3a70f2a713341918f484ee1569b88cc97a8a5726af558d137dd2231.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287755+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Les migrants marocains de Ceuta, victimes des politiques migratoires européennes",
+    "link": "https://www.mediapart.fr/journal/international/310726/les-migrants-marocains-de-ceuta-victimes-des-politiques-migratoires-europeennes",
+    "summary": "Plusieurs dizaines de milliers de personnes seraient parvenues à entrer dans l’enclave espagnole au cours des derniers jours, et une trentaine d’entre elles ont déjà perdu la vie. Un nouvel épisode qui illustre toute la perversité de l’externalisation de la gestion des frontières.",
+    "published": "2026-07-31T14:19:24+00:00",
+    "authors": [
+      "Nejma Brahim"
+    ],
+    "categories": [
+      "International",
+      "Migrations"
+    ],
+    "guid": "1337812 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/31/260731-img-ceuta-les-migrants-marocains-victimes-des-politiques-migratoires-europeennes.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.213851+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Vague migratoire massive à Ceuta : Donald Trump évoque des images «terribles»",
+    "link": "https://www.lefigaro.fr/international/vague-migratoire-massive-a-ceuta-donald-trump-evoque-des-images-terribles-20260731",
+    "summary": "«Souvenez-vous de cette image. Ce sera nous dans trois ans si le mauvais camp l’emporte», a déclaré le président américain, selon des propos rapportés par une journaliste de la chaîne américaine Fox News.",
+    "published": "2026-07-31T14:09:57+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/vague-migratoire-massive-a-ceuta-donald-trump-evoque-des-images-terribles-20260731",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/07/31/0b7198068848d5e4f93899b0525962739e901eec44acbecfc219f3b1199de19b.JPG",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.287863+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Une enquête ouverte contre l’ancien coureur cycliste Erwann Menthéour pour «viol incestueux» sur sa fille mineure et «viol par conjoint»",
+    "link": "https://www.liberation.fr/societe/police-justice/une-enquete-ouverte-contre-lancien-coureur-cycliste-erwann-mentheour-pour-viol-incestueux-sur-sa-fille-mineure-et-viol-par-conjoint-20260731_5KR3XN2RNVGA5IEMUMAC7AX6BY/",
+    "summary": "Agé de 53 ans, l’ancien coureur est soupçonné de viol et d’agression sexuelle sur sa fille alors qu’elle était mineure. Une information judiciaire a été également ouverte ce vendredi 31 juillet pour «viol par conjoint». Le parquet de Paris a fait appel «de l’absence de mise en examen» d’Erwann Menthéour.",
+    "published": "2026-07-31T14:08:27+00:00",
+    "authors": [
+      "Ludovic Séré"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/une-enquete-ouverte-contre-lancien-coureur-cycliste-erwann-mentheour-pour-viol-incestueux-sur-sa-fille-mineure-et-viol-par-conjoint-20260731_5KR3XN2RNVGA5IEMUMAC7AX6BY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.752758+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Nuages à l’horizon pour Gabriel Attal",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/politique/nuages-a-lhorizon-pour-gabriel-attal",
+    "summary": "Cette grande élection de l’année prochaine, mon cousin, sera une élection d’adultes. Je vous l’écrivais ainsi la semaine passée. Vont se déployer, à la politique, des mammifères d’un autre temps.... L’article Nuages à l’horizon pour Gabriel Attal est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-07-31T14:00:55+00:00",
+    "authors": [
+      "Bertille Vaur"
+    ],
+    "categories": [
+      "Non classé",
+      "campagne présidentielle",
+      "Gabriel Attal",
+      "parti politique",
+      "politique",
+      "Présidentielle 2027"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/nuages-a-lhorizon-pour-gabriel-attal",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.689695+00:00"
   },
   {
     "source": "Libération",
@@ -42,22 +742,7 @@
     "guid": "https://www.liberation.fr/culture/musique/josh-da-costa-alex-cameron-sooj-quest-ce-quon-ecoute-cette-semaine-20260731_CE3JYXNYHRBVPEMDJNG72BCO5A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.586929+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Incendies en France : le Var confronté à une reprise de feu, de nouvelles évacuations ordonnées",
-    "link": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
-    "summary": "Des évacuations de population ont été ordonnées vendredi après-midi dans le Var en raison d’une reprise localisée de l’important incendie du Gros Bessillon qui avait fait rage durant une semaine et brûlé 4500 hectares, a indiqué la préfecture.",
-    "published": "2026-07-31T13:49:03+00:00",
-    "authors": [],
-    "categories": [
-      "Météo"
-    ],
-    "guid": "https://www.lefigaro.fr/meteo/en-direct-incendies-feux-canicule-chaleur-france-europe-meteo-20260731",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/31/945f06f36991d7c9506c0803e6192f1f9447a969aee2c702ec946f31c3fcecd9.jpg",
-    "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214610+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752781+00:00"
   },
   {
     "source": "Le Figaro",
@@ -76,21 +761,6 @@
   },
   {
     "source": "Libération",
-    "title": "EN DIRECT - Ceuta : 60 000 migrants ont passé la frontière vers l’Espagne, 25 000 sont repartis vers le Maroc",
-    "link": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
-    "summary": "Des milliers de ressortissants marocains traversent depuis plusieurs jours la frontière qui mène à l’enclave espagnole, dans le nord du Maroc. Il s’agit de l’arrivée de migrants la plus importante depuis 2021.",
-    "published": "2026-07-31T13:45:21+00:00",
-    "authors": [
-      "Alexandre Billette, Ludovic Séré, Zoé Vezyroglou, Service Photo, AFP ., Reuters ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/europe/en-direct-ceuta-49-000-migrants-ont-traverse-la-frontiere-en-24-heures-le-premier-ministre-espagnol-attendu-sur-place-20260731_KHUFZEAPQVCW3AUWEEFNVVE36U/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.586960+00:00"
-  },
-  {
-    "source": "Libération",
     "title": "Maureen Jenkins, nageuse synchronisée : sirène du bal",
     "link": "https://www.liberation.fr/portraits/maureen-jenkins-nageuse-synchronisee-sirene-du-bal-20260731_AYHVDUCL35AWTHH7QWXPP6CYEY/",
     "summary": "L’ancienne championne de France de natation synchronisée a renoncé à la compétition pour se produire chaque soir au Moulin rouge.",
@@ -102,7 +772,7 @@
     "guid": "https://www.liberation.fr/portraits/maureen-jenkins-nageuse-synchronisee-sirene-du-bal-20260731_AYHVDUCL35AWTHH7QWXPP6CYEY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.586984+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752804+00:00"
   },
   {
     "source": "Le Monde",
@@ -145,20 +815,20 @@
     "guid": "https://www.liberation.fr/culture/cinema/ressortie-de-lawrence-darabie-les-mille-et-unes-survies-du-chef-doeuvre-david-lean-20260731_NSNBBI5U2RDCVAHHZCOISMLN44/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587010+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752829+00:00"
   },
   {
     "source": "Le Monde",
     "title": "« Ce que vivent les Palestiniens en Cisjordanie occupée dépasse la violence ordinaire et correspond exactement à la définition du terrorisme »",
     "link": "https://www.lemonde.fr/international/article/2026/07/31/ce-que-vivent-les-palestiniens-en-cisjordanie-occupee-depasse-la-violence-ordinaire-et-correspond-exactement-a-la-definition-du-terrorisme_6737138_3210.html",
     "summary": "Arie Perliger, professeur à l’université du Massachusetts à Lowell, spécialiste du terrorisme d’extrême droite en Israël et aux Etats-Unis, revient dans un entretien au « Monde » sur les ressorts idéologiques de la violence des colons en Cisjordanie occupée et sur les responsabilités du gouvernement israélien dans sa persistance.",
-    "published": "2026-07-31T13:30:10+00:00",
+    "published": "2026-07-31T13:30:09+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/international/article/2026/07/31/ce-que-vivent-les-palestiniens-en-cisjordanie-occupee-depasse-la-violence-ordinaire-et-correspond-exactement-a-la-definition-du-terrorisme_6737138_3210.html",
     "image": "https://img.lemde.fr/2026/07/25/0/0/7200/3600/644/322/60/0/ba26d40_ftp-1-l8ivmmtskn8y-5703335-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.234286+00:00"
+    "fetched_at": "2026-07-31T16:45:57.166321+00:00"
   },
   {
     "source": "Le Figaro",
@@ -173,7 +843,7 @@
     "guid": "https://www.lefigaro.fr/international/attaque-mafia-de-trafiquants-d-etre-humains-ce-qu-il-faut-retenir-de-la-prise-de-parole-de-pedro-sanchez-apres-la-vague-migratoire-massive-de-ceuta-20260731",
     "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/07/31/171c9f52e4f26c106678af8117194e93757b5d0b00f6e841adbb0917afbdc661.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214283+00:00"
+    "fetched_at": "2026-07-31T16:45:57.287787+00:00"
   },
   {
     "source": "Le Figaro",
@@ -189,21 +859,6 @@
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/07/31/a40660ed65a52e973f514d0cfaefad41aca6308b9bc5a06e1e9e18dd0629fcdd.jpg",
     "full_text": null,
     "fetched_at": "2026-07-31T14:07:25.214765+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "«C’est une invasion», «toutes les limites ont été franchies» : la classe politique européenne inquiète et en colère devant la vague migratoire massive de Ceuta",
-    "link": "https://www.lefigaro.fr/international/c-est-une-invasion-toutes-les-limites-ont-ete-franchies-la-classe-politique-europeenne-inquiete-et-en-colere-devant-la-vague-migratoire-massive-de-ceuta-20260731",
-    "summary": "60.000 personnes sont entrées dans l’enclave espagnole de Ceuta après des rumeurs faisant état d’une ouverture de la frontière. Les forces de l’ordre ont été débordées.",
-    "published": "2026-07-31T13:07:57+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/c-est-une-invasion-toutes-les-limites-ont-ete-franchies-la-classe-politique-europeenne-inquiete-et-en-colere-devant-la-vague-migratoire-massive-de-ceuta-20260731",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/07/31/eabe2479f3a70f2a713341918f484ee1569b88cc97a8a5726af558d137dd2231.jpg",
-    "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214350+00:00"
   },
   {
     "source": "Le Figaro",
@@ -233,7 +888,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/nirmal-purja-star-de-lalpinisme-porte-disparu-apres-une-avalanche-au-pakistan-20260731_6QFIBUQBEVEMPLZ7KM3M3JPGIY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587046+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752857+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -256,7 +911,7 @@
     "guid": "https://www.valeursactuelles.com/societe/incendies-en-gironde-meme-les-urnes-funeraires-de-nos-parents-ont-ete-jetees-au-sol-le-temoignage-dune-habitante-victime-dun-pillage",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.665832+00:00"
+    "fetched_at": "2026-07-31T16:45:57.689747+00:00"
   },
   {
     "source": "Le Figaro",
@@ -286,7 +941,7 @@
     "guid": "https://www.lefigaro.fr/international/en-2021-des-milliers-de-migrants-deferlaient-deja-sur-ceuta-a-la-faveur-d-un-relachement-des-controles-marocains-20260731",
     "image": "https://i.f1g.fr/media/cms/2985x1679_crop/2026/07/31/9ff16989849e7f366167b4d62cfd933c2268eb26488cec7a9f509eeb7c72e1f7.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214249+00:00"
+    "fetched_at": "2026-07-31T16:45:57.287815+00:00"
   },
   {
     "source": "Le Figaro",
@@ -301,7 +956,7 @@
     "guid": "https://www.lefigaro.fr/societes/incendies-en-gironde-le-trafic-ferroviaire-va-reprendre-a-partir-de-samedi-au-sud-de-bordeaux-20260731",
     "image": "https://i.f1g.fr/media/cms/orig/2026/07/31/fb5d21f930d7c85c197cf19e45b61195e665a48448d549a6a33d90fd260dabbe.JPG",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214636+00:00"
+    "fetched_at": "2026-07-31T16:45:57.288010+00:00"
   },
   {
     "source": "Libération",
@@ -316,7 +971,7 @@
     "guid": "https://www.liberation.fr/international/afrique/drame-de-la-route-en-algerie-un-autocar-chute-dans-un-ravin-25-morts-20260731_GIEQ5APV4BABHFMCEX7GM2GTDA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587071+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752881+00:00"
   },
   {
     "source": "Libération",
@@ -331,7 +986,7 @@
     "guid": "https://www.liberation.fr/sports/football/investisseurs-prives-a-la-fifa-gianni-infantino-surfe-sur-la-desoccidentalisation-du-football-20260731_QMV7DLMV6RAZLGZGDPSCNWBLLA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587108+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752909+00:00"
   },
   {
     "source": "Le Monde",
@@ -366,7 +1021,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/theatre-la-soiree-avait-si-bien-commence-au-theatre-de-passy-une-comedie-legere-qui-mise-tout-sur-ses-comediens",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.665889+00:00"
+    "fetched_at": "2026-07-31T16:45:57.689796+00:00"
   },
   {
     "source": "Le Figaro",
@@ -411,7 +1066,7 @@
     "guid": "https://www.liberation.fr/environnement/nos-forets-devenues-des-poudrieres-notre-systeme-de-securite-civile-aussi-lincendie-couve-chez-des-pompiers-en-manque-drastique-de-moyens-20260731_JEIWJOLO4BC6TCXSTTTLLN3XQE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587140+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752939+00:00"
   },
   {
     "source": "Mediapart",
@@ -424,12 +1079,12 @@
     ],
     "categories": [
       "France",
-      "A la Une, violences faites aux enfants, violences sexistes et sexuelles"
+      "violences faites aux enfants, violences sexistes et sexuelles"
     ],
     "guid": "1337172 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/29/260729-img-nounou-top-la-plateforme-francaise-de-garde-d-enfants-face-aux-plaintes-de-violences-sexuelles.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.295535+00:00"
+    "fetched_at": "2026-07-31T16:45:57.213916+00:00"
   },
   {
     "source": "Mediapart",
@@ -447,7 +1102,7 @@
     "guid": "1337593 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/31/260731-img-au-coeur-des-incendies-des-soldats-du-feu-low-cost.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.295573+00:00"
+    "fetched_at": "2026-07-31T16:45:57.213979+00:00"
   },
   {
     "source": "Mediapart",
@@ -465,7 +1120,7 @@
     "guid": "1334704 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/16/260716-img-serie-cole-us-3a-omaha-denise-powell-porte-les-espoirs-d-une-alternance-democrate-au-congres.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.295603+00:00"
+    "fetched_at": "2026-07-31T16:45:57.214033+00:00"
   },
   {
     "source": "Le Figaro",
@@ -510,7 +1165,7 @@
     "guid": "https://www.lefigaro.fr/societes/incendies-totalenergies-va-payer-la-facture-de-carburant-des-pompiers-francais-pour-tout-l-ete-20260731",
     "image": "https://i.f1g.fr/media/cms/orig/2026/07/31/73fff647c489ede8b5ad0773e47712b5d351121a9a2e661e7f49b274f41c1e78.JPG",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214685+00:00"
+    "fetched_at": "2026-07-31T16:45:57.288066+00:00"
   },
   {
     "source": "Le Monde",
@@ -544,7 +1199,22 @@
     "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-jordan-bardella-et-marine-le-pen-confirment-la-domination-du-camp-national-selon-un-sondage",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.665948+00:00"
+    "fetched_at": "2026-07-31T16:45:57.689841+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Mégots jetés par les fenêtres : pourquoi n’y a-t-il plus de cendriers dans les voitures ?",
+    "link": "https://www.lefigaro.fr/actualite-france/megots-jetes-par-les-fenetres-pourquoi-n-y-a-t-il-plus-de-cendriers-dans-les-voitures-20260731",
+    "summary": "DÉCRYPTAGE - L’accessoire se raréfie dans les habitacles, alors que près d’un fumeur sur cinq admet jeter sa cigarette dans la nature quand il est au volant. Un geste aux conséquences potentiellement dramatiques au moment où le pays est toujours confronté à de violents incendies.",
+    "published": "2026-07-31T10:59:27+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/megots-jetes-par-les-fenetres-pourquoi-n-y-a-t-il-plus-de-cendriers-dans-les-voitures-20260731",
+    "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/07/31/1b328d1109b401f8b99ec8338642a55c4bb85bfee01a5668b316e5488cc4950c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.288241+00:00"
   },
   {
     "source": "Libération",
@@ -559,7 +1229,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/requiem-pour-vaneigem-par-jacques-donguy-20260731_ME3HZJMI2FAZBNCXGAKLKNPGAU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587170+00:00"
+    "fetched_at": "2026-07-31T16:45:57.752973+00:00"
   },
   {
     "source": "Libération",
@@ -574,22 +1244,7 @@
     "guid": "https://www.liberation.fr/sports/football/cela-va-hypothequer-le-futur-du-football-un-conseiller-dinfantino-claque-la-porte-face-au-projet-de-privatisation-de-la-coupe-du-monde-20260731_AKMSQTJSJFBZFAHQHCYWSCR4IU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587201+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Taxe de séjour : l’île d’Oléron remporte son bras de fer avec Airbnb",
-    "link": "https://www.liberation.fr/economie/conso/taxe-de-sejour-lile-doleron-remporte-son-bras-de-fer-avec-airbnb-20260731_CMDKX5TKQ5F4DPHPWYM2JAQZXU/",
-    "summary": "Le Conseil constitutionnel a déclaré, vendredi 31 juillet, conforme à la Constitution le code des collectivités, qui a valu une amende de 8,6 millions d’euros à la plateforme dans le cadre de son litige sur la taxe de séjour avec l’île d’Oléron, dont la plateforme contestait la «proportionnalité».",
-    "published": "2026-07-31T10:32:16+00:00",
-    "authors": [
-      "AFP ., Libération ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/economie/conso/taxe-de-sejour-lile-doleron-remporte-son-bras-de-fer-avec-airbnb-20260731_CMDKX5TKQ5F4DPHPWYM2JAQZXU/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587231+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753003+00:00"
   },
   {
     "source": "Libération",
@@ -604,7 +1259,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/21-departements-de-lest-de-la-france-en-vigilance-orange-canicule-10-pour-les-orages-20260731_2K4PUCFMHBBPREHBWWNSFUHFTQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587257+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753030+00:00"
   },
   {
     "source": "Libération",
@@ -619,13 +1274,13 @@
     "guid": "https://www.liberation.fr/culture/musique/apres-une-polemique-sur-sa-chanson-pro-israel-boy-george-se-retire-dune-comedie-musicale-a-londres-20260731_ZTZ75SCKFVDUJC3IBIUWG3HYCQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587285+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753058+00:00"
   },
   {
     "source": "Libération",
     "title": "Mort de Stéphane Ricordel, codirecteur du théâtre du Rond-Point : l’acrobate qui faisait bouger les lignes",
     "link": "https://www.liberation.fr/culture/scenes/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-lacrobate-qui-faisait-bouger-les-lignes-20260731_GCLZICHUNRHC3PZQU6ZKCXXF3E/",
-    "summary": "Ex-circacien émérite au parcours détonnant, Stéphane Ricordel a fait bouger toutes les lignes du spectacle vivant. Atteint d’une maladie neurodénénérative, il a choisi à 62 ans de bénéficier à l’étranger du droit à mourir.",
+    "summary": "Ex-circacien émérite au parcours détonnant, Stéphane Ricordel a fait bouger toutes les lignes du spectacle vivant. Atteint d’une maladie neurodégénérative, il a choisi à 62 ans de bénéficier à l’étranger du droit à mourir.",
     "published": "2026-07-31T10:23:35+00:00",
     "authors": [
       "Gilles Renault"
@@ -634,7 +1289,7 @@
     "guid": "https://www.liberation.fr/culture/scenes/mort-de-stephane-ricordel-codirecteur-du-theatre-du-rond-point-lacrobate-qui-faisait-bouger-les-lignes-20260731_GCLZICHUNRHC3PZQU6ZKCXXF3E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587313+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753085+00:00"
   },
   {
     "source": "Le Figaro",
@@ -679,7 +1334,7 @@
     "guid": "https://www.liberation.fr/culture/accuse-de-violences-sexistes-et-sexuelles-gerard-darmon-ne-montera-pas-sur-scene-a-la-rentree-20260731_JKXD4IDCXVH6BBFMFNY3WN2JVA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587345+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753118+00:00"
   },
   {
     "source": "Libération",
@@ -694,7 +1349,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/en-ukraine-le-mystere-de-la-chambre-noire-avec-vic-bakin-20260724_F2UXK6TWFBE57BIUFM4M7MS4DI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587370+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753143+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -714,7 +1369,7 @@
     "guid": "https://www.valeursactuelles.com/societe/censure-des-comptes-chretiens-conservateurs-suspendus-sur-x",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.666003+00:00"
+    "fetched_at": "2026-07-31T16:45:57.689894+00:00"
   },
   {
     "source": "Le Figaro",
@@ -828,7 +1483,7 @@
     "guid": "https://www.liberation.fr/lifestyle/intimites/mon-amour-dete-independamment-de-nos-sentiments-on-ne-sest-jamais-embrasses-20260731_T752D3PWWVFGDJ7DA2VBUX23WA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587397+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753169+00:00"
   },
   {
     "source": "Le Monde",
@@ -891,7 +1546,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/on-devient-un-pays-sous-dote-la-france-appelle-bruxelles-a-la-rescousse-faute-davoir-renouvele-ses-canadairs",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.666053+00:00"
+    "fetched_at": "2026-07-31T16:45:57.689943+00:00"
   },
   {
     "source": "Libération",
@@ -906,7 +1561,7 @@
     "guid": "https://www.liberation.fr/sports/football/vivement-critiquee-la-fifa-affirme-continuer-son-plan-douverture-aux-investisseurs-prives-20260731_4FKNQ5K3WJC5TDZH6CDUKXMUAU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587431+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753197+00:00"
   },
   {
     "source": "Libération",
@@ -921,7 +1576,7 @@
     "guid": "https://www.liberation.fr/politique/la-petite-astuce-des-macronistes-pour-seviter-des-legislatives-partielles-risquees-20260731_GHRXTJQILRFHPN4OWAIDCYSO44/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587453+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753220+00:00"
   },
   {
     "source": "Libération",
@@ -936,7 +1591,7 @@
     "guid": "https://www.liberation.fr/international/europe/espagne-49-000-migrants-ont-traverse-la-frontiere-entre-le-maroc-et-ceuta-en-24-heures-20260731_RHBGJFWTNBGTBIB5FVX5SAP3P4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587479+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753246+00:00"
   },
   {
     "source": "Libération",
@@ -951,7 +1606,7 @@
     "guid": "https://www.liberation.fr/politique/couper-avec-les-ecrans-cest-dur-meme-pour-najat-vallaud-belkacem-20260731_W636FJBW25D3TIXBJOQPEIPDFI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587501+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753268+00:00"
   },
   {
     "source": "Libération",
@@ -966,28 +1621,13 @@
     "guid": "https://www.liberation.fr/politique/fin-de-vie-loi-durgence-agricole-reseaux-sociaux-les-gros-devoirs-de-vacances-du-conseil-constitutionnel-20260731_5R2MZG45DZEC7EF2XYJWYQFRCE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587525+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Incendie en Gironde : la carte des feux de forêt en cours près du bassin d’Arcachon",
-    "link": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731",
-    "summary": "CARTE – Le feu qui sévit dans la région bordelaise depuis le 22 juillet a détruit 42.000 hectares. Visualisez les zones touchées et l’évolution de la situation grâce à notre carte en direct.",
-    "published": "2026-07-31T08:50:31+00:00",
-    "authors": [],
-    "categories": [
-      "Bordeaux"
-    ],
-    "guid": "https://www.lefigaro.fr/flash-actu/incendie-visualisez-en-carte-les-feux-de-foret-en-cours-pres-du-bassin-d-arcachon-20260731",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/28/fd4bb3f8f47546ec0efa5f66216a93ee5ce72eb8600dc0051cd7f39d96105235.jpg",
-    "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.214661+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753310+00:00"
   },
   {
     "source": "Libération",
-    "title": "Bébés retrouvés morts à Orange : la mère présentée à un juge en vue de sa mise en examen pour «meurtre», son conjoint libéré",
+    "title": "Bébés retrouvés morts à Orange : la mère placée en détention provisoire pour «meurtre», son conjoint libéré",
     "link": "https://www.liberation.fr/societe/police-justice/bebes-retrouves-morts-a-orange-la-mere-presentee-a-un-juge-en-vue-de-sa-mise-en-examen-pour-meurtre-son-conjoint-libere-20260731_IZ2KTI7IKRHCVKCEXSWV2C4AHM/",
-    "summary": "Selon les informations du «Parisien», la femme de 32 ans, interpellée mercredi à sa sortie d’hôpital, a affirmé en garde à vue qu’ils étaient morts nés. Son conjoint, qui a découvert les dépouilles, a été remis en liberté jeudi.",
+    "summary": "La femme de 32 ans, interpellée mercredi à sa sortie d’hôpital, a été mise en examen et incarcérée, a annoncé le parquet d’Avignon. Son conjoint, qui a découvert les dépouilles, a été remis en liberté jeudi.",
     "published": "2026-07-31T08:50:07+00:00",
     "authors": [
       "Libération ., AFP ."
@@ -996,7 +1636,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/bebes-retrouves-morts-a-orange-la-mere-presentee-a-un-juge-en-vue-de-sa-mise-en-examen-pour-meurtre-son-conjoint-libere-20260731_IZ2KTI7IKRHCVKCEXSWV2C4AHM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587555+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753345+00:00"
   },
   {
     "source": "Libération",
@@ -1011,7 +1651,7 @@
     "guid": "https://www.liberation.fr/international/amerique/vexes-par-les-critiques-francaises-les-etats-unis-envisagent-de-retoquer-la-nomination-du-prochain-ambassadeur-propose-par-macron-20260731_IU3TKPGFNNDNHL2XMDSDTNBIRA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587584+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753375+00:00"
   },
   {
     "source": "Le Monde",
@@ -1041,21 +1681,6 @@
   },
   {
     "source": "Libération",
-    "title": "Insultée par un syndicaliste agricole, Marine Tondelier réclame des excuses publiques",
-    "link": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/",
-    "summary": "Le président de la FDSEA de l’Oise s’en est pris sur Facebook à la secrétaire nationale des écolos, qui déplorait le vote récent de la loi d’urgence agricole.",
-    "published": "2026-07-31T08:24:18+00:00",
-    "authors": [
-      "Chez Pol"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/politique/insultee-par-un-syndicaliste-agricole-marine-tondelier-reclame-des-excuses-publiques-20260731_A2OFPDCT6NDZBHKZQRLM4B2GBM/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587608+00:00"
-  },
-  {
-    "source": "Libération",
     "title": "Annecy : le parquet ouvre une enquête pour viol après une plainte contre un élu municipal",
     "link": "https://www.liberation.fr/societe/police-justice/annecy-le-parquet-ouvre-une-enquete-pour-viol-apres-une-plainte-contre-un-elu-municipal-20260731_U6XT273KX5AFVGCBFASQEPGQSY/",
     "summary": "Un jeune homme accuse le premier adjoint Anthony Granger de faits survenus en 2023. La mairie avait essayé d’étouffer l’affaire en achetant des centaines d’exemplaires d’un journal local qui la révélait en Une en juin dernier.",
@@ -1067,7 +1692,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/annecy-le-parquet-ouvre-une-enquete-pour-viol-apres-une-plainte-contre-un-elu-municipal-20260731_U6XT273KX5AFVGCBFASQEPGQSY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587635+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753402+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1114,7 +1739,20 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/incendies-dans-le-sud-ouest-habitants-entreprises-touristes-ce-que-vous-pouvez-ou-non-vous-faire-rembourser",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.666096+00:00"
+    "fetched_at": "2026-07-31T16:45:57.689989+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "The Durutti Column revient avec « Renascent », un nouvel album séduisant et désolé",
+    "link": "https://www.lemonde.fr/culture/article/2026/07/31/the-durutti-column-revient-avec-renascent-un-nouvel-album-seduisant-et-desole_6737114_3246.html",
+    "summary": "Le groupe culte britannique du guitariste Vini Reilly navigue entre rêveries pastorales, flamenco, ballades folks, expérimentations électroniques sans jamais s’éloigner de son univers.",
+    "published": "2026-07-31T08:00:13+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/07/31/the-durutti-column-revient-avec-renascent-un-nouvel-album-seduisant-et-desole_6737114_3246.html",
+    "image": "https://img.lemde.fr/2026/07/29/212/0/4134/2067/644/322/60/0/914b262_upload-1-c9wh2dveugms-04-christopher-thomond-guardian-eyevine.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.166599+00:00"
   },
   {
     "source": "Le Monde",
@@ -1127,7 +1765,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/07/31/face-a-trump-l-iran-sort-de-la-logique-de-represailles-et-cherche-a-reprendre-la-main-sur-le-conflit_6737112_3210.html",
     "image": "https://img.lemde.fr/2026/07/29/489/0/8640/4320/644/322/60/0/b6182a8_ftp-1-mzw54y6i3a4a-7ede3a057d8442a1945d696c195fdc76-0-eb9272dd6f074aebaff85027acef86bf.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.234231+00:00"
+    "fetched_at": "2026-07-31T16:45:57.166264+00:00"
   },
   {
     "source": "Libération",
@@ -1142,7 +1780,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/crime-au-manoir-le-vieil-homme-lobsession-dune-vie-et-le-coup-de-fusil-20260731_DGQWZF4SQJGMLMR6KHUQHKGG6I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587663+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753432+00:00"
   },
   {
     "source": "Libération",
@@ -1157,7 +1795,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/guerre-a-gaza-ce-que-lon-sait-de-laccord-conclu-entre-le-hamas-et-israel-20260731_6ILNHDQGHVHLRABV4XJIV3RBOA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587691+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753461+00:00"
   },
   {
     "source": "Le Monde",
@@ -1183,7 +1821,7 @@
     "guid": "https://www.lemonde.fr/sport/article/2026/07/31/malgre-la-pression-la-fifa-souhaite-poursuivre-son-plan-d-ouverture-aux-investisseurs-prives_6737109_3242.html",
     "image": "https://img.lemde.fr/2026/07/28/210/0/3200/1600/644/322/60/0/7239a94_ftp-1-ql1vujp9lpfk-2026-07-28t162945z-1037867588-rc28kjaed3sy-rtrmadp-3-soccer-fifa-stake.JPG",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.234446+00:00"
+    "fetched_at": "2026-07-31T16:45:57.166628+00:00"
   },
   {
     "source": "Libération",
@@ -1198,7 +1836,7 @@
     "guid": "https://www.liberation.fr/international/europe/au-moins-neuf-morts-dans-lentree-de-migrants-a-ceuta-un-morceau-deurope-enclave-au-maroc-20260730_6EYSCVGVGZBINDZGBF4IMQAMDA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587717+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753487+00:00"
   },
   {
     "source": "Libération",
@@ -1213,7 +1851,7 @@
     "guid": "https://www.liberation.fr/lifestyle/gastronomie/chipolatas-chevre-miel-ail-des-ours-morbier-noix-la-nouvelle-fete-a-la-saucisse-20260730_HHJF36PNFZDL5G5HBAJF45NBSU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587741+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753511+00:00"
   },
   {
     "source": "Libération",
@@ -1228,7 +1866,7 @@
     "guid": "https://www.liberation.fr/economie/conso/insee-linflation-en-france-depasse-les-2-sur-un-an-en-juillet-20260731_M36VGBRESBHY7HOYW74UGFHU6E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587770+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753541+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1249,7 +1887,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/livres-la-police-quelle-histoire",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.666133+00:00"
+    "fetched_at": "2026-07-31T16:45:57.690029+00:00"
   },
   {
     "source": "Le Monde",
@@ -1277,7 +1915,7 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/cet-ete-30-chiffres-aussi-dingues-quinutiles-20260717_QRWAGNLZEFAMTF7IEMFUPZF2BA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587794+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753565+00:00"
   },
   {
     "source": "Libération",
@@ -1292,7 +1930,7 @@
     "guid": "https://www.liberation.fr/international/europe/visee-par-un-arrete-dexpulsion-la-propagandiste-russe-xenia-fedorova-voit-ses-avoirs-geles-en-france-pour-six-mois-20260731_F7E75HUS4RDE5HE2SNV4ST6C4E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587824+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753594+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1382,7 +2020,7 @@
     "guid": "https://www.liberation.fr/international/europe/accord-sur-le-desarmement-du-hamas-accalmie-du-cote-des-incendies-mort-du-footballeur-franco-baresi-lactu-de-ce-vendredi-31-juillet-au-matin-20260731_TJYCDEW4MVDT7CIAHPDYIACHEQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587848+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753621+00:00"
   },
   {
     "source": "Le Monde",
@@ -1444,7 +2082,7 @@
     "guid": "https://www.liberation.fr/sports/football/football-franco-baresi-legendaire-defenseur-italien-est-mort-20260731_CHIFP54ZWBATBEG2FKYZNNLWLA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587873+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753647+00:00"
   },
   {
     "source": "Le Monde",
@@ -1457,7 +2095,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/07/31/la-france-gele-les-avoirs-de-xenia-fedorova-propagandiste-pro-poutine-visee-par-un-arrete-d-expulsion_6737102_823448.html",
     "image": "https://img.lemde.fr/2026/07/31/835/0/1980/990/644/322/60/0/6258bb6_upload-1-wn6z9lcsleyj-000-427g3n8.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.234337+00:00"
+    "fetched_at": "2026-07-31T16:45:57.166528+00:00"
   },
   {
     "source": "Mediapart",
@@ -1475,7 +2113,7 @@
     "guid": "1337732 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/31/260731-img-au-maroc-des-milliers-de-personnes-rassemblees-pres-de-la-frontiere-avec-ceuta.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.295633+00:00"
+    "fetched_at": "2026-07-31T16:45:57.214096+00:00"
   },
   {
     "source": "Mediapart",
@@ -1493,7 +2131,7 @@
     "guid": "1337731 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/31/260731-img-treve-gaza-le-hamas-consent-un-accord-sur-le-desarmement3.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.295658+00:00"
+    "fetched_at": "2026-07-31T16:45:57.214145+00:00"
   },
   {
     "source": "Le Monde",
@@ -1551,7 +2189,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/treve-a-gaza-le-hamas-consent-a-un-accord-sur-le-desarmement-20260731_6J7MQC52KVHN3OCSHH4T4MNWBM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.587912+00:00"
+    "fetched_at": "2026-07-31T16:45:57.753677+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1767,7 +2405,22 @@
     "guid": "https://www.lemonde.fr/argent/article/2026/07/31/ou-acheter-en-france-pour-beneficier-d-une-vie-culturelle-riche_6737089_1657007.html",
     "image": "https://img.lemde.fr/2026/07/30/1375/0/8250/4125/644/322/60/0/a814612_upload-1-vfw9z44x4rbm-024-4910460-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.234361+00:00"
+    "fetched_at": "2026-07-31T16:45:57.166473+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Trop beau pour être vrai» : Don Poldermans, une fraude scientifique à 800.000 morts",
+    "link": "https://sante.lefigaro.fr/social/sante-publique/trop-beau-pour-etre-vrai-don-poldermans-une-fraude-scientifique-a-800-000-morts-20260731",
+    "summary": "RÉCIT - À la fin des années 1990, les travaux d’un médecin et chercheur néerlandais influencent profondément la prise en charge cardiologique des patients opérés. Mais ses données sont douteuses, ses pratiques peu éthiques, et ses recommandations plus dangereuses que bénéfiques.",
+    "published": "2026-07-31T04:00:19+00:00",
+    "authors": [],
+    "categories": [
+      "Santé publique"
+    ],
+    "guid": "https://sante.lefigaro.fr/social/sante-publique/trop-beau-pour-etre-vrai-don-poldermans-une-fraude-scientifique-a-800-000-morts-20260731",
+    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/07/29/491e67ae7a94ff3053d4b43f608737762e8dc63cc19ebeb2a62a2b194c52f129.jpg",
+    "full_text": null,
+    "fetched_at": "2026-07-31T16:45:57.288211+00:00"
   },
   {
     "source": "Le Monde",
@@ -1780,7 +2433,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/07/31/avec-l-argent-europeen-kiev-multiplie-les-acquisitions-d-equipements-militaires-de-derniere-generation_6737086_3210.html",
     "image": "https://img.lemde.fr/2026/07/14/666/0/8000/4000/644/322/60/0/a3e62d8_upload-1-ghz0eyopucao-jmug260713069.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-31T14:07:25.234256+00:00"
+    "fetched_at": "2026-07-31T16:45:57.166232+00:00"
   },
   {
     "source": "Libération",
