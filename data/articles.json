@@ -1,6 +1,60 @@
 [
   {
     "source": "Le Figaro",
+    "title": "Marseille : un enfant de deux ans retrouvé mort, des proches en garde à vue",
+    "link": "https://www.lefigaro.fr/marseille/marseille-un-enfant-de-deux-ans-retrouve-mort-des-proches-en-garde-a-vue-20260803",
+    "summary": "Une source de police a précisé que le petit garçon avait été retrouvé après une sieste, pendu au fil d’une persienne.",
+    "published": "2026-08-04T01:11:51+00:00",
+    "authors": [],
+    "categories": [
+      "Marseille"
+    ],
+    "guid": "https://www.lefigaro.fr/marseille/marseille-un-enfant-de-deux-ans-retrouve-mort-des-proches-en-garde-a-vue-20260803",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/03/9c80fd4427f204c6165d2b7a8ffbb3db0e83e1340957b8371714a61bdb59a66d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-04T02:33:34.256906+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le député « insoumis » Eric Coquerel réclame un budget rectificatif pour financer la lutte contre les mégafeux",
+    "link": "https://www.lemonde.fr/politique/article/2026/08/04/le-depute-insoumis-eric-coquerel-reclame-un-budget-rectificatif-pour-financer-la-lutte-contre-les-megafeux_6737809_823448.html",
+    "summary": "L’élu de Seine-Saint-Denis demande une session extraordinaire du Parlement et un nouveau chiffrement de la lutte contre les incendies, envisageant une taxe sur les superprofits pour la financer.",
+    "published": "2026-08-03T23:17:22+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/08/04/le-depute-insoumis-eric-coquerel-reclame-un-budget-rectificatif-pour-financer-la-lutte-contre-les-megafeux_6737809_823448.html",
+    "image": "https://img.lemde.fr/2026/01/13/0/0/5711/2855/644/322/60/0/8164069_ftp-1-tvrhdd6z6ogn-2026-01-13t171128z-693347643-rc2h0ja516p9-rtrmadp-3-france-politics-budget.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-04T02:33:34.252203+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le nord-ouest des Etats-Unis confronté à une saison des feux « exceptionnelle », la ville de Spokane ressemble à une « zone de guerre »",
+    "link": "https://www.lemonde.fr/international/article/2026/08/04/le-nord-ouest-des-etats-unis-confronte-a-une-saison-des-feux-exceptionnelle-la-ville-de-spokane-ressemble-a-une-zone-de-guerre_6737776_3210.html",
+    "summary": "Aucun des trois incendies qui ont détruit plusieurs quartiers de cette ville de 230 000 habitants, dans l’Etat de Washington, où l’état d’urgence a été déclaré samedi, n’est pour l’instant contenu.",
+    "published": "2026-08-03T22:48:47+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/04/le-nord-ouest-des-etats-unis-confronte-a-une-saison-des-feux-exceptionnelle-la-ville-de-spokane-ressemble-a-une-zone-de-guerre_6737776_3210.html",
+    "image": "https://img.lemde.fr/2026/08/03/471/0/3984/1992/644/322/60/0/6520d94_ftp-1-ufzjz5simbrs-8a4aee10d32e42f8be40b90d9c0a7503-0-09cbd625b7e84c27972cef6b07d1ee02.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-04T02:33:34.252239+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky limoge l’ambassadrice ukrainienne aux Etats-Unis",
+    "link": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_6737250_3210.html",
+    "summary": "Le président ukrainien a démis de ses fonctions Olga Stefanishyna, qui était en poste depuis deux ans. Cette dernière a expliqué qu’il s’agissait d’une démission « dictée par des circonstances personnelles ».",
+    "published": "2026-08-03T22:39:43+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/08/04/en-direct-guerre-en-ukraine-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_6737250_3210.html",
+    "image": "https://img.lemde.fr/2026/08/03/165/0/5500/2750/644/322/60/0/f2bc495_ftp-1-xfy4o2vcts52-2026-08-03t182241z-1467155215-rc2gsjaehain-rtrmadp-3-ukraine-crisis-anniversary-usa.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-04T02:33:34.252269+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "«On va avoir besoin d’aide pour reconstruire» : entre sidération et colère, le retour des habitants au Porge",
     "link": "https://www.lefigaro.fr/bordeaux/on-va-avoir-besoin-d-aide-pour-reconstruire-entre-sideration-et-colere-le-retour-des-habitants-au-porge-20260803",
     "summary": "REPORTAGE - Onze jours après le départ du mégafeu de Saumos, les habitants du Porge ont pu regagner leur commune, largement ravagée par les flammes.",
@@ -12,7 +66,7 @@
     "guid": "https://www.lefigaro.fr/bordeaux/on-va-avoir-besoin-d-aide-pour-reconstruire-entre-sideration-et-colere-le-retour-des-habitants-au-porge-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/03/ce8b735cabbffd5a9b942dc90483f248776e427c7c196839b08ecaab42a95911.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891395+00:00"
+    "fetched_at": "2026-08-04T02:33:34.257000+00:00"
   },
   {
     "source": "Le Figaro",
@@ -27,7 +81,7 @@
     "guid": "https://www.lefigaro.fr/secteur/high-tech/identites-synthetiques-escroqueries-personnalisees-avec-l-ia-les-brouteurs-africains-font-basculer-l-arnaque-dans-l-ere-industrielle-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/03/12bdd2af967a7e964730c72de6c355119537df8d2d577d5cb0b41804239ca312.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891273+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256859+00:00"
   },
   {
     "source": "Le Monde",
@@ -40,22 +94,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/08/03/a-tarascon-les-salaries-de-fibre-excellence-esperent-toujours-un-miracle_6737743_3234.html",
     "image": "https://img.lemde.fr/2026/08/03/427/0/4439/2219/644/322/60/0/086662e_upload-1-iwjccpjdfsi7-000-c3fl37c.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.909970+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Marseille : un enfant de deux ans retrouvé mort, des proches en garde à vue",
-    "link": "https://www.lefigaro.fr/marseille/marseille-un-enfant-de-deux-ans-retrouve-mort-des-proches-en-garde-a-vue-20260803",
-    "summary": "Une source de police a précisé que le petit garçon avait été retrouvé après une sieste, pendu au fil d’une persienne.",
-    "published": "2026-08-03T21:25:31+00:00",
-    "authors": [],
-    "categories": [
-      "Marseille"
-    ],
-    "guid": "https://www.lefigaro.fr/marseille/marseille-un-enfant-de-deux-ans-retrouve-mort-des-proches-en-garde-a-vue-20260803",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/03/9c80fd4427f204c6165d2b7a8ffbb3db0e83e1340957b8371714a61bdb59a66d.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891324+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252083+00:00"
   },
   {
     "source": "Le Monde",
@@ -66,9 +105,9 @@
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/economie/article/2026/08/03/droits-de-douane-de-donald-trump-25-etats-americains-democrates-saisissent-la-justice_6737710_3234.html",
-    "image": "https://img.lemde.fr/2026/07/27/371/0/3743/1871/644/322/60/0/36c6a08_ftp-1-r8pck4a3zmya-5720284-01-06.jpg",
+    "image": "https://img.lemde.fr/2026/07/27/157/0/3743/1871/644/322/60/0/36c6a08_ftp-1-r8pck4a3zmya-5720284-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910364+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252460+00:00"
   },
   {
     "source": "Le Monde",
@@ -81,7 +120,7 @@
     "guid": "https://www.lemonde.fr/international/live/2026/08/03/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-des-discussions-ont-lieu-en-ce-moment-meme-avec-l-iran_6737099_3210.html",
     "image": "https://img.lemde.fr/2026/08/02/309/0/3708/1854/644/322/60/0/894a4ee_ftp-1-wrnhgd6mjuqz-5ffc0ba23efb4c47b1c254c8bd68f323-0-d689b699c417424aa1e771ca8af2de99.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910186+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252349+00:00"
   },
   {
     "source": "Le Figaro",
@@ -96,7 +135,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/en-direct-incendies-var-gironde-aude-le-porge-cap-ferret-feux-pompiers-securite-civile-canadair-pyromanes-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/03/e047ad9003f5f3bccd6297f17d7a0321c7fd5ce52ab920b13541b88462fc6d1c.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891002+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256637+00:00"
   },
   {
     "source": "Le Figaro",
@@ -111,7 +150,7 @@
     "guid": "https://www.lefigaro.fr/conjoncture/25-etats-americains-democrates-contestent-en-justice-les-derniers-droits-de-douane-de-trump-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/03/10d611ec10d48fbe014b0fa320d1ae7e85b48c11f7a93a3d516486b820f1de81.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891348+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256933+00:00"
   },
   {
     "source": "Le Figaro",
@@ -126,7 +165,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/il-faut-faire-payer-les-parents-apres-l-incendie-declenche-par-des-enfants-de-dix-ans-le-maire-de-neuilly-sur-marne-porte-plainte-20260803",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/03/99bd2cc26069a451bda76ac56f5d5e2072f22adb617e49bb8ae67dac3f6cb5bf.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891061+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256692+00:00"
   },
   {
     "source": "Le Figaro",
@@ -141,7 +180,7 @@
     "guid": "https://www.lefigaro.fr/conjoncture/l-insoumis-eric-coquerel-reclame-un-budget-rectificatif-pour-financer-la-lutte-contre-les-megafeux-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/03/96518f48ed196864593dd1ff6b519828fad8f94b36400484d9f3392b5e6b0eb3.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891029+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256662+00:00"
   },
   {
     "source": "Libération",
@@ -156,7 +195,7 @@
     "guid": "https://www.liberation.fr/environnement/en-direct-incendies-situation-stable-en-gironde-et-dans-le-var-alerte-aux-orages-dans-le-sud-ouest-20260803_ZT5DAEOJ2BFNHHU2TSA55AO3ZA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158504+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955389+00:00"
   },
   {
     "source": "Libération",
@@ -171,7 +210,7 @@
     "guid": "https://www.liberation.fr/economie/conso/intermarche-victime-dune-cyberattaque-pres-de-300-000-clients-concernes-par-une-fuite-de-donnees-20260803_QRWEGVYWT5BGBJCXF25GJGIMYY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158541+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955447+00:00"
   },
   {
     "source": "Le Figaro",
@@ -186,7 +225,7 @@
     "guid": "https://www.lefigaro.fr/international/qui-est-isabel-peralta-l-espagnole-filmee-a-madrid-en-train-d-effectuer-un-salut-nazi-lors-d-une-manifestation-apres-l-afflux-de-migrants-a-ceuta-20260803",
     "image": "https://i.f1g.fr/media/cms/1908x1018_crop/2026/08/03/3d2b39162f8731887a85d7eee1745e2ace7f2dd281deab100252eac7fcda32bb.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891243+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256831+00:00"
   },
   {
     "source": "Le Figaro",
@@ -216,7 +255,7 @@
     "guid": "https://www.liberation.fr/sports/football/angleterre-pays-de-galles-suede-serbie-plusieurs-federations-retirent-leur-soutien-a-la-reelection-de-gianni-infantino-20260803_OADRCLVSURGRBNFNLKWTINSAMY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158574+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955506+00:00"
   },
   {
     "source": "Libération",
@@ -231,7 +270,7 @@
     "guid": "https://www.liberation.fr/international/afrique/je-ne-me-sens-en-securite-nulle-part-le-journaliste-centrafricain-ephrem-yalike-ngonzo-du-coeur-de-la-propagande-russe-a-lexil-force-20260803_55IJ23CMUZA4RITD4J3D3HEX4M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158609+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955544+00:00"
   },
   {
     "source": "Libération",
@@ -246,7 +285,7 @@
     "guid": "https://www.liberation.fr/international/europe/volodymyr-zelensky-limoge-lambassadrice-ukrainienne-aux-etats-unis-20260803_LNZWDIHITJFEFF3GVHIHX6LFNM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158639+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955574+00:00"
   },
   {
     "source": "Libération",
@@ -261,7 +300,7 @@
     "guid": "https://www.liberation.fr/international/europe/la-crimee-face-aux-frappes-ukrainiennes-je-ne-peux-meme-pas-preparer-la-bouillie-de-mon-bebe-ni-faire-chauffer-son-bain-20260803_YGDLYNLK3RD7ZN5TR7DQEDA5WY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158673+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955607+00:00"
   },
   {
     "source": "Le Figaro",
@@ -306,7 +345,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/guerre-ukraine-russie-en-crimee-le-doute-est-seme-20260803_CGBTFO2HPZBWFMTFOHVMTZWRHM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158700+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955634+00:00"
   },
   {
     "source": "Le Monde",
@@ -337,7 +376,7 @@
     "guid": "1338341 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/03/260308-img-ceuta-defouloir-xenophobe-pour-la-droite-et-l-extreme-droite-francaise.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038205+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794286+00:00"
   },
   {
     "source": "Le Figaro",
@@ -367,7 +406,7 @@
     "guid": "https://www.lefigaro.fr/international/immigration-defense-commerce-pedro-sanchez-de-plus-en-plus-isole-en-europe-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/03/866169f6f557ffd122d034de48ace473e02896019e3cbef731e5b33ddad240bb.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891212+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256802+00:00"
   },
   {
     "source": "Libération",
@@ -382,7 +421,7 @@
     "guid": "https://www.liberation.fr/societe/de-notre-maison-il-ne-reste-plus-que-quatre-murs-autour-tout-est-un-tas-de-cendres-les-sinistres-du-porge-de-retour-dans-un-village-meconnaissable-20260803_3FGEHDGXWND4RALDZASSDDVCDY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158732+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955665+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -404,7 +443,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/etats-unis-les-mensonges-du-bon-docteur-fauci",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921246+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645471+00:00"
   },
   {
     "source": "Libération",
@@ -419,7 +458,7 @@
     "guid": "https://www.liberation.fr/politique/la-plainte-visant-charles-alloncle-pour-prise-illegale-dinterets-et-trafic-dinfluence-classee-sans-suite-20260803_LULIVBHE2FDRZLJVZWBQEDTSFE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158763+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955694+00:00"
   },
   {
     "source": "Le Monde",
@@ -432,7 +471,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/08/03/le-boeing-737-max-7-certifie-avec-sept-ans-de-retard_6737611_3234.html",
     "image": "https://img.lemde.fr/2026/08/03/423/0/4614/2307/644/322/60/0/2e9eee1_upload-1-rq4epaiuugxs-2020-09-30t181830z-1051623895-rc269j9tlofe-rtrmadp-3-boeing-737max.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910124+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252319+00:00"
   },
   {
     "source": "Libération",
@@ -447,7 +486,7 @@
     "guid": "https://www.liberation.fr/economie/sebastien-lecornu-met-un-tour-de-vis-supplementaire-sur-les-investissements-etrangers-dans-les-secteurs-strategiques-20260803_O434VQRFJFC7JA2AYWAEOJ7QMI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158793+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955724+00:00"
   },
   {
     "source": "Le Figaro",
@@ -462,7 +501,7 @@
     "guid": "https://www.lefigaro.fr/vox/monde/renaud-girard-l-ue-pourrait-mourir-de-son-incapacite-a-proteger-ses-frontieres-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/03/c4209e008ba75eac914332f56a78c9cdcc49442fad53ee2c68aa15a387311025.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891187+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256779+00:00"
   },
   {
     "source": "Le Figaro",
@@ -492,7 +531,7 @@
     "guid": "https://www.liberation.fr/international/afrique/affrontements-en-ethiopie-comment-le-tigre-est-devenu-une-poudriere-regionale-20260803_WDSDXK6NJVB5XIQLL2AYSMUGPI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158820+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955749+00:00"
   },
   {
     "source": "Libération",
@@ -507,7 +546,7 @@
     "guid": "https://www.liberation.fr/culture/livres/limoge-par-grasset-olivier-nora-lance-sa-propre-maison-dedition-bartleby-et-pourrait-rejoindre-editis-20260803_B5EKV6OGYRGYVKAGDU5BOFHXJU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158849+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955777+00:00"
   },
   {
     "source": "Libération",
@@ -522,7 +561,7 @@
     "guid": "https://www.liberation.fr/politique/xavier-bertrand-se-rapproche-encore-un-peu-plus-de-la-presidentielle-20260803_TWC4NUBZRZG7LDUHG2SA7Q3ZCQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158877+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955809+00:00"
   },
   {
     "source": "Le Monde",
@@ -550,7 +589,7 @@
     "guid": "https://www.lefigaro.fr/secteur/high-tech/1500-milliards-de-dollars-d-ici-a-2027-les-depenses-galopantes-en-ia-des-gafam-inquietent-wall-street-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/03/7cbc509ae5b02345de55765c106318c445b211fc749a4f6509b8884d4e64a291.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891300+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256884+00:00"
   },
   {
     "source": "Libération",
@@ -565,7 +604,7 @@
     "guid": "https://www.liberation.fr/culture/livres/mort-de-lecrivain-marcel-cohen-ancien-enfant-cache-pendant-loccupation-20260803_TSCRQM5XYNA45GZNAAKR3LPO3I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158903+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955859+00:00"
   },
   {
     "source": "Mediapart",
@@ -583,7 +622,7 @@
     "guid": "1338351 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/03/260803-img-larcher-herzog.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038245+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794323+00:00"
   },
   {
     "source": "Le Figaro",
@@ -598,7 +637,7 @@
     "guid": "https://www.lefigaro.fr/international/dans-la-ville-frontaliere-de-fnideq-le-maroc-s-efforce-de-faire-oublier-la-crise-de-ceuta-20260803",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/03/536a06cfec35e5a907e98438a19c9c084a3ecbb6c8352faa32661c14d8ae2b9f.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891151+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256749+00:00"
   },
   {
     "source": "Mediapart",
@@ -616,7 +655,7 @@
     "guid": "1338328 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/03/260308-img-les-etats-unis-volent-au-secours-du-yen-mais-pensent-surtout-au-dollar.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038281+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794359+00:00"
   },
   {
     "source": "Le Figaro",
@@ -665,7 +704,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/tugdual-denis-ceuta-immigration-invasive",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921292+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645516+00:00"
   },
   {
     "source": "Le Monde",
@@ -691,7 +730,7 @@
     "guid": "https://www.lemonde.fr/series-d-ete/article/2026/08/03/ces-emules-du-facteur-cheval-le-p-tit-musee-d-andre-degorcas-macon-sculpteur-de-celebrites-en-beton_6737543_3451060.html",
     "image": "https://img.lemde.fr/2026/07/21/1417/0/4160/2080/644/322/60/0/a15c42a_upload-1-abgocpz7zzl5-20260707-cl-artbrut-andre-degorc-as-01.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910272+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252441+00:00"
   },
   {
     "source": "Libération",
@@ -706,7 +745,7 @@
     "guid": "https://www.liberation.fr/politique/accuse-dagressions-sexuelles-lex-secretaire-detat-jean-vincent-place-sera-juge-le-29-octobre-20260803_DUV435ORCFB5NMCQY4YIHCDNAA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158929+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955927+00:00"
   },
   {
     "source": "Libération",
@@ -721,7 +760,7 @@
     "guid": "https://www.liberation.fr/societe/sante/comme-les-pharmaciens-et-les-infirmieres-les-kines-vont-desormais-realiser-des-bilans-prevention-20260803_AMCAITTQKFCQJOBGDRLBHOM7GE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158966+00:00"
+    "fetched_at": "2026-08-04T02:33:34.955974+00:00"
   },
   {
     "source": "Le Monde",
@@ -734,7 +773,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/08/03/les-canicules-et-les-incendies-menacent-l-objectif-de-reduction-du-deficit-en-france_6737542_823448.html",
     "image": "https://img.lemde.fr/2026/07/08/761/0/8000/4000/644/322/60/0/a39590c_upload-1-mpvpvpbjt8hx-jmug260707053.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.909905+00:00"
+    "fetched_at": "2026-08-04T02:33:34.251967+00:00"
   },
   {
     "source": "Libération",
@@ -749,7 +788,7 @@
     "guid": "https://www.liberation.fr/checknews/a-gaza-dimmenses-tranchees-creusees-par-tsahal-reduisent-encore-un-peu-plus-lespace-laisse-aux-palestiniens-20260803_DJL3JKFEIFDMXN7K3PJMJNI53U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.158995+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956043+00:00"
   },
   {
     "source": "Le Monde",
@@ -777,7 +816,7 @@
     "guid": "https://www.lefigaro.fr/international/sans-cette-usine-l-otan-n-est-pas-apte-au-combat-en-baviere-le-mastodonte-allemand-rheinmetall-etale-sa-puissance-et-ses-ambitions-20260803",
     "image": "https://i.f1g.fr/media/cms/2998x1686_crop/2026/08/03/222d04e4b5c00d28d635aa2ce0c87b851378c9ec31abbc91d9d235d951d198d3.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.890936+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256578+00:00"
   },
   {
     "source": "Le Figaro",
@@ -837,7 +876,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/pour-une-nuit-du-4-aout-2026-dabolition-des-privileges-climatiques-par-marine-tondelier-20260803_H4E2FHQASBFRLPUZPQUGFY3HWM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159028+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956076+00:00"
   },
   {
     "source": "Libération",
@@ -852,7 +891,7 @@
     "guid": "https://www.liberation.fr/international/europe/russie-lopposant-boris-nadejdine-a-fui-moscou-pour-paris-20260803_UGUAVBHAYFH55FBR6AM2EXWZBU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159058+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956106+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -870,7 +909,7 @@
     "guid": "https://www.valeursactuelles.com/as/culottes-menstruelles-made-in-france-mademoiselle-culotte-montre-lexemple",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921340+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645564+00:00"
   },
   {
     "source": "Libération",
@@ -885,7 +924,7 @@
     "guid": "https://www.liberation.fr/international/europe/retour-des-derniers-evacues-en-gironde-rejet-du-recours-de-xenia-fedorova-enquete-ouverte-apres-deux-suicides-au-sein-des-services-du-premier-ministre-lactu-de-ce-lundi-3-aout-20260803_2V3P3XJC7NFPXCLTFJ7GTQP7YQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159085+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956134+00:00"
   },
   {
     "source": "Mediapart",
@@ -903,7 +942,7 @@
     "guid": "1333043 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/08/260708-img-sciences-po-paris-enquete-sur-les-methodes-de-surveillance-dun-institut-en-ebullition.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038312+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794389+00:00"
   },
   {
     "source": "Le Figaro",
@@ -918,7 +957,7 @@
     "guid": "https://www.lefigaro.fr/gastronomie/glenn-viel-face-a-fabien-ferre-lequel-des-deux-jures-3-etoiles-de-top-chef-remporte-le-match-20260803",
     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/08/03/741660c549fca5b2f0312ee78f5a2ba9ae5226e231c37db1ab13bb56685c5ae9.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891372+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256957+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -939,7 +978,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/40-ans-dune-union-des-droites-impossible-1988-la-rencontre-secrete-entre-chirac-et-le-pen",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921391+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645614+00:00"
   },
   {
     "source": "Libération",
@@ -954,7 +993,7 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/north-sentinel-une-ile-bien-gardee-20260803_FGNH7GWECZDGZMNWPP5TLLRLHY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159113+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956163+00:00"
   },
   {
     "source": "Libération",
@@ -969,20 +1008,20 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/sri-lanka-vingt-ans-apres-la-tuerie-de-muttur-action-contre-la-faim-appelle-a-la-fin-de-limpunite-20260803_CRBQHSYJAJD37LTNBNNGDVAON4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159172+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956195+00:00"
   },
   {
     "source": "Le Monde",
     "title": "L’assèchement du Danube met les pays d’Europe centrale au bord d’une crise énergétique",
     "link": "https://www.lemonde.fr/planete/article/2026/08/03/l-assechement-du-danube-met-les-pays-d-europe-centrale-au-bord-d-une-crise-energetique_6737474_3244.html",
-    "summary": "Confrontés à des niveaux historiquement bas du plus grand fleuve d’Europe, plusieurs pays ont dû mettre à l’arrêt une partie de leurs réacteurs nucléaires. La Hongrie a appelé les entreprises et les particuliers à réduire drastiquement leur consommation.",
+    "summary": "Confrontés à des niveaux historiquement bas du plus grand fleuve de l’Union européenne, plusieurs pays ont dû mettre à l’arrêt une partie de leurs réacteurs nucléaires. La Hongrie a appelé les entreprises et les particuliers à réduire drastiquement leur consommation.",
     "published": "2026-08-03T15:45:02+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/planete/article/2026/08/03/l-assechement-du-danube-met-les-pays-d-europe-centrale-au-bord-d-une-crise-energetique_6737474_3244.html",
-    "image": "https://img.lemde.fr/2026/07/31/332/0/3984/1992/644/322/60/0/770a461_ftp-1-7ek65gkinqdi-2026-07-31t171310z-51537884-rc25pmawcuo6-rtrmadp-3-hungary-nuclear.JPG",
+    "image": "https://img.lemde.fr/2026/07/31/88/0/3984/1992/644/322/60/0/770a461_ftp-1-7ek65gkinqdi-2026-07-31t171310z-51537884-rc25pmawcuo6-rtrmadp-3-hungary-nuclear.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910079+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252298+00:00"
   },
   {
     "source": "Libération",
@@ -997,7 +1036,7 @@
     "guid": "https://www.liberation.fr/politique/eric-coquerel-face-aux-megafeux-on-ne-peut-pas-attendre-janvier-pour-lancer-des-commandes-20260803_5DRYTPAOFJALVIMEKF7LJSSJMU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159205+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956223+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1012,7 +1051,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/pyrenees-orientales-apres-un-incendie-provoque-par-deux-adolescents-une-maire-instaure-un-couvre-feu-pour-les-moins-de-15-ans-20260803",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/03/65751e57936dfa628f1b04bea4402e6f2db9143f0120daf5139ddda9ad11c6cc.PNG",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.891098+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256721+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1027,7 +1066,7 @@
     "guid": "https://www.lefigaro.fr/international/defense-le-cavalier-seul-de-l-allemagne-preoccupe-les-militaires-francais-20260803",
     "image": "https://i.f1g.fr/media/cms/2999x1687_crop/2026/08/03/03c32e7c2763a4ec0760999a87d5b6f19022ffeaeafda3f2ae5a4a9b7c5db361.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.890904+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256540+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1042,7 +1081,7 @@
     "guid": "https://www.lefigaro.fr/vox/monde/l-editorial-de-patrick-saint-paul-l-allemagne-confrontee-aux-ombres-du-passe-20260803",
     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/08/03/4c0c77f7e0c88166b9487c745d38c28e96d4e684654e1ba15ba62dbf46e51e01.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.890968+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256606+00:00"
   },
   {
     "source": "Le Monde",
@@ -1053,9 +1092,9 @@
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/international/article/2026/08/03/liban-en-pleines-negociations-israel-continue-de-faire-regner-la-peur-dans-le-sud-du-pays-avec-des-dynamitages-massifs_6737441_3210.html",
-    "image": "https://img.lemde.fr/2026/07/31/500/0/6000/3000/644/322/60/0/ab79830_ftp-1-k4a6lnnmbp4d-5747466-01-06.jpg",
+    "image": "https://img.lemde.fr/2026/07/31/1000/0/6000/3000/644/322/60/0/ab79830_ftp-1-k4a6lnnmbp4d-5747466-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.909944+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252051+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1085,7 +1124,7 @@
     "guid": "https://www.liberation.fr/culture/arts/art-contemporain/amanat-la-foret-sacree-de-saodat-ismailova-au-luma-arles-lasie-centrale-splendeur-nature-20260803_TETQWUTE2ZEGVBTX4ODVTFYRWY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159233+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956250+00:00"
   },
   {
     "source": "Libération",
@@ -1100,7 +1139,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/expulsion-de-xenia-fedorova-la-justice-administrative-rejette-un-recours-de-la-propagandiste-20260803_EJBMHJ2P3BHW3PRFGX3VKUAAOY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159260+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956276+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1120,7 +1159,7 @@
     "guid": "https://www.valeursactuelles.com/societe/presence-de-nuisibles-materiel-sale-risques-de-contamination-une-vingtaine-de-commerces-de-la-courneuve-ont-ferme-en-quelques-jours-pour-des-manquements-sanitaires",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921447+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645670+00:00"
   },
   {
     "source": "Le Monde",
@@ -1146,7 +1185,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/08/03/dans-le-michigan-la-bataille-des-deux-gauches-fait-rage-au-sein-du-parti-democrate_6737407_3210.html",
     "image": "https://img.lemde.fr/2026/07/30/0/0/3000/1500/644/322/60/0/70dd239_ftp-1-61kqeb3laaxd-5737449-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.909998+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252117+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1161,7 +1200,7 @@
     "guid": "https://www.lefigaro.fr/international/les-allemands-ne-prennent-pas-les-francais-au-serieux-comment-friedrich-merz-veut-privilegier-son-pays-face-a-ses-partenaires-europeens-20260803",
     "image": "https://i.f1g.fr/media/cms/2997x1685_crop/2026/08/03/b16ab858ed044333ec10449c52015a791a15f08ffae56b4a1cfff93c87ab6a6e.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.890855+00:00"
+    "fetched_at": "2026-08-04T02:33:34.256502+00:00"
   },
   {
     "source": "Libération",
@@ -1176,7 +1215,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/le-chef-jean-imbert-accuse-de-violences-conjugales-entendu-par-les-enqueteurs-20260803_EZQANGALW5HGDLRG2ZOTOXKWXA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159285+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956300+00:00"
   },
   {
     "source": "Le Monde",
@@ -1204,7 +1243,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/crise-des-migrants-a-ceuta-la-solidarite-plutot-que-lirresponsabilite-par-bernard-cazeneuve-20260803_4LOQNIHYTZFSHK6GZF32MGM54M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159314+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956327+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1241,7 +1280,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/comment-le-moyen-orient-redessine-sa-geographie-energetique",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921494+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645717+00:00"
   },
   {
     "source": "Le Monde",
@@ -1254,7 +1293,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/08/03/anta-la-marque-de-sport-chinoise-qui-rachete-ses-rivales-etrangeres-pour-conquerir-le-marche-occidental_6737371_3234.html",
     "image": "https://img.lemde.fr/2026/08/01/1376/0/8256/4128/644/322/60/0/762e96d_upload-1-ykseqcfd47ec-000-9447969.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910020+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252142+00:00"
   },
   {
     "source": "Libération",
@@ -1269,7 +1308,7 @@
     "guid": "https://www.liberation.fr/portraits/il-fallait-linventer-28-lancelot-durand-et-colin-gallois-arriver-a-leurs-freins-20260803_X72GCXLYDFBUPEYN5XWMFC53QI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159339+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956350+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1299,7 +1338,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/feminicide-de-cecile-poisson-le-cofondateur-dune-startup-dia-qui-avait-tue-son-epouse-en-se-deguisant-en-livreur-deliveroo-sera-juge-en-janvier-20260803_HTLJLP7Y7BC5BGMM3KCO7LCJOA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159368+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956382+00:00"
   },
   {
     "source": "Libération",
@@ -1314,7 +1353,7 @@
     "guid": "https://www.liberation.fr/culture/scenes/festival-davignon-une-compagnie-programmee-dans-le-off-denonce-des-insultes-racistes-suscitant-lindignation-20260803_FV2IPYMYLJHXDOQB23PTAXIVXA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159399+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956409+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1344,7 +1383,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/en-birmanie-la-junte-devoile-des-images-daung-san-suu-kyi-qui-donnent-de-lespoir-cest-une-premiere-etape-importante-20260803_UIMDGV7QKRBO7FVIZHISVXQF3A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159432+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956440+00:00"
   },
   {
     "source": "Le Monde",
@@ -1357,7 +1396,7 @@
     "guid": "https://www.lemonde.fr/afrique/article/2026/08/03/mettre-le-feu-c-est-le-moyen-le-plus-rapide-d-etre-renvoye-chez-soi-au-kenya-le-systeme-des-internats-au-bord-de-l-implosion_6737369_3212.html",
     "image": "https://img.lemde.fr/2026/07/30/228/0/6000/3000/644/322/60/0/b2e1f65_upload-1-fkxlde53aivc-000-b49y6hz.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910052+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252177+00:00"
   },
   {
     "source": "Libération",
@@ -1372,7 +1411,7 @@
     "guid": "https://www.liberation.fr/economie/social/enquete-ouverte-a-matignon-dans-les-services-administratifs-apres-deux-suicides-et-deux-tentatives-en-sept-mois-revele-france-inter-20260803_HY6RYMZ2IZE5NEA3KEXKWMRCJQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159464+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956470+00:00"
   },
   {
     "source": "Mediapart",
@@ -1390,7 +1429,7 @@
     "guid": "1338269 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/03/260803-img-derriere-les-supposees-avancees-du-conseil-de-la-paix-gaza-l-ombre-de-mohammed-dahlan.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038346+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794421+00:00"
   },
   {
     "source": "Mediapart",
@@ -1408,7 +1447,7 @@
     "guid": "1338162 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/03/260803-img-affaire-des-biens-mal-acquis-le-pnf-reclame-un-proces-la-bnp-ciblee.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038377+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794450+00:00"
   },
   {
     "source": "Mediapart",
@@ -1426,7 +1465,7 @@
     "guid": "1328395 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/01/article-2.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038405+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794477+00:00"
   },
   {
     "source": "Libération",
@@ -1441,7 +1480,7 @@
     "guid": "https://www.liberation.fr/politique/attal-souhaite-un-spoil-system-a-la-francaise-melenchon-denonce-un-systeme-de-nomination-copinage-generalise-20260803_7C7QXQ774FCBZBZCVB7WDZOMTA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159494+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956498+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1463,7 +1502,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/livres-le-mystere-roswell-cosmopolite-ainsi-parlait-horace-nos-conseils-de-la-semaine",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921539+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645764+00:00"
   },
   {
     "source": "Libération",
@@ -1478,7 +1517,7 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/la-castafiore-et-le-verre-beaucoup-de-bris-pour-rien-20260803_Y352RC7JJNFE5PTM6DCV5XN3BU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159518+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956523+00:00"
   },
   {
     "source": "Libération",
@@ -1493,7 +1532,7 @@
     "guid": "https://www.liberation.fr/economie/une-nouvelle-arnaque-en-ligne-fait-miroiter-aux-pieges-de-resilier-ou-de-se-faire-rembourser-un-abonnement-a-cellcast-videos-20260803_ZM2KH2H5CZC4DHFQCC43SI6NHA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159547+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956559+00:00"
   },
   {
     "source": "Libération",
@@ -1508,7 +1547,7 @@
     "guid": "https://www.liberation.fr/economie/pour-revaloriser-le-yen-les-etats-unis-et-le-japon-interviennent-pour-la-premiere-fois-en-28-ans-20260803_LG7H5NMYVRE3NJ5UESOD6T47CI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159575+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956617+00:00"
   },
   {
     "source": "Libération",
@@ -1523,7 +1562,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/mohamed-al-fayed-accuse-de-viols-quatre-femmes-reconnues-victimes-de-traite-detres-humains-au-royaume-uni-20260803_TKNWJX73RJAGFC4WY6OD5BTZII/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159605+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956682+00:00"
   },
   {
     "source": "Libération",
@@ -1538,7 +1577,7 @@
     "guid": "https://www.liberation.fr/environnement/dans-le-mercantour-le-lac-de-scluos-a-la-reconquete-de-sa-biodiversite-perdue-et-de-son-eau-cristalline-20260803_KMEKD7W3KZAUHF4SLVXR57CW7U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159636+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956753+00:00"
   },
   {
     "source": "Le Monde",
@@ -1596,7 +1635,7 @@
     "guid": "https://www.liberation.fr/sports/football/france-pierron-ecartee-de-la-chaine-lequipe-pour-ses-propos-sur-la-paternite-jeremy-doku-assure-navoir-rien-contre-elle-20260803_YET3APJSDZBFTAELQG4QWCS3BA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159666+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956820+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1631,7 +1670,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/guillaume-bernard-la-foret-en-france-une-histoire-non-lineaire",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921580+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645804+00:00"
   },
   {
     "source": "Le Monde",
@@ -1644,7 +1683,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/08/03/elections-senatoriales-dans-le-gard-a-droite-comme-a-gauche-l-union-pour-faire-obstacle-au-rn_6737365_823448.html",
     "image": "https://img.lemde.fr/2026/08/02/20/0/7058/3529/644/322/60/0/1a77381_upload-1-p28qncgqqgam-000-479y6bm.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910244+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252414+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1715,7 +1754,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/en-gironde-le-megafeu-revele-des-obus-de-la-seconde-guerre-mondiale-enterres-dans-la-commune-du-porge-en-cours-de-deminage-20260803_6JTOQYBF2NDY7BYQ2CFZ5A22RY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159697+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956877+00:00"
   },
   {
     "source": "Le Monde",
@@ -1762,7 +1801,7 @@
     "guid": "https://www.valeursactuelles.com/politique/radicalite-dans-le-management-deux-suicides-et-deux-tentatives-secouent-les-services-de-matignon",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921622+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645846+00:00"
   },
   {
     "source": "Libération",
@@ -1777,7 +1816,7 @@
     "guid": "https://www.liberation.fr/societe/linfluenceur-lhabib-lewis-qui-evoquait-ses-problemes-de-sante-mentale-sur-tiktok-sest-suicide-a-lage-de-20-ans-20260803_Q7ELA5P6ONFU7I4EMNB573KHB4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159726+00:00"
+    "fetched_at": "2026-08-04T02:33:34.956944+00:00"
   },
   {
     "source": "Libération",
@@ -1792,7 +1831,7 @@
     "guid": "https://www.liberation.fr/culture/cinema/box-office-spider-man-brand-new-day-realise-le-plus-gros-demarrage-depuis-la-pandemie-20260803_DVTOM65Q5VFEZES5SS6ZDCICVI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159754+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957038+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1863,7 +1902,7 @@
     "guid": "https://www.liberation.fr/plus/en-images-la-photographe-aline-bovard-rudaz-silence-radium-20260803_RDJWXYAFWVG6XK2FLX6DZYPJJA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159779+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957094+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1884,7 +1923,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/lavenue-de-la-desolation-dans-les-ruines-de-lincendie-de-gironde",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.921676+00:00"
+    "fetched_at": "2026-08-04T02:33:35.645901+00:00"
   },
   {
     "source": "Le Monde",
@@ -1912,7 +1951,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/mort-de-cheikh-f-tue-par-un-policier-municipal-du-vaucluse-la-legitime-defense-difficilement-compatible-avec-les-premiers-elements-de-lenquete-20260803_XJ5ICIOBLVDD3D3FDGKHQI67PI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159812+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957164+00:00"
   },
   {
     "source": "Mediapart",
@@ -1930,7 +1969,7 @@
     "guid": "1331604 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/20/2607-naufrages-l1500xh1000px-01.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038429+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794502+00:00"
   },
   {
     "source": "Mediapart",
@@ -1948,7 +1987,7 @@
     "guid": "1337109 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/29/260729-img-mort-de-cheikh-f-vedene-l-issue-fatale-d-une-desast.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038456+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794529+00:00"
   },
   {
     "source": "Le Monde",
@@ -1991,7 +2030,7 @@
     "guid": "https://www.liberation.fr/international/amerique/todd-blanche-renonce-au-projet-de-fonds-destine-a-indemniser-les-partisans-de-trump-poursuivis-par-la-justice-20260803_P4VVAGYQVJAGDATGZH62JOPAH4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159840+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957221+00:00"
   },
   {
     "source": "Libération",
@@ -2006,7 +2045,7 @@
     "guid": "https://www.liberation.fr/international/afrique/un-seisme-de-magnitude-56-frappe-legypte-sans-faire-de-victimes-20260803_XREUBI4YP5G5RAZFVWRGEIXIV4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159869+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957281+00:00"
   },
   {
     "source": "Libération",
@@ -2021,7 +2060,7 @@
     "guid": "https://www.liberation.fr/culture/series/josephine-ange-gardien-doc-martin-lactrice-franco-bulgare-natalia-dontcheva-est-morte-a-lage-de-56-ans-20260803_UR5UIX6PVJBEVOV6LMYVXPYJEI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159899+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957347+00:00"
   },
   {
     "source": "Le Monde",
@@ -2047,7 +2086,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/08/03/xenia-fedorova-la-justice-administrative-rejette-un-recours-de-la-propagandiste-pro-poutine-contre-son-arrete-d-expulsion_6737353_3224.html",
     "image": "https://img.lemde.fr/2026/07/29/267/0/3204/1602/644/322/60/0/efd8743_ftp-1-mzcqrfmoxlq4-5731402-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:01.910217+00:00"
+    "fetched_at": "2026-08-04T02:33:34.252378+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2085,7 +2124,7 @@
     "guid": "https://www.liberation.fr/economie/social/allocation-de-rentree-scolaire-2026-versement-des-mardi-a-la-reunion-et-mayotte-le-18-aout-en-metropole-20260803_4ILMBFN6MJBXDF34FAK7CW62KI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159931+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957420+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2115,7 +2154,7 @@
     "guid": "https://www.liberation.fr/politique/entre-gabriel-attal-et-edouard-philippe-une-competition-a-lextreme-centre-20260803_VRMVPIM2RBACPAFWK7N7X75RDU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159958+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957474+00:00"
   },
   {
     "source": "Libération",
@@ -2130,7 +2169,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/merci-aux-voyageurs-davoir-signale-ces-horreurs-un-homme-surpris-en-train-de-realiser-des-montages-pedopornographiques-dans-un-tgv-20260803_XWVCBLKKA5GGDH6CLLQHP6QZHY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.159985+00:00"
+    "fetched_at": "2026-08-04T02:33:34.957504+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2448,7 +2487,7 @@
     "guid": "1338236 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/03/260803-img-trump-annonce-une-reprise-des-negociations-lundi-avec-l-iran.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-03T22:09:02.038484+00:00"
+    "fetched_at": "2026-08-04T02:33:34.794556+00:00"
   },
   {
     "source": "Libération",
