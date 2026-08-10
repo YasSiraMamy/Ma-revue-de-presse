@@ -1,10 +1,94 @@
 [
   {
     "source": "Le Figaro",
+    "title": "Championnats d’Europe d’athlétisme : le maudit Jimmy Gressier craque et finit au pied du podium, Daguinos en bronze",
+    "link": "https://www.lefigaro.fr/sports/athletisme/athletisme-le-maudit-jimmy-gressier-au-pied-du-podium-daguinos-en-bronze-20260810",
+    "summary": "Le champion du monde a terminé quatrième en finale du 5000 mètres des championnats d’Europe ce lundi, à Birmingham. Étienne Daguinos prend le bronze.",
+    "published": "2026-08-10T20:26:25+00:00",
+    "authors": [],
+    "categories": [
+      "Athlétisme"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/athletisme/athletisme-le-maudit-jimmy-gressier-au-pied-du-podium-daguinos-en-bronze-20260810",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/10/a8295aa92ab150e31f609e8225620b2fa7b5cb90c13220c190fc3fd95fe7e48d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484153+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le prix de référence du gaz augmente de 5,6% au 1er septembre pour une majorité d'abonnés français",
+    "link": "https://www.lefigaro.fr/conjoncture/le-prix-de-reference-du-gaz-augmente-de-5-6-au-1er-septembre-pour-une-majorite-d-abonnes-francais-20260810",
+    "summary": "Le tarif passera à 172,05 euros TTC du mégawattheure en moyenne, selon la gendarme du secteur de l’énergie.",
+    "published": "2026-08-10T20:17:37+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/le-prix-de-reference-du-gaz-augmente-de-5-6-au-1er-septembre-pour-une-majorite-d-abonnes-francais-20260810",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/10/8a080932b920a5d2d7836db99f0bc170fa6d58d780e0988157b94f090e43bfaa.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484130+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Etienne Daguinos s’offre le bronze sur 5 000 m aux championnats d’Europe d’athlétisme, Jimmy Gressier termine au pied du podium",
+    "link": "https://www.lemonde.fr/sport/article/2026/08/10/etienne-daguinos-decroche-la-medaille-de-bronze-du-5-000-m-aux-championnats-d-europe-d-athletisme_6743544_3242.html",
+    "summary": "Le fondeur français a doublé sur le fil son compatriote, qui s’était paré du bronze mondial sur la distance à Tokyo en 2025, pour s’offrir la 3ᵉ place d’une course remportée par la légende norvégienne Jakob Ingebrigtsen.",
+    "published": "2026-08-10T20:14:48+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/article/2026/08/10/etienne-daguinos-decroche-la-medaille-de-bronze-du-5-000-m-aux-championnats-d-europe-d-athletisme_6743544_3242.html",
+    "image": "https://img.lemde.fr/2026/08/10/193/0/5400/2700/644/322/60/0/f5b226a_ftp-1-6e2flrzcskyu-a30fe2c4e6e44a35a06a6c38468c011e-0-a585146e424444ada7a9ff9999f80440.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484799+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La Turquie adopte une loi historique sur la réintégration des combattants du PKK ; le sort d’Abdullah Öcalan reste à régler",
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html",
+    "summary": "Le fondateur de la guérilla kurde du Parti des travailleurs du Kurdistan, Abdullah Öcalan, 77 ans, condamné à la prison à vie, avait appelé l’an passé les combattants du PKK à déposer les armes.",
+    "published": "2026-08-10T20:01:23+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/10/la-turquie-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-le-sort-d-abdullah-ocalan-reste-a-regler_6743543_3210.html",
+    "image": "https://img.lemde.fr/2026/08/10/482/0/5170/2585/644/322/60/0/348d68e_upload-1-64dvkpy5qyba-ap26081504366829.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484664+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Une nouvelle arrestation dans l’affaire de l’attentat à l’explosif contre le journaliste italien Sigfrido Ranucci",
+    "link": "https://www.lemonde.fr/international/article/2026/08/10/une-nouvelle-arrestation-dans-l-affaire-de-l-attentat-a-l-explosif-contre-le-journaliste-italien-sigfrido-ranucci_6743542_3210.html",
+    "summary": "Le 16 octobre 2025, un engin explosif avait été déclenché devant le domicile du journaliste, menacé par la mafia, détruisant ses deux voitures sans faire de victimes dans un quartier résidentiel de Pomezia, à une vingtaine de kilomètres au sud de Rome.",
+    "published": "2026-08-10T19:53:52+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/10/une-nouvelle-arrestation-dans-l-affaire-de-l-attentat-a-l-explosif-contre-le-journaliste-italien-sigfrido-ranucci_6743542_3210.html",
+    "image": "https://img.lemde.fr/2025/10/17/234/0/2808/1404/644/322/60/0/0c44c68_ftp-import-images-1-rmh2lgsaikmt-6e0e80b559b04ebe8472a058112a6f3d-0-50b233c5df5d4c60b01b0dff9639a2fa.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484868+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Refus d’obtempérer : un mineur isolé décède après une course-poursuite avec la police à Toulouse",
+    "link": "https://www.lefigaro.fr/flash-actu/refus-d-obtemperer-un-mineur-isole-decede-apres-une-course-poursuite-avec-la-police-a-toulouse-20260810",
+    "summary": "Le mineur de 17 ans, transporté conscient à l’hôpital, est décédé des suites de ses blessures vers 19h00 vendredi soir.",
+    "published": "2026-08-10T19:50:33+00:00",
+    "authors": [],
+    "categories": [
+      "Flash Actu"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-actu/refus-d-obtemperer-un-mineur-isole-decede-apres-une-course-poursuite-avec-la-police-a-toulouse-20260810",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/10/d06313e7750c38adb6a77a6d46b6920fe282db31c35cd1b9856e18506122f5ca.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484175+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "Colombie : un puissant séisme de magnitude 7,4 secoue le pays, au moins 111 morts et de nombreuses destructions",
     "link": "https://www.lefigaro.fr/international/colombie-un-puissant-seisme-de-magnitude-6-6-secoue-la-capitale-bogota-20260810",
     "summary": "Ce tremblement de terre, de magnitude 7,4 selon les services géologiques des États-Unis et de Colombie, s’est produit en tout début de matinée à une centaine de kilomètres de profondeur. Le gouvernement colombien a décrété l’état d’«urgence».",
-    "published": "2026-08-10T18:55:39+00:00",
+    "published": "2026-08-10T19:46:21+00:00",
     "authors": [],
     "categories": [
       "International"
@@ -12,7 +96,110 @@
     "guid": "https://www.lefigaro.fr/international/colombie-un-puissant-seisme-de-magnitude-6-6-secoue-la-capitale-bogota-20260810",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855565+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484204+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Euro de natation : le relais français du 4x200 m médaillé d’argent grâce à un immense Léon Marchand",
+    "link": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
+    "summary": "Portés par leur star et ses prodigieuses coulées, les Bleus ont terminé à la deuxième place de leur finale, lundi aux Championnats d’Europe de natation à Saint-Denis.",
+    "published": "2026-08-10T19:38:00+00:00",
+    "authors": [
+      "Elsa de La Roche Saint-André"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.799944+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Jouets «Squishy» : une enseigne retire de la vente le produit qui a blessé un enfant dans le Nord, les autorités appellent à la prudence",
+    "link": "https://www.liberation.fr/societe/sante/jouets-squishy-une-enseigne-retire-de-la-vente-le-produit-qui-a-blesse-un-enfant-dans-le-nord-les-autorites-appellent-a-la-prudence-20260810_G4ESDWMI3NAVPNRNXUAZXS5OCA/",
+    "summary": "La répression des fraudes affirme ce lundi 10 août qu’elle mène des analyses sur différents modèles de plusieurs marques de balles anti-stress. Une enquête a été ouverte après les graves brûlures causées par l’explosion d’une de ces boules à malaxer au visage d’un enfant de 8 ans.",
+    "published": "2026-08-10T19:24:48+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/jouets-squishy-une-enseigne-retire-de-la-vente-le-produit-qui-a-blesse-un-enfant-dans-le-nord-les-autorites-appellent-a-la-prudence-20260810_G4ESDWMI3NAVPNRNXUAZXS5OCA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.799992+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Canicule : 32 départements placés en alerte orange jusqu’à samedi",
+    "link": "https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810",
+    "summary": "Près de 70% de la France fait actuellement l’objet de mesures de restrictions des usages de l’eau, sous l’effet d’une sécheresse qui s’accentue en raison des vagues de chaleur à répétition qui affectent le pays depuis trois mois.",
+    "published": "2026-08-10T19:19:56+00:00",
+    "authors": [],
+    "categories": [
+      "Météo"
+    ],
+    "guid": "https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/10/b40abf4231f5189d9376a2cf4680d5bff98cc5dfb4d1d35d5cf45d0d56e2be26.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.483943+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Crise légumière majeure» à cause de la sécheresse et d’une canicule inédite, alerte l’entreprise Prince de Bretagne",
+    "link": "https://www.liberation.fr/environnement/agriculture/crise-legumiere-majeure-a-cause-de-la-secheresse-et-dune-canicule-inedite-alerte-lentreprise-prince-de-bretagne-20260810_KBYW53UBK5DDRBTOOCVSYW5GYE/",
+    "summary": "Plusieurs cultures de légumes, dont les tomates, les brocolis et les courgettes, sont lourdement affectées par la chaleur excessive, alerte la marque ce lundi 10 août. Elle demande aux autorités des mesures d’urgence.",
+    "published": "2026-08-10T19:12:31+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/agriculture/crise-legumiere-majeure-a-cause-de-la-secheresse-et-dune-canicule-inedite-alerte-lentreprise-prince-de-bretagne-20260810_KBYW53UBK5DDRBTOOCVSYW5GYE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.800025+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Canicule : 43 départements dont la Manche et la pointe bretonne en vigilance orange mardi à partir de midi",
+    "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
+    "summary": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», alerte Météo France.",
+    "published": "2026-08-10T19:08:24+00:00",
+    "authors": [
+      "Sascha Garcia, Libération ., Service Photo, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.800068+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Alexandria Ocasio-Cortez, figure de la gauche américaine, chronique sa congélation d’ovocytes sur les réseaux sociaux",
+    "link": "https://www.liberation.fr/international/amerique/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-congelation-dovocytes-sur-les-reseaux-sociaux-20260810_WZ27EMFN3ZFV7KHLU4NDKVNDDU/",
+    "summary": "La démocrate de 36 ans a publié, dimanche 9 août, une vidéo sur Instagram afin de partager son expérience, a-t-elle expliqué, et lutter contre l’invisibilisation des parcours liés à la fertilité féminine.",
+    "published": "2026-08-10T18:56:31+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-congelation-dovocytes-sur-les-reseaux-sociaux-20260810_WZ27EMFN3ZFV7KHLU4NDKVNDDU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.800099+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : Kiev revendique l’attaque du complexe pétrochimique de Tobolsk-Neftekhim ; des bombardements russes dans la région de Dnipropetrovsk font quatre morts",
+    "link": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html",
+    "summary": "L’état-major ukrainien a déclaré que ce complexe situé dans la région de Tioumen avait été touché. Plusieurs vidéos publiées dans des médias rapportent les dégâts causés par l’attaque ukrainienne.",
+    "published": "2026-08-10T18:53:38+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/08/10/en-direct-guerre-en-ukraine-kiev-revendique-l-attaque-du-complexe-petrochimique-de-tobolsk-neftekhim-des-bombardements-russes-dans-la-region-de-dnipropetrovsk-font-quatre-morts_6741928_3210.html",
+    "image": "https://img.lemde.fr/2026/08/10/355/0/704/352/644/322/60/0/57343ce_upload-1-p6okwh69b62b-unnamed-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484767+00:00"
   },
   {
     "source": "Le Figaro",
@@ -30,6 +217,21 @@
     "fetched_at": "2026-08-10T18:57:28.855263+00:00"
   },
   {
+    "source": "Libération",
+    "title": "Colombie : le pays en «état d’urgence» après un puissant séisme qui a fait au moins 111 morts et 87 blessés dans l’ouest du pays",
+    "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+    "summary": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août au matin. De nombreuses victimes ont été décomptées dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays. Six aéroports ont été mis à l’arrêt.",
+    "published": "2026-08-10T18:52:37+00:00",
+    "authors": [
+      "Libération ., AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.800134+00:00"
+  },
+  {
     "source": "Le Figaro",
     "title": "Bâtiments effondrés, habitants en fuite... Les images du violent séisme en Colombie qui a fait au moins 111 morts",
     "link": "https://www.lefigaro.fr/international/batiments-effondres-habitants-en-fuite-les-images-du-violent-seisme-en-colombie-qui-a-fait-au-moins-18-morts-20260810",
@@ -42,7 +244,7 @@
     "guid": "https://www.lefigaro.fr/international/batiments-effondres-habitants-en-fuite-les-images-du-violent-seisme-en-colombie-qui-a-fait-au-moins-18-morts-20260810",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/10/0a3c96421341f2c9379c99b3b7526838c84ab4bceb162077eee7d36413912a31.png",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855586+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484245+00:00"
   },
   {
     "source": "Libération",
@@ -57,20 +259,20 @@
     "guid": "https://www.liberation.fr/politique/avec-les-chiffres-du-chomage-en-hausse-les-oppositions-accusent-dix-ans-de-gouvernance-macron-aurait-menti-ben-alors-ca-20260810_I6PXFZF32RBAPOOO5KGBD7QFH4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.374903+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800165+00:00"
   },
   {
     "source": "Le Monde",
-    "title": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de La Espriella décrète « l’état d’urgence »",
+    "title": "Séisme en Colombie : au moins 111 morts ; le président Abelardo de la Espriella décrète l’« état d’urgence »",
     "link": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
-    "summary": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat depuis Bogota, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes destructions.",
+    "summary": "« Il a été décidé de déclarer l’état d’urgence », a annoncé le chef de l’Etat de Bogota, en présentant un bilan actualisé après le tremblement de terre de magnitude 7,4 qui a provoqué d’importantes destructions dans le pays.",
     "published": "2026-08-10T18:45:06+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/planete/article/2026/08/10/seisme-en-colombie-au-moins-111-morts-le-gouvernement-decrete-l-etat-d-urgence_6743410_3245.html",
     "image": "https://img.lemde.fr/2026/08/10/498/0/5977/2988/644/322/60/0/0a90d3a_ftp-1-ks688q3l1nxt-c91e7cf667264f9db866c7248f0724bc-1-fbcf8f654073413d810b55718d97f915.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.635821+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484593+00:00"
   },
   {
     "source": "Le Monde",
@@ -83,7 +285,7 @@
     "guid": "https://www.lemonde.fr/culture/article/2026/08/10/rencontres-d-arles-les-livres-de-photos-pour-enfants-petites-merveilles-et-signatures-prestigieuses_6743505_3246.html",
     "image": "https://img.lemde.fr/2026/08/06/373/0/6111/3055/644/322/60/0/ac54026_upload-1-5r3ez7p2whyn-lol.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.636065+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484930+00:00"
   },
   {
     "source": "Libération",
@@ -98,37 +300,7 @@
     "guid": "https://www.liberation.fr/international/amerique/etats-unis-un-burrito-a-20-dollars-entraine-un-seisme-politique-20260810_3JXAC3PNFRB35EC4EVQICCA7IU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.374938+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Canicule : 32 départements placés en alerte orange jusqu’à samedi, un nouvel incendie perturbe la circulation sur l’A8 dans le Var",
-    "link": "https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810",
-    "summary": "Près de 70% de la France fait actuellement l’objet de mesures de restrictions des usages de l’eau, sous l’effet d’une sécheresse qui s’accentue en raison des vagues de chaleur à répétition qui affectent le pays depuis trois mois.",
-    "published": "2026-08-10T18:40:02+00:00",
-    "authors": [],
-    "categories": [
-      "Météo"
-    ],
-    "guid": "https://www.lefigaro.fr/sciences/en-direct-canicule-la-vague-de-chaleur-continue-de-gagner-du-terrain-20260810",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/10/b40abf4231f5189d9376a2cf4680d5bff98cc5dfb4d1d35d5cf45d0d56e2be26.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855363+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT - Canicule : 43 départements dont la Manche et la pointe bretonne en vigilance orange mardi à partir de midi",
-    "link": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
-    "summary": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», alerte Météo France.",
-    "published": "2026-08-10T18:37:10+00:00",
-    "authors": [
-      "Sascha Garcia, Libération ., Service Photo, AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.374971+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800193+00:00"
   },
   {
     "source": "Le Figaro",
@@ -176,7 +348,7 @@
     "guid": "1339411 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-nice-un-pere-tue-son-fils-de-17-ans-apres-avoir-ete-quitte-ces-crimes-vicariants-que-la-france-ne-veut-pas.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.672886+00:00"
+    "fetched_at": "2026-08-10T21:41:15.564918+00:00"
   },
   {
     "source": "Libération",
@@ -191,22 +363,22 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/les-chiffres-du-chomage-en-hausse-une-illustration-des-promesses-brisees-demmanuel-macron-20260810_5GHEQ6CVL5BMRHX5JGHTPNF6NI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.374999+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800220+00:00"
   },
   {
-    "source": "Libération",
-    "title": "Alexandria Ocasio-Cortez, figure de la gauche américaine, chronique sa congélation d’ovocytes sur les réseaux sociaux",
-    "link": "https://www.liberation.fr/international/amerique/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-congelation-dovocytes-sur-les-reseaux-sociaux-20260810_WZ27EMFN3ZFV7KHLU4NDKVNDDU/",
-    "summary": "La démocrate de 36 ans a publié, dimanche 9 août, une vidéo sur Instagram afin de partager son expérience, a-t-elle expliqué, et lutter contre l’invisibilisation des parcours liés à la fertilité féminine.",
-    "published": "2026-08-10T18:27:04+00:00",
-    "authors": [
-      "Libération ., AFP ."
+    "source": "Le Figaro",
+    "title": "Séisme en Colombie : visualisez la zone touchée par le tremblement de terre",
+    "link": "https://www.lefigaro.fr/international/seisme-en-colombie-visualisez-la-zone-touchee-par-le-tremblement-de-terre-20260810",
+    "summary": "CARTE – Au moins 18 personnes sont mortes dans la ville de Pereira, au sein de la région touristique du café, à l’ouest du pays.",
+    "published": "2026-08-10T18:27:31+00:00",
+    "authors": [],
+    "categories": [
+      "International"
     ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/amerique/alexandria-ocasio-cortez-figure-de-la-gauche-americaine-chronique-sa-congelation-dovocytes-sur-les-reseaux-sociaux-20260810_WZ27EMFN3ZFV7KHLU4NDKVNDDU/",
-    "image": null,
+    "guid": "https://www.lefigaro.fr/international/seisme-en-colombie-visualisez-la-zone-touchee-par-le-tremblement-de-terre-20260810",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/10/b892b565d38017826da68f53ec8a0ced467a6f12f9b051b44fdc84618fedb14d.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375028+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484273+00:00"
   },
   {
     "source": "Le Figaro",
@@ -251,7 +423,7 @@
     "guid": "https://www.lefigaro.fr/conjoncture/budget-2027-bercy-envisage-de-desindexer-les-retraites-les-plus-elevees-20260810",
     "image": "https://i.f1g.fr/media/cms/2861x1609_crop/2026/08/10/4ab1418dda6d8b0642335de682b7deec3fc917fda5ed8aa59b961d4b706cbc06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855537+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484026+00:00"
   },
   {
     "source": "Le Monde",
@@ -264,7 +436,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/08/10/donald-trump-demande-lui-aussi-des-compensations-a-l-iran-pour-tous-les-gens-qu-ils-ont-tues-et-blesses_6743472_3210.html",
     "image": "https://img.lemde.fr/2026/08/10/0/0/2135/1067/644/322/60/0/0f5d637_upload-1-x0fslkjvkkcr-ap26222653098448.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.636091+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484995+00:00"
   },
   {
     "source": "Libération",
@@ -279,7 +451,7 @@
     "guid": "https://www.liberation.fr/economie/chomage-deficit-dette-les-paris-economiques-perdus-des-quinquennats-macron-20260810_ZIORE655HNFPZBWRYDRQIOSGPQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375057+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800275+00:00"
   },
   {
     "source": "Le Figaro",
@@ -294,7 +466,7 @@
     "guid": "https://www.lefigaro.fr/sciences/la-secheresse-atteint-un-niveau-critique-en-france-20260810",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/10/0320e60a624fd3f6c8ef7de04951c5de2ec0c56865921e690b42b0f2383a46ce.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855286+00:00"
+    "fetched_at": "2026-08-10T21:41:15.483859+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -314,22 +486,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/piratage-informatique-trois-reflexes-pour-dormir-tranquille",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654464+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Euro de natation : le relais français du 4x200 m médaillé d’argent avec Léon Marchand",
-    "link": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
-    "summary": "Portés par le nageur français, les Bleus ont remporté la médaille d’argent lundi aux Championnats d’Europe de natation de Paris.",
-    "published": "2026-08-10T18:00:20+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/sports/euro-de-natation-le-relais-francais-du-4x200-m-medaille-dargent-avec-leon-marchand-20260810_U46QYJL52VB45KSOTWXXWMKJEQ/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375082+00:00"
+    "fetched_at": "2026-08-10T21:41:17.378842+00:00"
   },
   {
     "source": "Le Figaro",
@@ -344,7 +501,7 @@
     "guid": "https://www.lefigaro.fr/politique/a-la-palmeraie-de-l-aquaboulevard-les-destins-croises-de-la-droite-nationaliste-20260810",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/10/c21f23dca5e5c0da03d22286451b516fdc6d2a269fa7127b53752e4758801ae3.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855451+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484329+00:00"
   },
   {
     "source": "Libération",
@@ -359,20 +516,20 @@
     "guid": "https://www.liberation.fr/international/amerique/guerre-au-moyen-orient-trump-annonce-quil-va-reclamer-des-compensations-a-liran-20260810_FQMQIPKD2RCQVKU5VY5KRJV75U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375114+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800309+00:00"
   },
   {
     "source": "Le Monde",
     "title": "Lancé par un immense Léon Marchand, le relais français du 4 x 200 m nage libre remporte la médaille d’argent aux championnats d’Europe",
     "link": "https://www.lemonde.fr/sport/article/2026/08/10/lance-par-un-immense-leon-marchand-le-relais-francais-du-4-x-200-m-nage-libre-remporte-la-medaille-d-argent-aux-championnats-d-europe_6743470_3242.html",
-    "summary": "La France a ouvert son compteur de médaille en natation course, lundi, grâce au relais masculin du 4 x 200 m nage libre. Renforcé par la présence de Léon Marchand en finale, il s’est classé 2ᵉ, derrière la Grande-Bretagne.",
+    "summary": "La France a ouvert son compteur de médaille en natation course, lundi, grâce au relais masculin du 4 x 200 m nage libre. Renforcé par la présence de Léon Marchand en finale, il s’est classé 2ᵉ, derrière la Grande-Bretagne, et devant l’Allemagne.",
     "published": "2026-08-10T17:52:12+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/sport/article/2026/08/10/lance-par-un-immense-leon-marchand-le-relais-francais-du-4-x-200-m-nage-libre-remporte-la-medaille-d-argent-aux-championnats-d-europe_6743470_3242.html",
     "image": "https://img.lemde.fr/2026/08/10/180/0/5060/2530/644/322/60/0/338ddc9_ftp-1-cwkzd9yk3pme-5810262-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.635913+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484964+00:00"
   },
   {
     "source": "Libération",
@@ -387,7 +544,7 @@
     "guid": "https://www.liberation.fr/environnement/animaux/cochons-decomposes-enquete-ouverte-contre-un-elevage-porcin-des-cotes-darmor-lun-des-pires-cas-dabandon-documente-par-l214-20260810_XVKCMHRU2BASBA6GZJKFV4WMRI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375144+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800341+00:00"
   },
   {
     "source": "Libération",
@@ -402,7 +559,7 @@
     "guid": "https://www.liberation.fr/international/europe/au-royaume-uni-un-mouchard-chinois-a-bord-des-drones-navals-de-la-royal-navy-20260810_TVFYDRDPNBDTXOHTFMWHUKOOUI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375177+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800372+00:00"
   },
   {
     "source": "Le Monde",
@@ -434,21 +591,6 @@
   },
   {
     "source": "Libération",
-    "title": "Colombie : un fort séisme de magnitude 7,4 dans l’ouest du pays, le bilan s’alourdit à 69 morts",
-    "link": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-    "summary": "D’intenses secousses ont été ressenties jusqu’à Bogotá ce lundi 10 août. Des victimes sont à déplorer dans plusieurs régions, notamment à Pereira, Manizales et Cali, la troisième ville du pays. Six aéroports ont été mis à l’arrêt en raison des dégâts matériels.",
-    "published": "2026-08-10T17:24:27+00:00",
-    "authors": [
-      "Libération ., AFP ., Reuters ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/amerique/colombie-un-fort-seisme-de-magnitude-66-ressenti-a-bogota-20260810_RE3YRNO4P5GHHA5PGOCLU6V5RM/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375208+00:00"
-  },
-  {
-    "source": "Libération",
     "title": "Royaume-Uni : des fans de Harry Potter parviennent à faire relocaliser un projet de câble électrique pour protéger la «tombe» de Dobby",
     "link": "https://www.liberation.fr/international/europe/royaume-uni-des-fans-dharry-potter-parviennent-a-faire-relocaliser-un-projet-de-cable-electrique-pour-proteger-la-tombe-de-dobby-20260810_AGECCPVMINGUDONCJQOS2JCB5A/",
     "summary": "Le chef du projet Greenlink, une liaison entre le Royaume-Uni et l’Irlande, dit avoir reçu «des centaines d’appels» criant à la profanation du sanctuaire réservé à l’elfe domestique, rapporte le «Guardian».",
@@ -460,7 +602,7 @@
     "guid": "https://www.liberation.fr/international/europe/royaume-uni-des-fans-dharry-potter-parviennent-a-faire-relocaliser-un-projet-de-cable-electrique-pour-proteger-la-tombe-de-dobby-20260810_AGECCPVMINGUDONCJQOS2JCB5A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375237+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800403+00:00"
   },
   {
     "source": "Le Figaro",
@@ -475,7 +617,7 @@
     "guid": "https://www.lefigaro.fr/conjoncture/nucleaire-fret-tourisme-les-consequences-en-cascade-des-fleuves-au-plus-bas-20260810",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/10/95caefad70264649537614639b4bbd15ad68a4db7f1982c33c4e310b32453b39.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855336+00:00"
+    "fetched_at": "2026-08-10T21:41:15.483888+00:00"
   },
   {
     "source": "Le Monde",
@@ -503,7 +645,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/un-enorme-epuisement-moral-et-physique-le-cri-d-alarme-des-agriculteurs-face-a-une-catastrophe-inedite-20260810",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/10/1c0f24466b9eb68c45c13d9f14b8327becbd0d2f3e4b9e3f77d276ce6f6b55f2.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855311+00:00"
+    "fetched_at": "2026-08-10T21:41:15.483819+00:00"
   },
   {
     "source": "Le Monde",
@@ -516,7 +658,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/08/10/secheresse-un-record-absolu-en-france-et-en-suisse-en-juillet-pres-des-trois-quarts-de-l-angleterre-concernes_6743433_3244.html",
     "image": "https://img.lemde.fr/2026/08/10/510/0/6124/3062/644/322/60/0/1a30740_ftp-1-7eh3qzht2oxd-5808233-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.635851+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484629+00:00"
   },
   {
     "source": "Libération",
@@ -531,7 +673,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/affaire-lyhanna-gerald-darmanin-contraint-de-constater-son-propre-echec-20260810_S3LOA3MVGJGA3B5UHE7O357AMM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375266+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800439+00:00"
   },
   {
     "source": "Libération",
@@ -546,7 +688,7 @@
     "guid": "https://www.liberation.fr/economie/medias/guillaume-pley-accuse-dechanges-ambigus-avec-des-mineures-tente-de-se-defendre-ce-qui-etait-peut-etre-acceptable-a-lepoque-ne-lest-plus-20260810_LSCPPO5Z6NFL5MGZ3TXD5477E4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375298+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800475+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -566,7 +708,7 @@
     "guid": "https://www.valeursactuelles.com/societe/le-genie-europeen-trouve-outre-atlantique-lambition-les-moyens-et-la-liberte-de-batir-grand-latelier-missor-ces-sculpteurs-francais-qui-brillent-en-amerique",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654540+00:00"
+    "fetched_at": "2026-08-10T21:41:17.378913+00:00"
   },
   {
     "source": "Le Monde",
@@ -579,7 +721,7 @@
     "guid": "https://www.lemonde.fr/afrique/article/2026/08/10/les-etudiants-marocains-touches-de-plein-fouet-par-la-hausse-des-frais-d-inscription-en-france_6743431_3212.html",
     "image": "https://img.lemde.fr/2026/08/05/729/0/8809/4404/644/322/60/0/601d9e6_upload-1-mlscd8cycu2d-hl-ebroncard-3157665.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.636170+00:00"
+    "fetched_at": "2026-08-10T21:41:15.485060+00:00"
   },
   {
     "source": "Libération",
@@ -594,7 +736,7 @@
     "guid": "https://www.liberation.fr/sports/aux-championnats-deurope-de-natation-maxime-grousset-rassure-malgre-sa-blessure-20260810_DGPZVYOIFNFUZF434WUKMG2ENA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375326+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800506+00:00"
   },
   {
     "source": "Libération",
@@ -609,7 +751,7 @@
     "guid": "https://www.liberation.fr/politique/cadeaux-chauffeurs-prives-jordan-bardella-se-fait-retoquer-certaines-depenses-de-campagne-pour-les-europeennes-20260810_P7YJEKVGOZH3XIGPO662YNN7GM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375356+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800538+00:00"
   },
   {
     "source": "Libération",
@@ -624,7 +766,7 @@
     "guid": "https://www.liberation.fr/societe/lintention-est-louable-mais-jai-des-doutes-sur-lefficacite-reelle-la-fin-du-demarchage-telephonique-est-elle-vraiment-pour-demain-20260810_YNTWCQKJWVDQ7OSL324PPVSEFU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375387+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800570+00:00"
   },
   {
     "source": "Libération",
@@ -639,7 +781,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/on-na-ni-eau-ni-electricite-on-dort-dans-le-village-voisin-au-sud-du-liban-la-vie-fragile-en-zone-pilote-20260810_VJ4ULQZ7XJF75PQ4JLS7DXJPXQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375423+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800604+00:00"
   },
   {
     "source": "Libération",
@@ -654,7 +796,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/entre-le-liban-et-israel-des-negociations-toujours-dans-limpasse-20260810_KNO7ZY5WYRB5HJXFQTP2KLF2WQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375451+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800633+00:00"
   },
   {
     "source": "Libération",
@@ -669,7 +811,22 @@
     "guid": "https://www.liberation.fr/politique/la-primaire-proposee-par-francois-bayrou-peine-a-convaincre-personne-nest-daccord-sur-les-participants-20260810_SJSD7LDHSJCTLGWQJILML5LCTM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375480+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800661+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Ambiance de fin du monde, cornes du diable ou double crépuscule : que pouvons-nous attendre en France de l’éclipse du 12 août ?",
+    "link": "https://www.lefigaro.fr/sciences/ambiance-de-fin-du-monde-cornes-du-diable-ou-double-crepuscule-que-pouvons-nous-attendre-en-france-de-l-eclipse-du-12-aout-20260810",
+    "summary": "DÉCRYPTAGE - Dans notre pays, l’éclipse ne sera que partielle, avec un taux d’occultation moyen de 95%. Elle surviendra néanmoins en soirée, au couchant, ce qui devrait la rendre un plus spectaculaire.",
+    "published": "2026-08-10T16:30:00+00:00",
+    "authors": [],
+    "categories": [
+      "Sciences & Environnement"
+    ],
+    "guid": "https://www.lefigaro.fr/sciences/ambiance-de-fin-du-monde-cornes-du-diable-ou-double-crepuscule-que-pouvons-nous-attendre-en-france-de-l-eclipse-du-12-aout-20260810",
+    "image": "https://i.f1g.fr/media/cms/2826x1590_crop/2026/08/10/f92dd84c823eafc9ec9a116694e1f0b3e8ce16b4b5a9a988eba40b9011476eab.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-10T21:41:15.484078+00:00"
   },
   {
     "source": "Libération",
@@ -684,7 +841,7 @@
     "guid": "https://www.liberation.fr/international/europe/puissant-seisme-en-colombie-extension-de-la-canicule-au-nord-nappes-phreatiques-en-souffrance-lactu-de-ce-lundi-10-aout-20260810_EQNEPDIPQZH6XGAQOT4XKTEKWE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375505+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800687+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -705,7 +862,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/40-ans-dune-union-des-droites-impossible-du-triomphe-de-1994-au-naufrage-du-mpf-le-pari-de-philippe-de-villiers",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654589+00:00"
+    "fetched_at": "2026-08-10T21:41:17.378968+00:00"
   },
   {
     "source": "Le Monde",
@@ -718,7 +875,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/08/10/ligne-tres-haute-tension-en-camargue-face-a-des-agriculteurs-a-bout-de-nerfs-rte-pousse-son-projet_6743424_3244.html",
     "image": "https://img.lemde.fr/2026/08/07/597/0/7168/3584/644/322/60/0/3bf8051_upload-1-k83hohjn8vo4-000-48yc6ke.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.635883+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484699+00:00"
   },
   {
     "source": "Le Monde",
@@ -746,7 +903,7 @@
     "guid": "https://www.liberation.fr/societe/elisabeth-gomis-ma-mere-nous-trouvait-dans-le-jardin-a-4-heures-du-matin-en-allant-travailler-20260810_XMUPF23YBZFZNKNXJVPQLO2R54/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375535+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800718+00:00"
   },
   {
     "source": "Mediapart",
@@ -764,7 +921,7 @@
     "guid": "1339029 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/07/260810-img-en-cote-d-ivoire-les-promesses-englouties-du-barrage-d-eiffage-1-chapo.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.672925+00:00"
+    "fetched_at": "2026-08-10T21:41:15.564958+00:00"
   },
   {
     "source": "Mediapart",
@@ -782,7 +939,7 @@
     "guid": "1339358 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-amerique-latine-sous-le-regne-de-trump-et-de-dieu.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.672958+00:00"
+    "fetched_at": "2026-08-10T21:41:15.564989+00:00"
   },
   {
     "source": "Mediapart",
@@ -800,7 +957,7 @@
     "guid": "1339382 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-traitement-des-violences-sexuelles-sur-mineurs-des-policiers-outres-par-un-darmanin-amnesique.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.672992+00:00"
+    "fetched_at": "2026-08-10T21:41:15.565022+00:00"
   },
   {
     "source": "Le Figaro",
@@ -860,7 +1017,7 @@
     "guid": "https://www.lefigaro.fr/societes/revolut-decroche-sa-licence-bancaire-en-france-20260810",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/10/0e13192eb30a5c6f5cf35d632e873ae00663c9f3a87244e290b312407a2c4fa6.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855157+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484050+00:00"
   },
   {
     "source": "Le Figaro",
@@ -896,7 +1053,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/auvergne-rhone-alpes/rhone/lyon/faits-divers/ils-cassent-pour-casser-a-lyon-les-commercants-du-centre-ville-victimes-de-cambriolages-a-repetition",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654634+00:00"
+    "fetched_at": "2026-08-10T21:41:17.379019+00:00"
   },
   {
     "source": "Le Monde",
@@ -925,21 +1082,6 @@
     "fetched_at": "2026-08-10T15:59:45.228386+00:00"
   },
   {
-    "source": "Le Figaro",
-    "title": "Séisme en Colombie : visualisez la zone touchée par le tremblement de terre",
-    "link": "https://www.lefigaro.fr/international/seisme-en-colombie-visualisez-la-zone-touchee-par-le-tremblement-de-terre-20260810",
-    "summary": "CARTE – Au moins 18 personnes sont mortes dans la ville de Pereira, au sein de la région touristique du café, à l’ouest du pays.",
-    "published": "2026-08-10T15:14:41+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/seisme-en-colombie-visualisez-la-zone-touchee-par-le-tremblement-de-terre-20260810",
-    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/10/b892b565d38017826da68f53ec8a0ced467a6f12f9b051b44fdc84618fedb14d.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-10T15:59:45.153379+00:00"
-  },
-  {
     "source": "Libération",
     "title": "Malgré l’enchaînement des vagues de chaleur, la situation des nappes phréatiques est «contrastée»",
     "link": "https://www.liberation.fr/environnement/malgre-lenchainement-des-vagues-de-chaleur-la-situation-des-nappes-phreatiques-est-contrastee-20260810_QRNN2DN6QNCRBB5XRKL2H264EM/",
@@ -952,7 +1094,7 @@
     "guid": "https://www.liberation.fr/environnement/malgre-lenchainement-des-vagues-de-chaleur-la-situation-des-nappes-phreatiques-est-contrastee-20260810_QRNN2DN6QNCRBB5XRKL2H264EM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375563+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800749+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1005,7 +1147,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/bretagne/finistere/na/societe/finistere-un-calvaire-retire-du-domaine-public-au-nom-de-la-laicite",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654704+00:00"
+    "fetched_at": "2026-08-10T21:41:17.379068+00:00"
   },
   {
     "source": "Le Monde",
@@ -1031,7 +1173,7 @@
     "guid": "https://www.lemonde.fr/series-d-ete/article/2026/08/10/bienvenue-dans-la-capitale-des-infox-pro-trump-a-veles-petite-ville-des-balkans_6743414_3451060.html",
     "image": "https://img.lemde.fr/2026/08/04/295/125/4488/2244/644/322/60/0/b0a954a_upload-1-tqd7mnt8ovcx-1-infox-veles-b-copie.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.636008+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484835+00:00"
   },
   {
     "source": "Le Monde",
@@ -1070,7 +1212,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/08/10/fonction-publique-l-etat-appele-a-faire-le-menage-dans-les-primes-de-ses-agents_6743411_823448.html",
     "image": "https://img.lemde.fr/2026/07/21/683/0/8000/4000/644/322/60/0/c848938_upload-1-hktqe5elec5e-jmug260721038.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.636119+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484902+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1113,7 +1255,7 @@
     "guid": "https://www.liberation.fr/sports/football/a-madere-des-milliers-de-fans-croyant-assister-au-mariage-de-cristiano-ronaldo-tombent-sur-deux-inconnus-20260810_RSNHKGZTLBBP7BGAPMV6YDIBDM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375593+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800780+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1143,7 +1285,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/jeune-femme-enlevee-en-discotheque-puis-violee-dans-les-yvelines-deux-suspects-mis-en-examen-dont-un-algerien-sous-oqtf-20260810",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/10/93c3447c1185ff2ae1cc7cb0cfd0161adbc1f921cc3dc129ee267e620804ab09.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T15:59:45.153614+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484304+00:00"
   },
   {
     "source": "Le Monde",
@@ -1156,7 +1298,7 @@
     "guid": "https://www.lemonde.fr/pixels/article/2026/08/10/guillaume-pley-le-fondateur-de-legend-accuse-d-echanges-en-ligne-a-caractere-sexuel-avec-plusieurs-mineures_6743407_4408996.html",
     "image": "https://img.lemde.fr/2026/08/10/0/0/7488/3744/644/322/60/0/e433592_upload-1-givva4ys5gq8-000-96vg9wk.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.635778+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484546+00:00"
   },
   {
     "source": "Libération",
@@ -1171,7 +1313,7 @@
     "guid": "https://www.liberation.fr/economie/conso/la-banque-en-ligne-revolut-fait-de-la-france-la-tete-de-pont-de-sa-conquete-europeenne-20260810_2CWXCXXX4BDKLGZSSZZSOCJAPE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375625+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800812+00:00"
   },
   {
     "source": "Le Monde",
@@ -1199,7 +1341,7 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/en-russie-les-nenets-cheris-par-antoine-boureau-20260810_5KGHQO5IINBEZDDLFHCYA3O5IE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375674+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800839+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1219,7 +1361,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/se-restreindre-ou-sadapter-lecologie-politique-face-a-elle-meme",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654758+00:00"
+    "fetched_at": "2026-08-10T21:41:17.379124+00:00"
   },
   {
     "source": "Libération",
@@ -1234,7 +1376,7 @@
     "guid": "https://www.liberation.fr/portraits/il-fallait-linventer-88-fiona-fairhurst-requin-maillot-20260810_P63ERULJJFFHVPQ6UU7UTMVUHA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375701+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800862+00:00"
   },
   {
     "source": "Le Monde",
@@ -1262,7 +1404,7 @@
     "guid": "https://www.liberation.fr/culture/en-bretagne-agriculture-rime-avec-culture-les-deux-domaines-sont-en-crise-les-croiser-participe-a-la-robustesse-de-chacun-20260810_4R4EI6BA2RBJDLOVEXZT5ZHASM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375734+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800895+00:00"
   },
   {
     "source": "Libération",
@@ -1277,7 +1419,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/plan-thailande-quand-des-jeunes-se-font-pieger-par-des-trafiquants-sur-snapchat-pour-servir-de-mules-contre-des-vacances-20260810_N2FEV5EPJ5BLVDTBPYC2BUO4PM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375767+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800929+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1307,7 +1449,7 @@
     "guid": "https://www.liberation.fr/culture/musique/festival-de-salzbourg-romeo-castellucci-redonne-foi-en-saint-francois-20260810_Z5I6MAM3RRAJ3MXLKAPAF43PKI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375797+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800957+00:00"
   },
   {
     "source": "Mediapart",
@@ -1325,7 +1467,7 @@
     "guid": "1339369 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-nouvelle-vague-de-chaleur-dans-plusieurs-pays-d-europe.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.673023+00:00"
+    "fetched_at": "2026-08-10T21:41:15.565052+00:00"
   },
   {
     "source": "Libération",
@@ -1340,7 +1482,7 @@
     "guid": "https://www.liberation.fr/politique/gironde-une-candidate-lfi-aux-senatoriales-denonce-une-violente-attaque-raciste-20260810_OQKLALYDK5HU3JE7BBUI5PSRCA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375824+00:00"
+    "fetched_at": "2026-08-10T21:41:15.800985+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1373,7 +1515,7 @@
     "guid": "1331077 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/20/4-img-diffamation-grace-prison-les-militants-marocains-constamment-face-la-justice.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.673055+00:00"
+    "fetched_at": "2026-08-10T21:41:15.565086+00:00"
   },
   {
     "source": "Libération",
@@ -1388,7 +1530,7 @@
     "guid": "https://www.liberation.fr/politique/elections/grande-primaire-monsieur-bayrou-laissez-la-gauche-en-dehors-de-ca-20260810_IN7DGFWHGVDTXPBIRAAWGLSKY4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375851+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801012+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1418,7 +1560,7 @@
     "guid": "https://www.liberation.fr/international/europe/la-russie-intercepte-456-drones-ukrainiens-et-evoque-un-bilan-de-13-morts-20260810_MYTUIXYJQVAYRBKKLWP3Q6AUCQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375880+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801046+00:00"
   },
   {
     "source": "Le Monde",
@@ -1431,7 +1573,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/08/10/presidentielle-2027-raphael-glucksmann-soutenu-par-daniel-cohn-bendit-qui-vante-son-positionnement-nouveau_6743338_823448.html",
     "image": "https://img.lemde.fr/2026/08/10/530/0/5120/2560/644/322/60/0/b6686fe_upload-1-kaiq250zljzk-000-863z74p.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.636039+00:00"
+    "fetched_at": "2026-08-10T21:41:15.485029+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1452,7 +1594,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/lextension-du-concept-dingerence-ou-la-transformation-des-citoyens-en-suspects",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654808+00:00"
+    "fetched_at": "2026-08-10T21:41:17.379177+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1467,7 +1609,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/secheresse-en-france-pres-de-70-du-territoire-sous-des-mesures-de-restrictions-d-eau-20260810",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/10/3f6184c0ae399cbe96d83d82a92f0bb35e1526207dbddb68fa55271233a13aba.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855409+00:00"
+    "fetched_at": "2026-08-10T21:41:15.483998+00:00"
   },
   {
     "source": "Le Monde",
@@ -1528,7 +1670,7 @@
     "guid": "1331187 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/20/260720-img-demain-l-autogestion-et-ses-obstacles-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.673084+00:00"
+    "fetched_at": "2026-08-10T21:41:15.565114+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1577,7 +1719,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/narcotrafic-en-algerie-des-arrestations-et-des-questions",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654846+00:00"
+    "fetched_at": "2026-08-10T21:41:17.379219+00:00"
   },
   {
     "source": "Libération",
@@ -1592,7 +1734,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/dz-mafia-les-deux-cadres-de-lorganisation-interpelles-en-algerie-y-ont-ete-ecroues-annonce-darmanin-20260810_A3LU4V7GUVH3DAAZPYRQV7HYHE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375910+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801077+00:00"
   },
   {
     "source": "Le Monde",
@@ -1646,7 +1788,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/la-transition-ecologique-ne-conduira-ni-a-la-victoire-des-metropoles-ni-a-la-revanche-des-campagnes-20260810_6SKVRFW4INDEBPUG2GMREEOUKE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375940+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801107+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1683,7 +1825,7 @@
     "guid": "https://www.valeursactuelles.com/economie/eoliennes-la-lourde-facture-dun-modele-sous-perfusion-publique",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654889+00:00"
+    "fetched_at": "2026-08-10T21:41:17.379297+00:00"
   },
   {
     "source": "Libération",
@@ -1698,7 +1840,7 @@
     "guid": "https://www.liberation.fr/international/europe/en-espagne-leclipse-et-son-afflux-de-passionnes-un-petit-miracle-cosmique-pour-les-regions-depeuplees-et-oubliees-des-touristes-20260810_JUD2OM5L3ZAMPJH7QY77SS3YOU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.375973+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801139+00:00"
   },
   {
     "source": "Libération",
@@ -1713,7 +1855,7 @@
     "guid": "https://www.liberation.fr/international/europe/daniel-kinahan-chef-de-lun-des-plus-grands-cartels-deurope-extrade-par-dubai-et-inculpe-par-la-justice-irlandaise-20260810_IJBDXXZULJBFZCFQGXEHKGHYKI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376008+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801170+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1758,7 +1900,7 @@
     "guid": "https://www.liberation.fr/sports/football/rupture-fondamentale-de-confiance-luefa-la-concacaf-et-lafc-accentuent-la-pression-sur-gianni-infantino-dans-une-lettre-ouverte-20260810_NPNWS6SKZNGY7FZUJMSX7NOQPI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376040+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801202+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1779,7 +1921,7 @@
     "guid": "https://www.valeursactuelles.com/politique/violences-sexuelles-sur-mineurs-gerald-darmanin-accuse-dhypocrisie-et-de-trahison-par-la-police-judiciaire",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.654938+00:00"
+    "fetched_at": "2026-08-10T21:41:17.379350+00:00"
   },
   {
     "source": "Mediapart",
@@ -1797,7 +1939,7 @@
     "guid": "1339017 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/07/260807-img-en-armenie-une-centrale-nucleaire-bout-de-souffle-au-coeur-des-appetits-geopolitiques.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.673112+00:00"
+    "fetched_at": "2026-08-10T21:41:15.565141+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1842,7 +1984,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/a-montpellier-un-jeune-de-16-ans-tue-dans-une-rixe-trois-personnes-interpellees-20260810_HFTBXEVXSZC7FN5HFEWUOXEYFM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376069+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801250+00:00"
   },
   {
     "source": "Le Monde",
@@ -1918,7 +2060,7 @@
     "guid": "1339345 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/10/260810-img-strasbourg-fait-condamner-l-etat-pour-carence-en-matiere-d-hebergement-d-urgence.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.673143+00:00"
+    "fetched_at": "2026-08-10T21:41:15.565173+00:00"
   },
   {
     "source": "Libération",
@@ -1933,7 +2075,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/le-grand-ouest-americain-avec-le-photographe-suisse-christian-lutz-20260810_ET2GGEAVLRHDFJI7JYBDXPSY7A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376099+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801283+00:00"
   },
   {
     "source": "Le Monde",
@@ -2004,7 +2146,7 @@
     "guid": "1328337 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/24/2607-transidentite-bresil-l1500xh1000px-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.673176+00:00"
+    "fetched_at": "2026-08-10T21:41:15.565205+00:00"
   },
   {
     "source": "Libération",
@@ -2019,7 +2161,7 @@
     "guid": "https://www.liberation.fr/sports/championnat-deurope-dathletisme-un-guide-pour-eviter-les-plans-tele-qui-sexualisent-les-corps-des-sportives-20260810_22HSGWZO6ZBPTJH4IHQJQW77UA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376130+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801315+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2141,7 +2283,7 @@
     "guid": "https://www.liberation.fr/international/amerique/meurtre-de-2pac-ouverture-du-proces-de-duane-davis-ex-chef-de-gang-de-compton-20260810_WIMLFTZ4QBESVEHZPM4LYXXYPA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376162+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801346+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2156,7 +2298,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/secheresse-l-etat-doit-il-accorder-des-milliards-aux-agriculteurs-comme-le-demande-la-fnsea-20260810",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855428+00:00"
+    "fetched_at": "2026-08-10T21:41:15.483913+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2336,7 +2478,7 @@
     "guid": "https://www.liberation.fr/politique/presidentielle-2027-francois-bayrou-appelle-a-organiser-une-grande-primaire-entre-tous-ceux-qui-rejettent-les-extremes-20260810_HI6DN4CYPBHUTN3BUNV6GTL3M4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376193+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801377+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2374,7 +2516,7 @@
     "guid": "https://www.liberation.fr/international/europe/records-de-chaleur-en-europe-de-louest-liran-nest-pas-prete-a-rouvrir-le-detroit-dormuz-debut-des-championnats-deurope-de-natation-lactu-de-ce-lundi-10-aout-au-matin-20260810_W5YHFGW5QVAILG254FFPO7MXDY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376218+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801404+00:00"
   },
   {
     "source": "Libération",
@@ -2389,7 +2531,7 @@
     "guid": "https://www.liberation.fr/lifestyle/voyages/mon-budget-vacances-en-tandem-dans-le-nord-et-en-belgique-a-720-euros-pour-deux-20260810_HIAJYYORJJHZDBJ4EGSZJWSX4M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376249+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801434+00:00"
   },
   {
     "source": "Libération",
@@ -2404,7 +2546,7 @@
     "guid": "https://www.liberation.fr/sports/je-gere-comme-je-peux-blesse-leon-marchand-a-du-revoir-a-la-baisse-ses-ambitions-pour-leuro-de-natation-20260810_T6S6753OFJH55ASATQWCP7OT6Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376282+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801466+00:00"
   },
   {
     "source": "Mediapart",
@@ -2457,7 +2599,7 @@
     "guid": "https://www.liberation.fr/sports/championnats-deurope-dathletisme-duplantis-gressier-werro-quelles-sont-les-stars-a-suivre-et-les-chances-francaises-20260810_FUSIJIFDZRD3NC6AULS72GRI3I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376312+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801494+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2502,7 +2644,7 @@
     "guid": "https://www.liberation.fr/politique/elections/souviens-toi-lete-davant-la-presidentielle-en-2006-et-si-melenchon-avait-rate-le-coche-avec-les-anticapitalistes-20260810_CNT6B5IR3NDWVKFPPSJMVFOZIA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:29.376341+00:00"
+    "fetched_at": "2026-08-10T21:41:15.801523+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2850,7 +2992,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/08/10/ces-femmes-qui-decouvrent-leur-autisme-a-l-age-adulte-c-est-un-soulagement-je-ne-suis-pas-folle_6742974_3224.html",
     "image": "https://img.lemde.fr/2026/08/08/231/0/5000/2500/644/322/60/0/18239eb_upload-1-jriz4veyjm48-ad006-tsa-salp-dsc02344.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.635942+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484733+00:00"
   },
   {
     "source": "Le Monde",
@@ -31242,7 +31384,7 @@
     "guid": "https://www.lefigaro.fr/sciences/pourquoi-le-nouvel-el-nino-deja-surnomme-godzilla-inquiete-les-climatologues-20260730",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/07/30/722b0dd17ac9d39b8d03e9dedf100afa6f0e3bc3cd2d945f1f634df73d9a0be1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T18:57:28.855388+00:00"
+    "fetched_at": "2026-08-10T21:41:15.483970+00:00"
   },
   {
     "source": "Le Monde",
@@ -241806,7 +241948,7 @@
     "guid": "https://www.lefigaro.fr/voyages/guides/eclipse-totale-du-12-aout-2026-europe-du-nord-espagne-ou-en-france-voici-ou-assister-a-cet-incroyable-spectacle-20260416",
     "image": "https://i.f1g.fr/media/cms/orig/2026/04/16/c3f9cbf8cbdcae6ac848b65d3bb4ac301558ecbf176762a1dca1a812c6087bfe.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-10T10:16:18.914511+00:00"
+    "fetched_at": "2026-08-10T21:41:15.484108+00:00"
   },
   {
     "source": "Le Figaro",
