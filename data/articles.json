@@ -1,33 +1,392 @@
 [
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Météo : nouvelle journée caniculaire avec 80 départements en vigilance orange, épisode de pollution à l’ozone pour l’Ile-de-France",
+    "title": "Canicules, nuits tropicales, pluies... à quoi s’attendre cet été sur votre lieu de vacances ?",
+    "link": "https://www.lefigaro.fr/sciences/pluies-canicules-nuits-tropicales-a-quoi-s-attendre-cet-ete-sur-votre-lieu-de-vacances-20260613",
+    "summary": "EN CARTES - Grâce à notre outil interactif fondé sur les données météorologiques des étés passés, découvrez le profil climatique de votre lieu de villégiature.",
+    "published": "2026-08-13T07:18:30+00:00",
+    "authors": [],
+    "categories": [
+      "Sciences & Environnement"
+    ],
+    "guid": "https://www.lefigaro.fr/sciences/pluies-canicules-nuits-tropicales-a-quoi-s-attendre-cet-ete-sur-votre-lieu-de-vacances-20260613",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/06/11/452686fa1a89b0497e829bad8c13d5d30eef01c98a2d92e84fae931089c1c34b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156253+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«On ne veut pas être qualifiés de héros, on veut qu’on nous donne des moyens» : en grève, les pompiers reçus par Laurent Nuñez ce jeudi",
+    "link": "https://www.liberation.fr/environnement/climat/on-ne-veut-pas-etre-qualifies-de-heros-on-veut-quon-nous-donne-des-moyens-en-greve-les-pompiers-recus-par-laurent-nunez-ce-jeudi-20260813_3SHW4TKUWVBMVOLUF35KQXL6BM/",
+    "summary": "Les soldats du feu demandent au ministre de l’Intérieur de débloquer des financements pour les services départementaux d’incendie et de secours, qui pâtissent des «effectifs insuffisants», des «moyens à la traîne», et des «équipements vieillissants», selon les syndicats.",
+    "published": "2026-08-13T07:18:15+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/on-ne-veut-pas-etre-qualifies-de-heros-on-veut-quon-nous-donne-des-moyens-en-greve-les-pompiers-recus-par-laurent-nunez-ce-jeudi-20260813_3SHW4TKUWVBMVOLUF35KQXL6BM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383456+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Canicule : 28,9°C au Cap Corse, 28,1°C à Nice... Découvrez les températures relevées à 8 heures",
+    "link": "https://www.lefigaro.fr/meteo/canicule-decouvrez-les-temperatures-relevees-ce-mercredi-20260812",
+    "summary": "CARTE – À 8 heures ce jeudi, le mercure frôle déjà les 30°C au bord de la Méditerranée et en Corse. La nuit a également été chaude dans les grandes villes.",
+    "published": "2026-08-13T07:16:32+00:00",
+    "authors": [],
+    "categories": [
+      "Météo"
+    ],
+    "guid": "https://www.lefigaro.fr/meteo/canicule-decouvrez-les-temperatures-relevees-ce-mercredi-20260812",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/12/c25e1d19cdc8a99baf10c057f64c18f66df6b5e5f4d72c06964f781adf5506a5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156093+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Canicule : la ministre de l’Agriculture va réunir les éleveurs le 27 août pour faire un «état des lieux précis» sur la sécheresse",
     "link": "https://www.lefigaro.fr/meteo/en-direct-live-meteo-canicule-vague-chaleur-soleil-incendies-feux-temperatures-vigilance-secheresse-20260813",
     "summary": "Les chaleurs caniculaires continuent de gagner du terrain jeudi, s’étendant à quasiment toute la France. Cet épisode caniculaire atteint son pic pour les journées de jeudi et vendredi.",
-    "published": "2026-08-13T04:46:03+00:00",
+    "published": "2026-08-13T07:13:40+00:00",
     "authors": [],
     "categories": [
       "Météo"
     ],
     "guid": "https://www.lefigaro.fr/meteo/en-direct-live-meteo-canicule-vague-chaleur-soleil-incendies-feux-temperatures-vigilance-secheresse-20260813",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/13/dc14d5115cb943ce84393641559e3b9ab9f6c97a05e91122abfc1995036f1536.jpg",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/13/fcc4def5e9f061cbf6c9618d7e82d32f9b71c168283d8148dd9e25cb721a4e66.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857206+00:00"
+    "fetched_at": "2026-08-13T07:27:01.155980+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Besançon : trois hommes gravement blessés par arme à feu",
+    "link": "https://www.lefigaro.fr/faits-divers/besancon-trois-hommes-gravement-blesses-par-arme-a-feu-20260813",
+    "summary": "Des hommes se trouvaient devant une épicerie, dans le quartier populaire de Planoise, lorsqu’un véhicule est arrivé avec à son bord plusieurs individus qui ont tiré dans leur direction, avec deux armes différentes.",
+    "published": "2026-08-13T07:06:32+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/besancon-trois-hommes-gravement-blesses-par-arme-a-feu-20260813",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/13/3d19eff81ef4c3421cc7345ec9df05040b0bb2cc4d0991d432ee139fd4c4310d.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156649+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Quand Roger Federer affronte Bernard Arnault sur un court de tennis en Sicile",
+    "link": "https://www.lefigaro.fr/sports/tennis/quand-roger-federer-affronte-bernard-arnault-sur-un-court-de-tennis-en-sicile-20260813",
+    "summary": "LE SCAN SPORT - La légende des courts a échangé quelques balles avec l’homme d’affaires en Sicile dans un cadre unique.",
+    "published": "2026-08-13T07:03:17+00:00",
+    "authors": [],
+    "categories": [
+      "Tennis"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/tennis/quand-roger-federer-affronte-bernard-arnault-sur-un-court-de-tennis-en-sicile-20260813",
+    "image": "https://i.f1g.fr/media/cms/812x456_crop/2026/08/13/37532e3de6bb09bf8e34421f8a9c6d14abb0afd71a2fd385fb2f5c12ceaba717.png",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156619+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« La France vient du fond des âges […] Les siècles l’appellent » : les meilleures citations de Charles de Gaulle",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/histoire/la-france-vient-du-fond-des-ages-les-siecles-lappellent-les-meilleures-citations-de-charles-de-gaulle",
+    "summary": "Philosophie et vision de l’homme« Soudain, le chant d’un oiseau, le soleil sur le feuillage ou les bourgeons d’un taillis me rappellent que la vie, depuis qu’elle parut sur la... L’article « La France vient du fond des âges […] Les siècles l’appellent » : les meilleures citations de Charles de Gaulle est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-08-13T07:00:48+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "charles de gaulle",
+      "France",
+      "Général de Gaulle"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/la-france-vient-du-fond-des-ages-les-siecles-lappellent-les-meilleures-citations-de-charles-de-gaulle",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:02.961986+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Séisme en Colombie : le bilan monte à 265 morts et 500 disparus, la recherche de survivants entre dans une phase critique",
+    "link": "https://www.liberation.fr/international/amerique/seisme-en-colombie-le-bilan-monte-a-265-morts-et-500-disparus-la-recherche-de-survivants-dans-une-phase-decisive-20260813_XMMZMXONV5EPROMX4RYJOMWJD4/",
+    "summary": "Le président colombien a revu le bilan du tremblement de terre à la hausse, au moment où le sauvetage des disparus devient particulièrement urgent.",
+    "published": "2026-08-13T06:59:47+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/seisme-en-colombie-le-bilan-monte-a-265-morts-et-500-disparus-la-recherche-de-survivants-dans-une-phase-decisive-20260813_XMMZMXONV5EPROMX4RYJOMWJD4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383517+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Cinéma, centres commerciaux, cafés… Les gagnants et les perdants de la canicule",
+    "link": "https://www.lefigaro.fr/flash-eco/cinema-centres-commerciaux-cafes-les-gagnants-et-les-perdants-de-la-canicule-20260812",
+    "summary": "DÉCRYPTAGE - La hausse des températures bouleverse les habitudes de consommation, dans des proportions significatives.",
+    "published": "2026-08-13T06:54:32+00:00",
+    "authors": [],
+    "categories": [
+      "Flash Eco"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-eco/cinema-centres-commerciaux-cafes-les-gagnants-et-les-perdants-de-la-canicule-20260812",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/12/27b40ff70c5e27eb8618482f23ecaecfb075c3ed438ce577c37a0c58324fd010.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156284+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Pertes agricoles, trésorerie... Ce que la canicule et les incendies vont coûter à l’économie française",
+    "link": "https://www.lefigaro.fr/conjoncture/pertes-agricoles-tresorerie-ce-que-la-canicule-et-les-incendies-vont-couter-a-l-economie-francaise-20260812",
+    "summary": "DÉCRYPTAGE - Alors que les assurances en sont encore au stade de l’évaluation des dégâts, les agriculteurs comptent leurs pertes en milliards d’euros. Le gouvernement avance une fourchette entre 10 et 15 milliards.",
+    "published": "2026-08-13T06:54:30+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/pertes-agricoles-tresorerie-ce-que-la-canicule-et-les-incendies-vont-couter-a-l-economie-francaise-20260812",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/12/f5acb0eba2b1bd71a6f2ce681cb4463bcbac19cb2a680a4b89a6b45c41efc451.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156060+00:00"
   },
   {
     "source": "Le Figaro",
     "title": "Sud, ouest, est... avec les canicules, les orientations à fuir et celles qu’il faut privilégier pour votre futur logement",
     "link": "https://immobilier.lefigaro.fr/article/sud-ouest-est-avec-les-canicules-les-orientations-a-fuir-et-celles-qu-il-faut-privilegier-pour-votre-futur-logement-20260813",
     "summary": "Les fortes chaleurs rebattent les cartes de la recherche immobilière. Au-delà de la présence de volets et de l’étage, l’orientation du logement est vitale pour éviter l’effet bouilloire thermique. Visite guidée.",
-    "published": "2026-08-13T04:30:00+00:00",
+    "published": "2026-08-13T06:49:30+00:00",
     "authors": [],
     "categories": [
       "Immobilier"
     ],
     "guid": "https://immobilier.lefigaro.fr/article/sud-ouest-est-avec-les-canicules-les-orientations-a-fuir-et-celles-qu-il-faut-privilegier-pour-votre-futur-logement-20260813",
-    "image": "https://i.f1g.fr/media/cms/3000x1658_crop/2026/08/12/aac6fab83be4abef9984978e5eb31655c4a2971311b800151627a3fbfde8f480.jpg",
+    "image": "https://i.f1g.fr/media/cms/3000x1658_crop/2026/08/13/f641d83b6a448c71ef997d9b31341df568a2c3280681a1baa382949d5860c72c.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857178+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156195+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Grève des pompiers, 80 départements en vigilance orange canicule, les Français brillent en athlétisme… L’actu de ce jeudi 13 août au matin",
+    "link": "https://www.liberation.fr/international/europe/greve-des-pompiers-80-departements-en-vigilance-orange-canicule-les-francais-brillent-en-athletisme-lactu-de-ce-jeudi-13-aout-au-matin-20260813_YJHDDL55GJHIPNF6H335FXXVCE/",
+    "summary": "La rédaction de «Libération» compile les principales infos du jour.",
+    "published": "2026-08-13T06:48:18+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/greve-des-pompiers-80-departements-en-vigilance-orange-canicule-les-francais-brillent-en-athletisme-lactu-de-ce-jeudi-13-aout-au-matin-20260813_YJHDDL55GJHIPNF6H335FXXVCE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383546+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Foot : au lendemain de sa lettre d’hommage adressée à son père, Lionel Messi a rejoué avec l’Inter Miami",
+    "link": "https://www.lefigaro.fr/flash-sport/foot-au-lendemain-de-sa-lettre-d-hommage-adressee-a-son-pere-lionel-messi-a-rejoue-avec-l-inter-miami-20260813",
+    "summary": "L’attaquant argentin, revenu d’Argentine pour les funérailles de son père, a retrouvé le chemin des terrains avec son club en Floride.",
+    "published": "2026-08-13T06:44:50+00:00",
+    "authors": [],
+    "categories": [
+      "Football"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-sport/foot-au-lendemain-de-sa-lettre-d-hommage-adressee-a-son-pere-lionel-messi-a-rejoue-avec-l-inter-miami-20260813",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/13/261d68c2ad7d011b0da5da1d3ebabd042bc1074c02730c9ee977a81eb81e0c8b.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156673+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pour les hommes, des complexes qui font mâle : «Si j’avais eu un physique avantageux, j’aurais peut-être tenté plus de choses»",
+    "link": "https://www.liberation.fr/lifestyle/beaute/pour-les-hommes-des-complexes-qui-font-male-si-javais-eu-un-physique-avantageux-jaurais-peut-etre-tente-plus-de-choses-20260813_SLNYLX44IVGQFINNIZ5JLWZZ24/",
+    "summary": "Trop de poils ou de ventre, pas assez de pecs… Selon une étude Ifop, un homme sur deux se trouve «trop gros». Un manque de confiance en soi renforcé par les réseaux et le porno, similaire à ce que vivent les femmes, incitant certains à s’éloigner d’un métier ou d’une relation.",
+    "published": "2026-08-13T06:16:00+00:00",
+    "authors": [
+      "Juliette Garnier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/beaute/pour-les-hommes-des-complexes-qui-font-male-si-javais-eu-un-physique-avantageux-jaurais-peut-etre-tente-plus-de-choses-20260813_SLNYLX44IVGQFINNIZ5JLWZZ24/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383583+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mon budget vacances : «Je débourse 660 euros pour ma virée dans les Pouilles»",
+    "link": "https://www.liberation.fr/lifestyle/voyages/mon-budget-vacances-je-debourse-660-euros-pour-ma-viree-dans-les-pouilles-20260813_2HL6NW7Y4JG2FKMBJVIKKW5MMU/",
+    "summary": "Plutôt voyages en éco ou en première classe ? S’il y a bien un moment de l’année où l’on s’autorise quelques folies, c’est l’été. Dans notre troisième épisode, Mathilde déroge – un peu – à ses habitudes économes pour profiter de la «dolce vita».",
+    "published": "2026-08-13T06:15:00+00:00",
+    "authors": [
+      "Juliette Garnier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/voyages/mon-budget-vacances-je-debourse-660-euros-pour-ma-viree-dans-les-pouilles-20260813_2HL6NW7Y4JG2FKMBJVIKKW5MMU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383616+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Vladimir Poutine en visite dans les îles Kouriles, disputées avec le Japon",
+    "link": "https://www.lemonde.fr/international/article/2026/08/13/vladimir-poutine-en-visite-dans-les-iles-kouriles-disputees-avec-le-japon_6745579_3210.html",
+    "summary": "Le Japon « proteste vigoureusement contre cette visite » du président russe, a déclaré le ministre des affaires étrangères, estimant que l’archipel fait « partie inhérente du territoire du Japon ».",
+    "published": "2026-08-13T06:03:54+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/13/vladimir-poutine-en-visite-dans-les-iles-kouriles-disputees-avec-le-japon_6745579_3210.html",
+    "image": "https://img.lemde.fr/2026/08/13/269/0/5122/2561/644/322/60/0/c724f42_ftp-1-2vxdgf8yp3ap-5827610-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.208096+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Ceuta : les mystères de la submersion",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/monde/ceuta-les-mysteres-de-la-submersion",
+    "summary": "Vendredi 31 juillet, avenue Martinez-Catena, enclave espagnole de Ceuta en terre marocaine. Sur des kilomètres, le long de la route qui file vers le poste-frontière du Tarajal, des colonnes de... L’article Ceuta : les mystères de la submersion est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-08-13T06:00:40+00:00",
+    "authors": [
+      "Alexandre Bertolini"
+    ],
+    "categories": [
+      "Non classé",
+      "ceuta",
+      "espagne",
+      "immigration",
+      "immigration clandestine",
+      "maroc"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/ceuta-les-mysteres-de-la-submersion",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:02.962036+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Lituanie, le soutien aux exilés biélorusses s’érode sur fond de montée de l’extrême droite",
+    "link": "https://www.lemonde.fr/international/article/2026/08/13/en-lituanie-le-soutien-aux-exiles-bielorusses-s-erode-sur-fond-de-montee-de-l-extreme-droite_6745577_3210.html",
+    "summary": "Six ans après avoir trouvé massivement refuge en Lituanie, les ressortissants biélorusses y sont de moins en moins bien vus. Svetlana Tsikhanovskaïa, la cheffe des forces démocratiques biélorusses en exil, a récemment quitté Vilnius pour Varsovie.",
+    "published": "2026-08-13T06:00:12+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/13/en-lituanie-le-soutien-aux-exiles-bielorusses-s-erode-sur-fond-de-montee-de-l-extreme-droite_6745577_3210.html",
+    "image": "https://img.lemde.fr/2026/08/10/389/0/4666/2333/644/322/60/0/b4faa5c_upload-1-dcex0ltdtlx3-2025-09-12t113027z-2070793588-rc2bqga65igy-rtrmadp-3-usa-belarus-prisoners.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.208043+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Rosa Montero : quand un clone humain mène l’enquête",
+    "link": "https://www.liberation.fr/culture/livres/rosa-montero-quand-un-clone-humain-mene-lenquete-20260813_NXYFJO7LFRC7JH4QDHD4PPZGRM/",
+    "summary": "Dans «Des animaux difficiles», l’autrice espagnole décrit un monde sous l’emprise de l’intelligence artificielle où même les machines rêvent d’immortalité.",
+    "published": "2026-08-13T05:55:00+00:00",
+    "authors": [
+      "Alexandra Schwartzbrod"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/rosa-montero-quand-un-clone-humain-mene-lenquete-20260813_NXYFJO7LFRC7JH4QDHD4PPZGRM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383640+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Rocky et ses suites: le mythe de l’éternel retour",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/130826/rocky-et-ses-suites-le-mythe-de-l-eternel-retour",
+    "summary": "Grâce au succès de «Rocky», Sylvester Stallone a créé une véritable franchise, multipliant les films où le boxeur se surpasse. Si la qualité des œuvres n’est pas toujours égale, la série de films offre une expérience cinématographique unique, puisqu’elle accompagne le vieillissement du héros sur plus de quarante ans.",
+    "published": "2026-08-13T05:49:37+00:00",
+    "authors": [
+      "Jean-François Demay"
+    ],
+    "categories": [
+      "« Rocky », cinquante ans après (3/3)",
+      "Boxe, Cinéma"
+    ],
+    "guid": "1339724 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/12/article-3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.175086+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le concept de «vivre ensemble», de l’injonction à la ressource politique",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/le-concept-de-vivre-ensemble-de-linjonction-a-la-ressource-politique-20260813_WIJDYWOAPZHKZF2OOYQHL7FW5I/",
+    "summary": "Autrefois imposé d’en haut, le concept de «vivre ensemble» fait son retour sous l’effet combiné de deux phénomènes : la centralité politique des quartiers populaires et la menace de l’extrême droite, analyse le politiste Ulysse Rabaté.",
+    "published": "2026-08-13T05:30:00+00:00",
+    "authors": [
+      "Ulysse Rabaté"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/le-concept-de-vivre-ensemble-de-linjonction-a-la-ressource-politique-20260813_WIJDYWOAPZHKZF2OOYQHL7FW5I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383669+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Un nouvel acteur de la médiation sociale de plus en plus contesté à Marseille",
+    "link": "https://www.mediapart.fr/journal/france/130826/un-nouvel-acteur-de-la-mediation-sociale-de-plus-en-plus-conteste-marseille",
+    "summary": "Début 2026, la toute jeune association Pop’s rafle un marché géant de médiation pour la ville de Marseille, laissant les structures historiques sur le carreau. Mais les méthodes mises en œuvre dans cette structure gérée en famille font grincer des dents, entre géolocalisation sur le téléphone personnel des agents et recours à des autoentrepreneurs.",
+    "published": "2026-08-13T05:18:55+00:00",
+    "authors": [
+      "Noé Sotto (Marsactu)"
+    ],
+    "categories": [
+      "France",
+      "Marsactu, Marseille"
+    ],
+    "guid": "1339395 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/10/2026-08-10-img-pops-marseille.png",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.175129+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Perséides 2026 : après l’éclipse, les spectaculaires images de pluies d’étoiles filantes à leur pic",
+    "link": "https://www.lefigaro.fr/sciences/perseides-2026-apres-l-eclipse-les-spectaculaires-images-de-pluies-d-etoiles-filantes-a-leur-pic-20260813",
+    "summary": "VIDÉO - Après le spectacle de l’éclipse solaire du 12 août, les amateurs d’astronomie ont pu lever les yeux vers le ciel une nouvelle fois. Dans la nuit du 12 au 13 août, les Perséides atteignent leur pic, offrant l’un des plus beaux spectacles célestes de l’été.",
+    "published": "2026-08-13T05:12:21+00:00",
+    "authors": [],
+    "categories": [
+      "Sciences & Environnement"
+    ],
+    "guid": "https://www.lefigaro.fr/sciences/perseides-2026-apres-l-eclipse-les-spectaculaires-images-de-pluies-d-etoiles-filantes-a-leur-pic-20260813",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/13/5866f6b430b5dfcf442c10ea1a3dc546ad4c640c97897b7e5faf0f4e035ee041.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.156352+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Election présidentielle en Zambie : Hichilema prêt à rempiler pour un second mandat",
+    "link": "https://www.liberation.fr/international/afrique/election-presidentielle-en-zambie-hichilema-pret-a-rempiler-pour-un-second-mandat-20260813_FIKLOAA4TRBXXFY3LVHZHW5JNI/",
+    "summary": "Le président sortant a redressé les finances du pays sans que l’amélioration économique soit notable dans le quotidien des Zambiens. Il vise toutefois une réélection dès le premier tour, ce jeudi.",
+    "published": "2026-08-13T05:03:00+00:00",
+    "authors": [
+      "Célian Macé"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/afrique/election-presidentielle-en-zambie-hichilema-pret-a-rempiler-pour-un-second-mandat-20260813_FIKLOAA4TRBXXFY3LVHZHW5JNI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383697+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Vladimir Nabokov vs Edmund Wilson : la traduction de la discorde",
+    "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/vladimir-nabokov-vs-edmund-wilson-la-traduction-de-la-discorde-20260813_MQ6K4CTMENBAFIJJC5KGZKVHPQ/",
+    "summary": "Entre le romancier russe exilé aux Etats-Unis et le critique du «New Yorker», figure majeure de la vie intellectuelle américaine, vingt ans d’une amitié aussi riche qu’intime se fracasseront quand l’écrivain décidera de traduire «Eugène Onéguine». Jusqu’à régler leurs comptes par journaux interposés.",
+    "published": "2026-08-13T05:00:00+00:00",
+    "authors": [
+      "Olivier Lamm"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/vladimir-nabokov-vs-edmund-wilson-la-traduction-de-la-discorde-20260813_MQ6K4CTMENBAFIJJC5KGZKVHPQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.383727+00:00"
   },
   {
     "source": "Libération",
@@ -42,7 +401,7 @@
     "guid": "https://www.liberation.fr/culture/livres/aust-demilien-chesnot-forces-de-frictions-poetiques-20260813_F57T4HLPHBB6LPJUR4W2JZMQ2I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908326+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383754+00:00"
   },
   {
     "source": "Libération",
@@ -57,7 +416,33 @@
     "guid": "https://www.liberation.fr/international/europe/elections-au-royaume-uni-dans-la-ville-pauperisee-de-clacton-on-sea-grace-a-nigel-farage-on-parle-de-nous-20260813_BMVIXW4T3FGK7I2CXQUJYVUSAY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908368+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383786+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Comment Fidel Castro est-il devenu le père de la révolution cubaine ? Comprendre en trois minutes",
+    "link": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/13/comment-fidel-castro-est-il-devenu-le-pere-de-la-revolution-cubaine-comprendre-en-trois-minutes_6745541_6176282.html",
+    "summary": "Né il y a cent ans, Fidel Casto échange sa robe d’avocat contre le treillis des guérilleros dans les années 1950 pour devenir le chef de l’une des plus importantes révolutions du XXᵉ siècle.",
+    "published": "2026-08-13T04:00:46+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/13/comment-fidel-castro-est-il-devenu-le-pere-de-la-revolution-cubaine-comprendre-en-trois-minutes_6745541_6176282.html",
+    "image": "https://img.lemde.fr/2026/08/05/547/0/4003/2001/644/322/60/0/f3d3ee9_upload-1-mjttm2nw1rhi-000-arp1573727.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.208197+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Fraude bancaire par « SIM swap » : l’opérateur téléphonique et la banque condamnés",
+    "link": "https://www.lemonde.fr/argent/article/2026/08/13/fraude-bancaire-par-sim-swap-l-operateur-telephonique-et-la-banque-condamnes_6745540_1657007.html",
+    "summary": "Une victime dont on avait usurpé l’identité et qui s’était fait dérober 16 964 euros a été indemnisée par BNP Paribas et Free Mobile.",
+    "published": "2026-08-13T04:00:34+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/argent/article/2026/08/13/fraude-bancaire-par-sim-swap-l-operateur-telephonique-et-la-banque-condamnes_6745540_1657007.html",
+    "image": "https://img.lemde.fr/2025/09/19/125/0/1500/750/644/322/60/0/f3e8fa9_upload-1-e9hcsojt9kir-mei-dia-5.png",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.208264+00:00"
   },
   {
     "source": "Le Monde",
@@ -70,7 +455,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/08/13/on-essaie-de-bousculer-les-habitudes-pour-la-presidentielle-2027-les-formations-de-jeunesse-des-partis-politiques-comptent-bien-jouer-leur-carte_6745504_823448.html",
     "image": "https://img.lemde.fr/2026/08/05/264/0/6036/3018/644/322/60/0/38e83e6_upload-1-m0h9litlnuth-000-b4gz9nt.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929572+00:00"
+    "fetched_at": "2026-08-13T07:27:01.207986+00:00"
   },
   {
     "source": "Le Figaro",
@@ -85,7 +470,7 @@
     "guid": "https://www.lefigaro.fr/sciences/eclipse-solaire-ou-et-quand-admirer-les-prochains-phenomenes-en-france-et-en-europe-20260813",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/12/59b9a5335e7eb68ef2635fdac259482c81eed527496f1385816d882f55c3064d.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857320+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156318+00:00"
   },
   {
     "source": "Le Figaro",
@@ -115,33 +500,33 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-des-clips-a-portee-de-clic-20260813_SHV7QWYBOFFQJHZU6XPX2H2A5Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908390+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383808+00:00"
   },
   {
     "source": "Le Monde",
     "title": "Le recours à des outils d’IA pourrait doper l’extraction de pétrole dans le monde, augmentant encore les émissions de CO₂",
     "link": "https://www.lemonde.fr/economie/article/2026/08/13/le-recours-a-des-outils-d-ia-pourrait-doper-l-extraction-de-petrole-dans-le-monde-augmentant-encore-les-emissions-de-co_6745502_3234.html",
     "summary": "Une étude publiée dans « Nature » souligne que l’intelligence artificielle va permettre de récupérer plusieurs milliards de barils dans les gisements existants, de diminuer les coûts de forage et d’exploiter des ressources autrefois jugées non rentables.",
-    "published": "2026-08-13T03:59:23+00:00",
+    "published": "2026-08-13T03:59:21+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/economie/article/2026/08/13/le-recours-a-des-outils-d-ia-pourrait-doper-l-extraction-de-petrole-dans-le-monde-augmentant-encore-les-emissions-de-co_6745502_3234.html",
     "image": "https://img.lemde.fr/2026/08/12/202/0/5735/2867/644/322/60/0/6dee617_upload-1-t7eozyu1i2ws-2026-04-24t123126z-1593179579-rc2cskap0c4c-rtrmadp-3-global-oil-kazakhstan.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929646+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208072+00:00"
   },
   {
     "source": "Le Monde",
     "title": "EN DIRECT, guerre en Ukraine : selon Volodymyr Zelensky, Kiev a besoin d’au moins 5 % des missiles Patriot de Washington pour contrer les attaques balistiques russes",
     "link": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-selon-volodymyr-zelensky-kiev-a-besoin-d-au-moins-5-des-missiles-patriot-de-washington-pour-contrer-les-attaques-balistiques-russes_6741928_3210.html",
     "summary": "Avec un tel niveau d’achat de missiles intercepteurs, « nous passerons l’hiver et sauverons des vies », a déclaré, à CNN, le président ukrainien, précisant en recevoir actuellement 1 % seulement.",
-    "published": "2026-08-13T03:52:28+00:00",
+    "published": "2026-08-13T03:52:25+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/international/live/2026/08/13/en-direct-guerre-en-ukraine-selon-volodymyr-zelensky-kiev-a-besoin-d-au-moins-5-des-missiles-patriot-de-washington-pour-contrer-les-attaques-balistiques-russes_6741928_3210.html",
     "image": "https://img.lemde.fr/2026/08/04/562/0/6749/3374/644/322/60/0/ec5913b_ftp-1-ejhwgcagbotm-08d3d6a9f568413daa1d6264f5c4810f-0-d29b185e13e44722bc7206c56e8ca889.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929718+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208146+00:00"
   },
   {
     "source": "Libération",
@@ -156,20 +541,20 @@
     "guid": "https://www.liberation.fr/international/europe/royaume-uni-aux-elections-de-clacton-on-sea-le-comte-a-tete-de-poubelle-rejoue-les-agitateurs-face-a-farage-20260813_FDOPGZICNRBXPIT2OCOCHSEDQQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908423+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383840+00:00"
   },
   {
     "source": "Le Monde",
     "title": "« J’étais au bord des larmes » : l’éclipse solaire, un bref moment de « communion » pour des millions de curieux, en Espagne et en France",
     "link": "https://www.lemonde.fr/sciences/article/2026/08/13/j-etais-au-bord-des-larmes-l-eclipse-solaire-un-bref-moment-de-communion-pour-des-millions-de-curieux-en-espagne-et-en-france_6745468_1650684.html",
-    "summary": "L’événement, rarissime, a rassemblé des foules d’observateurs en Europe, en début de soirée, les yeux rivés vers le ciel, pour voir la Lune recouvrir progressivement le Soleil puis le masquer pendant un peu plus d’une minute.",
+    "summary": "L’événement, rarissime, a rassemblé des foules d’observateurs en Europe, en début de soirée mercredi, les yeux rivés vers le ciel, pour voir la Lune recouvrir progressivement le Soleil puis le masquer pendant un peu plus d’une minute.",
     "published": "2026-08-13T03:31:43+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/sciences/article/2026/08/13/j-etais-au-bord-des-larmes-l-eclipse-solaire-un-bref-moment-de-communion-pour-des-millions-de-curieux-en-espagne-et-en-france_6745468_1650684.html",
     "image": "https://img.lemde.fr/2026/08/13/427/0/3392/1696/644/322/60/0/1f1d851_upload-1-xjjygkhtumaj-2026-08-12-eclipse-buitrago-de-lozoya-pablo-garcia-95.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929510+00:00"
+    "fetched_at": "2026-08-13T07:27:01.207955+00:00"
   },
   {
     "source": "Le Monde",
@@ -186,6 +571,19 @@
   },
   {
     "source": "Le Monde",
+    "title": "Avec la sécheresse en France, des tensions de plus en plus vives sur l’approvisionnement en eau potable : « Nous sommes dans l’inconnu »",
+    "link": "https://www.lemonde.fr/planete/article/2026/08/13/avec-la-secheresse-des-tensions-de-plus-en-plus-vives-sur-l-approvisionnement-en-eau-potable-nous-sommes-dans-l-inconnu_6745401_3244.html",
+    "summary": "Les services d’eau doivent faire face à l’affaiblissement des réserves de surface et souterraines, et 40 000 personnes ont déjà subi des coupures. La ministre de la transition écologique, Monique Barbut, demande aux préfets une gestion plus rigoureuse des restrictions.",
+    "published": "2026-08-13T03:00:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/08/13/avec-la-secheresse-des-tensions-de-plus-en-plus-vives-sur-l-approvisionnement-en-eau-potable-nous-sommes-dans-l-inconnu_6745401_3244.html",
+    "image": "https://img.lemde.fr/2026/08/11/603/0/7240/3620/644/322/60/0/e026bc4_ftp-1-zzzrhcshe9zw-5817992-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-13T07:27:01.207912+00:00"
+  },
+  {
+    "source": "Le Monde",
     "title": "L’administration Trump annule un rapport de référence sur l’Arctique, une nouvelle atteinte à la science du climat aux Etats-Unis",
     "link": "https://www.lemonde.fr/planete/article/2026/08/13/l-administration-trump-annule-un-rapport-de-reference-sur-l-arctique-une-nouvelle-atteinte-a-la-science-du-climat-aux-etats-unis_6745334_3244.html",
     "summary": "Publié chaque année depuis 2006, ce document est très estimé par la communauté scientifique, qui subit l’offensive climatosceptique du gouvernement américain.",
@@ -195,7 +593,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/08/13/l-administration-trump-annule-un-rapport-de-reference-sur-l-arctique-une-nouvelle-atteinte-a-la-science-du-climat-aux-etats-unis_6745334_3244.html",
     "image": "https://img.lemde.fr/2025/03/27/497/0/3886/1943/644/322/60/0/fa0f23f_ftp-import-images-1-hpeswh4z3mnx-5440089-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929692+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208120+00:00"
   },
   {
     "source": "Le Monde",
@@ -208,7 +606,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/08/13/boeing-condamne-a-verser-29-millions-de-dollars-a-la-famille-d-une-victime-du-crash-du-737-max-en-2019_6745301_3234.html",
     "image": "https://img.lemde.fr/2026/08/12/0/0/7880/3940/644/322/60/0/573ee3a_ftp-1-ggrbq2808tme-5825666-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T01:59:56.870814+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208315+00:00"
   },
   {
     "source": "Le Figaro",
@@ -223,7 +621,7 @@
     "guid": "https://www.lefigaro.fr/sciences/en-direct-eclipse-solaire-du-12-aout-horaires-lunettes-sites-d-observation-tout-savoir-sur-ce-phenomene-astronomique-rare-20260812",
     "image": "https://i.f1g.fr/media/cms/3000x1954_crop/2026/08/12/b00d1f405b54cb4d440ae2508d46a49249288d69250717585ae47cf6f58705b2.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857348+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156408+00:00"
   },
   {
     "source": "Le Monde",
@@ -305,7 +703,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/la-lumiere-etait-presque-mystique-a-biarritz-meilleur-point-d-observation-de-france-la-foule-captivee-par-l-eclipse-20260813",
     "image": "https://i.f1g.fr/media/cms/1520x855_crop/2026/08/12/47a99516b51432394e29addd716a39f43cc3088fa2f4f5058612ebc3c73349d1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857025+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156519+00:00"
   },
   {
     "source": "Le Monde",
@@ -408,20 +806,20 @@
     "guid": "https://www.lefigaro.fr/sciences/il-y-avait-une-espece-de-connexion-cosmique-a-segovie-les-contemplateurs-emus-par-l-eclipse-solaire-totale-20260812",
     "image": "https://i.f1g.fr/media/cms/2545x1431_crop/2026/08/12/599d5aec5d1c7b92dc158f5c8ad8e1729ad716769d6d6eaf776cf5d36ede8cfd.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857064+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156545+00:00"
   },
   {
     "source": "Le Monde",
     "title": "Chez easyJet, la grève des personnels de cabine français en plein week-end du 15 août pourrait être très suivie",
     "link": "https://www.lemonde.fr/economie/article/2026/08/12/chez-easyjet-la-greve-des-personnels-de-cabine-francais-en-plein-week-end-du-15-aout-pourrait-etre-tres-suivie_6745136_3234.html",
-    "summary": "Les syndicats des hôtesses et stewards de la compagnie à bas coût en France appellent à un arrêt de travail, samedi et dimanche, après l’échec de discussions, mercredi, avec la direction sur l’amélioration des conditions de travail.",
-    "published": "2026-08-12T21:30:08+00:00",
+    "summary": "Les syndicats des hôtesses et stewards de la compagnie à bas coût en France appellent à un arrêt de travail, samedi et dimanche, après l’échec de discussions avec la direction, mercredi, sur l’amélioration des conditions de travail.",
+    "published": "2026-08-12T21:30:06+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/economie/article/2026/08/12/chez-easyjet-la-greve-des-personnels-de-cabine-francais-en-plein-week-end-du-15-aout-pourrait-etre-tres-suivie_6745136_3234.html",
     "image": "https://img.lemde.fr/2026/08/06/770/0/6940/3470/644/322/60/0/92ba041_ftp-1-cs7ioryosy2b-5785794-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929767+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208290+00:00"
   },
   {
     "source": "Le Monde",
@@ -434,7 +832,7 @@
     "guid": "https://www.lemonde.fr/sport/article/2026/08/12/le-psg-conserve-son-titre-dans-la-supercoupe-d-europe-en-venant-a-bout-d-aston-villa_6745103_3242.html",
     "image": "https://img.lemde.fr/2026/08/12/1000/0/6000/3000/644/322/60/0/ca220ec_ftp-1-d4esiwseme8i-5825108-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929669+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208243+00:00"
   },
   {
     "source": "Le Figaro",
@@ -449,7 +847,7 @@
     "guid": "https://www.lefigaro.fr/sciences/c-etait-le-meilleur-spot-de-tout-paris-on-se-sent-privilegie-a-bord-du-ballon-generalli-au-dessus-du-parc-andre-citroen-plein-a-craquer-pour-observer-l-eclipse-20260812",
     "image": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/08/12/78011a78607b4ca22f36caef6d62719798f25a2eb7d3ed0dc7c2272a05b1d00f.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857123+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156598+00:00"
   },
   {
     "source": "Le Figaro",
@@ -494,7 +892,7 @@
     "guid": "https://www.liberation.fr/sciences/espace/en-direct-eclipse-solaire-du-12-aout-le-deroule-de-cette-journee-historique-heure-par-heure-20260812_2W7UZPF2JVDZHH3VMOKHJYHQLE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908453+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383870+00:00"
   },
   {
     "source": "Le Monde",
@@ -522,7 +920,7 @@
     "guid": "https://www.lefigaro.fr/flash-actu/eclipse-solaire-en-video-l-espagne-plongee-dans-le-noir-total-en-plein-jour-20260812",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/12/39d0d8b4cd4806c9d368c92d2e2ed1b30fa2a2eb518dd7b64bf611a8926eea14.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857089+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156378+00:00"
   },
   {
     "source": "Le Figaro",
@@ -552,7 +950,7 @@
     "guid": "https://www.liberation.fr/sciences/espace/eclipse-solaire-a-paris-des-milliers-de-curieux-rassembles-pour-une-experience-rare-20260812_LVZ3YNNBIZCBLN3UFA6O4NTZBA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908479+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383906+00:00"
   },
   {
     "source": "Le Figaro",
@@ -567,7 +965,7 @@
     "guid": "https://www.lefigaro.fr/sciences/eclipse-solaire-au-pic-du-midi-une-soiree-nuageuse-avant-un-double-crepuscule-magique-20260812",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/12/4a572fae183240109e3fe53918df634eb77df9b1d1801cb37f36088462b3dea9.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857369+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156569+00:00"
   },
   {
     "source": "Le Monde",
@@ -597,7 +995,7 @@
   },
   {
     "source": "Le Monde",
-    "title": "Donald Trump annonce le départ de sa porte-parole Karoline Leavitt",
+    "title": "Donald Trump annonce le départ de sa porte-parole, Karoline Leavitt",
     "link": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html",
     "summary": "Cette républicaine de 28 ans, plus jeune personne jamais nommée à ce poste très exposé, a piloté une stratégie de communication agressive, riche en attaques contre les médias traditionnels.",
     "published": "2026-08-12T20:27:50+00:00",
@@ -606,7 +1004,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/08/12/donald-trump-annonce-le-depart-de-sa-porte-parole-karoline-leavitt_6745099_3210.html",
     "image": "https://img.lemde.fr/2026/08/12/76/0/3356/1678/644/322/60/0/55b3174_ftp-1-dnua6af9ozmr-2026-08-12t195549z-1216621119-rc2mwman0itd-rtrmadp-3-usa-trump.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929742+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208220+00:00"
   },
   {
     "source": "Le Monde",
@@ -637,7 +1035,7 @@
     "guid": "1339675 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/12/260812-img-pompiers-en-colere-un-front-syndical-inedit-face-au-ministre-de-l-interieur.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960187+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175164+00:00"
   },
   {
     "source": "Libération",
@@ -652,7 +1050,7 @@
     "guid": "https://www.liberation.fr/sciences/espace/en-images-leclipse-du-12-aout-a-travers-le-monde-tas-dbeaux-cieux-tu-sais-20260812_PCCJAPMSWFC2NNQPQELWXJNLMU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908507+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383935+00:00"
   },
   {
     "source": "Libération",
@@ -667,7 +1065,7 @@
     "guid": "https://www.liberation.fr/culture/mort-dolivier-echaudemaison-maquilleur-de-stars-et-ancien-directeur-creatif-chez-guerlain-20260812_ANWMRC7WOJG3LEIHJ5EBWHSERI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908531+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383961+00:00"
   },
   {
     "source": "Le Figaro",
@@ -697,7 +1095,7 @@
     "guid": "https://www.liberation.fr/international/europe/certains-sont-en-tongs-malgre-les-risques-leruption-de-letna-en-sicile-attire-les-touristes-20260812_SRJNAB2KPJH2TF3VQPAR2Z5V6Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908558+00:00"
+    "fetched_at": "2026-08-13T07:27:01.383994+00:00"
   },
   {
     "source": "Le Figaro",
@@ -712,20 +1110,20 @@
     "guid": "https://www.lefigaro.fr/sciences/les-spectaculaires-images-de-l-eclipse-solaire-a-travers-le-monde-20260812",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857151+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156437+00:00"
   },
   {
     "source": "Le Monde",
     "title": "Grève au Samusocial de Paris : la préfecture demande l’évacuation du parvis après cinquante jours de conflit",
     "link": "https://www.lemonde.fr/societe/article/2026/08/12/greve-au-samusocial-de-paris-la-prefecture-demande-l-evacuation-du-parvis-apres-cinquante-jours-de-conflit_6745096_3224.html",
-    "summary": "De nombreuses familles sans domicile occupent les lieux. Elles ont rejoint les salariés en grève, qui alertent sur le manque de moyens dévolus à l’hébergement d’urgence.",
+    "summary": "De nombreuses familles sans domicile occupent le parvis et le sous-sol du siège du Samusocial dans le 13ᵉ arrondissement. Elles ont rejoint les salariés en grève, qui alertent sur le manque de moyens alloués à l’hébergement d’urgence.",
     "published": "2026-08-12T19:30:46+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/societe/article/2026/08/12/greve-au-samusocial-de-paris-la-prefecture-demande-l-evacuation-du-parvis-apres-cinquante-jours-de-conflit_6745096_3224.html",
     "image": "https://img.lemde.fr/2026/08/12/750/0/4000/2000/644/322/60/0/daa642e_upload-1-4uthezdjpghw-raf-paris-samusocial-009.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929619+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208173+00:00"
   },
   {
     "source": "Libération",
@@ -740,7 +1138,7 @@
     "guid": "https://www.liberation.fr/culture/eurovision-les-pays-en-guerre-ne-pourront-plus-accueillir-le-concours-a-lavenir-20260812_P67TM3PTXRAQLJOFUIZ2MOBNWQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908589+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384030+00:00"
   },
   {
     "source": "Le Figaro",
@@ -785,7 +1183,7 @@
     "guid": "https://www.liberation.fr/sports/sarah-sjostrom-hubert-kos-et-david-popovici-a-saint-denis-le-plein-dor-des-cadors-20260812_56ZGKAHMHVDVXA3UEC3MNI22OE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908615+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384058+00:00"
   },
   {
     "source": "Le Figaro",
@@ -824,7 +1222,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/boualem-sansal-lislamisation-est-une-lame-de-fond-extraordinairement-puissante",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360205+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962088+00:00"
   },
   {
     "source": "Le Figaro",
@@ -880,7 +1278,7 @@
     "guid": "https://www.liberation.fr/international/amerique/face-a-trump-les-democrates-toujours-partages-sur-la-marche-a-suivre-20260812_7HEC6DWEPNB3XCABY6XHF3DRTM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908641+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384087+00:00"
   },
   {
     "source": "Le Figaro",
@@ -925,7 +1323,7 @@
     "guid": "https://www.lefigaro.fr/vox/economie/l-editorial-de-gaetan-de-capele-face-a-la-lourde-facture-de-la-canicule-l-etat-est-nu-20260812",
     "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/08/12/9eec9c6ebd2e3aab44ff4f143e76de093af3d8bee7970d19e0383f5433aa80fe.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857238+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156029+00:00"
   },
   {
     "source": "Le Monde",
@@ -953,7 +1351,7 @@
     "guid": "https://www.liberation.fr/politique/elections/ce-nest-pas-un-lancement-de-campagne-pour-son-anniversaire-les-proches-de-francois-hollande-lui-offrent-une-campagne-daffichage-20260812_BC4FICZY2FHHFOYKPB6HUEZZHM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908676+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384124+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1029,7 +1427,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/defense-un-nouveau-succes-pour-le-rafale",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360250+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962130+00:00"
   },
   {
     "source": "Libération",
@@ -1044,7 +1442,7 @@
     "guid": "https://www.liberation.fr/politique/la-ligue-des-droits-de-lhomme-conteste-un-arrete-du-maire-rn-de-carcassonne-le-seul-argument-de-moralite-dune-tenue-ne-peut-etre-retenu-20260812_KKPP7IYGJRFNJI34THGT2WJV6Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908706+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384155+00:00"
   },
   {
     "source": "Libération",
@@ -1059,7 +1457,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/face-aux-arnaques-financieres-des-voies-de-recours-encore-trop-insuffisantes-20260812_ARJOFIJECVDQFGSDSD4L6V3NCY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908733+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384185+00:00"
   },
   {
     "source": "Le Monde",
@@ -1087,7 +1485,7 @@
     "guid": "https://www.lefigaro.fr/secteur/high-tech/superintelligence-desalignement-cette-prophetie-catastrophiste-qui-prevoit-une-perte-de-controle-des-modeles-d-ia-des-2027-20260812",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/11/bced8c6fe8aca93d75cbb50e933647bcf9a1a660a42b4525d4195f195a61e96a.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857297+00:00"
+    "fetched_at": "2026-08-13T07:27:01.156492+00:00"
   },
   {
     "source": "Libération",
@@ -1102,7 +1500,7 @@
     "guid": "https://www.liberation.fr/economie/medias/accuse-dechanges-a-caractere-sexuel-avec-des-mineurs-guillaume-pley-annonce-deposer-plainte-en-diffamation-rapporte-bfmtv-20260812_SMHYGALEAJHRBANTEAIYCT3XOM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908762+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384215+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1132,7 +1530,7 @@
     "guid": "https://www.liberation.fr/economie/conso/en-norvege-le-fonds-souverain-realise-un-bond-record-au-premier-semestre-20260812_UEBZOS4J3RHBJAECUQQJHM3NRM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908787+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384242+00:00"
   },
   {
     "source": "Le Monde",
@@ -1158,7 +1556,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/08/12/aides-sociales-et-avantages-fiscaux-des-familles-un-rapport-propose-4-2-milliards-d-euros-d-economies-sur-ces-dispositifs_6745086_823448.html",
     "image": "https://img.lemde.fr/2026/06/08/250/0/3000/1500/644/322/60/0/fc67dac_upload-1-86qwexictk8l-frame-157.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.929597+00:00"
+    "fetched_at": "2026-08-13T07:27:01.208015+00:00"
   },
   {
     "source": "Libération",
@@ -1173,7 +1571,7 @@
     "guid": "https://www.liberation.fr/international/europe/eclipse-solaire-imminente-cout-des-canicules-incendie-dans-le-pas-de-calais-lactu-de-ce-mercredi-12-aout-20260812_27DFNIBJUZAADKDUV7N6TWZFFU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908809+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384265+00:00"
   },
   {
     "source": "Le Monde",
@@ -1201,7 +1599,7 @@
     "guid": "https://www.liberation.fr/economie/social/rachat-de-sfr-le-cas-pratique-dune-casse-sociale-20260812_I3JVKWUW5FEZVCKI5BG7A5BFXM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908838+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384299+00:00"
   },
   {
     "source": "Le Monde",
@@ -1229,7 +1627,7 @@
     "guid": "https://www.liberation.fr/environnement/incendie-dans-des-dunes-sur-le-littoral-du-pas-de-calais-un-camping-evacue-20260812_WNQEBSPEDFB4ZOZKGYJJPTCVS4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908864+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384326+00:00"
   },
   {
     "source": "Mediapart",
@@ -1247,7 +1645,7 @@
     "guid": "1339619 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/12/260812-img-pres-de-10-millions-de-livres-detruits-la-russie-livre-une-guerre-culturelle-l-ukraine.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960226+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175197+00:00"
   },
   {
     "source": "Mediapart",
@@ -1265,7 +1663,7 @@
     "guid": "1339718 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/12/260812-img-en-frappant-l-entreprise-wildberries-l-ukraine-s-attaque-l-equivalent-d-un-service-public-en-russie.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960259+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175227+00:00"
   },
   {
     "source": "Libération",
@@ -1280,7 +1678,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/guerre-en-ukraine-la-coree-du-nord-profite-de-ses-liens-avec-la-russie-pour-consolider-son-regime-20260812_UN6P63RQINDGBNB7U223NXV6PQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908891+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384355+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1301,7 +1699,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/tugdual-denis-nous-sommes-gaulliens",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360287+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962170+00:00"
   },
   {
     "source": "Le Monde",
@@ -1355,7 +1753,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/canicule-80-departements-en-vigilance-orange-jeudi-en-france-ou-la-pollution-et-la-secheresse-ne-cessent-de-saggraver-20260812_RMWEHEN36JHMDPYFMRBF7WDOLI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908918+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384383+00:00"
   },
   {
     "source": "Le Monde",
@@ -1369,36 +1767,6 @@
     "image": "https://img.lemde.fr/2026/08/12/185/0/6526/3263/644/322/60/0/8e2978f_upload-1-p2o84oo11pc3-000-c2eb2ke.jpg",
     "full_text": null,
     "fetched_at": "2026-08-12T21:44:30.347780+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Cinéma, centres commerciaux, cafés… Les gagnants et les perdants de la canicule",
-    "link": "https://www.lefigaro.fr/flash-eco/cinema-centres-commerciaux-cafes-les-gagnants-et-les-perdants-de-la-canicule-20260812",
-    "summary": "DÉCRYPTAGE - La hausse des températures bouleverse les habitudes de consommation, dans des proportions significatives.",
-    "published": "2026-08-12T15:45:53+00:00",
-    "authors": [],
-    "categories": [
-      "Flash Eco"
-    ],
-    "guid": "https://www.lefigaro.fr/flash-eco/cinema-centres-commerciaux-cafes-les-gagnants-et-les-perdants-de-la-canicule-20260812",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/08/12/27b40ff70c5e27eb8618482f23ecaecfb075c3ed438ce577c37a0c58324fd010.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-12T15:59:00.985413+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Canicule : 39,4°C à Nantes, 37,9°C à Bordeaux, des records mensuels battus en Bretagne... Découvrez les températures relevées à 17 heures",
-    "link": "https://www.lefigaro.fr/meteo/canicule-decouvrez-les-temperatures-relevees-ce-mercredi-20260812",
-    "summary": "CARTE – À 17 heures ce mercredi, le mercure frôle les 40°C dans l’ouest du pays. Il fait également très chaud sur l’ensemble de la vallée du Rhône.",
-    "published": "2026-08-12T15:45:50+00:00",
-    "authors": [],
-    "categories": [
-      "Météo"
-    ],
-    "guid": "https://www.lefigaro.fr/meteo/canicule-decouvrez-les-temperatures-relevees-ce-mercredi-20260812",
-    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/12/c25e1d19cdc8a99baf10c057f64c18f66df6b5e5f4d72c06964f781adf5506a5.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.857266+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1428,7 +1796,7 @@
     "guid": "https://www.liberation.fr/culture/musique/aux-obseques-de-kavinsky-ses-fans-venus-lui-rendre-hommage-en-nombre-il-a-berce-mon-enfance-20260812_DFXKLUGOJVEHROJ6KEOK72JMSE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908944+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384413+00:00"
   },
   {
     "source": "Le Monde",
@@ -1456,7 +1824,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/deux-sevres-un-incendie-parti-dun-champ-brule-une-maison-trois-morts-20260812_3RA4GGEPAVFYNEXJXRPW7YUKWQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.908968+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384439+00:00"
   },
   {
     "source": "Libération",
@@ -1471,7 +1839,7 @@
     "guid": "https://www.liberation.fr/economie/conso/hausse-des-arnaques-financieres-les-escrocs-surfent-sur-lactualite-sappuyant-de-plus-en-plus-sur-les-reseaux-sociaux-20260812_I63UEBHG6BHT7GBJ2VDGOB7YRI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909014+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384496+00:00"
   },
   {
     "source": "Mediapart",
@@ -1489,7 +1857,7 @@
     "guid": "1339717 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/12/260812-img-260812-img-eclipse-lindifference-desastreuse-du-gouvernement.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960286+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175255+00:00"
   },
   {
     "source": "Libération",
@@ -1504,11 +1872,11 @@
     "guid": "https://www.liberation.fr/politique/penurie-de-lunettes-pour-leclipse-solaire-marine-tondelier-denonce-limpreparation-du-gouvernement-20260811_KTO6Y4VWZJDVPFIVBKCGMWPMXM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909041+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384526+00:00"
   },
   {
     "source": "Libération",
-    "title": "Eclipse de 1999 : non, l’Etat n’avait pas distribué 30 millions de lunettes gratuites",
+    "title": "Eclipse de 1999 : L’Etat avait-il distribué 30 millions de lunettes gratuites?",
     "link": "https://www.liberation.fr/checknews/eclipse-de-1999-non-letat-navait-pas-distribue-30-millions-de-lunettes-gratuites-20260812_YHJFZMILUNGR7O4SJ2AJZGBZ4I/",
     "summary": "Il y a vingt-sept ans, les pouvoirs publics n’avaient acheté que 1,5 million de protections oculaires. Mais ils avaient orchestré une vaste campagne de prévention, avec les associations, les collectivités et les entreprises.",
     "published": "2026-08-12T15:10:30+00:00",
@@ -1519,7 +1887,7 @@
     "guid": "https://www.liberation.fr/checknews/eclipse-de-1999-non-letat-navait-pas-distribue-30-millions-de-lunettes-gratuites-20260812_YHJFZMILUNGR7O4SJ2AJZGBZ4I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909068+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384553+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1552,7 +1920,7 @@
     "guid": "1339700 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/12/260812-img-bande-de-gaza-liban-des-accords-morts-nes-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960316+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175284+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1582,7 +1950,7 @@
     "guid": "https://www.liberation.fr/politique/canicules-en-france-monique-barbut-evoque-un-cout-de-lordre-de-10-a-15-milliards-deuros-20260812_PYXL6WJGUJDYZHFMLXWMYXGLGQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909096+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384586+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1600,7 +1968,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/fjord-le-film-dune-famille-conservatrice-face-a-une-societe-liberale",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360325+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962210+00:00"
   },
   {
     "source": "Mediapart",
@@ -1618,7 +1986,7 @@
     "guid": "1328338 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/24/2607-transidentite-bresil-l1500xh1000px-2.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960349+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175317+00:00"
   },
   {
     "source": "Le Monde",
@@ -1646,7 +2014,7 @@
     "guid": "https://www.liberation.fr/societe/supercoupe-deurope-expulse-des-etats-unis-avant-le-mondial-larbitre-somalien-omar-artan-au-coeur-de-la-baston-fifa-uefa-20260812_BQGVW5C3FVCFNK5Y5R5KGTMZLA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909126+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384616+00:00"
   },
   {
     "source": "Libération",
@@ -1661,7 +2029,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/pacte-de-la-mecque-entre-larabie-saoudite-la-turquie-et-le-pakistan-un-jalon-militaire-historique-20260812_OEO6L45XAFH6XIVS477FV2JG7U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909155+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384645+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1691,7 +2059,7 @@
     "guid": "https://www.liberation.fr/economie/social/greve-chez-easyjet-france-hotesses-et-stewards-appeles-a-la-mobilisation-les-15-et-16-aout-20260812_ILKXQ5OEBBC6FHN2ES72S5FZAI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909181+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384673+00:00"
   },
   {
     "source": "Le Monde",
@@ -1732,7 +2100,7 @@
     "guid": "https://www.liberation.fr/environnement/nucleaire/meduses-et-canicule-pic-dindisponibilite-environnementale-record-de-204-dans-le-parc-nucleaire-dedf-20260812_RESAYGLFDNAXVDJ664MWNGZMDY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909206+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384700+00:00"
   },
   {
     "source": "Libération",
@@ -1747,7 +2115,7 @@
     "guid": "https://www.liberation.fr/international/amerique/je-ne-sais-pas-comment-continuer-lionel-messi-dit-quil-nest-pas-certain-de-jouer-encore-longtemps-au-foot-apres-le-deces-de-son-pere-20260812_2NBVEAVJUNBNNINLHBCW3ULPAY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909235+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384729+00:00"
   },
   {
     "source": "Libération",
@@ -1762,7 +2130,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/lassociation-ac-anti-corruption-depose-une-plainte-contre-un-systeme-demplois-fictifs-pour-des-elus-parisiens-et-franciliens-a-la-ratp-20260812_V2UGTQPSMJDMBALBCFXI2NXYHI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909264+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384762+00:00"
   },
   {
     "source": "Libération",
@@ -1777,7 +2145,7 @@
     "guid": "https://www.liberation.fr/culture/livres/marcel-proust-si-vous-connaissez-un-plus-joli-nom-que-guermantes-20260812_A7TASI3B4VDWLG3HSFWZEYHG7Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909291+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384788+00:00"
   },
   {
     "source": "Le Monde",
@@ -1812,7 +2180,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/jean-gabin-pousse-par-son-pere-les-debuts-chaotiques-dune-future-legende-du-cinema",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360372+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962259+00:00"
   },
   {
     "source": "Le Monde",
@@ -1853,7 +2221,7 @@
     "guid": "https://www.liberation.fr/portraits/envers-mon-endroit-28-les-saunas-berlinois-par-emma-becker-au-vu-et-au-sue-20260812_SJGWO44MUJFLPLJPE3BFO3MRV4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909313+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384816+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1883,7 +2251,7 @@
     "guid": "https://www.liberation.fr/economie/parents-isoles-allocations-apl-un-rapport-recommande-au-gouvernement-de-reduire-les-politiques-familiales-20260812_OLWWICAWR5FW7DXVNI52THR5F4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909341+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384846+00:00"
   },
   {
     "source": "Libération",
@@ -1898,7 +2266,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/avec-emmanuel-macron-aux-exclus-la-patrie-non-reconnaissante-20260812_WDCIC2URRFCCDPPM4CJS42LPXE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909367+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384874+00:00"
   },
   {
     "source": "Libération",
@@ -1913,7 +2281,7 @@
     "guid": "https://www.liberation.fr/sciences/espace/danger-de-leclipse-solaire-pour-loeil-cest-comme-si-vous-brulez-une-foret-une-fois-que-cest-fait-vous-ny-pouvez-plus-rien-20260812_ZYFM2TBNDFEYZB7ZKARQWFO4KU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909396+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384904+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1943,7 +2311,7 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/mariame-tighanimine-franchement-je-ne-savais-pas-quon-etait-pauvres-20260812_KO6XL4BOHZF4LDUUJILGCYB7YM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909423+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384932+00:00"
   },
   {
     "source": "Libération",
@@ -1958,7 +2326,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/une-extreme-droite-qui-vient-de-letranger-un-russe-et-un-franco-ukrainien-condamnes-apres-des-saluts-nazis-pres-dune-synagogue-20260812_57IIRPL6AZELVDNYE45OJI3ACY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.909452+00:00"
+    "fetched_at": "2026-08-13T07:27:01.384963+00:00"
   },
   {
     "source": "Libération",
@@ -2081,7 +2449,7 @@
     "guid": "https://www.valeursactuelles.com/culture/francaises-francais-aidez-moi-lappel-de-pierre-de-gaulle-pour-sauver-la-boisserie-a-colombey-les-deux-eglises",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360415+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962303+00:00"
   },
   {
     "source": "Libération",
@@ -2142,7 +2510,7 @@
     "guid": "1331198 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/20/260720-img-les-annees-mitterrand-fin-de-l-histoire-et-source-d-espoir-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960377+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175345+00:00"
   },
   {
     "source": "Le Monde",
@@ -2259,7 +2627,7 @@
     "guid": "1339679 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/12/260812-img-je-ne-suis-pas-la-premiere-et-je-ne-serai-pas-la-derniere-aminata-pouye-enieme-elue-de-gauche-victime-d-un.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:07.960408+00:00"
+    "fetched_at": "2026-08-13T07:27:01.175376+00:00"
   },
   {
     "source": "Libération",
@@ -2297,7 +2665,7 @@
     "guid": "https://www.valeursactuelles.com/economie/retraites-allocations-familiales-apl-le-rapport-choc-remit-au-gouvernement-pour-diminuer-le-cout-des-aides-aux-familles",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360460+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962349+00:00"
   },
   {
     "source": "Le Monde",
@@ -2388,7 +2756,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/les-grandes-fetes-de-nos-territoires-depuis-le-xixe-siecle-les-fetes-de-dax-sont-le-rendez-vous-du-mois-daout",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-13T04:50:09.360503+00:00"
+    "fetched_at": "2026-08-13T07:27:02.962394+00:00"
   },
   {
     "source": "Libération",
@@ -189390,21 +189758,6 @@
     "image": "https://img.lemde.fr/2026/06/02/3113/0/5333/2666/644/322/60/0/bbec10a_upload-1-q8pwloeszpzo-jmug260601009.jpg",
     "full_text": null,
     "fetched_at": "2026-06-15T12:16:25.290045+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Pluies, canicules, nuits tropicales : à quoi s’attendre cet été sur votre lieu de vacances ?",
-    "link": "https://www.lefigaro.fr/sciences/pluies-canicules-nuits-tropicales-a-quoi-s-attendre-cet-ete-sur-votre-lieu-de-vacances-20260613",
-    "summary": "EN CARTES - Grâce à notre outil interactif fondé sur les données météorologiques des étés passés, découvrez le profil climatique de votre lieu de villégiature.",
-    "published": "2026-06-15T07:40:14+00:00",
-    "authors": [],
-    "categories": [
-      "Sciences & Environnement"
-    ],
-    "guid": "https://www.lefigaro.fr/sciences/pluies-canicules-nuits-tropicales-a-quoi-s-attendre-cet-ete-sur-votre-lieu-de-vacances-20260613",
-    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/06/11/452686fa1a89b0497e829bad8c13d5d30eef01c98a2d92e84fae931089c1c34b.jpg",
-    "full_text": null,
-    "fetched_at": "2026-06-16T11:11:58.618608+00:00"
   },
   {
     "source": "Libération",
