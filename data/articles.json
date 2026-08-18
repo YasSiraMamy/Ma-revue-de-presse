@@ -1,16 +1,753 @@
 [
   {
+    "source": "Le Figaro",
+    "title": "Deux diplomates iraniens en France seront expulsés «dans les tout prochains jours», annonce le ministre des Affaires étrangères",
+    "link": "https://www.lefigaro.fr/politique/deux-diplomates-iraniens-en-france-seront-expulses-dans-les-tout-prochains-jours-annonce-le-ministre-des-affaires-etrangeres-20260818",
+    "summary": "Jean-Noël Barrot a justifié sa décision en indiquant qu’elle était la conséquence de l’agression de deux diplomates français en Iran le 19 juillet dernier.",
+    "published": "2026-08-18T18:35:26+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/deux-diplomates-iraniens-en-france-seront-expulses-dans-les-tout-prochains-jours-annonce-le-ministre-des-affaires-etrangeres-20260818",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/18/8aa605728f78afe0b0dbd8d9a901a705ddb29c8f6ee2969f5879f8d87514df78.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091683+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Vol de données: «Dans les ministères, on fait de la cybersécurité quand on y pense»",
+    "link": "https://www.mediapart.fr/journal/france/180826/vol-de-donnees-dans-les-ministeres-fait-de-la-cybersecurite-quand-y-pense",
+    "summary": "Après le fisc, un vol massif de données du ministère de l’éducation nationale a été revendiqué et là encore, l’ampleur de la fuite n’avait pas été mesurée par les autorités. Cibles de choix, les administrations françaises accusent un retard important en matière de cybersécurité.",
+    "published": "2026-08-18T18:35:19+00:00",
+    "authors": [
+      "Prisca Borrel, Cécile Hautefeuille, Anass Iddou"
+    ],
+    "categories": [
+      "France",
+      "Cnil, ministère de l'éducation nationale, Numérique, piratage informatique"
+    ],
+    "guid": "1340722 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/18/260818-img-vol-de-donnees-dans-les-ministeres-fait-de-la-cybersecurite-quand-y-pense.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.940061+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Au Cap-Ferret, le pare-feu et les passe-droits de l’homme d’affaires Benoît Bartherotte",
+    "link": "https://www.mediapart.fr/journal/france/180826/au-cap-ferret-le-pare-feu-et-les-passe-droits-de-l-homme-d-affaires-benoit-bartherotte",
+    "summary": "Figure incontournable de la presqu’île du Cap-Ferret, le millionnaire a suscité la polémique en érigeant un pare-feu sans autorisation lors de l’incendie de Saumos. Fort de soutiens puissants, il s’affranchit des lois depuis de nombreuses années, sans jamais être inquiété.",
+    "published": "2026-08-18T18:32:57+00:00",
+    "authors": [
+      "Rémi Carayol"
+    ],
+    "categories": [
+      "France",
+      "Corruption, environnement, Feux de forêt, Gironde, privatisation"
+    ],
+    "guid": "1340672 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/18/260818-img-cap-ferret-benoit-bartherotte-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.940116+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Pourquoi l’État français et ses administrations sont si vulnérables aux cyberattaques et au piratage de données",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/pourquoi-l-etat-francais-et-ses-administrations-sont-si-vulnerables-aux-cyberattaques-et-au-piratage-de-donnees-20260818",
+    "summary": "DÉCRYPTAGE - Fisc, Éducation nationale… L’accélération des intrusions dans les systèmes des services publics met à jour des faiblesses aux causes multiples.",
+    "published": "2026-08-18T18:31:57+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/pourquoi-l-etat-francais-et-ses-administrations-sont-si-vulnerables-aux-cyberattaques-et-au-piratage-de-donnees-20260818",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/18/6af8292ff63c269f871a5a7e9a75902b9db89a406783846de921205bd6d600cf.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091658+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Paradis pour ultrariches, le Cap-Ferret est aussi menacé par la flambée de l’immobilier",
+    "link": "https://www.mediapart.fr/journal/france/180826/paradis-pour-ultrariches-le-cap-ferret-est-aussi-menace-par-la-flambee-de-l-immobilier",
+    "summary": "De plus en plus prisée par les grandes fortunes, la presqu’île du Cap-Ferret, en Gironde, est soumise à une explosion du prix du foncier. Un phénomène de gentrification extrême qui pousse les familles historiques à partir et attire de nouveaux riches qui rêvent de privatiser ce petit paradis.",
+    "published": "2026-08-18T18:29:07+00:00",
+    "authors": [
+      "Rémi Carayol"
+    ],
+    "categories": [
+      "France",
+      "gentrification, Habitat, Inégalités, tourisme"
+    ],
+    "guid": "1340720 at https://www.mediapart.fr/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.940178+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Piratage du fisc, l’autre incendie que le gouvernement peine à éteindre",
+    "link": "https://www.liberation.fr/economie/economie-numerique/piratage-du-fisc-lautre-incendie-que-le-gouvernement-peine-a-eteindre-20260818_RMVAMXGYVJFNPKJRA7OYBRRIHQ/",
+    "summary": "Fébrile à l’idée d’un procès en inertie après le vol de données fiscales, l’exécutif multiplie les communications et a présenté ses excuses aux contribuables concernés. Une troisième attaque détectée sur les fichiers de successions pourrait saper cette tentative.",
+    "published": "2026-08-18T18:28:56+00:00",
+    "authors": [
+      "Ismérie Vergne"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/economie-numerique/piratage-du-fisc-lautre-incendie-que-le-gouvernement-peine-a-eteindre-20260818_RMVAMXGYVJFNPKJRA7OYBRRIHQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281525+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La France va expulser deux diplomates iraniens «ans les tout prochains jours»",
+    "link": "https://www.liberation.fr/international/la-france-va-expulser-deux-diplomates-iraniens-ans-les-tout-prochains-jours-20260818_AJ5PSIM6QFAS3HBU265LPROVOU/",
+    "summary": "Le chef de la diplomatie française souligne que cette mesure intervient en représailles à l’agression de deux diplomates français en Iran courant juillet.",
+    "published": "2026-08-18T18:23:48+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/la-france-va-expulser-deux-diplomates-iraniens-ans-les-tout-prochains-jours-20260818_AJ5PSIM6QFAS3HBU265LPROVOU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281558+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’éditorial d’Yves Thréard : « Monique Barbut, l’été brûlant de “Madame Transat” »",
+    "link": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-monique-barbut-l-ete-brulant-de-madame-transat-20260818",
+    "summary": "La ministre de la Transition écologique s’est fait un nom et un surnom en quelques semaines, en provoquant polémique sur polémique par ses sorties de route. La dernière en date : son éloge, ce lundi, de Jean-Luc Mélenchon dans la presse.",
+    "published": "2026-08-18T18:18:23+00:00",
+    "authors": [],
+    "categories": [
+      "Vox Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-monique-barbut-l-ete-brulant-de-madame-transat-20260818",
+    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/08/18/a5f202b38c9a77a6f075130ca36ceec7f499b230b13f9f5b7ae9a47269ebf742.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091535+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Piratage du fisc : comment l’Estonie, victime d’une cyberattaque russe à grande échelle, est devenue championne de la cyberdéfense",
+    "link": "https://www.lefigaro.fr/conjoncture/piratage-du-fisc-comment-l-estonie-victime-d-une-cyberattaque-russe-a-grande-echelle-est-devenue-championne-de-la-cyberdefense-20260818",
+    "summary": "DÉCRYPTAGE - Alors que le piratage des données du fisc en France attire l’attention sur les enjeux de cybersécurité, le pays balte, dix-huit ans après une offensive numérique de Moscou, est devenu un pionnier de la numérisation de l’État et la troisième nation la plus sûre.",
+    "published": "2026-08-18T18:15:00+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/piratage-du-fisc-comment-l-estonie-victime-d-une-cyberattaque-russe-a-grande-echelle-est-devenue-championne-de-la-cyberdefense-20260818",
+    "image": "https://i.f1g.fr/media/cms/2998x1686_crop/2026/08/18/c0ea9f7795e874686037bad4c3c2408695760081520fff7bd552ce42874e1c5e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091855+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le capitaine des champions du monde espagnols, Rodri, snobe le Real et signe au Barça",
+    "link": "https://www.liberation.fr/sports/football/le-capitaine-des-champions-du-monde-espagnols-rodri-snobe-le-real-et-signe-au-barca-20260818_X2BU2I3JZZDEJOKHXA4CGTOY4Y/",
+    "summary": "Après plusieurs jours de négociations avec Manchester City, le FC Barcelone a officialisé ce mardi 18 août la signature du Ballon d’or 2024, qui était pourtant espéré du côté des rivaux madrilènes.",
+    "published": "2026-08-18T18:14:24+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/football/le-capitaine-des-champions-du-monde-espagnols-rodri-snobe-le-real-et-signe-au-barca-20260818_X2BU2I3JZZDEJOKHXA4CGTOY4Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281587+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Sortie dans l’espace de Sophie Adenot : la mission ne pourra pas être terminée aujourd’hui en raison de retards liés à des problèmes techniques",
+    "link": "https://www.lefigaro.fr/sciences/en-direct-nasa-sophie-adenot-astronaute-iss-espace-20260818",
+    "summary": "Avec l’Américain Anil Menon, la spationaute de 44 ans devait remplacer une antenne à l’extérieur de la Station spatiale internationale (ISS) ce mardi. Mais les deux astronautes ont rencontré des problèmes avec leur visseuse électrique qui ne fonctionnait pas, puis pour déconnecter un câble de l’antenne défectueuse, selon la Nasa.",
+    "published": "2026-08-18T18:13:14+00:00",
+    "authors": [],
+    "categories": [
+      "Sciences & Environnement"
+    ],
+    "guid": "https://www.lefigaro.fr/sciences/en-direct-nasa-sophie-adenot-astronaute-iss-espace-20260818",
+    "image": "https://i.f1g.fr/media/cms/2458x1347_crop/2026/08/18/189b566c88ab5c3e674a643a36faeaf4b1366d94067e736ba2567ba7e6b8b9de.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091593+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La présidente de la Cour pénale internationale Tomoko Akane sanctionnée par Washington",
+    "link": "https://www.lefigaro.fr/flash-actu/la-presidente-de-la-cour-penale-internationale-tomoko-akane-sanctionnee-par-washington-20260818",
+    "summary": "L’actuel substitut du procureur de la CPI a également été condamné par les États-Unis dans le cadre de leur campagne contre cette institution accusée d’être «politisée».",
+    "published": "2026-08-18T18:03:01+00:00",
+    "authors": [],
+    "categories": [
+      "Flash Actu"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-actu/la-presidente-de-la-cour-penale-internationale-tomoko-akane-sanctionnee-par-washington-20260818",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/18/a09f43d01c5571e6a5f7ab3e5a7daa40a306b846488fb8cee80ba2dfbbd44087.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091707+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "L’épargne des Français bientôt mobilisée pour financer l’adaptation au changement climatique ?",
+    "link": "https://www.valeursactuelles.com/economie/lepargne-des-francais-bientot-mobilisee-pour-financer-ladaptation-au-changement-climatique",
+    "summary": "Après un été marqué par de violents incendies, la question du financement de l’adaptation au changement climatique revient au premier plan. Restée au gouvernement malgré l’annonce de sa démission en... L’article L’épargne des Français bientôt mobilisée pour financer l’adaptation au changement climatique ? est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-08-18T18:00:52+00:00",
+    "authors": [
+      "Alexandre Bertolini"
+    ],
+    "categories": [
+      "Non classé",
+      "changement climatique",
+      "climat",
+      "écologie",
+      "épargne"
+    ],
+    "guid": "https://www.valeursactuelles.com/economie/lepargne-des-francais-bientot-mobilisee-pour-financer-ladaptation-au-changement-climatique",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.079706+00:00"
+  },
+  {
     "source": "Le Monde",
-    "title": "EN DIRECT, piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
+    "title": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/vous-n-imaginez-pas-comme-les-afghanes-se-battent-et-inventent-des-strategies-pour-survivre-une-radio-feminine-et-des-ecoles-clandestines-comme-lueurs-d-espoir_6749086_3451060.html",
+    "summary": "« Paroles d’Afghanes » (3/6). « Faite par des femmes pour les femmes », Radio Begum est pour nombre d’Afghanes leur unique lien avec l’extérieur. Parallèlement, les initiatives foisonnent pour assouvir la soif d’apprendre des jeunes filles privées de cours par le régime taliban.",
+    "published": "2026-08-18T18:00:10+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/series-d-ete/article/2026/08/18/vous-n-imaginez-pas-comme-les-afghanes-se-battent-et-inventent-des-strategies-pour-survivre-une-radio-feminine-et-des-ecoles-clandestines-comme-lueurs-d-espoir_6749086_3451060.html",
+    "image": "https://img.lemde.fr/2026/08/11/584/0/7008/3504/644/322/60/0/a15895f_upload-1-eod3uxbb6d8b-afg-2025-04-12-0255.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815253+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Pakistan : Imran Khan, l’ancien premier ministre emprisonné depuis trois ans, obtient son transfert temporaire dans un hôpital d’Islamabad",
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/au-pakistan-l-ancien-premier-ministre-imran-khan-emprisonne-depuis-trois-ans-obtient-son-transfert-temporaire-dans-un-hopital-d-islamabad_6749087_3210.html",
+    "summary": "Le populaire ex-dirigeant de 74 ans, qui souffre de problèmes de santé, subit des conditions de détention particulièrement sévères et un isolement quasi complet depuis le début de son incarcération.",
+    "published": "2026-08-18T18:00:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/18/au-pakistan-l-ancien-premier-ministre-imran-khan-emprisonne-depuis-trois-ans-obtient-son-transfert-temporaire-dans-un-hopital-d-islamabad_6749087_3210.html",
+    "image": "https://img.lemde.fr/2026/08/18/696/0/4174/2087/644/322/60/0/300c36f_ftp-1-pbtsujli20j4-5866304-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815729+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Les Etats-Unis sanctionnent Tomoko Akane, présidente de la CPI",
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html",
+    "summary": "Washington a lancé le mois dernier une offensive diplomatique majeure contre la CPI, l’accusant de « menacer » les Américains et appelant ses partenaires à s’en retirer.",
+    "published": "2026-08-18T17:47:19+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/18/les-etats-unis-sanctionnent-la-presidente-de-la-cour-penale-internationale-tomoko-akane_6749085_3210.html",
+    "image": "https://img.lemde.fr/2026/08/18/497/0/4254/2127/644/322/60/0/5ceb84d_ftp-1-h4hwuhzl8csw-5868444-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815542+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Les Etats-Unis annoncent sanctionner la présidente de la Cour pénale internationale, la Japonaise Tomo Akane",
+    "link": "https://www.liberation.fr/international/amerique/les-etats-unis-annoncent-sanctionner-la-presidente-de-la-cour-penale-internationale-la-japonaise-tomo-akane-20260818_X7D4PTD57VDIHFQ6VV5VT6V7FQ/",
+    "summary": "Washington n’adhère pas au traité international ayant institué la CPI, et lui reproche en particulier des mandats d’arrêt émis contre le Premier ministre israélien, Benyamin Nétanyahou.",
+    "published": "2026-08-18T17:41:59+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/les-etats-unis-annoncent-sanctionner-la-presidente-de-la-cour-penale-internationale-la-japonaise-tomo-akane-20260818_X7D4PTD57VDIHFQ6VV5VT6V7FQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281615+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« La confiance a été ébranlée » : Bercy sous pression après le piratage des données du fisc",
+    "link": "https://www.lefigaro.fr/conjoncture/la-confiance-a-ete-ebranlee-bercy-sous-pression-apres-le-piratage-des-donnees-du-fisc-20260818",
+    "summary": "DÉCRYPTAGE - Matignon a commandé un audit « approfondi » pour faire la lumière sur ce vol de données qui concerne 678 000 particuliers et professionnels et environ 200 000 comptes présents dans les fichiers cadastraux.",
+    "published": "2026-08-18T17:35:00+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/la-confiance-a-ete-ebranlee-bercy-sous-pression-apres-le-piratage-des-donnees-du-fisc-20260818",
+    "image": "https://i.f1g.fr/media/cms/2927x1646_crop/2026/08/18/4f7791a175d0363ae08223bc898c598055966a2f738a44485df0f43a6d40611d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091825+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Des chercheurs affirment avoir enfin percé «l’énigme de la défense du narval»",
+    "link": "https://www.liberation.fr/environnement/animaux/des-chercheurs-affirment-avoir-enfin-perce-lenigme-de-la-defense-du-narval-20260818_SXVWVADZS5FQLP4EA47TAM4MVU/",
+    "summary": "Plusieurs scientifiques ont présenté, ce mardi 18 août, dans la revue scientifique «Nature Communications», leurs conclusions sur la dent qui se trouve sur la tête de l’animal, sa structure et son hypothétique rôle.",
+    "published": "2026-08-18T17:28:07+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/animaux/des-chercheurs-affirment-avoir-enfin-perce-lenigme-de-la-defense-du-narval-20260818_SXVWVADZS5FQLP4EA47TAM4MVU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281660+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Sécheresse: «Nous devons sortir de l’idée que l’eau coulera toujours du robinet»",
+    "link": "https://www.mediapart.fr/journal/ecologie/180826/secheresse-nous-devons-sortir-de-l-idee-que-l-eau-coulera-toujours-du-robinet",
+    "summary": "Plusieurs départements français sont concernés par des arrêtés sécheresse, en métropole mais aussi dans les territoires ultramarins. Charlène Descollonges, ingénieure hydrologue, appelle à «repenser notre rapport à cette ressource qui se raréfie».",
+    "published": "2026-08-18T17:20:40+00:00",
+    "authors": [
+      "Inès Bennacer"
+    ],
+    "categories": [
+      "Écologie",
+      "A la Une, Canicule, Climat, outre-mer, Sécheresse"
+    ],
+    "guid": "1340660 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/18/260818-img-secheresse-entretien-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.940220+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le rappel utile de l’inventeur du Web aux fatalistes de l’IA",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/le-rappel-utile-de-linventeur-du-web-aux-fatalistes-de-lia-20260818_4MU4NUTHXVFJHF34KXATEWK564/",
+    "summary": "Le chercheur britannique Tim Berners-Lee a raconté à «Libé» comment le Web, qu’il a inventé en 1989, a été dévoyé par les géants de la Tech. Mais il croit encore possible d’empêcher l’intelligence artificielle de suivre la même trajectoire. On a envie d’y croire.",
+    "published": "2026-08-18T17:19:15+00:00",
+    "authors": [
+      "Lauren Provost"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/editorial/le-rappel-utile-de-linventeur-du-web-aux-fatalistes-de-lia-20260818_4MU4NUTHXVFJHF34KXATEWK564/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281691+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : Andy Burnham, nouveau premier ministre britannique, réaffirme son soutien à Kiev après les menaces de la Russie",
+    "link": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-reaffirme-son-soutien-a-kiev-apres-les-menaces-de-la-russie_6746952_3210.html",
+    "summary": "Andy Burnham, chef du gouvernement britannique, a insisté sur le fait que le Royaume-Uni, qui a promis de fournir 150 000 drones à l’Ukraine d’ici à la fin de l’année, ne faisait que « ce qu’il a toujours dit qu’il ferait ». Moscou a mis en garde Londres contre des « conséquences » liées à cette fourniture.",
+    "published": "2026-08-18T17:06:11+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/08/18/en-direct-guerre-en-ukraine-andy-burnham-nouveau-premier-ministre-britannique-reaffirme-son-soutien-a-kiev-apres-les-menaces-de-la-russie_6746952_3210.html",
+    "image": "https://img.lemde.fr/2026/08/18/0/0/4656/2328/644/322/60/0/c381d9a_ftp-1-mhf9buxbdcvi-5866709-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815484+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Guerre au Moyen-Orient : les Emirats arabes unis affirment que l’Iran a tiré deux missiles vers leur territoire",
+    "link": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-emirats-arabes-unis-appellent-a-se-confiner-face-a-des-menaces-de-missiles-20260818_FWVWQW7Q7BB6XH4CB4SSJQ7HWM/",
+    "summary": "Il s’agit de la première attaque depuis l’entrée en vigueur du protocole d’accord entre les Etats-Unis et l’Iran en juin.",
+    "published": "2026-08-18T17:03:20+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/guerre-au-moyen-orient-les-emirats-arabes-unis-appellent-a-se-confiner-face-a-des-menaces-de-missiles-20260818_FWVWQW7Q7BB6XH4CB4SSJQ7HWM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281717+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Mathilde Favier et Nicolas Altmayer, le roman tragique d’un couple phare du cinéma et de la mode",
+    "link": "https://www.lefigaro.fr/actualite-france/mathilde-favier-et-nicolas-altmayer-le-roman-tragique-d-un-couple-phare-du-cinema-et-de-la-mode-20260818",
+    "summary": "DISPARITION - La directrice des relations publiques de la maison Dior et le producteur de cinéma sont morts dans un tragique accident de voiture dans les Deux-Sèvres.",
+    "published": "2026-08-18T17:01:20+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/mathilde-favier-et-nicolas-altmayer-le-roman-tragique-d-un-couple-phare-du-cinema-et-de-la-mode-20260818",
+    "image": "https://i.f1g.fr/media/cms/2000x1125_crop/2026/08/18/126f0335c761511dc013440f1cd53c8cf01e61456e388f070103a56d56a0fbdc.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091985+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Il est intéressé par le foot, pas par le pouvoir» : Kevin Lamour, l’influent numéro trois de la Fifa renvoyé par Gianni Infantino",
+    "link": "https://www.liberation.fr/sports/football/il-est-interesse-par-le-foot-pas-par-le-pouvoir-kevin-lamour-linfluent-numero-trois-de-la-fifa-renvoye-par-gianni-infantino-20260818_KRN4I3JWRRAG3I7CLSHX7OYLH4/",
+    "summary": "Licencié par la Fédération internationale, lundi, trois semaines après ses critiques virulentes contre son patron tout-puissant, le Français de 45 ans jouit d’une réputation d’intégrité dans les instances du foot mondial. Même s’il avait décidé, en 2024, d’aller travailler avec un Infantino déjà décrié.",
+    "published": "2026-08-18T17:00:49+00:00",
+    "authors": [
+      "Samuel Ravier-Regnat"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/football/il-est-interesse-par-le-foot-pas-par-le-pouvoir-kevin-lamour-linfluent-numero-trois-de-la-fifa-renvoye-par-gianni-infantino-20260818_KRN4I3JWRRAG3I7CLSHX7OYLH4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281750+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "[TRIBUNE] Trump a perdu la guerre contre l’Iran : il faut maintenant savoir la terminer",
+    "link": "https://www.valeursactuelles.com/monde/tribune-trump-a-perdu-la-guerre-contre-liran-il-faut-maintenant-savoir-la-terminer",
+    "summary": "Pendant longtemps, il a existé des guerres avec des vainqueurs et des vaincus. Depuis l’avènement des guerres asymétriques, il en existe d’autres où personne ne gagne vraiment, mais où l’un... L’article [TRIBUNE] Trump a perdu la guerre contre l’Iran : il faut maintenant savoir la terminer est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-08-18T17:00:39+00:00",
+    "authors": [
+      "Stagiaire VA"
+    ],
+    "categories": [
+      "Non classé",
+      "détroit d'Ormuz",
+      "Donald Trump",
+      "Etats-Unis",
+      "guerre en Iran",
+      "Guerre Israël-Iran",
+      "Iran"
+    ],
+    "guid": "https://www.valeursactuelles.com/monde/tribune-trump-a-perdu-la-guerre-contre-liran-il-faut-maintenant-savoir-la-terminer",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.079757+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Vous vous réveillez la nuit à heure fixe ? Rien d’inquiétant, mais ne regardez pas l’heure si vous voulez vous rendormir",
+    "link": "https://www.lemonde.fr/sciences/article/2026/08/18/vous-vous-reveillez-la-nuit-a-heure-fixe-rien-d-inquietant-mais-ne-regardez-pas-l-heure-si-vous-voulez-vous-rendormir_6749078_1650684.html",
+    "summary": "« Etranges nuits » (6/7). Chacun se réveille plusieurs fois par nuit, le plus souvent à la fin d’un cycle. Les bons dormeurs ne s’en souviennent pas, d’autres ont du mal à retomber dans les bras de Morphée. Pour comprendre ce scénario, retour sur le fonctionnement des cycles du sommeil.",
+    "published": "2026-08-18T17:00:06+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sciences/article/2026/08/18/vous-vous-reveillez-la-nuit-a-heure-fixe-rien-d-inquietant-mais-ne-regardez-pas-l-heure-si-vous-voulez-vous-rendormir_6749078_1650684.html",
+    "image": "https://img.lemde.fr/2026/07/09/0/62/2782/1391/644/322/60/0/10f032a_upload-1-lr1m9ok0gokd-76d3829fhmdr7jxfyv3etrangenuitrvb.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815451+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Les PME françaises s’adaptent mal au dérèglement climatique, qu’elles ne considèrent pas encore comme une priorité stratégique",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/18/les-pme-francaises-mal-adaptees-au-rechauffement-climatique-qu-elles-ne-considerent-pas-encore-comme-une-priorite-strategique_6749079_3234.html",
+    "summary": "Pour les dirigeants, cette question passe au second plan derrière des sujets comme la hausse des prix de l’énergie ou des matières premières, les difficultés de recrutement ou la cybersécurité.",
+    "published": "2026-08-18T17:00:04+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/08/18/les-pme-francaises-mal-adaptees-au-rechauffement-climatique-qu-elles-ne-considerent-pas-encore-comme-une-priorite-strategique_6749079_3234.html",
+    "image": "https://img.lemde.fr/2026/08/18/866/0/8256/4128/644/322/60/0/2225862_upload-1-uo7gjlzpenqw-000-36mm6zr-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815420+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Les Émirats arabes unis affirment que l’Iran a lancé deux missiles vers leur territoire",
+    "link": "https://www.lefigaro.fr/international/les-emirats-arabes-unis-appellent-a-un-confinement-face-a-des-menaces-de-missiles-20260818",
+    "summary": "Les autorités avaient émis, plus tôt dans la journée, une alerte par téléphone pour appeler la population à rester chez elle.",
+    "published": "2026-08-18T17:00:03+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/les-emirats-arabes-unis-appellent-a-un-confinement-face-a-des-menaces-de-missiles-20260818",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/18/d98748f76f368f8cd08b6156aadd966c5243ee3f71f1947a22c33d805c84bb7c.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091961+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Syrie : l’AIEA a découvert des « tonnes de matières nucléaires » sur un site secret, construit sous Bachar Al-Assad",
+    "link": "https://www.lemonde.fr/international/article/2026/08/18/en-syrie-l-aiea-a-decouvert-plusieurs-tonnes-de-matieres-nucleaires-sur-un-site-secret-construit-sous-bachar-al-assad_6749076_3210.html",
+    "summary": "Le chef de l’Agence internationale de l’énergie atomique a salué la « décision courageuse » de Damas de signaler ce site et a souligné que les matières découvertes seraient placées sous « supervision internationale ». « Ces matières ne présentent aucun risque », a assuré le gouvernement syrien.",
+    "published": "2026-08-18T16:51:34+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/18/en-syrie-l-aiea-a-decouvert-plusieurs-tonnes-de-matieres-nucleaires-sur-un-site-secret-construit-sous-bachar-al-assad_6749076_3210.html",
+    "image": "https://img.lemde.fr/2026/08/18/500/0/6000/3000/644/322/60/0/c5e914c_ftp-1-sr8qs8mxggtc-bc45b06d0beb4ffea0b1f05ca77617d0-0-5b61f02ee1e74fdabf8e75ebe3a1dead.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815388+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Expiration du protocole d’accord Iran-Etats-Unis : la paix a fait pschitt",
+    "link": "https://www.liberation.fr/international/moyen-orient/expiration-du-protocole-daccord-iran-etats-unis-la-paix-a-fait-pschitt-20260818_JLIE33BVCRHDLPM7ZQJMQBZ5CY/",
+    "summary": "Soixante jours après la signature, Téhéran et Washington s’accusent mutuellement de violation de l’accord et considèrent le cessez-le-feu comme rompu, sans, à ce stade, vouloir d’une reprise des hostilités à grande échelle.",
+    "published": "2026-08-18T16:46:33+00:00",
+    "authors": [
+      "Hala Kodmani"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/expiration-du-protocole-daccord-iran-etats-unis-la-paix-a-fait-pschitt-20260818_JLIE33BVCRHDLPM7ZQJMQBZ5CY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281776+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Ce n’est même plus de l’amateurisme, c’est du sabordage » : après son éloge de Jean-Luc Mélenchon, la ministre Monique Barbut à nouveau dans la tourmente",
+    "link": "https://www.lefigaro.fr/politique/ce-n-est-meme-plus-de-l-amateurisme-c-est-du-sabordage-apres-son-eloge-de-jean-luc-melenchon-la-ministre-monique-barbut-a-nouveau-dans-la-tourmente-20260818",
+    "summary": "DÉCRYPTAGE - La ministre de la Transition écologique a tenté de s’expliquer, mardi, après avoir loué les propositions des Insoumis sur le climat dans un entretien pourtant « relu et corrigé » par Matignon.",
+    "published": "2026-08-18T16:45:12+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/ce-n-est-meme-plus-de-l-amateurisme-c-est-du-sabordage-apres-son-eloge-de-jean-luc-melenchon-la-ministre-monique-barbut-a-nouveau-dans-la-tourmente-20260818",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/18/30b569142c34c3bc6a1e27e06ebe2301ec884c9be06c8bc38d741e15981db9e2.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091499+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Sophie Adenot dans l’espace, mort d’Yvette Roudy, ingérences contre Attal et Philippe… L’actu de ce mardi 18 août",
+    "link": "https://www.liberation.fr/international/europe/sophie-adenot-dans-lespace-mort-dyvette-roudy-ingerences-contre-attal-et-philippe-lactu-de-ce-mardi-18-aout-20260818_HPFXPGF5FJBJ5FB6JNHESOLO5U/",
+    "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée du mardi 18 août.",
+    "published": "2026-08-18T16:45:07+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/sophie-adenot-dans-lespace-mort-dyvette-roudy-ingerences-contre-attal-et-philippe-lactu-de-ce-mardi-18-aout-20260818_HPFXPGF5FJBJ5FB6JNHESOLO5U/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281800+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Un gisement de pétrole découvert près de l’Amazonie, le carburant de la campagne de Lula",
+    "link": "https://www.liberation.fr/international/amerique/un-gisement-de-petrole-decouvert-pres-de-lamazonie-le-carburant-de-la-campagne-de-lula-20260818_7V5MNWGYFBAY7JM5MVRR74LGPY/",
+    "summary": "Le président de 80 ans se déclare favorable à l’abandon des énergies fossiles. Pourtant, à un mois et demi du premier tour de la présidentielle où il est candidat, il jubile en annonçant la découverte d’un champ offshore prometteur.",
+    "published": "2026-08-18T16:39:30+00:00",
+    "authors": [
+      "François-Xavier Gomez"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/un-gisement-de-petrole-decouvert-pres-de-lamazonie-le-carburant-de-la-campagne-de-lula-20260818_7V5MNWGYFBAY7JM5MVRR74LGPY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281830+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Recrutement forcé au Tigré : «Même les plus patriotes des Ethiopiens ne veulent plus perdre leurs enfants»",
+    "link": "https://www.liberation.fr/international/afrique/recrutement-force-au-tigre-meme-les-plus-patriotes-des-ethiopiens-ne-veulent-plus-perdre-leurs-enfants-20260818_PMZEGBRO3VA53BE445FMBLEHIM/",
+    "summary": "Quatre ans après le cessez-le-feu, la guerre menace de reprendre entre les forces gouvernementales éthiopiennes et la région rebelle du Tigré, qui multiplie les rafles pour grossir ses forces. La fuite massive des jeunes révèle une rupture inédite avec le parti tigréen, autrefois tout-puissant.",
+    "published": "2026-08-18T16:37:51+00:00",
+    "authors": [
+      "Marcel Moncomble, à Addis-Abeba"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/afrique/recrutement-force-au-tigre-meme-les-plus-patriotes-des-ethiopiens-ne-veulent-plus-perdre-leurs-enfants-20260818_PMZEGBRO3VA53BE445FMBLEHIM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281861+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Haro sur les précaires",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/180826/haro-sur-les-precaires",
+    "summary": "Il existe désormais un concept pour dire la souffrance qu’inflige l’administration, ce monstre indéfini, aux personnes précaires: la maltraitance institutionnelle. Lors du Mediapart Festival, débat avec Louis Frères, qui en a fait une pièce de théâtre.",
+    "published": "2026-08-18T16:36:12+00:00",
+    "authors": [
+      "La rédaction de Mediapart"
+    ],
+    "categories": [
+      "Nos débats et entretiens vidéo",
+      "Gauche(s), Inégalités, Mediapart, Médias, pauvreté, précarité"
+    ],
+    "guid": "1334222 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/07/21/haro-sur-les-precaires.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.940261+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Sécheresse en Bretagne : «L’irrigation systématique est une maladaptation au changement climatique»",
+    "link": "https://www.liberation.fr/societe/secheresse-en-bretagne-lirrigation-systematique-est-une-maladaptation-au-changement-climatique-20260818_VJPBGUW2SFAVNDQEMETZXTDZNU/",
+    "summary": "François Lecompte, chercheur à l’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, analyse les contours du maraîchage breton de demain, entre adaptation des cycles, gestion des parcelles et génétique.",
+    "published": "2026-08-18T16:34:47+00:00",
+    "authors": [
+      "Alice Motte"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/secheresse-en-bretagne-lirrigation-systematique-est-une-maladaptation-au-changement-climatique-20260818_VJPBGUW2SFAVNDQEMETZXTDZNU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281887+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mais pourquoi Dominique de Villepin nous parle-t-il de ses goûts musicaux très sûrs sur Instagram ?",
+    "link": "https://www.liberation.fr/culture/musique/mais-pourquoi-dominique-de-villepin-nous-parle-t-il-de-ses-gouts-musicaux-tres-surs-sur-instagram-20260818_2MSPK7TRSFEUHHX4HC33I6JLDE/",
+    "summary": "L’ancien Premier ministre livre sur le réseau social ses sélections musicales. Aurait-il les choix de «Libé» en antisèche ? Profitons-en pour interroger le quasi-candidat à la présidentielle sur ses vues quant au futur de l’industrie musicale. Ça nous intéresse.",
+    "published": "2026-08-18T16:16:50+00:00",
+    "authors": [
+      "Olivier Lamm"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/musique/mais-pourquoi-dominique-de-villepin-nous-parle-t-il-de-ses-gouts-musicaux-tres-surs-sur-instagram-20260818_2MSPK7TRSFEUHHX4HC33I6JLDE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281915+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mort accidentelle du producteur d’«OSS 117» Nicolas Altmayer et de Mathilde Favier, responsable chez Dior",
+    "link": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
+    "summary": "Le couple a été tué lundi sur une route départementale des Deux-Sèvres. Le parquet de Niort a ouvert a ouvert une enquête pour «homicide involontaire par conducteur», afin de déterminer les circonstances exactes des faits.",
+    "published": "2026-08-18T16:01:03+00:00",
+    "authors": [
+      "Didier Péron"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281942+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Ils sont tous noirs » : Edwy Plenel, cofondateur de Médiapart, salue les maires LFI Bally Bagayoko et Aly Diouara en raison de leur couleur de peau",
+    "link": "https://www.valeursactuelles.com/politique/ils-sont-tous-noirs-edwy-plenel-cofondateur-de-mediapart-salue-les-maires-lfi-bally-bagayoko-et-aly-diouara-en-raison-de-leur-couleur-de-peau",
+    "summary": "Une conception singulière de l’antiracisme. Dans une vidéo largement relayée, et extraite d’un live de l’influenceur d’extrême-gauche Jean Massiet, ce mardi 18 août sur X, Edwy Plenel célèbre plusieurs élus... L’article « Ils sont tous noirs » : Edwy Plenel, cofondateur de Médiapart, salue les maires LFI Bally Bagayoko et Aly Diouara en raison de leur couleur de peau est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-08-18T16:00:59+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "antiracisme",
+      "Bally Bagayoko",
+      "edwy plenel",
+      "LFI"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/ils-sont-tous-noirs-edwy-plenel-cofondateur-de-mediapart-salue-les-maires-lfi-bally-bagayoko-et-aly-diouara-en-raison-de-leur-couleur-de-peau",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.079822+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Je voulais créer un espace de compassion» : rencontre avec Tim Berners-Lee, l’inventeur du Web",
+    "link": "https://www.liberation.fr/economie/economie-numerique/je-voulais-creer-un-espace-de-compassion-rencontre-avec-tim-berners-lee-linventeur-du-web-20260809_U4JF624SCBCETCJZTHXFAYUURQ/",
+    "summary": "L’informaticien qui a rendu Internet gratuit et accessible à tous dans les années 90 en est aujourd’hui l’un de ses plus sévères critiques. Face aux perturbations de l’IA, le septuagénaire, incorrigible optimiste, veut croire que «rien n’est joué».",
+    "published": "2026-08-18T15:57:34+00:00",
+    "authors": [
+      "Elise Viniacourt"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/economie-numerique/je-voulais-creer-un-espace-de-compassion-rencontre-avec-tim-berners-lee-linventeur-du-web-20260809_U4JF624SCBCETCJZTHXFAYUURQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281970+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "John Crowley, dans un autre des mondes",
+    "link": "https://www.liberation.fr/culture/livres/john-crowley-dans-un-autre-des-mondes-20260818_QKTYEXCH5NDUBGVDLVLCAY7QXM/",
+    "summary": "L’auteur américain des fabuleux «Kra» et de «Petit, grand ou le Parlement des fées» est mort le 8 août à 83 ans.",
+    "published": "2026-08-18T15:53:00+00:00",
+    "authors": [
+      "Frédérique Roussel"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/john-crowley-dans-un-autre-des-mondes-20260818_QKTYEXCH5NDUBGVDLVLCAY7QXM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.281991+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Piratage du fisc : l’administration annonce une «troisième fuite» sur des données liées aux successions",
+    "link": "https://www.lefigaro.fr/conjoncture/piratage-du-fisc-l-administration-annonce-une-troisieme-fuite-sur-des-donnees-liees-aux-successions-20260818",
+    "summary": "La fuite a été «rapidement coupée», a précisé la patronne de la Direction générale des finances publiques Amélie Verdier, qui a assuré que cette «brèche» n’était «vraiment pas du tout de la même ampleur» que le vol de données fiscales annoncé la semaine dernière.",
+    "published": "2026-08-18T15:50:44+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/piratage-du-fisc-l-administration-annonce-une-troisieme-fuite-sur-des-donnees-liees-aux-successions-20260818",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/18/4d6c5444f9e6ff974f95da4b85f17fbb0310798a4f50ff1779bc50f9ae0cc287.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091798+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Fuite de données : après le fisc, le groupe ZeroBytes revendique une attaque visant des milliers d’élèves de l’Education nationale",
+    "link": "https://www.liberation.fr/checknews/fuite-de-donnees-apres-le-fisc-le-groupe-zerobytes-revendique-une-attaque-visant-des-milliers-deleves-de-leducation-nationale-20260818_NN6A4GDNBJBLPDOUNJ27X6PH5M/",
+    "summary": "Quatre jours après la révélation de leur hacking de la DGFIP, le duo de cybercriminels affirme avoir infiltré le ministère. «CheckNews» a pu consulter un échantillon de ces fichiers sensibles, qui regroupent notamment les données personnelles d’1,2 million d’étudiants.",
+    "published": "2026-08-18T15:46:29+00:00",
+    "authors": [
+      "Nora Todeschini"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/checknews/fuite-de-donnees-apres-le-fisc-le-groupe-zerobytes-revendique-une-attaque-visant-des-milliers-deleves-de-leducation-nationale-20260818_NN6A4GDNBJBLPDOUNJ27X6PH5M/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.282020+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Publicités illégales de thérapies cellulaires : «Leurs promoteurs jouent sur la méconnaissance pour vendre du rêve»",
+    "link": "https://www.liberation.fr/societe/sante/publicites-illegales-de-therapies-cellulaires-leurs-promoteurs-jouent-sur-la-meconnaissance-pour-vendre-du-reve-20260818_J4WMIIDIUZGQ5ED6ESNISBLBJY/",
+    "summary": "L’Agence française du médicament a récemment sanctionné deux sociétés turques vantant les effets prétendus de leurs traitements – non autorisés – contre des maladies graves. Le directeur général adjoint de l’institution explique cette décision face à un phénomène dangereux qui prend de l’ampleur.",
+    "published": "2026-08-18T15:37:34+00:00",
+    "authors": [
+      "Apolline Le Romanser"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/publicites-illegales-de-therapies-cellulaires-leurs-promoteurs-jouent-sur-la-meconnaissance-pour-vendre-du-reve-20260818_J4WMIIDIUZGQ5ED6ESNISBLBJY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.282056+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Cécile Duflot : pour 2027, «je suis tiraillée entre la flemme et le sens du devoir»",
+    "link": "https://www.liberation.fr/politique/elections/cecile-duflot-pour-2027-je-suis-tiraillee-entre-la-flemme-et-le-sens-du-devoir-20260818_VTE3L65XZNDIZEKHIOUD5UGMBY/",
+    "summary": "Certaine que «l’histoire est loin d’être écrite», l’ex-ministre désormais à la tête d’Oxfam France veut participer, à sa manière, à la présidentielle en créant un «lieu de rassemblement» baptisé Points communs. Elle appelle la gauche à ne pas tomber dans le piège de la personnalisation et souhaite qu’une «équipe» soit rapidement mise sur pied.",
+    "published": "2026-08-18T15:37:19+00:00",
+    "authors": [
+      "Lilian Alemagna"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/cecile-duflot-pour-2027-je-suis-tiraillee-entre-la-flemme-et-le-sens-du-devoir-20260818_VTE3L65XZNDIZEKHIOUD5UGMBY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.282091+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Si j’ai mis ma fille dans une bouée et que je l’ai poussée dans l’eau, c’est pour son avenir » : l’horizon bouché de cette jeunesse du Maroc qui veut rejoindre Ceuta",
+    "link": "https://www.lemonde.fr/afrique/article/2026/08/18/au-maroc-l-horizon-bouche-des-jeunes-qui-revent-de-rejoindre-ceuta-j-ai-l-impression-de-faire-du-surplace-pendant-que-ma-fille-grandit_6749071_3212.html",
+    "summary": "La jeunesse marocaine, de plus en plus diplômée et connectée, se heurte à la précarité, aux salaires faibles et à un coût de la vie qui interdit l’autonomie. Les jeunes rencontrés par « Le Monde » dans le nord du royaume racontent une même impasse, qui les a poussés à tenter, fin juillet, de gagner l’enclave espagnole à la nage.",
+    "published": "2026-08-18T15:30:02+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/08/18/au-maroc-l-horizon-bouche-des-jeunes-qui-revent-de-rejoindre-ceuta-j-ai-l-impression-de-faire-du-surplace-pendant-que-ma-fille-grandit_6749071_3212.html",
+    "image": "https://img.lemde.fr/2026/08/18/1766/0/6880/3440/644/322/60/0/25e916d_upload-1-mso1zppmdjin-dfc2198-1.jpeg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815353+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Loi d’urgence agricole : comment le Conseil constitutionnel donne le dernier mot à l’agence de sécurité sanitaire",
+    "link": "https://www.lemonde.fr/planete/article/2026/08/18/loi-d-urgence-agricole-comment-le-conseil-constitutionnel-donne-le-dernier-mot-a-l-anses_6749070_3244.html",
+    "summary": "Même s’il a validé l’essentiel du texte qui contient des dispositions néfastes pour l’environnement et la préservation des zones humides, l’institution de la rue de Montpensier a émis des réserves qui placent l’Anses en position d’arbitre concernant la réautorisation de deux pesticides.",
+    "published": "2026-08-18T15:30:02+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/08/18/loi-d-urgence-agricole-comment-le-conseil-constitutionnel-donne-le-dernier-mot-a-l-anses_6749070_3244.html",
+    "image": "https://img.lemde.fr/2026/08/13/560/0/6720/3360/644/322/60/0/d881205_upload-1-m9qqlxb0b70q-vn20260812-agriculteur-chaleur-048.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:40.815571+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Piratage du site des impôts : le gouvernement détaille les trois fuites de données qui concernent aussi les données cadastrales et les successions",
     "link": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html",
-    "summary": "David Amiel, ministre de l’action et des comptes publics, la direction générale des finances publiques (DGFiP) et l’Agence nationale de la sécurité des systèmes d’information (Anssi) prennent la parole après le piratage de données de millions de personnes.",
-    "published": "2026-08-18T15:27:27+00:00",
+    "summary": "David Amiel, ministre de l’action et des comptes publics, a présenté des « excuses » pour le piratage d’ampleur de la Direction générale des finances publiques (DGFiP) qui a abouti au vol des données personnelles de quelque 700 000 particuliers et entreprises.",
+    "published": "2026-08-18T15:27:23+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/pixels/live/2026/08/18/en-direct-piratage-du-site-des-impots-le-gouvernement-detaille-les-trois-fuites-de-donnees-qui-concernent-aussi-les-donnees-cadastrales-et-les-successions_6749047_4408996.html",
     "image": "https://img.lemde.fr/2026/08/18/244/0/2048/1024/644/322/60/0/aba0541_upload-1-6d7pfxwnb417-nz86314.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.007794+00:00"
+    "fetched_at": "2026-08-18T18:37:40.815312+00:00"
   },
   {
     "source": "Le Figaro",
@@ -26,36 +763,6 @@
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/18/3ba80661459745b583c2e359f3a1265dcf0e5ab25e4f725e1f2cbedb3a0cbed2.JPG",
     "full_text": null,
     "fetched_at": "2026-08-18T15:31:38.150571+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Piratage du fisc : l’administration annonce une «troisième fuite» sur des données liées aux successions",
-    "link": "https://www.lefigaro.fr/conjoncture/piratage-du-fisc-l-administration-annonce-une-troisieme-fuite-sur-des-donnees-liees-aux-successions-20260818",
-    "summary": "La fuite a été «rapidement coupée», a précisé la patronne de la Direction générale des finances publiques Amélie Verdier, qui a assuré que cette «brèche» n’était «vraiment pas du tout de la même ampleur» que le vol de données fiscales annoncé la semaine dernière.",
-    "published": "2026-08-18T15:20:26+00:00",
-    "authors": [],
-    "categories": [
-      "Conjoncture"
-    ],
-    "guid": "https://www.lefigaro.fr/conjoncture/piratage-du-fisc-l-administration-annonce-une-troisieme-fuite-sur-des-donnees-liees-aux-successions-20260818",
-    "image": "https://i.f1g.fr/media/cms/3000x2003_crop/2026/08/18/4d6c5444f9e6ff974f95da4b85f17fbb0310798a4f50ff1779bc50f9ae0cc287.JPG",
-    "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.150428+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Sortie dans l’espace : l’astronaute Sophie Adenot commence son travail à l’extérieur de l’ISS",
-    "link": "https://www.lefigaro.fr/sciences/en-direct-nasa-sophie-adenot-astronaute-iss-espace-20260818",
-    "summary": "Avec l’Américain Anil Menon, la spationaute de 44 ans doit remplacer une antenne à l’extérieur de la Station spatiale internationale (ISS) ce mardi. Une sortie qui doit durer 6h30.",
-    "published": "2026-08-18T15:19:03+00:00",
-    "authors": [],
-    "categories": [
-      "Sciences & Environnement"
-    ],
-    "guid": "https://www.lefigaro.fr/sciences/en-direct-nasa-sophie-adenot-astronaute-iss-espace-20260818",
-    "image": "https://i.f1g.fr/media/cms/2458x1347_crop/2026/08/18/189b566c88ab5c3e674a643a36faeaf4b1366d94067e736ba2567ba7e6b8b9de.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.150623+00:00"
   },
   {
     "source": "Le Figaro",
@@ -85,7 +792,7 @@
     "guid": "https://www.liberation.fr/culture/cinema/oklahoma-honey-avec-matthew-mcconaughey-de-ruches-idees-20260818_BLUBKIWVBZEYPKVG3ENFFBP3FE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018203+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282116+00:00"
   },
   {
     "source": "Le Figaro",
@@ -115,7 +822,7 @@
     "guid": "https://www.liberation.fr/economie/medias/france-inter-le-patron-de-france-musique-marc-voinchet-remplace-nora-hamadi-a-la-revue-de-presse-20260818_QJ3IXEI5AFFX7JWEEL2YWK4R6Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018243+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282142+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -138,7 +845,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/je-noublierai-jamais-que-jai-ete-un-prolo-labecedaire-de-jean-gabin",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.875509+00:00"
+    "fetched_at": "2026-08-18T18:37:41.079869+00:00"
   },
   {
     "source": "Le Monde",
@@ -181,7 +888,7 @@
     "guid": "https://www.liberation.fr/economie/piratage-du-fisc-une-troisieme-fuite-annoncee-cette-fois-sur-des-donnees-liees-aux-successions-20260818_XXPOT34ARNGTZF6MRBRETN5MNE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018279+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282171+00:00"
   },
   {
     "source": "Le Figaro",
@@ -196,7 +903,7 @@
     "guid": "https://www.lefigaro.fr/secteur/high-tech/eleves-enseignants-parents-apres-le-fisc-zerobytes-revendique-le-piratage-massif-de-donnees-de-l-education-nationale-20260818",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/18/e0fcc52aa4effe2b49051047c02ba680579530a30d3e2d566cebaaf9edee5050.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.150521+00:00"
+    "fetched_at": "2026-08-18T18:37:41.091883+00:00"
   },
   {
     "source": "Libération",
@@ -211,7 +918,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/meurtre-de-thomas-perotto-a-crepol-le-parquet-de-valence-conteste-la-circonstance-aggravante-de-racisme-20260818_D24O54VCAVEIJNY332LD4I5ZGE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018312+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282197+00:00"
   },
   {
     "source": "Libération",
@@ -226,7 +933,7 @@
     "guid": "https://www.liberation.fr/societe/sante/que-faire-si-comme-manon-aubry-vous-etes-mordu-par-une-vipere-20260818_PFURGTH4UJADJFD37ILLP6TOYQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018346+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282227+00:00"
   },
   {
     "source": "Le Monde",
@@ -239,7 +946,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/08/18/edouard-philippe-et-la-strategie-des-ralliements-premiere-etape-de-sa-campagne-pour-contrer-le-rn-a-la-presidentielle-2027_6749066_823448.html",
     "image": "https://img.lemde.fr/2026/08/18/651/0/5200/2600/644/322/60/0/aca689f_upload-1-wcs758va2ftd-sipa-01280814-000046.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.008001+00:00"
+    "fetched_at": "2026-08-18T18:37:40.815704+00:00"
   },
   {
     "source": "Le Figaro",
@@ -267,7 +974,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/08/18/la-chaine-abc-poursuit-l-administration-trump-au-nom-de-la-liberte-d-expression-apres-des-menaces-contre-ses-licences-de-diffusion_6749065_3210.html",
     "image": "https://img.lemde.fr/2026/08/17/222/0/3953/1976/644/322/60/0/e57f79c_ftp-1-6iskpor6a07r-2026-08-17t201539z-332724854-rc2i0nahev1j-rtrmadp-3-usa-trump-approval.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.007937+00:00"
+    "fetched_at": "2026-08-18T18:37:40.815754+00:00"
   },
   {
     "source": "Libération",
@@ -282,7 +989,7 @@
     "guid": "https://www.liberation.fr/politique/elections/ralliement-de-darmanin-a-philippe-au-secours-lump-revient-20260818_32OIHBHGBJCPJFUT4XLP5G5Q3U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018399+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282253+00:00"
   },
   {
     "source": "Libération",
@@ -297,7 +1004,7 @@
     "guid": "https://www.liberation.fr/economie/droits-voisins-meta-sobstine-a-ne-pas-payer-en-france-20260818_HNLK64UPJVFWLENDDNKI6MBTQQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018432+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282279+00:00"
   },
   {
     "source": "Le Figaro",
@@ -316,7 +1023,7 @@
   },
   {
     "source": "Libération",
-    "title": "Etats-Unis : détenue par Disney, la chaîne ABC attaque en justice l’administration Trump sur la liberté d’expression",
+    "title": "Etats-Unis : détenue par Disney, la chaîne ABC attaque en justice l’administration Trump pour atteinte à la liberté d’expression",
     "link": "https://www.liberation.fr/international/amerique/etats-unis-detenue-par-disney-la-chaine-abc-attaque-en-justice-ladministration-trump-sur-la-liberte-dexpression-20260818_3WPESMNSCVAUFI7BLZTGJQCK5M/",
     "summary": "La plainte déposée ce mardi 18 août accuse les autorités fédérales de mener «une campagne de représailles». L’animateur star de la chaîne de télé, Jimmy Kimmel, est une cible de longue date de Donald Trump.",
     "published": "2026-08-18T14:11:25+00:00",
@@ -327,7 +1034,7 @@
     "guid": "https://www.liberation.fr/international/amerique/etats-unis-detenue-par-disney-la-chaine-abc-attaque-en-justice-ladministration-trump-sur-la-liberte-dexpression-20260818_3WPESMNSCVAUFI7BLZTGJQCK5M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018462+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282308+00:00"
   },
   {
     "source": "Le Figaro",
@@ -360,6 +1067,36 @@
     "fetched_at": "2026-08-18T15:31:38.150669+00:00"
   },
   {
+    "source": "Le Figaro",
+    "title": "« C’est fou, on passe notre temps à faire circuler de la paperasse » : l’obsession du risque zéro ou la France des étiquettes et de l’excès de zèle",
+    "link": "https://www.lefigaro.fr/conjoncture/c-est-fou-on-passe-notre-temps-a-faire-circuler-de-la-paperasse-l-obsession-du-risque-zero-ou-la-france-des-etiquettes-et-de-l-exces-de-zele-20260818",
+    "summary": "VOYAGE EN ABSURDISTAN (2/5) - On ne badine pas avec l’information obligatoire. Ni celle des consommateurs. Ni celle des services de l’État. Le monde économique et l’administration elle-même s’épuisent dans les tâches de reporting.",
+    "published": "2026-08-18T14:00:53+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/c-est-fou-on-passe-notre-temps-a-faire-circuler-de-la-paperasse-l-obsession-du-risque-zero-ou-la-france-des-etiquettes-et-de-l-exces-de-zele-20260818",
+    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/08/18/fd856a9f7389f91cffb479dd2ef2855b0ccf004b0232f3e41213beab79eff53b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091911+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le « bonus braguette » : quand l’État-nounou fabrique une usine à gaz pour raccommoder votre pantalon",
+    "link": "https://www.lefigaro.fr/conjoncture/le-bonus-braguette-quand-l-etat-nounou-fabrique-une-usine-a-gaz-pour-raccommoder-votre-pantalon-20260817",
+    "summary": "VOYAGE EN ABSURDISTAN (1/5) - Le bonus réparation est devenu un symbole de la complexité administrative dont la France a le secret. Les flux financiers distribués par l’État créent un sentiment de gabegie, cultivent des rentes et nourrissent les fraudes.",
+    "published": "2026-08-18T14:00:51+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/le-bonus-braguette-quand-l-etat-nounou-fabrique-une-usine-a-gaz-pour-raccommoder-votre-pantalon-20260817",
+    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/08/17/e35d3504b96945b4fb9506ee4792dfea956bea5c8cd6a0cb7463f92a34594c24.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091939+00:00"
+  },
+  {
     "source": "Valeurs actuelles",
     "title": "Histoire de la police : « La police est le sismographe de la société », selon Louis Chamard",
     "link": "https://www.valeursactuelles.com/clubvaleurs/histoire/histoire-de-la-police-la-police-est-le-sismographe-de-la-societe-selon-louis-chamard",
@@ -379,7 +1116,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/histoire-de-la-police-la-police-est-le-sismographe-de-la-societe-selon-louis-chamard",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.875563+00:00"
+    "fetched_at": "2026-08-18T18:37:41.079913+00:00"
   },
   {
     "source": "Le Monde",
@@ -392,7 +1129,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/08/18/en-corse-les-groupes-mafieux-multiplient-les-incendies-criminels-pour-etendre-leur-mainmise-sur-l-economie-locale_6749063_3224.html",
     "image": "https://img.lemde.fr/2026/08/11/500/0/6000/3000/644/322/60/0/52b199d_ftp-1-kun09u0rh3at-5814313-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.008067+00:00"
+    "fetched_at": "2026-08-18T18:37:40.815600+00:00"
   },
   {
     "source": "Libération",
@@ -407,7 +1144,7 @@
     "guid": "https://www.liberation.fr/international/europe/pourquoi-la-municipalite-veut-elle-nous-retirer-notre-plage-en-italie-des-religieuses-se-battent-pour-continuer-a-exploiter-leur-beach-club-20260818_3U77X4LM5VFYHC5H26FMGRGPHM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018497+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282339+00:00"
   },
   {
     "source": "Libération",
@@ -422,7 +1159,7 @@
     "guid": "https://www.liberation.fr/culture/cinema/paradise-de-jeremy-comte-larnaqueur-a-ses-raisons-20260818_FKWLMBDUF5CP7DE7TK6V3UEW54/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018523+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282363+00:00"
   },
   {
     "source": "Libération",
@@ -437,7 +1174,7 @@
     "guid": "https://www.liberation.fr/international/afrique/au-mali-lourdes-peines-de-prison-pour-un-chroniqueur-et-une-influenceuse-critiques-de-la-junte-au-pouvoir-20260818_7DYENZLWKRGFXLAGPR6E4AF7HM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018553+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282390+00:00"
   },
   {
     "source": "Libération",
@@ -452,7 +1189,7 @@
     "guid": "https://www.liberation.fr/portraits/envers-mon-endroit-68-un-coin-dalgerie-par-magyd-cherfi-mon-ame-haut-20260818_2EB6DQM4WJADVL6QW2UJM2FPTY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018577+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282412+00:00"
   },
   {
     "source": "Le Monde",
@@ -465,7 +1202,7 @@
     "guid": "https://www.lemonde.fr/disparitions/article/2026/08/18/yvette-roudy-ancienne-ministre-des-droits-de-la-femme-a-l-origine-du-remboursement-de-l-ivg-est-morte_6749059_3382.html",
     "image": "https://img.lemde.fr/2018/08/10/646/0/4288/2142/644/322/60/0/13edc6c_El1keo4NRTah5y6mu3UEbDf3.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.007874+00:00"
+    "fetched_at": "2026-08-18T18:37:40.815648+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -485,7 +1222,7 @@
     "guid": "https://www.valeursactuelles.com/politique/pourquoi-gerald-darmanin-renonce-a-la-presidentielle-2027-et-rallie-edouard-philippe",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.875607+00:00"
+    "fetched_at": "2026-08-18T18:37:41.079953+00:00"
   },
   {
     "source": "Le Figaro",
@@ -515,22 +1252,7 @@
     "guid": "https://www.liberation.fr/societe/droits-des-femmes/yvette-roudy-ancienne-ministre-et-perpetuelle-revoltee-du-feminisme-est-morte-a-97-ans-20260818_N7EFAACSVZAK7PX6H4SLJTYP3U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018604+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Mort accidentelle du producteur d’«OSS 117» Nicolas Altmayer et de Mathilde Favier, responsable chez Dior",
-    "link": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
-    "summary": "Le couple a été tué lundi sur une route départementale des Deux-Sèvres. Le parquet de Niort a ouvert a ouvert une enquête pour «homicide involontaire par conducteur», afin de déterminer les circonstances exactes des faits.",
-    "published": "2026-08-18T13:22:49+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/culture/cinema/mort-accidentelle-du-producteur-doss-117-nicolas-altmayer-et-de-mathilde-favier-responsable-chez-dior-20260818_5VHE5FVZUZHYZAOCALQTVMPRXI/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018638+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282436+00:00"
   },
   {
     "source": "Libération",
@@ -545,7 +1267,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/en-chine-lhumoriste-guo-degang-vise-par-une-enquete-pour-avoir-detourne-les-paroles-dun-chant-patriote-20260818_HTWGZJW6URE47KSMK4R45LILGE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018675+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282464+00:00"
   },
   {
     "source": "Le Figaro",
@@ -591,7 +1313,7 @@
     "guid": "1328347 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/06/24/2607-transidentite-bresil-l1500xh1000px-5.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.126696+00:00"
+    "fetched_at": "2026-08-18T18:37:40.940306+00:00"
   },
   {
     "source": "Libération",
@@ -606,7 +1328,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/les-reines-de-ring-de-delphine-blast-20260818_QNEIHYSLWBH6BJXCM3UTZY2J5A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018705+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282492+00:00"
   },
   {
     "source": "Le Monde",
@@ -634,7 +1356,7 @@
     "guid": "https://www.lefigaro.fr/sciences/les-secrets-de-la-combinaison-de-sophie-adenot-pour-sa-sortie-dans-l-espace-20260818",
     "image": "https://i.f1g.fr/media/cms/1998x3000_crop/2026/08/18/e3c3da6d582622aac854232dcd128b14bcc5f4608cb36627923089c1414a0dc6.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.150645+00:00"
+    "fetched_at": "2026-08-18T18:37:41.091619+00:00"
   },
   {
     "source": "Mediapart",
@@ -652,7 +1374,7 @@
     "guid": "1340495 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/17/280817-img-maraichers-rechauffement-climatique-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.126735+00:00"
+    "fetched_at": "2026-08-18T18:37:40.940352+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -675,7 +1397,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/pierre-lellouche-quand-la-guerre-des-drones-sexporte-dans-le-monde",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.875652+00:00"
+    "fetched_at": "2026-08-18T18:37:41.079995+00:00"
   },
   {
     "source": "Le Monde",
@@ -703,11 +1425,11 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/succession-daretha-franklin-des-testaments-et-des-paraphes-en-carafe-20260725_VFA5ZVXT7FHLPHYACMF2GX22LM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018735+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282520+00:00"
   },
   {
     "source": "Le Monde",
-    "title": "Sophie Adenot est devenue la première Française à sortir dans l’espace : suivez l’événement en vidéo",
+    "title": "Sophie Adenot est devenue la première Française à sortir dans l’espace",
     "link": "https://www.lemonde.fr/sciences/article/2026/08/18/sophie-adenot-devient-la-premiere-francaise-a-sortir-dans-l-espace-suivez-l-evenement-en-video_6748734_1650685.html",
     "summary": "Agée de 44 ans, l’astronaute, en mission dans la Station spatiale internationale (ISS) depuis la mi-février, est la deuxième femme européenne à réaliser une telle sortie, après l’Italienne Samantha Cristoforetti en 2022.",
     "published": "2026-08-18T12:48:12+00:00",
@@ -716,7 +1438,7 @@
     "guid": "https://www.lemonde.fr/sciences/article/2026/08/18/sophie-adenot-devient-la-premiere-francaise-a-sortir-dans-l-espace-suivez-l-evenement-en-video_6748734_1650685.html",
     "image": "https://img.lemde.fr/2026/08/18/187/0/1536/768/644/322/60/0/8470650_upload-1-1vqrtdes9hfy-sophie-adenot-tries-spacesuit-in-airlock.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.007908+00:00"
+    "fetched_at": "2026-08-18T18:37:40.815518+00:00"
   },
   {
     "source": "Libération",
@@ -731,7 +1453,7 @@
     "guid": "https://www.liberation.fr/sports/rugby/commotions-cerebrales-philippe-sella-ancienne-gloire-du-xv-de-france-peine-a-retrouver-ses-souvenirs-20260818_WF4TP57M5RFJHJLUOBQPV27WLM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018763+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282545+00:00"
   },
   {
     "source": "Libération",
@@ -746,7 +1468,7 @@
     "guid": "https://www.liberation.fr/international/afrique/fort-de-son-bilan-economique-hakainde-hichilema-reelu-en-zambie-20260818_JRXNE23KHBAFJGCI46WUYUCFQA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018788+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282567+00:00"
   },
   {
     "source": "Le Figaro",
@@ -776,7 +1498,7 @@
     "guid": "https://www.liberation.fr/politique/monique-barbut-invitee-par-manuel-bompard-aux-universites-dete-insoumises-apres-son-interview-dans-libe-20260818_MUN6SECCVZH7HLOMJJNP5N2FOE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018824+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282597+00:00"
   },
   {
     "source": "Libération",
@@ -791,7 +1513,7 @@
     "guid": "https://www.liberation.fr/economie/la-dette-publique-francaise-au-plus-haut-depuis-2008-20260818_2LMPHYWPKVGNVIX5YB6WXGZGWY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018852+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282633+00:00"
   },
   {
     "source": "Libération",
@@ -806,7 +1528,7 @@
     "guid": "https://www.liberation.fr/sciences/espace/suivez-en-direct-la-sortie-de-sophie-adenot-dans-lespace-20260818_S7AWXVHMIZAZFEMVYC3RARJZWI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018879+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282659+00:00"
   },
   {
     "source": "Libération",
@@ -821,7 +1543,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/ia-contre-les-automutilations-les-troubles-alimentaires-la-triche-dans-les-etudes-openai-deploie-chatgpt-pour-ados-20260818_MBCM33PHDVFJFCWK26UMLNXL2Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018906+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282686+00:00"
   },
   {
     "source": "Le Monde",
@@ -869,7 +1591,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/jean-gabin-et-louis-de-funes-les-relations-tumultueuse-de-deux-mastodontes-du-cinema",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.875692+00:00"
+    "fetched_at": "2026-08-18T18:37:41.080035+00:00"
   },
   {
     "source": "Le Monde",
@@ -941,7 +1663,7 @@
     "guid": "1340628 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/18/260818-img-comment-le-capitalisme-produit-de-la-resignation.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.126766+00:00"
+    "fetched_at": "2026-08-18T18:37:40.940396+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1015,7 +1737,7 @@
     "guid": "1340656 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/18/260818-img-seoul-rassure-pyongyang-sur-ses-exercices-militaires-avec-washington2.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.126795+00:00"
+    "fetched_at": "2026-08-18T18:37:40.940439+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1050,7 +1772,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/presidentielle-2027-le-tournant-liberal-gaullien-ou-le-jour-ou-la-france-va-retrouver-un-avenir",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.875731+00:00"
+    "fetched_at": "2026-08-18T18:37:41.080074+00:00"
   },
   {
     "source": "Libération",
@@ -1065,7 +1787,7 @@
     "guid": "https://www.liberation.fr/sports/imiter-le-cri-des-singes-pour-les-eloigner-le-drole-de-job-des-monkey-wallah-aux-championnats-du-monde-de-badminton-a-new-dehli-20260818_ZT5KUXCTWNEPRB62IJIAYOX2WQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018937+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282715+00:00"
   },
   {
     "source": "Libération",
@@ -1080,7 +1802,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/soupcons-dingerence-russe-ciblant-edouard-philippe-et-gabriel-attal-le-parquet-de-paris-lance-une-enquete-20260818_KHSISSFRMREM7MAPZ3XXLKMGOY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018966+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282741+00:00"
   },
   {
     "source": "Le Monde",
@@ -1136,7 +1858,7 @@
     "guid": "https://www.liberation.fr/environnement/biodiversite/aux-sables-dolonne-dans-les-coulisses-du-programme-pionnier-qui-veut-rendre-potable-leau-usee-20260818_4YZNXUSY3FALLGILRNDC56GG2M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.018995+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282768+00:00"
   },
   {
     "source": "Libération",
@@ -1151,7 +1873,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/decouverte-avec-un-oreiller-sur-le-visage-une-enquete-ouverte-pour-meurtre-apres-la-mort-suspecte-dune-residente-dun-ehpad-a-rennes-20260818_7L2NNOINFZALFBU4DCJ7ANSSBY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.019024+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282796+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1171,7 +1893,7 @@
     "guid": "https://www.valeursactuelles.com/faits-divers/il-a-fallu-que-ca-tombe-sur-moi-leurodeputee-lfi-manon-aubry-mordue-par-une-vipere-et-hospitalisee",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.875776+00:00"
+    "fetched_at": "2026-08-18T18:37:41.080118+00:00"
   },
   {
     "source": "Libération",
@@ -1186,7 +1908,7 @@
     "guid": "https://www.liberation.fr/international/amerique/tais-toi-trump-attaque-une-journaliste-de-cnn-apres-une-question-sur-sa-proximite-avec-une-collaboratrice-20260818_GFBMQIZPLFDIBNPZFSGTXE5I2U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.019053+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282829+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1216,7 +1938,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/gaza-a-caire-ouvert-20260818_RD3VAB2FXBDEBF6BVPMCFGWIIU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.019078+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282852+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1291,7 +2013,7 @@
     "guid": "https://www.liberation.fr/international/amerique/trump-annonce-reduire-considerablement-ses-exercices-militaires-avec-la-coree-du-sud-sur-fond-de-rapprochement-avec-pyongyang-20260817_MTUMCZAY2BBH7LBRY4NSZPY33Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.019105+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282880+00:00"
   },
   {
     "source": "Mediapart",
@@ -1309,7 +2031,7 @@
     "guid": "1331653 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/14/article-2-pcc.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.126826+00:00"
+    "fetched_at": "2026-08-18T18:37:40.940492+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1400,7 +2122,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/madame-barbut-la-climatisation-peut-aussi-aider-a-lutter-contre-le-dereglement-climatique-par-cedric-philibert-20260818_X2VQC6UXOZHMFINLPNLLJWXMS4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.019138+00:00"
+    "fetched_at": "2026-08-18T18:37:41.282912+00:00"
   },
   {
     "source": "Le Monde",
@@ -1413,7 +2135,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/08/18/incendie-en-belgique-les-pompiers-veulent-encercler-definitivement-le-feu-historique-d-un-parc-naturel_6748870_3244.html",
     "image": "https://img.lemde.fr/2026/08/18/330/0/5152/2576/644/322/60/0/562b6b0_ftp-1-cjmwqg97nxzx-2026-08-18t082328z-608177660-rc2w0nacndk0-rtrmadp-3-europe-weather-belgium-wildfire.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-18T15:31:38.008118+00:00"
+    "fetched_at": "2026-08-18T18:37:40.815672+00:00"
   },
   {
     "source": "Le Monde",
@@ -1442,6 +2164,21 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-08-18T15:31:38.019172+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Après son éloge du programme écologique de LFI, Monique Barbut peut-elle rester au gouvernement ?",
+    "link": "https://www.lefigaro.fr/politique/apres-son-eloge-du-programme-ecologique-de-lfi-monique-barbut-peut-elle-rester-au-gouvernement-20260818",
+    "summary": "",
+    "published": "2026-08-18T08:33:18+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/apres-son-eloge-du-programme-ecologique-de-lfi-monique-barbut-peut-elle-rester-au-gouvernement-20260818",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091556+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2891,21 +3628,6 @@
   },
   {
     "source": "Le Figaro",
-    "title": "Le « bonus braguette » : quand l’État-nounou fabrique une usine à gaz pour raccommoder votre pantalon",
-    "link": "https://www.lefigaro.fr/conjoncture/le-bonus-braguette-quand-l-etat-nounou-fabrique-une-usine-a-gaz-pour-raccommoder-votre-pantalon-20260817",
-    "summary": "VOYAGE EN ABSURDISTAN (1/5) - Le bonus réparation est devenu un symbole de la complexité administrative dont la France a le secret. Les flux financiers distribués par l’État créent un sentiment de gabegie, cultivent des rentes et nourrissent les fraudes.",
-    "published": "2026-08-17T17:51:37+00:00",
-    "authors": [],
-    "categories": [
-      "Conjoncture"
-    ],
-    "guid": "https://www.lefigaro.fr/conjoncture/le-bonus-braguette-quand-l-etat-nounou-fabrique-une-usine-a-gaz-pour-raccommoder-votre-pantalon-20260817",
-    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/08/17/e35d3504b96945b4fb9506ee4792dfea956bea5c8cd6a0cb7463f92a34594c24.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-18T03:43:58.111411+00:00"
-  },
-  {
-    "source": "Le Figaro",
     "title": "Présidentielle 2027 : Gérald Darmanin apporte son soutien à Édouard Philippe",
     "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielles-2027-gerald-darmanin-apporte-son-soutien-a-edouard-philippe-20260817",
     "summary": "Le ministre de la Justice dit renoncer à se présenter devant les Français lors de la prochaine élection et ne souhaite pas «rajouter de la division», dans un entretien publié lundi par La Voix du Nord.",
@@ -3203,6 +3925,21 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-08-18T09:33:20.722694+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Iran : deux graphistes placés en détention après une rencontre avec des diplomates français",
+    "link": "https://www.lefigaro.fr/international/iran-deux-graphistes-places-en-detention-apres-une-rencontre-avec-des-diplomates-francais-20260817",
+    "summary": "Dans un communiqué, les proches d’Aria Kasaei et d’Elahe «Elly» Naghilou expliquent que ces derniers ont été interpellés pendant qu’ils participaient à une réunion avec deux diplomates de l’ambassade de France, qui avaient été eux-mêmes arrêtés avant d’être libérés.",
+    "published": "2026-08-17T16:31:21+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/iran-deux-graphistes-places-en-detention-apres-une-rencontre-avec-des-diplomates-francais-20260817",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/17/b804c6cc5a794a68678f53125fc4a823e7c8adfb5847fb95e59b09d50af176c1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091766+00:00"
   },
   {
     "source": "Le Monde",
@@ -28744,21 +29481,6 @@
   },
   {
     "source": "Libération",
-    "title": "«Je voulais créer un espace de compassion» : rencontre avec Tim Berners-Lee, l’inventeur du Web",
-    "link": "https://www.liberation.fr/economie/economie-numerique/je-voulais-creer-un-espace-de-compassion-rencontre-avec-tim-berners-lee-linventeur-du-web-20260809_U4JF624SCBCETCJZTHXFAYUURQ/",
-    "summary": "L’informaticien qui a rendu Internet gratuit et accessible à tous dans les années 90 en est aujourd’hui l’un de ses plus sévères critiques. Face aux perturbations de l’IA, le septuagénaire, incorrigible optimiste, veut croire que «rien n’est joué».",
-    "published": "2026-08-09T10:33:00+00:00",
-    "authors": [
-      "Elise Viniacourt"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/economie/economie-numerique/je-voulais-creer-un-espace-de-compassion-rencontre-avec-tim-berners-lee-linventeur-du-web-20260809_U4JF624SCBCETCJZTHXFAYUURQ/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-08-10T13:08:12.298706+00:00"
-  },
-  {
-    "source": "Libération",
     "title": "Sur le chemin de Compostelle, la rando solo, voie d’émancipation féministe",
     "link": "https://www.liberation.fr/societe/droits-des-femmes/sur-le-chemin-de-compostelle-la-rando-solo-voie-demancipation-feministe-20260809_RXCZSPNEXFDDDDOWLWZBRUFP2Q/",
     "summary": "De plus en plus de femmes parcourent seules les chemins de Saint-Jacques-de-Compostelle. Au-delà des histoires individuelles, se dessine une quête de liberté pour reprendre possession de son temps.",
@@ -33759,6 +34481,21 @@
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/07/0e955be6c8f68c9db98486264aec101b217c5f8ce8df26175fca21a141f042a0.jpg",
     "full_text": null,
     "fetched_at": "2026-08-07T15:55:58.660480+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Si j’avais su… je n’aurais pas acheté une résidence secondaire » : ces parents face au mirage de la maison de famille",
+    "link": "https://www.lefigaro.fr/actualite-france/si-j-avais-su-je-n-aurais-pas-achete-une-residence-secondaire-ces-parents-face-au-mirage-de-la-maison-de-famille-20260515",
+    "summary": "SI J’AVAIS SU - Ils imaginaient un point d’ancrage, un refuge. Les enfants y reviendraient, portés par les souvenirs de vacances à la campagne, la mer ou la montagne. Mais l’attachement ne se décrète pas plus que les week-ends libres d’une progéniture devenue adulte.",
+    "published": "2026-08-07T14:50:29+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/si-j-avais-su-je-n-aurais-pas-achete-une-residence-secondaire-ces-parents-face-au-mirage-de-la-maison-de-famille-20260515",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/05/21/7991e0616faa5c5b0426bba06c55306091a36e2ab70efe9042ee2b5e1b3372fc.png",
+    "full_text": null,
+    "fetched_at": "2026-08-18T18:37:41.091738+00:00"
   },
   {
     "source": "Le Figaro",
