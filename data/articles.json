@@ -1,16 +1,502 @@
 [
   {
+    "source": "Le Figaro",
+    "title": "Quelles sont les villes les plus (et les moins) stressantes de France en 2026 ? Découvrez notre palmarès",
+    "link": "https://www.lefigaro.fr/actualite-france/quelles-sont-les-villes-les-plus-et-les-moins-stressantes-de-france-en-2026-decouvrez-notre-palmares-20260821",
+    "summary": "EXCLUSIF - Nous avons comparé 100 villes de France sur la base de 19 critères pour mesurer l’exposition au stress subie par les habitants : environnement, exposition au bruit, habitudes de vie, transports en commun... Consultez les résultats de votre commune.",
+    "published": "2026-08-21T06:44:14+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/quelles-sont-les-villes-les-plus-et-les-moins-stressantes-de-france-en-2026-decouvrez-notre-palmares-20260821",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/17/6d3e728ed48af5915147d298f0143a521cea336d58098284b06573edf0b56ac6.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954568+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le Japon proteste contre des essais de missiles russes prévus au large des îles Kouriles, visitées par Vladimir Poutine",
+    "link": "https://www.lefigaro.fr/international/le-japon-proteste-contre-des-essais-de-missiles-russes-prevus-au-large-des-iles-kouriles-visitees-par-vladimir-poutine-20260821",
+    "summary": "Les relations russo-japonaises sont depuis longtemps marquées par les tensions autour des îles Kouriles, connues au Japon sous le nom de «Territoires du Nord» et considérées comme occupées par l’Union soviétique en 1945.",
+    "published": "2026-08-21T06:39:34+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/le-japon-proteste-contre-des-essais-de-missiles-russes-prevus-au-large-des-iles-kouriles-visitees-par-vladimir-poutine-20260821",
+    "image": "https://i.f1g.fr/media/cms/3000x2116_crop/2026/08/21/07e26d951bb1bc5998885759abbdb0d3e82927ee85bb090748384ffc2f943c3b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954355+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Vigilance orange orages sur une partie de la France, le gouvernement renonce à doubler les franchises médicales, vote indicatif pour désigner le prochain chef de l’ONU… L’actu de ce vendredi 21 août au matin",
+    "link": "https://www.liberation.fr/international/europe/vigilance-orange-orages-sur-une-partie-de-la-france-le-gouvernement-renonce-a-doubler-les-franchises-medicales-vote-indicatif-pour-designer-le-prochain-chef-de-lonu-lactu-de-ce-vendredi-21-aout-au-matin-20260821_CEYY6F7FMNDW3MIB375GUS556I/",
+    "summary": "La rédaction de «Libération» compile les principales infos du jour",
+    "published": "2026-08-21T06:38:54+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/vigilance-orange-orages-sur-une-partie-de-la-france-le-gouvernement-renonce-a-doubler-les-franchises-medicales-vote-indicatif-pour-designer-le-prochain-chef-de-lonu-lactu-de-ce-vendredi-21-aout-au-matin-20260821_CEYY6F7FMNDW3MIB375GUS556I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.121778+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Les États-Unis annoncent une nouvelle salve de sanctions contre Cuba et maintiennent leur pression maximale sur l’île",
+    "link": "https://www.lefigaro.fr/international/les-etats-unis-annoncent-une-nouvelle-salve-de-sanctions-contre-cuba-et-maintiennent-leur-pression-maximale-sur-l-ile-20260821",
+    "summary": "Ces entités, principalement dans les secteurs minier et métallurgique, «soutiennent l’appareil répressif du régime en exerçant un contrôle sur des secteurs économiques clés», a indiqué le secrétaire d’État américain, Marco Rubio, dans un communiqué.",
+    "published": "2026-08-21T06:37:46+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/les-etats-unis-annoncent-une-nouvelle-salve-de-sanctions-contre-cuba-et-maintiennent-leur-pression-maximale-sur-l-ile-20260821",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/21/bcc1cf5ba2158e10fe4ad324f31ea46b71fa3c41c1dea77bdf08c894c34790d5.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954413+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Six départements placés en alerte orange pour les orages, de «violentes rafales» attendues : découvrez la météo du vendredi 21 août",
+    "link": "https://www.lefigaro.fr/meteo/des-orages-dans-le-sud-est-des-temperatures-qui-baissent-decouvrez-la-meteo-du-vendredi-21-aout-20260820",
+    "summary": "La France retrouve des températures beaucoup plus respirables après les fortes chaleurs. Le temps reste néanmoins très agité dans le sud-est, avec de violents orages encore possibles.",
+    "published": "2026-08-21T06:27:56+00:00",
+    "authors": [],
+    "categories": [
+      "Météo"
+    ],
+    "guid": "https://www.lefigaro.fr/meteo/des-orages-dans-le-sud-est-des-temperatures-qui-baissent-decouvrez-la-meteo-du-vendredi-21-aout-20260820",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/20/2900586f1db01a1e98817ce331891622fcf48837d6b4c4ab672c1e21d3e9e9ee.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954158+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Jusqu’à 11h30 de retard : le trafic des TGV perturbé au sud de Bordeaux après un problème électrique",
+    "link": "https://www.lefigaro.fr/conjoncture/jusqu-a-11h30-de-retard-le-trafic-des-tgv-perturbe-au-sud-de-bordeaux-apres-un-probleme-electrique-20260821",
+    "summary": "Un «défaut d’alimentation électrique» perturbe la circulation des trains entre Dax et Bordeaux depuis jeudi soir. Des trains sont encore annulés ce vendredi matin.",
+    "published": "2026-08-21T06:23:00+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/jusqu-a-11h30-de-retard-le-trafic-des-tgv-perturbe-au-sud-de-bordeaux-apres-un-probleme-electrique-20260821",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/08/21/c37a02a0b6a5f42cd516aeb9abf27fb02bdf8988fdbe3e5684a081229e25db31.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954383+00:00"
+  },
+  {
     "source": "Le Monde",
-    "title": "Malgré un été de tous les records, le refus d’obstacle de la classe politique face à l’urgence climatique",
+    "title": "Au Pakistan, Imran Khan, ancien premier ministre, a été reconduit en prison après son transfert à l’hôpital",
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/au-pakistan-imran-khan-ancien-premier-ministre-a-ete-reconduit-en-prison-apres-son-transfert-a-l-hopital_6751709_3210.html",
+    "summary": "A la fin de 2025, M. Khan et son épouse, Bushra Bibi, ont été condamnés à dix-sept ans de prison pour des faits de corruption qu’ils contestent tous les deux, estimant que les poursuites sont motivées par des considérations politiques.",
+    "published": "2026-08-21T06:20:12+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/21/au-pakistan-imran-khan-ancien-premier-ministre-a-ete-reconduit-en-prison-apres-son-transfert-a-l-hopital_6751709_3210.html",
+    "image": "https://img.lemde.fr/2026/08/20/547/0/4528/2264/644/322/60/0/1c0dcd7_ftp-1-zqf0ovqo0r2p-78d9aafdf33a4e63900d645a2d95cc38-0-12336a445ee54b1985a46e3bcb52cd78.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.010285+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Christophe Bonneuil : «L’écologisation de nos sociétés industrielles est une bataille permanente»",
+    "link": "https://www.liberation.fr/idees-et-debats/christophe-bonneuil-lecologisation-de-nos-societes-industrielles-est-une-bataille-permanente-20260821_KGTYUHX27BEJ7JMT2NA6YZ24AI/",
+    "summary": "Coauteur d’une histoire environnementale de la France depuis 1940, le chercheur retrace la longue saga des mobilisations écologiques, de l’Hexagone à l’outre-mer. Et pointe la relative surdité du pouvoir face à ces sujets.",
+    "published": "2026-08-21T06:18:00+00:00",
+    "authors": [
+      "Thibaut Sardier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/christophe-bonneuil-lecologisation-de-nos-societes-industrielles-est-une-bataille-permanente-20260821_KGTYUHX27BEJ7JMT2NA6YZ24AI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.121817+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Du jamais-vu depuis le début des relevés météo… Pourquoi ce vendredi marque la fin d’une série historique",
+    "link": "https://www.lefigaro.fr/meteo/du-jamais-vu-depuis-le-debut-des-releves-meteo-pourquoi-ce-vendredi-marquera-t-il-la-fin-d-une-serie-historique-20260820",
+    "summary": "INFOGRAPHIE - Un cycle exceptionnel de soixante-dix jours consécutifs, commencé il y a plus de deux mois, devrait s’arrêter ce vendredi.",
+    "published": "2026-08-21T06:15:10+00:00",
+    "authors": [],
+    "categories": [
+      "Météo"
+    ],
+    "guid": "https://www.lefigaro.fr/meteo/du-jamais-vu-depuis-le-debut-des-releves-meteo-pourquoi-ce-vendredi-marquera-t-il-la-fin-d-une-serie-historique-20260820",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/20/97aea97d5bbae878c44a3b1fab0e684826246b6408ef913c9549b0a57b571ade.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954117+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Charente-Maritime, des maisons proches d’une usine d’engrais découvrent que leurs jardins sont pollués par du plomb, du cadmium et de l’arsenic",
+    "link": "https://www.lemonde.fr/planete/article/2026/08/21/en-charente-maritime-la-pollution-des-sols-rend-des-dizaines-de-maisons-inhabitables-une-usine-d-engrais-sommee-d-agir_6751676_3244.html",
+    "summary": "Sur 92 parcelles analysées dans ce lotissement résidentiel de la cité de la Coudre, à Tonnay-Charente, près de la moitié présentent « un état des sols incompatible avec les usages résidentiels et l’autoproduction alimentaire », dit la préfecture.",
+    "published": "2026-08-21T06:14:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/08/21/en-charente-maritime-la-pollution-des-sols-rend-des-dizaines-de-maisons-inhabitables-une-usine-d-engrais-sommee-d-agir_6751676_3244.html",
+    "image": "https://img.lemde.fr/2026/08/21/653/0/7835/3917/644/322/60/0/f21e8db_upload-1-303u9z8qbdto-maxnewsworldseven280212.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.010124+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Orages : la Corse, le Var et les Alpes-Maritimes en vigilance orange",
+    "link": "https://www.liberation.fr/environnement/climat/orages-la-corse-le-var-et-les-alpes-maritimes-en-vigilance-orange-20260821_CT45GKQPL5HD3BIDETXSFBAKGQ/",
+    "summary": "Des vents jusqu’à 120 km/h pourraient toucher ces départements. En Corse, plus de 1 300 campeurs ont été mis à l’abri et plusieurs vols au départ d’Ajaccio ont été annulés.",
+    "published": "2026-08-21T06:10:57+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/orages-la-corse-le-var-et-les-alpes-maritimes-en-vigilance-orange-20260821_CT45GKQPL5HD3BIDETXSFBAKGQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.121847+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«J’ai voté pour Mélenchon et…» Paroles d’électeurs, convaincus ou non, de revoter pour lui en 2027",
+    "link": "https://www.liberation.fr/politique/jai-vote-pour-melenchon-et-paroles-delecteurs-convaincus-ou-non-de-revoter-pour-lui-en-2027-20260821_PCY7XAQRRBH3LMXSXXLSHLSSMQ/",
+    "summary": "Que ce soit parce qu’ils sont séduits par le programme, détestent ses provocations ou qu’ils pensent qu’il sera «utile» de voter ou de se détourner du candidat insoumis à la présidentielle, plusieurs électeurs expliquent leur choix à «Libé».",
+    "published": "2026-08-21T06:08:00+00:00",
+    "authors": [
+      "Vincent Martins, Enzo Magny"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/jai-vote-pour-melenchon-et-paroles-delecteurs-convaincus-ou-non-de-revoter-pour-lui-en-2027-20260821_PCY7XAQRRBH3LMXSXXLSHLSSMQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.121880+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Fusiliers marins : une tradition guerrière face aux conflits de demain",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/fusiliers-marins-une-tradition-guerriere-face-aux-conflits-de-demain",
+    "summary": "Le 14 juillet 2026 eu une résonance particulière pour les fusiliers marins. Créé le 5 juin 1856, ce corps d’élite de la Marine nationale célèbre cette année le 170e anniversaire de sa... L’article Fusiliers marins : une tradition guerrière face aux conflits de demain est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-08-21T06:00:12+00:00",
+    "authors": [
+      "Maxime Coupeau"
+    ],
+    "categories": [
+      "Non classé",
+      "armée française",
+      "commandos",
+      "défense",
+      "Forces spéciales",
+      "Marine nationale"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/fusiliers-marins-une-tradition-guerriere-face-aux-conflits-de-demain",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.270201+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Cible des LGBTQ+, accusée de « privilège blanc » : Sophie Cunningham, la basketteuse antiwoke qui enflamme l’Amérique",
+    "link": "https://www.lefigaro.fr/sports/basket/cible-des-lgbtq-accusee-de-privilege-blanc-sophie-cunningham-la-basketteuse-antiwoke-qui-enflamme-l-amerique-20260821",
+    "summary": "PORTRAIT - Depuis quelques mois, le basket américain féminin atteint une popularité inédite. Elle le doit à plusieurs excellentes joueuses blanches, qui suscitent des jalousies aux ressorts raciaux.",
+    "published": "2026-08-21T06:00:00+00:00",
+    "authors": [],
+    "categories": [
+      "Basket"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/basket/cible-des-lgbtq-accusee-de-privilege-blanc-sophie-cunningham-la-basketteuse-antiwoke-qui-enflamme-l-amerique-20260821",
+    "image": "https://i.f1g.fr/media/cms/1906x1072_crop/2026/08/20/af79cd5a69fde1ce459d9ea5642ccc11893274a769a76f967b84a80d77c6fb0c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954318+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Les nuits à 15 degrés changent la donne» : destination anti-canicule, la Normandie a fait un carton cet été",
+    "link": "https://www.lefigaro.fr/voyages/guides/les-nuits-a-15-degres-changent-la-donne-destination-anti-canicule-la-normandie-a-fait-un-carton-cet-ete-20260821",
+    "summary": "DÉCRYPTAGE - Nuits fraîches, tarifs maîtrisés et nouveaux marchés émetteurs : cet été, la Normandie confirme son attractivité avec 12,2 millions de nuitées en juillet.",
+    "published": "2026-08-21T06:00:00+00:00",
+    "authors": [],
+    "categories": [
+      "Guides"
+    ],
+    "guid": "https://www.lefigaro.fr/voyages/guides/les-nuits-a-15-degres-changent-la-donne-destination-anti-canicule-la-normandie-a-fait-un-carton-cet-ete-20260821",
+    "image": "https://i.f1g.fr/media/cms/2656x1494_crop/2026/08/20/38b70a020ec57abb1b71bac780b68a3d0681021600c6ad5131d907f35bd3259b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954508+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Etudiants en galère d’appart : «Parfois, je remets tout en question... Est-ce que j’arrête les études ? »",
+    "link": "https://www.liberation.fr/lifestyle/argent-boulot/etudiants-en-galere-dappart-parfois-je-remets-tout-en-question-est-ce-que-jarrete-les-etudes-20260821_3NK7XTQYO5HBJGUBRFI7KDF5VE/",
+    "summary": "Comment profiter de son été quand on ne sait pas où l’on vivra en septembre à la reprise des cours ? Dans notre cinquième épisode, Elaia a dû changer de ville où étudier faute de trouver un logement.",
+    "published": "2026-08-21T05:55:00+00:00",
+    "authors": [
+      "Zoé Ternoy"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/argent-boulot/etudiants-en-galere-dappart-parfois-je-remets-tout-en-question-est-ce-que-jarrete-les-etudes-20260821_3NK7XTQYO5HBJGUBRFI7KDF5VE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.121913+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La situation climatique est radicale : notre responsabilité doit être à sa hauteur, par les maires de Grenoble, de Lyon et de Tours",
+    "link": "https://www.liberation.fr/idees-et-debats/la-situation-climatique-est-radicale-notre-responsabilite-doit-etre-a-sa-hauteur-par-les-maires-de-grenoble-de-lyon-et-de-tours-20260821_2EZSIIZJCVFXRGTN2OAVENEYZE/",
+    "summary": "A moins d’un an de la présidentielle, trois maires écologistes appellent à un sursaut national : la radicalité du péril climatique, que cet été caniculaire illustre, exige une réponse forte, font valoir les maires Ruffin, Doucet et Denis.",
+    "published": "2026-08-21T05:34:00+00:00",
+    "authors": [
+      "Laurence Ruffin, Grégory Doucet, et Emmanuel Denis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/la-situation-climatique-est-radicale-notre-responsabilite-doit-etre-a-sa-hauteur-par-les-maires-de-grenoble-de-lyon-et-de-tours-20260821_2EZSIIZJCVFXRGTN2OAVENEYZE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.121948+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mi-Daredevil, mi-Zidane : qui est Frédéric Villeroux, le serial buteur des Bleus de cécifoot ?",
+    "link": "https://www.liberation.fr/sports/football/mi-daredevil-mi-zidane-qui-est-frederic-villeroux-le-serial-buteur-des-bleus-de-cecifoot-20260821_E2BDAF3RCNEWDDHWS6CBNIXUPU/",
+    "summary": "Au moment où la France s’apprête à disputer la demi-finale de l’Euro, face à l’Italie ce vendredi soir, le discret numéro 10 prend toute la lumière. Son aisance ballon au pied et ses exploits enflamment les réseaux sociaux.",
+    "published": "2026-08-21T05:25:00+00:00",
+    "authors": [
+      "Julien Lecot"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/football/mi-daredevil-mi-zidane-qui-est-frederic-villeroux-le-serial-buteur-des-bleus-de-cecifoot-20260821_E2BDAF3RCNEWDDHWS6CBNIXUPU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.122003+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Une ministre suédoise d’origine palestinienne suscite la polémique en portant une étoile de David pour dénoncer l’antisémitisme",
+    "link": "https://www.lefigaro.fr/international/une-ministre-suedoise-d-origine-palestinienne-suscite-la-polemique-en-portant-une-etoile-de-david-pour-denoncer-l-antisemitisme-20260820",
+    "summary": "Lors d’un débat électoral lundi 17 août, Simona Mohamsson, ministre libérale de l’Éducation et de l’Intégration a porté un collier orné de l’étoile de David «pour les enfants qui n’osent pas le faire». S’attirant les foudres des réseaux sociaux.",
+    "published": "2026-08-21T05:05:52+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/une-ministre-suedoise-d-origine-palestinienne-suscite-la-polemique-en-portant-une-etoile-de-david-pour-denoncer-l-antisemitisme-20260820",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/21/8828d3032ce9d71cae857c7e6c12d6f5496ac90e3b9b971ccf3e4841049ec67e.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954290+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Avec le taux d’emprunt record de la France, le crédit immobilier risque-t-il de vous coûter plus cher ?",
+    "link": "https://immobilier.lefigaro.fr/article/avec-le-taux-d-emprunt-record-de-la-france-le-credit-immobilier-risque-t-il-de-vous-couter-plus-cher-20260821",
+    "summary": "DÉCRYPTAGE - Une dette record et un déficit contrôlable, sans oublier le dossier brûlant du budget 2027 : ce cocktail explosif fait craindre une envolée des taux de crédit immobilier.",
+    "published": "2026-08-21T05:00:00+00:00",
+    "authors": [],
+    "categories": [
+      "Immobilier"
+    ],
+    "guid": "https://immobilier.lefigaro.fr/article/avec-le-taux-d-emprunt-record-de-la-france-le-credit-immobilier-risque-t-il-de-vous-couter-plus-cher-20260821",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/20/1de20d9473c70b64f116a9bc79c74f7a0bc5110fa9c8f0f042d12e51d2465958.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954256+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Archie et Lilibet face à George, Charlotte et Louis : quand une génération d’enfants hérite d’une brouille familiale",
+    "link": "https://madame.lefigaro.fr/celebrites/actu-people/archie-et-lilibet-face-a-george-charlotte-et-louis-quand-une-generation-d-enfants-herite-d-une-brouille-familiale-20260821",
+    "summary": "Six ans après avoir quitté leurs fonctions royales pour vivre en Californie, Harry et Meghan s’apprêtent à revenir au Royaume-Uni avec leurs enfants. Archie et Lilibet vont se rapprocher de leur famille paternelle. Et peut-être de leurs cousins George, Charlotte et Louis.",
+    "published": "2026-08-21T05:00:00+00:00",
+    "authors": [],
+    "categories": [
+      "Actu people"
+    ],
+    "guid": "https://madame.lefigaro.fr/celebrites/actu-people/archie-et-lilibet-face-a-george-charlotte-et-louis-quand-une-generation-d-enfants-herite-d-une-brouille-familiale-20260821",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/20/8ddb18b19bdd589387028501e1a9266356c3091990ed1b5b04167a389969e4d1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954653+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Entre Anne Lauvergeon et Henri Proglio, un combat de haut volt",
+    "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/entre-anne-lauvergeon-et-henri-proglio-un-combat-de-haut-volt-20260821_YPYJI5SGK5BIVMWM34CL6U3L54/",
+    "summary": "L’affrontement entre ces deux chefs d’entreprise, qui voulaient, l’une à la tête d’Areva, l’autre d’EDF, devenir les champions du nucléaire français a été d’une rare violence. Et n’aura laissé aucun rescapé.",
+    "published": "2026-08-21T05:00:00+00:00",
+    "authors": [
+      "Alexandra Schwartzbrod"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/entre-anne-lauvergeon-et-henri-proglio-un-combat-de-haut-volt-20260821_YPYJI5SGK5BIVMWM34CL6U3L54/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.122037+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "link": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
+    "summary": "Deux femmes ont été tuées au cours de la nuit de jeudi à vendredi, dans le village de Lebiaje, dans le district ukrainien de Tchouhouïv, lors d’une attaque de drones, a annoncé le chef de l’administration militaire de l’oblast de Kharkiv.",
+    "published": "2026-08-21T04:46:53+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/08/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6746952_3210.html",
+    "image": "https://img.lemde.fr/2026/08/20/249/0/3315/1657/644/322/60/0/02e2e59_ftp-1-ya417qsqc1ng-2026-08-20t192412z-582618167-rc2h2napmemk-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.009910+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le navire de Charles Ier, chargé de richesses d’une valeur de «centaines de millions» d’euros, aurait été retrouvé au large de l’Écosse",
+    "link": "https://www.lefigaro.fr/international/le-navire-de-charles-ier-charge-des-richesses-d-une-valeur-de-centaines-de-millions-d-euros-aurait-ete-retrouve-au-large-de-l-ecosse-20260820",
+    "summary": "Le Blessing of Burntisland, qui a sombré en 1633 avec sa cargaison royale, aurait été localisé par une équipe de chercheurs. Des analyses supplémentaires doivent encore être menées afin de confirmer son identification.",
+    "published": "2026-08-21T04:40:47+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/le-navire-de-charles-ier-charge-des-richesses-d-une-valeur-de-centaines-de-millions-d-euros-aurait-ete-retrouve-au-large-de-l-ecosse-20260820",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/08/21/26b084b827aaf2562961b0c061f0d9db7e9944e194b3086c1bc456abad5c39a9.JPG",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:33.954227+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Avec « It Goes On », Westside Cowboy sort un premier album prometteur, entre influences nord-américaines et ancrage local",
+    "link": "https://www.lemonde.fr/culture/article/2026/08/21/avec-it-goes-on-westside-cowboy-sort-un-premier-album-prometteur-entre-influences-nord-americaines-et-ancrage-local_6751609_3246.html",
+    "summary": "Après plus de deux ans à écumer les petites scènes du pays, les quatre musiciens de Manchester ont enregistré dans des conditions proches du live pour conserver l’énergie brute qui les caractérise et la spontanéité qui irradie leur musique.",
+    "published": "2026-08-21T04:30:08+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/08/21/avec-it-goes-on-westside-cowboy-sort-un-premier-album-prometteur-entre-influences-nord-americaines-et-ancrage-local_6751609_3246.html",
+    "image": "https://img.lemde.fr/2026/08/17/381/0/2500/1250/644/322/60/0/a1bb6ea_upload-1-w3ywjlpr9cst-westsidecowboy-clementineschneidermann-10mb.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.010311+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pour loger les étudiants, les architectes ont plus d’une tour dans leur sac",
+    "link": "https://www.liberation.fr/societe/logement/pour-loger-les-etudiants-les-architectes-ont-plus-dune-tour-dans-leur-sac-20260821_ACU32NXVPVA4JH4LBV2YGGXX4U/",
+    "summary": "Malgré un cahier des charges strict dans les commandes publiques avec des chambres de 18 m², les architectes trouvent souvent des astuces pour agrandir le lieu et rompre la monotonie.",
+    "published": "2026-08-21T04:22:00+00:00",
+    "authors": [
+      "Marie-Eve Lacasse"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/logement/pour-loger-les-etudiants-les-architectes-ont-plus-dune-tour-dans-leur-sac-20260821_ACU32NXVPVA4JH4LBV2YGGXX4U/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.122065+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Rentrée à gauche : LFI voit le vert à moitié plein",
+    "link": "https://www.liberation.fr/politique/rentrees-a-gauche-lfi-voit-le-vert-a-moitie-plein-20260821_IAPOUCK6F5HWDOJX5BFHOSWWPA/",
+    "summary": "Alors qu’elles ont démarré jeudi leurs universités d’été avec l’ambition d’afficher leur «force», les troupes de Jean-Luc Mélenchon poursuivent leur opération séduction des Ecologistes.",
+    "published": "2026-08-21T04:10:00+00:00",
+    "authors": [
+      "Sacha Nelken"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/rentrees-a-gauche-lfi-voit-le-vert-a-moitie-plein-20260821_IAPOUCK6F5HWDOJX5BFHOSWWPA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.122092+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La complainte d’Harpagon dans « L’Avare » jouée par Denis Podalydès : « Il faut se sacrifier pour le texte »",
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/la-complainte-d-harpagon-dans-l-avare-jouee-par-denis-podalydes-il-faut-se-sacrifier-pour-le-texte_6751574_3451060.html",
+    "summary": "« Anatomie d’un monologue » (5/7). En 2009, Catherine Hiegel met en scène, à la Comédie-Française, l’acteur, alors âgé de 46 ans, dans le rôle du plus pingre des héros du répertoire classique.",
+    "published": "2026-08-21T04:00:36+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/la-complainte-d-harpagon-dans-l-avare-jouee-par-denis-podalydes-il-faut-se-sacrifier-pour-le-texte_6751574_3451060.html",
+    "image": "https://img.lemde.fr/2026/06/10/918/0/2832/1416/644/322/60/0/d8e19c4_upload-1-fewsfbpkcqfy-divergence-ben0073006.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.010037+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« L’interdiction d’accès des mineurs aux réseaux sociaux relève d’une mesure de protection d’urgence de la santé comme de la liberté de nos enfants »",
+    "link": "https://www.lemonde.fr/idees/article/2026/08/21/l-interdiction-d-acces-des-mineurs-aux-reseaux-sociaux-releve-d-une-mesure-de-protection-d-urgence-de-la-sante-comme-de-la-liberte-de-nos-enfants_6751569_3232.html",
+    "summary": "Les données scientifiques et les observations de terrain établissent les effets néfastes des plateformes numériques addictives sur la santé physique et mentale des jeunes, affirment, dans une tribune au « Monde », Amine Benyamina et Servane Mouton, coprésidents de la commission enfants et écrans.",
+    "published": "2026-08-21T04:00:12+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/08/21/l-interdiction-d-acces-des-mineurs-aux-reseaux-sociaux-releve-d-une-mesure-de-protection-d-urgence-de-la-sante-comme-de-la-liberte-de-nos-enfants_6751569_3232.html",
+    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/2ecefe2_upload-1-ybqo9em8qztm-frame-1051.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.010230+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Israël, avant les élections législatives d’octobre, la sortie de la guerre est absente des esprits comme des programmes",
+    "link": "https://www.lemonde.fr/international/article/2026/08/21/en-israel-la-sortie-de-la-guerre-est-absente-des-esprits-comme-des-programmes-avant-les-elections-legislatives-d-octobre_6751571_3210.html",
+    "summary": "Les enquêtes d’opinion dressent le portrait d’une société qui perd espoir dans son avenir sans voir d’alternative au recours à la force. Les candidats se gardent d’apparaître moins crédibles sur les enjeux de sécurité que le premier ministre, Benyamin Nétanyahou.",
+    "published": "2026-08-21T04:00:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/08/21/en-israel-la-sortie-de-la-guerre-est-absente-des-esprits-comme-des-programmes-avant-les-elections-legislatives-d-octobre_6751571_3210.html",
+    "image": "https://img.lemde.fr/2026/07/16/630/0/5775/2887/644/322/60/0/37a20c8_upload-1-t6un4sm5lsnb-ll-tel-aviv-08.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.009881+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Fouilles humiliantes», «chants suprémacistes»... Le Conseil d’Etat examine le recours de Darmanin sur les violences à la prison de Condé-sur-Sarthe",
+    "link": "https://www.liberation.fr/societe/police-justice/fouilles-humiliantes-chants-supremacistes-le-conseil-detat-examine-le-recours-de-darmanin-sur-les-violences-a-la-prison-de-conde-sur-sarthe-20260821_SOBUARCN5NAONK3WSTBS4BN35E/",
+    "summary": "Le garde des Sceaux entend faire annuler l’ordonnance du tribunal administratif de Caen lui intimant de «faire cesser des comportements contraires à la déontologie». Un bras de fer entre l’administration et la défense des droits des détenus.",
+    "published": "2026-08-21T04:00:00+00:00",
+    "authors": [
+      "Anaïs Condomines"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/fouilles-humiliantes-chants-supremacistes-le-conseil-detat-examine-le-recours-de-darmanin-sur-les-violences-a-la-prison-de-conde-sur-sarthe-20260821_SOBUARCN5NAONK3WSTBS4BN35E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.122125+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Quiz : connaissez-vous vraiment «la Cité de la peur» par cœur ?",
+    "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-connaissez-vous-vraiment-la-cite-de-la-peur-par-coeur-20260821_3VLOR75SYBDNRDUMQYBVWV7YLE/",
+    "summary": "(29/30) Quelle était la première voiture d’Odile Deray ? Que n’est PAS «la Carioca» ? Comment est mort le père du commissaire Bialès ?",
+    "published": "2026-08-21T04:00:00+00:00",
+    "authors": [
+      "Julie Coutellier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/quiz-connaissez-vous-vraiment-la-cite-de-la-peur-par-coeur-20260821_3VLOR75SYBDNRDUMQYBVWV7YLE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.122151+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Spider-Man : Brand New Day » et « L’Odyssée », les deux films qui redonnent des couleurs au marché du cinéma en France",
+    "link": "https://www.lemonde.fr/culture/article/2026/08/21/la-spider-mania-et-l-engouement-pour-l-odyssee-redonnent-des-couleurs-au-marche-hexagonal-du-cinema_6751536_3246.html",
+    "summary": "Les deux grands succès de l’été en salle ont déjà chacun dépassé 6 millions de spectateurs, ce qui contribue à doper les prévisions de fréquentation sur l’année.",
+    "published": "2026-08-21T03:40:05+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/08/21/la-spider-mania-et-l-engouement-pour-l-odyssee-redonnent-des-couleurs-au-marche-hexagonal-du-cinema_6751536_3246.html",
+    "image": "https://img.lemde.fr/2026/08/20/938/0/8640/4320/644/322/60/0/b2e930f_upload-1-cfqr5tusx8my-ap26175659241341.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.010175+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques incapables de répondre à l’urgence climatique",
     "link": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
-    "summary": "Alors que la France subit une série d’événements extrêmes, ni l’exécutif ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi posé par les canicules, la sécheresse ou les incendies dévastateurs qui en résultent.",
-    "published": "2026-08-21T03:30:31+00:00",
+    "summary": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi climatique.",
+    "published": "2026-08-21T03:30:30+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html",
     "image": "https://img.lemde.fr/2026/08/18/482/0/4500/2250/644/322/60/0/165623e_upload-1-uvot9eo3qi0a-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-067.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:11.378250+00:00"
+    "fetched_at": "2026-08-21T06:46:34.009845+00:00"
   },
   {
     "source": "Libération",
@@ -25,7 +511,20 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/politique-etrangere-des-etats-unis-les-decisions-de-trump-naugurent-rien-de-bon-pour-lasie-20260821_E7AZNRNNZBEXXE5IC7KL6QLLLM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933625+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122182+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Scott Bessent, le secrétaire américain au Trésor, à l’assaut des marchés obligataires pour faire baisser les taux",
+    "link": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+    "summary": "En annonçant, mercredi 19 août, que le Trésor américain allait doubler ses rachats de dette américaine à long terme, Scott Bessent cherche à faire baisser les taux longs qui financent l’économie des Etats-Unis.",
+    "published": "2026-08-21T03:00:04+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/08/21/scott-bessent-le-secretaire-americain-au-tresor-se-croit-capable-de-defier-la-toute-puissance-des-marches-obligataires_6751496_3234.html",
+    "image": "https://img.lemde.fr/2026/08/20/11/0/5616/2808/644/322/60/0/cde1620_ftp-1-p1rxiaa767ab-0b8c55b1d9b94e969f3003c1955dfe0f-0-4d6ff1b2698e43acb61b993548b8784c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.009969+00:00"
   },
   {
     "source": "Le Monde",
@@ -42,7 +541,7 @@
   },
   {
     "source": "Le Monde",
-    "title": "Basket : Victor Wembanyama se remet doucement à flot, mais les Bleus coulent de peu en Serbie",
+    "title": "Basket : Victor Wembanyama se remet doucement au niveau, mais les Bleus s’inclinent de peu en Serbie",
     "link": "https://www.lemonde.fr/sport/article/2026/08/21/basket-victor-wembanyama-se-remet-doucement-a-flot-mais-les-bleus-coulent-de-peu-en-serbie_6751395_3242.html",
     "summary": "Face à une équipe serbe emmenée par Nikola Jokic, auteur de 20 points, les Bleus ont cédé (90-87) au terme d’une rencontre disputée. Ils retrouveront leur adversaire dimanche, à Orléans, pour un second acte.",
     "published": "2026-08-21T01:03:27+00:00",
@@ -51,7 +550,7 @@
     "guid": "https://www.lemonde.fr/sport/article/2026/08/21/basket-victor-wembanyama-se-remet-doucement-a-flot-mais-les-bleus-coulent-de-peu-en-serbie_6751395_3242.html",
     "image": "https://img.lemde.fr/2026/08/20/0/0/4949/2474/644/322/60/0/816f69e_ftp-1-tjk6qhm20siv-880023893fe2416590775f8e65fc6ae7-0-89a5e1144d31449e898789af79daf53b.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:11.378461+00:00"
+    "fetched_at": "2026-08-21T06:46:34.010199+00:00"
   },
   {
     "source": "Le Figaro",
@@ -84,32 +583,17 @@
     "fetched_at": "2026-08-21T03:50:12.083231+00:00"
   },
   {
-    "source": "Le Figaro",
-    "title": "Le navire de Charles Ier, chargé de richesses d’une valeur de «centaines de millions» d’euros, aurait été retrouvé au large de l’Écosse",
-    "link": "https://www.lefigaro.fr/international/le-navire-de-charles-ier-charge-des-richesses-d-une-valeur-de-centaines-de-millions-d-euros-aurait-ete-retrouve-au-large-de-l-ecosse-20260820",
-    "summary": "Le Blessing of Burntisland, qui a sombré en 1633 avec sa cargaison royale, aurait été localisé par une équipe de chercheurs. Des analyses supplémentaires doivent encore être menées afin de confirmer son identification.",
-    "published": "2026-08-20T21:57:42+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/le-navire-de-charles-ier-charge-des-richesses-d-une-valeur-de-centaines-de-millions-d-euros-aurait-ete-retrouve-au-large-de-l-ecosse-20260820",
-    "image": "https://i.f1g.fr/media/cms/1280x720_crop/2026/08/20/905c659ede55af5865d10250dd47b186344fc4976170546a90a23ed4d386622f.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.083208+00:00"
-  },
-  {
     "source": "Le Monde",
-    "title": "Syrie : l’administration kurde désormais intégrée dans celle de l’Etat",
+    "title": "Syrie : l’administration kurde désormais intégrée dans celle de l’Etat, la fin des espoirs d’autonomie de cette minorité",
     "link": "https://www.lemonde.fr/international/article/2026/08/20/syrie-l-administration-kurde-desormais-integree-dans-celle-de-l-etat_6751362_3210.html",
-    "summary": "Les Kurdes et le régime de Damas avaient conclu en janvier un accord en vertu duquel leurs forces et leurs administrations devaient être progressivement intégrées au sein de l’Etat syrien. « Notre lutte se poursuivra afin de faire inscrire dans la Constitution les droits légitimes de notre peuple », affirme le leader kurde Mazloum Abdi.",
+    "summary": "« Notre lutte se poursuivra afin de faire inscrire dans la Constitution les droits légitimes de notre peuple », a promis le leader kurde Mazloum Abdi.",
     "published": "2026-08-20T21:48:40+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/international/article/2026/08/20/syrie-l-administration-kurde-desormais-integree-dans-celle-de-l-etat_6751362_3210.html",
     "image": "https://img.lemde.fr/2026/08/20/350/0/4200/2100/644/322/60/0/8eb27ca_ftp-1-yutchc1jgycf-5882555-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:11.378652+00:00"
+    "fetched_at": "2026-08-21T06:46:34.010096+00:00"
   },
   {
     "source": "Le Figaro",
@@ -182,7 +666,7 @@
     "guid": "https://www.liberation.fr/international/amerique/au-perou-un-puissant-seisme-frappe-le-sud-du-pays-20260820_2H2L7W3W6FHEPMJPKHVYGZFTSA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933666+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122213+00:00"
   },
   {
     "source": "Le Monde",
@@ -210,7 +694,7 @@
     "guid": "https://www.liberation.fr/economie/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-limmediat-20260820_JV2IG63OXRBF3OU6WJUYJOB3UI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933702+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122246+00:00"
   },
   {
     "source": "Libération",
@@ -225,7 +709,7 @@
     "guid": "https://www.liberation.fr/economie/conso/le-site-de-vente-en-ligne-de-vetements-boohoo-ecope-dune-amende-de-23-millions-deuros-20260820_4BYVE2V2PFETJEN2ISDN7SNHOE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933734+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122280+00:00"
   },
   {
     "source": "Libération",
@@ -240,20 +724,20 @@
     "guid": "https://www.liberation.fr/societe/police-justice/girondins-de-bordeaux-devant-le-tribunal-administratif-une-operation-de-la-derniere-chance-20260820_H5Z6B2IG75GJRN4CKJRVZG5JVY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933772+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122317+00:00"
   },
   {
     "source": "Le Monde",
-    "title": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat, annonce Stéphanie Rist",
+    "title": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat et promet une future réforme « juste »",
     "link": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html",
-    "summary": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé a admis que ce choix avait pu apparaître « brutal ».",
+    "summary": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé, Stéphanie Rist, a admis que ce choix avait pu apparaître « brutal ».",
     "published": "2026-08-20T19:07:56+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html",
     "image": "https://img.lemde.fr/2026/07/22/246/0/2342/1171/644/322/60/0/aa76b82_ftp-1-cb5u2yhzfcqx-2026-07-22t103711z-195579828-rc2yimagd79i-rtrmadp-3-france-politics.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:11.378365+00:00"
+    "fetched_at": "2026-08-21T06:46:34.010071+00:00"
   },
   {
     "source": "Le Monde",
@@ -281,7 +765,7 @@
     "guid": "https://www.liberation.fr/sports/tennis/tennis-carlos-alcaraz-annonce-son-retour-a-la-competition-pour-lus-open-20260820_5PQTFD7YBBEEHGZGI5KKAPJU5Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933805+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122349+00:00"
   },
   {
     "source": "Le Figaro",
@@ -296,7 +780,7 @@
     "guid": "https://www.lefigaro.fr/international/ils-n-ont-pas-atteint-le-statut-de-superstars-qu-ils-visaient-le-mysterieux-retour-de-harry-et-meghan-au-royaume-uni-apres-six-ans-d-exil-20260820",
     "image": "https://i.f1g.fr/media/cms/1912x1075_crop/2026/08/20/17726e625c6a0f3e1c5342be0dac14e63953dca6644859110aed4ed8503351cb.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.082993+00:00"
+    "fetched_at": "2026-08-21T06:46:33.954624+00:00"
   },
   {
     "source": "Libération",
@@ -311,7 +795,7 @@
     "guid": "https://www.liberation.fr/politique/a-grenoble-les-ecologistes-nesquivent-pas-la-question-des-alliances-pour-2027-20260820_6MJDAUW2PFCZTFK7YG3NSJSBLM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933836+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122380+00:00"
   },
   {
     "source": "Libération",
@@ -326,7 +810,7 @@
     "guid": "https://www.liberation.fr/economie/loperation-menace-et-deminage-du-gouvernement-pour-faire-adopter-un-projet-de-loi-de-finances-en-2027-20260820_MAVBD25U7VBZFGGZXJK7K36UPM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933869+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122413+00:00"
   },
   {
     "source": "Le Figaro",
@@ -359,7 +843,7 @@
     "guid": "1341040 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260820-img-edouard-philippe-mayotte.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130482+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996522+00:00"
   },
   {
     "source": "Libération",
@@ -374,7 +858,7 @@
     "guid": "https://www.liberation.fr/international/afrique/apres-deux-mois-dabsence-paul-biya-93-ans-est-rentre-au-cameroun-20260820_7YFB2GDUPJBFNMJUXAM67XBFZE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933898+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122444+00:00"
   },
   {
     "source": "Libération",
@@ -389,7 +873,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/patrick-bruel-persona-non-grata-a-chartres-ou-il-doit-demarrer-sa-tournee-dautomne-le-2-octobre-20260820_U5V3CI7ZFZBNTGHCYOU5H7DRE4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933933+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122477+00:00"
   },
   {
     "source": "Le Figaro",
@@ -423,7 +907,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/olivier-babeau-paris-baisse-t-il",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802076+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270246+00:00"
   },
   {
     "source": "Le Figaro",
@@ -453,7 +937,7 @@
     "guid": "https://www.liberation.fr/economie/incendies-on-va-vers-une-augmentation-reguliere-des-primes-dassurance-habitation-20260820_2OPRCJKWFVDEJJG66WXD6OCILA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933961+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122505+00:00"
   },
   {
     "source": "Libération",
@@ -468,7 +952,7 @@
     "guid": "https://www.liberation.fr/economie/medias/a-france-inter-une-grille-de-rentree-chamboulee-par-la-nouvelle-directrice-20260820_M3IQNWKARJCO3DVZKUSELOSFKU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.933987+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122532+00:00"
   },
   {
     "source": "Le Monde",
@@ -511,7 +995,7 @@
     "guid": "https://www.liberation.fr/international/europe/grece-un-mysterieux-brouillard-recouvre-les-iles-des-cyclades-couverture-20260820_F7OBR7BYH5GBTMCA72PHXW7FIQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934015+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122562+00:00"
   },
   {
     "source": "Le Monde",
@@ -539,7 +1023,20 @@
     "guid": "https://www.liberation.fr/societe/police-justice/mort-de-linfluenceuse-sonia-bellina-lun-des-deux-hommes-en-garde-a-vue-a-ete-libere-20260820_JKV5CC5JBJEGJBZQAHZWX6JLOM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934045+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122594+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Les talibans prêchent la pureté et la moralité, et ils se ruent pour déshabiller les femmes en prison » : les Afghanes au pays de la terreur",
+    "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/20/les-talibans-prechent-la-purete-et-la-moralite-et-ils-se-ruent-pour-deshabiller-les-femmes-en-prison-les-afghanes-au-pays-de-la-terreur_6751163_3451060.html",
+    "summary": "« Paroles d’Afghanes » (5/6). En Afghanistan, le droit est désormais contre les femmes et les filles. Deux nouveaux décrets émis par le régime des talibans légalisent même la violence conjugale et le mariage des enfants.",
+    "published": "2026-08-20T17:30:02+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/series-d-ete/article/2026/08/20/les-talibans-prechent-la-purete-et-la-moralite-et-ils-se-ruent-pour-deshabiller-les-femmes-en-prison-les-afghanes-au-pays-de-la-terreur_6751163_3451060.html",
+    "image": "https://img.lemde.fr/2026/08/17/584/0/7008/3504/644/322/60/0/706c1c2_upload-1-e3d2w4skodjf-afg-2025-04-10-1116.jpg",
+    "full_text": null,
+    "fetched_at": "2026-08-21T06:46:34.009941+00:00"
   },
   {
     "source": "Le Figaro",
@@ -569,7 +1066,7 @@
     "guid": "https://www.liberation.fr/international/asie-du-nord-est-face-a-la-chine-et-la-coree-du-nord-un-air-de-surenchere-nucleaire-a-tokyo-et-seoul-20260820_UXHJO4MVIVAPBJWZYGXUDGJ5UU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934077+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122627+00:00"
   },
   {
     "source": "Libération",
@@ -584,7 +1081,7 @@
     "guid": "https://www.liberation.fr/environnement/une-vision-apocalyptique-une-semaine-au-coeur-du-megafeu-en-gironde-20260820_BKMHPRIOM5GVJL4SH2K234IE34/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934102+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122654+00:00"
   },
   {
     "source": "Libération",
@@ -599,7 +1096,7 @@
     "guid": "https://www.liberation.fr/sports/football/le-climat-cest-notre-plus-grand-defi-apres-un-ete-caniculaire-le-coup-de-chaud-des-jardiniers-des-clubs-de-foot-20260820_QL2HUN4GUNC3XAUO6AUFZ6CQ2Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934133+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122685+00:00"
   },
   {
     "source": "Le Figaro",
@@ -618,7 +1115,7 @@
   },
   {
     "source": "Le Monde",
-    "title": "Mort de Jason Arday : l’université de Gand suspend le chercheur ayant accusé de plagiat le jeune professeur de Cambridge",
+    "title": "Après la mort de Jason Arday, plus jeune professeur noir de Cambridge, un chercheur l’ayant accusé de plagiat a été suspendu par l’université de Gand",
     "link": "https://www.lemonde.fr/international/article/2026/08/20/mort-de-jason-arday-l-universite-de-gand-suspend-le-chercheur-ayant-accuse-de-plagiat-le-jeune-professeur-de-cambridge_6751130_3210.html",
     "summary": "Jason Arday, plus jeune professeur noir de l’université de Cambridge avant sa démission, a été retrouvé mort à son domicile à la mi-août, après des accusations de plagiat, qui ont déchaîné les passions en Grande-Bretagne.",
     "published": "2026-08-20T17:15:22+00:00",
@@ -627,7 +1124,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/08/20/mort-de-jason-arday-l-universite-de-gand-suspend-le-chercheur-ayant-accuse-de-plagiat-le-jeune-professeur-de-cambridge_6751130_3210.html",
     "image": "https://img.lemde.fr/2026/08/18/649/0/6000/3000/644/322/60/0/9992294_ftp-1-ow1odurf02p1-5865643-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:11.378680+00:00"
+    "fetched_at": "2026-08-21T06:46:34.010258+00:00"
   },
   {
     "source": "Libération",
@@ -642,7 +1139,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/trouver-un-logement-etudiant-en-un-seul-mot-segregation-20260820_JCUFDZKCTZE33COP5PIANCFAUI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934162+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122715+00:00"
   },
   {
     "source": "Libération",
@@ -657,7 +1154,7 @@
     "guid": "https://www.liberation.fr/international/europe/on-a-au-minimum-une-dizaine-doperations-a-gerer-en-parallele-au-qg-du-mecanisme-de-protection-civile-de-lue-les-crises-permanentes-20260820_TBUIQNJVXJGOPDJ6GUUMKHFNXY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934192+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122747+00:00"
   },
   {
     "source": "Le Figaro",
@@ -672,22 +1169,7 @@
     "guid": "https://www.lefigaro.fr/bordeaux/si-tout-le-monde-fait-comme-lui-on-va-ou-au-cap-ferret-le-pare-feu-de-bartherotte-fait-debat-apres-le-depot-d-une-plainte-20260820",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/08/20/168007061f42549e0a952b3dddc767a0c822999b73dec76120be07c1b05f5343.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.083262+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Du jamais-vu depuis le début des relevés météo… Pourquoi ce vendredi marquera la fin d’une série historique",
-    "link": "https://www.lefigaro.fr/meteo/du-jamais-vu-depuis-le-debut-des-releves-meteo-pourquoi-ce-vendredi-marquera-t-il-la-fin-d-une-serie-historique-20260820",
-    "summary": "INFOGRAPHIE – Un cycle exceptionnel de soixante-dix jours consécutifs, commencé il y a plus de deux mois, devrait s’arrêter ce vendredi.",
-    "published": "2026-08-20T17:07:47+00:00",
-    "authors": [],
-    "categories": [
-      "Météo"
-    ],
-    "guid": "https://www.lefigaro.fr/meteo/du-jamais-vu-depuis-le-debut-des-releves-meteo-pourquoi-ce-vendredi-marquera-t-il-la-fin-d-une-serie-historique-20260820",
-    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/08/20/97aea97d5bbae878c44a3b1fab0e684826246b6408ef913c9549b0a57b571ade.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.082915+00:00"
+    "fetched_at": "2026-08-21T06:46:33.954446+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -707,7 +1189,7 @@
     "guid": "https://www.valeursactuelles.com/societe/tribune-project-panama-quand-lia-devore-le-livre-le-livre-ne-nourrit-plus-lhomme",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802145+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270303+00:00"
   },
   {
     "source": "Le Monde",
@@ -738,7 +1220,7 @@
     "guid": "1341030 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260820-img-la-liberte-de-navigation-est-censee-prevaloir-dans-les-detroits-internationaux-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130544+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996562+00:00"
   },
   {
     "source": "Mediapart",
@@ -756,7 +1238,7 @@
     "guid": "1341021 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260820-img-le-cauchemar-sans-fin-des-marins-bloques-ormuz-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130584+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996598+00:00"
   },
   {
     "source": "Mediapart",
@@ -774,7 +1256,7 @@
     "guid": "1340970 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260820-img-vieux-durs-et-va-t-en-guerre-six-generaux-nommes-la-tete-du-pouvoir-iranien-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130619+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996632+00:00"
   },
   {
     "source": "Libération",
@@ -789,7 +1271,7 @@
     "guid": "https://www.liberation.fr/societe/logement/logements-pour-les-etudiants-un-monde-sans-toit-ni-loi-20260820_FKRVPOJFTZEZZB3YVC7FBKVIVU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934222+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122778+00:00"
   },
   {
     "source": "Le Monde",
@@ -817,7 +1299,7 @@
     "guid": "https://www.liberation.fr/economie/medias/grilles-de-rentree-les-chaines-ont-la-presidentielle-dans-le-televiseur-20260820_G3SRD34UPZCUFAOKDIIJOE5LLA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934253+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122811+00:00"
   },
   {
     "source": "Le Monde",
@@ -843,7 +1325,7 @@
     "guid": "https://www.lemonde.fr/les-decodeurs/article/2026/08/20/nucleaire-visualisez-l-impact-des-canicules-sur-la-production-des-centrales-francaises_6751125_4355770.html",
     "image": "https://img.lemde.fr/2026/08/11/385/0/4623/2311/644/322/60/0/48f8086_ftp-1-wipmsvc54syw-2026-08-11t101142z-1175658279-rc2awma6hxyb-rtrmadp-3-edf-nuclear.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-20T18:38:52.352003+00:00"
+    "fetched_at": "2026-08-21T06:46:34.010149+00:00"
   },
   {
     "source": "Libération",
@@ -858,7 +1340,7 @@
     "guid": "https://www.liberation.fr/international/europe/mort-de-lenseignant-de-cambridge-jason-arday-luniversite-de-gand-suspend-le-chercheur-qui-la-accuse-de-plagiat-20260820_BJLBAF5MSFBSHMVLHL4QMNQ4MY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934278+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122837+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -879,7 +1361,7 @@
     "guid": "https://www.valeursactuelles.com/economie/ces-stars-ont-touche-des-millions-de-dollars-daides-versees-pendant-le-covid-trump-veut-recuperer-largent",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802209+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270357+00:00"
   },
   {
     "source": "Le Monde",
@@ -907,7 +1389,7 @@
     "guid": "https://www.liberation.fr/international/europe/cyberattaque-a-sfr-vague-de-chaleur-record-orages-dans-le-sud-est-lactu-de-ce-jeudi-20-aout-20260820_7TNRNR54H5BGLEPYHXMFTMYW2M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934302+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122863+00:00"
   },
   {
     "source": "Libération",
@@ -922,22 +1404,7 @@
     "guid": "https://www.liberation.fr/sports/aveyron-ouverture-dune-enquete-apres-la-mort-dune-adolescente-lors-dune-promenade-a-cheval-20260820_VBKIW4CCNVBE3P6F5QEZXYOIQU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934334+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "La météo du vendredi 21 août : neuf départements du Sud-Est en alerte orange",
-    "link": "https://www.lefigaro.fr/meteo/des-orages-dans-le-sud-est-des-temperatures-qui-baissent-decouvrez-la-meteo-du-vendredi-21-aout-20260820",
-    "summary": "La France retrouve des températures beaucoup plus respirables après les fortes chaleurs. Le temps reste néanmoins très agité dans le sud-est, avec de violents orages encore possibles.",
-    "published": "2026-08-20T16:16:54+00:00",
-    "authors": [],
-    "categories": [
-      "Météo"
-    ],
-    "guid": "https://www.lefigaro.fr/meteo/des-orages-dans-le-sud-est-des-temperatures-qui-baissent-decouvrez-la-meteo-du-vendredi-21-aout-20260820",
-    "image": "https://i.f1g.fr/media/cms/orig/2026/08/20/2900586f1db01a1e98817ce331891622fcf48837d6b4c4ab672c1e21d3e9e9ee.jpg",
-    "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.082940+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122900+00:00"
   },
   {
     "source": "Le Figaro",
@@ -967,7 +1434,7 @@
     "guid": "https://www.liberation.fr/societe/logement/la-greve-sarrete-pas-notre-soutien-aux-personnes-a-la-rue-fin-de-deux-mois-de-conflit-au-samu-social-de-paris-20260820_WYJQ2IU6GVB23HARGQG2EVXMBI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934367+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122933+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1003,7 +1470,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/40-ans-dune-union-des-droites-impossible-2013-la-manif-pour-tous-francois-fillon-ou-le-printemps-inacheve-de-la-droite",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802260+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270404+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1046,7 +1513,7 @@
     "guid": "https://www.liberation.fr/international/europe/sabotage-du-gazoduc-nord-stream-un-homme-arrete-sur-le-tournage-dun-film-au-sujet-de-ce-sabotage-20260820_KSMO6UV2UVD4DFDSVF4KJAFKQA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934401+00:00"
+    "fetched_at": "2026-08-21T06:46:34.122963+00:00"
   },
   {
     "source": "Libération",
@@ -1061,7 +1528,7 @@
     "guid": "https://www.liberation.fr/politique/la-justice-francaise-ordonne-lextradition-de-lantifasciste-gino-vers-lallemagne-20260820_JSXH5YJZKNFUZKS4QUTNJGVIBM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934434+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123017+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1076,7 +1543,7 @@
     "guid": "https://www.lefigaro.fr/bordeaux/incendies-en-gironde-face-au-feu-a-l-ocean-et-a-l-etat-benoit-bartherotte-l-irreductible-du-cap-ferret-20260726",
     "image": "https://i.f1g.fr/media/cms/2707x1522_crop/2026/07/25/cda3d5474404b19f88eaef4d912e22f77daad36af6613ac2d3530c81e36a64d4.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.083299+00:00"
+    "fetched_at": "2026-08-21T06:46:33.954483+00:00"
   },
   {
     "source": "Libération",
@@ -1091,7 +1558,7 @@
     "guid": "https://www.liberation.fr/checknews/fuites-de-donnees-a-quel-prix-se-vendent-vos-informations-personnelles-20260820_2W3KQEJYVNGSRNFPA4UFKQ5UXQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934466+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123052+00:00"
   },
   {
     "source": "Le Monde",
@@ -1119,7 +1586,7 @@
     "guid": "https://www.liberation.fr/politique/pour-preparer-sa-rentree-marine-le-pen-avance-bille-en-dette-20260820_XYTLETUXSNE2TFQUGIHGZBA4UM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934495+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123081+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1139,7 +1606,7 @@
     "guid": "https://www.valeursactuelles.com/societe/on-arrive-de-la-ville-aux-sommets-des-montagnes-les-jeunes-issus-de-limmigration-gagnent-les-sentiers-de-randonnee",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802313+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270454+00:00"
   },
   {
     "source": "Le Monde",
@@ -1170,7 +1637,7 @@
     "guid": "1341020 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260820-img-mocaer-perez-pezzani-togo-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130656+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996669+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1246,7 +1713,7 @@
     "guid": "1340996 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260820-img-le-retour-de-pratiques-imperialistes-choque-d-autant-plus-que-nous-vivons-dans-un-monde-d-etats.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130686+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996701+00:00"
   },
   {
     "source": "Libération",
@@ -1261,7 +1728,7 @@
     "guid": "https://www.liberation.fr/plus/speciaux-cahier-ete/guerre-de-succession-le-savoir-hair-des-baronnes-de-rothschild-20260815_HQQI2QLER5AI5O5VERMZ5GRF6M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934542+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123113+00:00"
   },
   {
     "source": "Libération",
@@ -1276,7 +1743,7 @@
     "guid": "https://www.liberation.fr/sciences/espace/des-scientifiques-decouvrent-letoile-la-plus-rapide-de-notre-galaxie-de-quoi-tester-la-theorie-de-la-relativite-deinstein-20260820_GVX4H2WHJJBQ3HGNHAXYSJB2JA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934575+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123142+00:00"
   },
   {
     "source": "Le Monde",
@@ -1309,7 +1776,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/les-aventures-dhenri-danselme-a-la-decouverte-des-joyaux-dauvergne",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802359+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270500+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1354,7 +1821,7 @@
     "guid": "https://www.liberation.fr/international/europe/apres-lannonce-surprise-les-questions-sur-le-retour-du-prince-harry-et-de-son-epouse-meghan-au-royaume-uni-20260820_LQOU6H5KHBHX5EQDR46LFGGUKA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934608+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123177+00:00"
   },
   {
     "source": "Libération",
@@ -1369,7 +1836,7 @@
     "guid": "https://www.liberation.fr/politique/suppression-des-apl-gel-du-rsa-sebastien-lecornu-dement-certaines-des-rumeurs-deconomies-dans-le-budget-2027-20260820_FMHYFV4N4NE6LKVS33ET6Z5MOI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934639+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123208+00:00"
   },
   {
     "source": "Le Monde",
@@ -1412,7 +1879,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/loperateur-sfr-victime-dune-cyberattaque-des-donnees-personnelles-de-ses-abonnes-a-la-fibre-dans-la-nature-20260820_2HDAEASKSFA5JP5CYF4KHCNBGE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934670+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123240+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1442,7 +1909,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/frappes-et-alliances-provocatrices-en-syrie-netanyahou-joue-avec-le-feu-turc-20260820_VJAYXYETI5G7JIBDGEHLCXIJQI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934699+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123270+00:00"
   },
   {
     "source": "Libération",
@@ -1457,7 +1924,7 @@
     "guid": "https://www.liberation.fr/sports/football/crise-a-la-fifa-un-congres-extraordinaire-en-discussion-pour-renverser-gianni-infantino-20260820_DAZFYR67YFBP7IFA6JIGKJVQGU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934732+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123300+00:00"
   },
   {
     "source": "Libération",
@@ -1472,7 +1939,7 @@
     "guid": "https://www.liberation.fr/societe/sexualite-et-genres/annulee-en-juin-en-raison-de-la-canicule-la-marche-des-fiertes-se-tiendra-le-3-octobre-20260820_2H22T25F2ZHPZDXAIZN4LFHZMM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934760+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123328+00:00"
   },
   {
     "source": "Le Monde",
@@ -1503,7 +1970,7 @@
     "guid": "1335480 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/11/260811-img-musees-55-oeuvres-spoliees-dans-les-musees-tous-complices-2.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130716+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996734+00:00"
   },
   {
     "source": "Le Monde",
@@ -1537,7 +2004,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/200-benevoles-une-bande-son-originale-et-la-chateau-dhenri-de-la-rochejaquelein-le-serment-de-la-durbeliere-fait-revivre-huit-siecles-dhistoire",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802415+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270556+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1580,7 +2047,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/le-maire-darcachon-yves-foulon-condamne-pour-menaces-et-violences-contre-son-opposant-ecologiste-20260820_YHSRV4LX4JHTJNXTA27IUYRHU4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:13.934794+00:00"
+    "fetched_at": "2026-08-21T06:46:34.123359+00:00"
   },
   {
     "source": "Le Monde",
@@ -1731,7 +2198,7 @@
     "guid": "1340975 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260820-img-le-debit-d-eau-du-fleuve-ete-divise-par-dix-le-long-du-rhin-asseche-l-economie-s-enraye.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130750+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996768+00:00"
   },
   {
     "source": "Libération",
@@ -1781,7 +2248,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/les-grandes-fetent-de-nos-territoires-a-saulieu-le-charolais-fait-vivre-les-traditions-bourguignonnes",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802461+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270601+00:00"
   },
   {
     "source": "Le Monde",
@@ -1911,7 +2378,7 @@
     "guid": "https://www.valeursactuelles.com/as/biographie-duri-poliavich-carriere-et-evolution-professionnelle",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.802497+00:00"
+    "fetched_at": "2026-08-21T06:46:34.270639+00:00"
   },
   {
     "source": "Le Monde",
@@ -2127,7 +2594,7 @@
     "guid": "https://www.lefigaro.fr/meteo/la-vague-de-chaleur-debutee-fin-juillet-en-france-devient-la-plus-longue-ex-aequo-avec-celle-de-1983-20260820",
     "image": "https://i.f1g.fr/media/cms/orig/2026/08/20/bc19a7c94fa0b39035aa546f08d083939f18981545790cb9436a71e6d5dc64e1.JPG",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.082965+00:00"
+    "fetched_at": "2026-08-21T06:46:33.954189+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2284,7 +2751,7 @@
     "guid": "1340977 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/360820-hind-rajab.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130788+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996805+00:00"
   },
   {
     "source": "Libération",
@@ -2347,7 +2814,7 @@
     "guid": "1340838 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/08/20/260819-img-la-tunisie-se-confronte-pour-la-premiere-fois-au-probleme-de-la-soumission-chimique.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-21T03:50:12.130821+00:00"
+    "fetched_at": "2026-08-21T06:46:33.996838+00:00"
   },
   {
     "source": "Libération",
@@ -23024,7 +23491,7 @@
     "guid": "https://www.lefigaro.fr/international/les-iles-kouriles-cet-archipel-strategique-en-extreme-orient-que-se-disputent-russes-et-japonais-depuis-le-19e-siecle-20260813",
     "image": "https://i.f1g.fr/media/cms/3000x1737_crop/2026/08/13/001a75163be0fb815f74a8406dca716614cff63ee679268d19d307409ed95584.jpg",
     "full_text": null,
-    "fetched_at": "2026-08-13T19:03:00.569791+00:00"
+    "fetched_at": "2026-08-21T06:46:33.954596+00:00"
   },
   {
     "source": "Le Monde",
@@ -88442,7 +88909,7 @@
     "guid": "https://www.lefigaro.fr/sciences/en-2030-ou-pourra-t-on-encore-echapper-aux-canicules-notre-classement-des-villes-les-plus-respirables-20260723",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/07/22/33a880533df33c8fdc7d5961efdb3d3be84410ca14230aa8576af222e66a7b17.jpg",
     "full_text": null,
-    "fetched_at": "2026-07-27T16:57:43.528450+00:00"
+    "fetched_at": "2026-08-21T06:46:33.954539+00:00"
   },
   {
     "source": "Le Figaro",
