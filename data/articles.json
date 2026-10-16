@@ -1,18 +1,1318 @@
 [
   {
+    "source": "Mediapart",
+    "title": "Grenades «suspendues» et tri des pancartes: le silence buté du ministère de l’intérieur",
+    "link": "https://www.mediapart.fr/journal/france/161026/grenades-suspendues-et-tri-des-pancartes-le-silence-bute-du-ministere-de-l-interieur",
+    "summary": "Laurent Nuñez a levé vendredi le moratoire sur une grenade assourdissante sans jamais avoir accepté d’en préciser le périmètre. Sur les pancartes confisquées aux manifestants, un mystère demeure. Les autorités privilégient, jusqu’au ridicule, une communication flatteuse au détriment de l’information des citoyens.",
+    "published": "2026-10-16T16:10:42+00:00",
+    "authors": [
+      "Camille Polloni"
+    ],
+    "categories": [
+      "France",
+      "Grenades, Laurent Nuñez, lycées, ministère de l'intérieur, Police, Slogans"
+    ],
+    "guid": "1353365 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/16/261016-img-grenades-suspendues.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834645+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Mieux la préserver» : à son retour de Londres, la tapisserie de Bayeux sera exposée sur une table inclinée et non plus à la verticale",
+    "link": "https://www.liberation.fr/culture/arts/mieux-la-preserver-a-son-retour-de-londres-la-tapisserie-de-bayeux-sera-exposee-sur-une-table-inclinee-et-non-plus-a-la-verticale-20261016_OP4ZQBLBIREVVME2B3EL3WKX4I/",
+    "summary": "La ministre de la Culture a annoncé sur X ce vendredi que la suspension de l’œuvre «pèse sur sa conservation». Elle précise que cette décision n’est pas due à une détérioration après le transport vers le British Museum.",
+    "published": "2026-10-16T16:02:05+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/arts/mieux-la-preserver-a-son-retour-de-londres-la-tapisserie-de-bayeux-sera-exposee-sur-une-table-inclinee-et-non-plus-a-la-verticale-20261016_OP4ZQBLBIREVVME2B3EL3WKX4I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838727+00:00"
+  },
+  {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Mobilisation du 17 octobre : pas d’accord sur le parcours du cortège parisien annonce le préfet de police, une cellule de crise convoquée",
+    "title": "La tapisserie de Bayeux ne sera plus suspendue mais exposée sur une table inclinée",
+    "link": "https://www.lefigaro.fr/culture/patrimoine/la-tapisserie-de-bayeux-ne-sera-plus-suspendue-mais-exposee-sur-une-table-inclinee-20261016",
+    "summary": "À son retour de Londres, où elle est exposée jusqu’en juillet 2027, la broderie de 70 mètres sera présentée à l’horizontale sur une nouvelle table.",
+    "published": "2026-10-16T16:01:29+00:00",
+    "authors": [],
+    "categories": [
+      "Patrimoine"
+    ],
+    "guid": "https://www.lefigaro.fr/culture/patrimoine/la-tapisserie-de-bayeux-ne-sera-plus-suspendue-mais-exposee-sur-une-table-inclinee-20261016",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/16/516d855e7afbe8c192fb42125ca7ae0caec0e547e76e69f914b3e7b021e0ea62.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014029+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Près de Lyon, un troisième maire LFI voit son élection annulée : quel est le bilan des insoumis après six mois de mandat ?",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/regions/auvergne-rhone-alpes/rhone/lyon/politique/pres-de-lyon-un-troisieme-maire-lfi-voit-son-election-annulee-quel-est-le-bilan-des-insoumis-apres-six-mois-de-mandat",
+    "summary": "Si le père Noël avait un mandat politique, il serait certainement maire LFI. Les insoumis ayant remporté une municipalité en mars dernier se sont signalés en multipliant les cadeaux, notamment à... L’article Près de Lyon, un troisième maire LFI voit son élection annulée : quel est le bilan des insoumis après six mois de mandat ? est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T16:01:04+00:00",
+    "authors": [
+      "Nicolas Boutin"
+    ],
+    "categories": [
+      "Non classé",
+      "Justice",
+      "LFI",
+      "municipales 2026"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/auvergne-rhone-alpes/rhone/lyon/politique/pres-de-lyon-un-troisieme-maire-lfi-voit-son-election-annulee-quel-est-le-bilan-des-insoumis-apres-six-mois-de-mandat",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890505+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Ils sont obscurantistes et ignares» : le RN s’attaque à deux institutions des sciences humaines et sociales, puis se ravise",
+    "link": "https://www.liberation.fr/idees-et-debats/ils-sont-obscurantistes-et-ignares-le-rn-sattaque-a-deux-institutions-des-sciences-humaines-et-sociales-puis-se-ravise-20261016_3GEF5UZQFZEIBKAEDNCJGXQVD4/",
+    "summary": "Par amendement au projet de loi de finances, le parti d’extrême droite a tenté de faire disparaître deux fleurons universitaires. Avant de discrètement retirer son texte face à la levée de boucliers.",
+    "published": "2026-10-16T15:59:37+00:00",
+    "authors": [
+      "Adrien Naselli"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/ils-sont-obscurantistes-et-ignares-le-rn-sattaque-a-deux-institutions-des-sciences-humaines-et-sociales-puis-se-ravise-20261016_3GEF5UZQFZEIBKAEDNCJGXQVD4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838756+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Après le budget de l’Etat, les députés rejettent en commission celui de la Sécurité sociale",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/16/apres-le-budget-de-l-etat-les-deputes-rejettent-en-commission-celui-de-la-securite-sociale_6795575_823448.html",
+    "summary": "Il s’agit d’un mauvais signal pour le gouvernement mais sans conséquence directe, puisque le texte sera débattu dans l’hémicycle dans sa version initiale à partir de mardi.",
+    "published": "2026-10-16T15:58:50+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/16/apres-le-budget-de-l-etat-les-deputes-rejettent-en-commission-celui-de-la-securite-sociale_6795575_823448.html",
+    "image": "https://img.lemde.fr/2026/10/16/69/0/6471/3235/644/322/60/0/b00c9ff_upload-1-uvpmbypis2qh-000-c9wg89d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855229+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Présidentielle 2027 : «Les choses vont très vite», Sarah Knafo croit aux chances de Reconquête et assume des divergences avec David Lisnard",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-sarah-knafo-laurent-nunez-et-sebastien-chenu-sont-les-invites-des-matinales-20261016",
+    "summary": "L’eurodéputée Reconquête Sarah Knafo, ancienne candidate aux municipales à Paris, reste persuadée que «personne d’autre ne représente» la ligne de son parti.",
+    "published": "2026-10-16T15:58:02+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-sarah-knafo-laurent-nunez-et-sebastien-chenu-sont-les-invites-des-matinales-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/16/95c581a28621c523ea4be08b7bba856149a04e55473dfaeaa1aa250362361862.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.013915+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Paroles de lycéens : «On subit déjà les conséquences des canicules, qu’est-ce que ce sera dans quelques années ?»",
+    "link": "https://www.liberation.fr/societe/education/paroles-de-lyceens-on-subit-deja-les-consequences-des-canicules-quest-ce-que-ce-sera-dans-quelques-annees-20261016_QCD2SCKUERH57LXIHHLMA6W3KY/",
+    "summary": "Au-delà de la mobilisation, comment vont et vivent les adolescents ? «Libé» donne la parole à des élèves de toute la France. Gabriel est en classe de terminale au lycée Thiers, dans le Ier arrondissement de Marseille, particulièrement inquiet du réchauffement climatique qui touche sa région.",
+    "published": "2026-10-16T15:56:00+00:00",
+    "authors": [
+      "Stéphanie Harounyan"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/education/paroles-de-lyceens-on-subit-deja-les-consequences-des-canicules-quest-ce-que-ce-sera-dans-quelques-annees-20261016_QCD2SCKUERH57LXIHHLMA6W3KY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838786+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Guerre en Ukraine : Zelensky réclame 70 milliards d’euros en plus en 2027 à l’UE, le pape demande à Poutine un cessez-le-feu à Olechky",
+    "link": "https://www.lefigaro.fr/international/en-direct-guerre-en-ukraine-ce-n-est-pas-le-moment-de-cesser-d-aider-kiev-ni-de-lever-les-sanctions-contre-moscou-avertit-l-ue-20261016",
+    "summary": "L’Union européenne a une nouvelle fois assuré vendredi l’Ukraine de son soutien, promettant à son président Volodymyr Zelensky de ne pas l’abandonner, après les coups de boutoir répétés de Donald Trump, que Kiev vit comme une «trahison».",
+    "published": "2026-10-16T15:55:03+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/en-direct-guerre-en-ukraine-ce-n-est-pas-le-moment-de-cesser-d-aider-kiev-ni-de-lever-les-sanctions-contre-moscou-avertit-l-ue-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2009_crop/2026/10/16/ed0c137d4c9715994025c50c19b4ed62569dbcbdfd0f4b88a9fee335eab394bc.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.013813+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Familles de victimes de crimes, nous demandons la levée du secret défense»",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/familles-de-victimes-de-crimes-nous-demandons-la-levee-du-secret-defense-20261016_UUWYGFSLYRA23FTUPP7V5WUQRU/",
+    "summary": "Le collectif Secret défense demande l’accès aux archives d’Etat qui pourraient établir la vérité sur des affaires accumulées et irrésolues au fil de la Ve République.",
+    "published": "2026-10-16T15:49:48+00:00",
+    "authors": [
+      "Le collectif Secret défense"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/familles-de-victimes-de-crimes-nous-demandons-la-levee-du-secret-defense-20261016_UUWYGFSLYRA23FTUPP7V5WUQRU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838808+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Entendons les lycéens, qui ont repris en main le récit de leur mouvement face aux clichés médiatiques",
+    "link": "https://www.liberation.fr/societe/entendons-les-lyceens-qui-ont-repris-en-main-le-recit-de-leur-mouvement-face-aux-cliches-mediatiques-20261016_JINLQEOLKJHNHGCK7RQ525UGNI/",
+    "summary": "Initialement présentés comme des gamins manipulés par LFI, les jeunes ont réussi à retourner la situation et être pris au sérieux grâce à leurs prises de parole. Que le mouvement perdure ou non après la Toussaint, on ne pourra plus oublier ce qui vient de se passer.",
+    "published": "2026-10-16T15:49:28+00:00",
+    "authors": [
+      "Rachid Laïreche"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/entendons-les-lyceens-qui-ont-repris-en-main-le-recit-de-leur-mouvement-face-aux-cliches-mediatiques-20261016_JINLQEOLKJHNHGCK7RQ525UGNI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838833+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« J’étais un bon soldat » : d’artilleur dans l’armée à star du rap français, l’itinéraire atypique de Gradur",
+    "link": "https://www.lefigaro.fr/musique/j-etais-un-bon-soldat-d-artilleur-dans-l-armee-a-star-du-rap-francais-l-itineraire-atypique-de-gradur-20261016",
+    "summary": "RENCONTRE - Avant son concert à Bercy, ce vendredi soir, l’artiste le plus écouté du Nord a reçu Le Figaro pour sa dernière répétition dans le sud-est de Paris.",
+    "published": "2026-10-16T15:48:07+00:00",
+    "authors": [],
+    "categories": [
+      "Musique"
+    ],
+    "guid": "https://www.lefigaro.fr/musique/j-etais-un-bon-soldat-d-artilleur-dans-l-armee-a-star-du-rap-francais-l-itineraire-atypique-de-gradur-20261016",
+    "image": "https://i.f1g.fr/media/cms/2013x1132_crop/2026/10/16/dd86d69d055ccd42278c30ac9a031aa5a02ebddfacdd001c9ca8258b038a0407.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014087+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Viol et meurtre d’Iris à Lorient : Christophe R. condamné à la perpétuité",
+    "link": "https://www.lefigaro.fr/faits-divers/viol-et-meurtre-d-iris-a-lorient-christophe-r-condamne-a-la-perpetuite-20261016",
+    "summary": "L’homme de 53 ans, déjà condamné pour le viol d’une étudiante, a été reconnu coupable vendredi 16 octobre par la cour d’assises du Morbihan. Sa peine est assortie d’une période de sûreté de vingt-deux ans.",
+    "published": "2026-10-16T15:47:39+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/viol-et-meurtre-d-iris-a-lorient-christophe-r-condamne-a-la-perpetuite-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/16/53a9f9f5f4bbcb42e616b117fe051f8fb79d1958dae92d7f540409a6e8ce0949.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014125+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Soudain, j’ai vu plus de 50 hommes masqués» : une journaliste américaine rouée de coups par des colons en Cisjordanie",
+    "link": "https://www.liberation.fr/international/moyen-orient/soudain-jai-vu-plus-de-50-hommes-masques-une-journaliste-americaine-rouee-de-coups-par-des-colons-en-cisjordanie-20261016_3ZKNWJXRBZDYLMEZXIEVSE6DGI/",
+    "summary": "Heidi Levine, du «Washington Post», a été agressée par des dizaines de personnes alors qu’elle couvrait la récolte des olives près des villages de Turmus Ayya et de Khirbet Abu Falah, ce vendredi. Elle a été transportée à un hôpital de Ramallah.",
+    "published": "2026-10-16T15:45:43+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/soudain-jai-vu-plus-de-50-hommes-masques-une-journaliste-americaine-rouee-de-coups-par-des-colons-en-cisjordanie-20261016_3ZKNWJXRBZDYLMEZXIEVSE6DGI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838860+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Guerre en Ukraine : Volodymyr Zelensky réclame 70 milliards d’euros supplémentaires en 2027 à l’Union européenne",
+    "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-reclame-70-milliards-d-euros-supplementaires-en-2027-a-l-union-europeenne-20261016",
+    "summary": "«La guerre coûtera 155 milliards d’euros l’année prochaine. Et nous avons besoin d’au moins 70 milliards d’euros de plus de votre part», a affirmé le président ukrainien devant les chefs d’État et de gouvernement de l’Union européenne.",
+    "published": "2026-10-16T15:44:37+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/guerre-en-ukraine-volodymyr-zelensky-reclame-70-milliards-d-euros-supplementaires-en-2027-a-l-union-europeenne-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2089_crop/2026/10/16/9be8ca00dca21baf3a0f7953446d59699071e9a933ce578038fa1a571008bd2e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014107+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Les petits découverts bancaires bientôt soumis à de nouvelles règles plus contraignantes",
+    "link": "https://www.liberation.fr/economie/les-petits-decouverts-bancaires-bientot-soumis-a-de-nouvelles-regles-plus-contraignantes-20261016_WP6QCWUPBZDMVHCOU2DXNWD3TQ/",
+    "summary": "La Fédération bancaire française a précisé jeudi le nouveau contour des découverts bancaires à compter du 20 novembre. Ceux de moins de 200 euros ne seront plus automatiques, et seront soumis à une étude préalable par les banques avant leur autorisation.",
+    "published": "2026-10-16T15:36:02+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/les-petits-decouverts-bancaires-bientot-soumis-a-de-nouvelles-regles-plus-contraignantes-20261016_WP6QCWUPBZDMVHCOU2DXNWD3TQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838887+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Naomi Klein: «Remplacer l’amitié, l’amour et l’art par l’IA est le plus grand vol de tous les temps»",
+    "link": "https://www.mediapart.fr/journal/international/161026/naomi-klein-remplacer-l-amitie-l-amour-et-l-art-par-l-ia-est-le-plus-grand-vol-de-tous-les-temps",
+    "summary": "\"\"Dans un livre événement, la journaliste et essayiste canadienne retrace la généalogie du «fascisme de la fin des temps» observé ces dernières années. Dans ce contexte, l’IA devient un outil de domination sans pareil, qu’avec sa coautrice, Astra Taylor, elle appelle à combattre. Entretien vidéo à la veille de notre journée spéciale «Hacker la tech».",
+    "published": "2026-10-16T15:35:52+00:00",
+    "authors": [
+      "Jade Lindgaard"
+    ],
+    "categories": [
+      "International",
+      "Intelligence artificielle, Lycée, Numérique"
+    ],
+    "guid": "1353237 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/15/hacker-la-tech-l1920xh1080px-vignette-int-klein.png",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834690+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Je suis rentrée en sachant que j’allais être incarcérée et je l’accepte» : Radia Selma Tahar Aouidate, «revenante» de Syrie, condamnée à huit ans de prison",
+    "link": "https://www.liberation.fr/societe/police-justice/je-suis-rentree-en-sachant-que-jallais-etre-incarceree-et-je-laccepte-radia-selma-tahar-aouidate-revenante-de-syrie-condamnee-a-huit-ans-de-prison-20261016_QJAEIQE6UVFWHDAJCUUF3XUEZI/",
+    "summary": "Partie faire le jihad avec la quasi-totalité de sa famille, la Franco-Algérienne de 33 ans, originaire de Roubaix, a été condamnée ce vendredi 16 octobre par la cour d’assises spéciale de Paris.",
+    "published": "2026-10-16T15:34:48+00:00",
+    "authors": [
+      "Chloé Pilorget-Rezzouk"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/je-suis-rentree-en-sachant-que-jallais-etre-incarceree-et-je-laccepte-radia-selma-tahar-aouidate-revenante-de-syrie-condamnee-a-huit-ans-de-prison-20261016_QJAEIQE6UVFWHDAJCUUF3XUEZI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838912+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Anton Jäger, historien : «L’engagement politique est devenu très individualiste et se traduit difficilement en force institutionnelle»",
+    "link": "https://www.liberation.fr/idees-et-debats/anton-jager-historien-lengagement-politique-est-devenu-tres-individualiste-et-se-traduit-difficilement-en-force-institutionnelle-20261017_OM2ZMGR7XFBWRGJKJJLYNVMGUY/",
+    "summary": "Dans son essai «Hyperpolitique», le professeur belge de sciences politiques et éditorialiste au «New York Times» offre une stimulante analyse de notre ère d’intenses mobilisations politiques à l’heure des réseaux sociaux.",
+    "published": "2026-10-16T15:32:03+00:00",
+    "authors": [
+      "Adrien Franque"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/anton-jager-historien-lengagement-politique-est-devenu-tres-individualiste-et-se-traduit-difficilement-en-force-institutionnelle-20261017_OM2ZMGR7XFBWRGJKJJLYNVMGUY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838935+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "A Verdun, avec les premiers appelés du service national, nouveaux ambassadeurs de l’« esprit de défense »",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/16/a-verdun-avec-les-premiers-appeles-du-service-national-nouveaux-ambassadeurs-de-l-esprit-de-defense_6795571_3224.html",
+    "summary": "Ce nouveau dispositif, à ne pas confondre avec le service national universel, désormais enterré, devrait concerner jusqu’à 10 000 personnes d’ici à 2030 et coûte 2,3 milliards d’euros rien que pour cette première année de service. Une partie de ces volontaires ira renforcer la réserve opérationnelle de l’armée.",
+    "published": "2026-10-16T15:31:16+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/10/16/a-verdun-avec-les-premiers-appeles-du-service-national-nouveaux-ambassadeurs-de-l-esprit-de-defense_6795571_3224.html",
+    "image": "https://img.lemde.fr/2026/10/15/175/0/2134/1067/644/322/60/0/d6e4a89_upload-1-8ys0gucxegxl-ee-lm-verdun-smv-34.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855207+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Sur HBO Max, « Crystal Lake » ressuscite les terreurs de « Vendredi 13 »",
+    "link": "https://www.lemonde.fr/culture/article/2026/10/16/sur-hbo-max-crystal-lake-ressuscite-les-terreurs-de-vendredi-13_6795569_3246.html",
+    "summary": "Cette préquelle inscrit l’histoire de Pamela, tueuse en série du film d’épouvante sorti en 1980, dans le contexte tumultueux du début des années 1970.",
+    "published": "2026-10-16T15:30:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/10/16/sur-hbo-max-crystal-lake-ressuscite-les-terreurs-de-vendredi-13_6795569_3246.html",
+    "image": "https://img.lemde.fr/2026/10/12/175/0/2336/1168/644/322/60/0/a97dd86_upload-1-3wdnfw7nigy0-crystal-lake-hbo-max.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855356+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Avant j’avais un grand respect pour la police, mais là… » : dans les manifestations, la défiance croissante des jeunes envers les forces de l’ordre",
+    "link": "https://www.lemonde.fr/campus/article/2026/10/16/avant-j-avais-un-grand-respect-pour-la-police-mais-la-dans-les-manifestations-la-defiance-croissante-des-jeunes-envers-les-forces-de-l-ordre_6795570_4401467.html",
+    "summary": "Un mois après le début du mouvement lycéen, la dénonciation des violences policières est désormais omniprésente dans les cortèges. La brutalité du maintien de l’ordre, qui s’est exercée à de nombreux endroits, a constitué une expérience marquante pour une jeune génération qui commence sa vie citoyenne.",
+    "published": "2026-10-16T15:30:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/campus/article/2026/10/16/avant-j-avais-un-grand-respect-pour-la-police-mais-la-dans-les-manifestations-la-defiance-croissante-des-jeunes-envers-les-forces-de-l-ordre_6795570_4401467.html",
+    "image": "https://img.lemde.fr/2026/10/09/250/0/3000/1500/644/322/60/0/7c993dc_upload-1-7xsm6bb2g9rc-maniflyce-ens-asurp-106272.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855091+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Hyron Andrews, joueur de rugby sud-africain des Lions de Johannesburg, retrouvé mort à la veille d’un match en France",
+    "link": "https://www.lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html",
+    "summary": "Une minute de silence sera respectée sur tous les terrains de rugby européens ce week-end. Le match de Champions Cup contre La Rochelle samedi est maintenu « en son honneur ».",
+    "published": "2026-10-16T15:26:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html",
+    "image": "https://img.lemde.fr/2026/10/16/46/0/3000/1500/644/322/60/0/9b2cc01_upload-1-tquv8pneqauj-000-32mg399.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855248+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Ça va me coûter au minimum 774 euros» : le déremboursement du Zoladex, un traitement contre le cancer du sein, inquiète les patientes",
+    "link": "https://www.lefigaro.fr/social/ca-va-me-couter-au-minimum-774-euros-le-deremboursement-du-zoladex-un-traitement-contre-le-cancer-du-sein-inquiete-les-patientes-20261016",
+    "summary": "En plein «Octobre rose», des patientes ont appris, parfois sur les réseaux sociaux, que le Zoladex ne serait plus remboursé par la Sécurité sociale à compter du 15 décembre. Une annonce qui suscite l’inquiétude des malades et des associations.",
+    "published": "2026-10-16T15:25:27+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/ca-va-me-couter-au-minimum-774-euros-le-deremboursement-du-zoladex-un-traitement-contre-le-cancer-du-sein-inquiete-les-patientes-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/53256d67fe645081d8c9165824d0735128b6cf1ea4c23eb3210c90b38cd75e20.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014068+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : il est « plus facile » de communiquer avec Donald Trump qu’avec Vladimir Poutine, affirme Volodymyr Zelensky",
+    "link": "https://www.lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-il-est-plus-facile-de-communiquer-avec-donald-trump-qu-avec-vladimir-poutine-affirme-volodymyr-zelensky_6791198_3210.html",
+    "summary": "Le président ukrainien a répondu à son homologue américain, qui avait estimé jeudi qu’il était « plus difficile de travailler avec Zelensky qu’avec Poutine ». Lors du sommet des Vingt-Sept, vendredi à Bruxelles, Volodymyr Zelensky a demandé 70 milliards d’euros en plus en 2027 à l’Union européenne.",
+    "published": "2026-10-16T15:21:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-il-est-plus-facile-de-communiquer-avec-donald-trump-qu-avec-vladimir-poutine-affirme-volodymyr-zelensky_6791198_3210.html",
+    "image": "https://img.lemde.fr/2026/10/16/140/0/5495/2747/644/322/60/0/e713e88_ftp-1-2zvnboalh1h1-7ea0603e1f7a4a93a419a41b14072dd6-0-8c9a8449b1e34f91a2659264e5817b62.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855141+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "«Tant que nos institutions ne renforceront pas leur dimension participative, la colère s’exprimera dans la rue»",
+    "link": "https://www.mediapart.fr/journal/france/161026/tant-que-nos-institutions-ne-renforceront-pas-leur-dimension-participative-la-colere-s-exprimera-dans-la-r",
+    "summary": "Le sociologue Nicolas Duvoux publie un ouvrage qui interroge la place des personnes minorisées dans la société et la capacité de celle-ci à leur donner la parole puis à les entendre. Pour lui, intégrer ces personnes dans le processus décisionnaire démocratique relève de l’urgence.",
+    "published": "2026-10-16T15:16:14+00:00",
+    "authors": [
+      "Faïza Zerouala"
+    ],
+    "categories": [
+      "France",
+      "A la Une, Inégalités"
+    ],
+    "guid": "1353040 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/15/261015-img-nicolas-duvoux.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834719+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mobilisation du 17 octobre : les gilets jaunes remobilisés par «cette jeunesse déjà partie devant»",
+    "link": "https://www.liberation.fr/societe/les-gilets-jaunes-remobilises-par-cette-jeunesse-deja-partie-devant-20261016_D2YHGU6EVBAQ5K2MAW55CJP34I/",
+    "summary": "D’abord méfiants envers l’appel anonyme à ressortir samedi, d’anciens et toujours gilets jaunes, de Bordeaux à Amiens, voient dans le mouvement lycéen l’élan qu’ils n’osaient plus tous porter.",
+    "published": "2026-10-16T15:15:17+00:00",
+    "authors": [
+      "Julien Gester"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/les-gilets-jaunes-remobilises-par-cette-jeunesse-deja-partie-devant-20261016_D2YHGU6EVBAQ5K2MAW55CJP34I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838959+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Écoles d’ingénieurs, conservatoire… à Lyon, des soutiens inattendus au mouvement lycéen",
+    "link": "https://www.mediapart.fr/journal/france/161026/ecoles-d-ingenieurs-conservatoire-lyon-des-soutiens-inattendus-au-mouvement-lyceen",
+    "summary": "Centrale, Mines, École nationale des travaux publics: la mobilisation lycéenne a réussi à faire bouger plusieurs établissements d’enseignement supérieur de la région lyonnaise d’ordinaire peu mobilisés. L’occasion aussi de protester contre les baisses de budget dans la culture.",
+    "published": "2026-10-16T15:15:08+00:00",
+    "authors": [
+      "Marie Allenou (Rue89 Lyon)"
+    ],
+    "categories": [
+      "Rentrée 2026 : la colère lycéenne",
+      "A la Une, Conservatoires, Éducation et enseignement supérieur, Lycée, Lyon, Rue89 Lyon, Université"
+    ],
+    "guid": "1353368 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/16/montage-blocages-lyon.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834748+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Wallah, courez, courez ! » : des jeunes se filment allumant un feu dans un lycée de Saint-Nazaire",
+    "link": "https://www.lefigaro.fr/nantes/wallah-courez-courez-des-jeunes-se-filment-allumant-un-feu-dans-un-lycee-de-saint-nazaire-20261016",
+    "summary": "Un établissement scolaire a dû être évacué vendredi, après un incendie volontaire causé par des jeunes désormais recherchés par les autorités. Le rectorat a annoncé porter plainte.",
+    "published": "2026-10-16T15:14:25+00:00",
+    "authors": [],
+    "categories": [
+      "Nantes"
+    ],
+    "guid": "https://www.lefigaro.fr/nantes/wallah-courez-courez-des-jeunes-se-filment-allumant-un-feu-dans-un-lycee-de-saint-nazaire-20261016",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/16/8d6b91559dc39978de1dcacf15e8ddd1e566d0d22d56a94f63ba56f79fcf5320.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014166+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mayra Montero : «Je me tourmente beaucoup quand j’écris sur des personnages réels»",
+    "link": "https://www.liberation.fr/culture/livres/mayra-montero-je-me-tourmente-beaucoup-quand-jecris-sur-des-personnages-reels-20261016_SO6GVQL6WZB33CTMKWECXJDPPE/",
+    "summary": "Dans un récit mêlé de fiction, l’autrice cubaine revient sur la nuit qu’elle a passée avec le champion d’échecs Bobby Fisher à 14 ans, alors qu’il en avait 23.",
+    "published": "2026-10-16T15:11:00+00:00",
+    "authors": [
+      "Philippe Lançon"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/mayra-montero-je-me-tourmente-beaucoup-quand-jecris-sur-des-personnages-reels-20261016_SO6GVQL6WZB33CTMKWECXJDPPE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.838980+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Saint-Etienne : un spectacle financé par le milliardaire d’extrême droite Pierre-Edouard Stérin accusé de «valoriser la monarchie française»",
+    "link": "https://www.liberation.fr/culture/scenes/saint-etienne-un-spectacle-finance-par-le-milliardaire-dextreme-droite-pierre-edouard-sterin-accuse-de-valoriser-la-monarchie-francaise-20261016_D6VIUJQQFZCFNM5SSPUEY4WLF4/",
+    "summary": "Programmé au zénith le 17 octobre, le spectacle «la Dame de pierre» retrace l’histoire de la cathédrale Notre-Dame de Paris et «réécrit l’histoire», ont critiqué onze organisations.",
+    "published": "2026-10-16T15:06:11+00:00",
+    "authors": [
+      "Léna Maillet"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/scenes/saint-etienne-un-spectacle-finance-par-le-milliardaire-dextreme-droite-pierre-edouard-sterin-accuse-de-valoriser-la-monarchie-francaise-20261016_D6VIUJQQFZCFNM5SSPUEY4WLF4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839002+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Mobilisation du 17 octobre : «environ 500 actions envisagées» selon Laurent Nuñez, Jordan Bardella se dit «inquiet» d’éventuels «débordements»",
     "link": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-les-organisations-lyceennes-veulent-desormais-negocier-qu-avec-sebastien-lecornu-20261016",
-    "summary": "Entre 60.000 et 120.000 manifestants sont attendus dans toute la France samedi, hors Paris, selon une source police du Figaro. Laurent Nuñez réunit en ce moment les préfets pour se préparer à une journée qui s’annonce tendue.",
-    "published": "2026-10-16T10:46:07+00:00",
+    "summary": "Le préfet de police de Paris, Patrice Faure, a annoncé vendredi qu’il n’y avait pas d’accord entre ses services et les organisateurs de la mobilisation sociale de samedi sur le parcours du cortège parisien.",
+    "published": "2026-10-16T15:05:15+00:00",
     "authors": [],
     "categories": [
       "Société"
     ],
     "guid": "https://www.lefigaro.fr/actualite-france/en-direct-colere-des-lyceens-les-organisations-lyceennes-veulent-desormais-negocier-qu-avec-sebastien-lecornu-20261016",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/37eb141865aee32c7660cbaa5cc7de0aff4ca99229287541f5c350b48cef17bb.jpg",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/0d44699368ccba258f39fc71b54872fec1a6ca3b0d7742a018e9c268f63d8e7b.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.366638+00:00"
+    "fetched_at": "2026-10-16T16:11:50.013958+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "17 octobre: le récit en direct de la mobilisation",
+    "link": "https://www.mediapart.fr/journal/france/161026/17-octobre-le-recit-en-direct-de-la-mobilisation",
+    "summary": "Gilets jaunes, lycéens, étudiants, syndicats: un appel né sur les réseaux sociaux fait converger samedi 17 octobre les colères contre la vie chère et pour la défense des services publics. «Mediapart» suit en direct les cortèges à Paris et partout en France.",
+    "published": "2026-10-16T15:02:24+00:00",
+    "authors": [
+      "La rédaction de Mediapart"
+    ],
+    "categories": [
+      "France",
+      "Éducation et enseignement supérieur, gilets jaunes, Lycée, Université"
+    ],
+    "guid": "1353306 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/16/261016-img-17-octobre-le-recit-en-direct-de-la-mobilisation.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834774+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Fragilisée, la tapisserie de Bayeux prêtée au British Museum par Emmanuel Macron ne sera plus jamais exposée comme avant",
+    "link": "https://www.valeursactuelles.com/culture/fragilisee-la-tapisserie-de-bayeux-pretee-par-emmanuel-macron-ne-sera-plus-jamais-exposee-comme-avant",
+    "summary": "« Si vous avez vu le tableau de Bayeux accroché, c’est la dernière fois de notre vivant que vous le verrez ainsi. » Le constat est sans appel : la tapisserie de Bayeux... L’article Fragilisée, la tapisserie de Bayeux prêtée au British Museum par Emmanuel Macron ne sera plus jamais exposée comme avant est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T15:02:01+00:00",
+    "authors": [
+      "Pierre Victor"
+    ],
+    "categories": [
+      "Non classé",
+      "culture",
+      "Emmanuel Macron",
+      "musée",
+      "Royaume-Uni"
+    ],
+    "guid": "https://www.valeursactuelles.com/culture/fragilisee-la-tapisserie-de-bayeux-pretee-par-emmanuel-macron-ne-sera-plus-jamais-exposee-comme-avant",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890547+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Journée du 17 octobre : peu d’appels syndicaux nationaux, mais des marques de soutien",
+    "link": "https://www.liberation.fr/economie/social/journee-du-17-octobre-peu-dappels-syndicaux-nationaux-mais-des-marques-de-soutien-20261016_G6AIAZUNDNGQ5F7L5QU3MOLZEQ/",
+    "summary": "Si la CGT et Solidaires affichent clairement leur adhésion à cette manifestation «contre la vie chère», leur participation se concrétisera surtout à l’échelon local.",
+    "published": "2026-10-16T14:51:29+00:00",
+    "authors": [
+      "Margo Magny"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/social/journee-du-17-octobre-peu-dappels-syndicaux-nationaux-mais-des-marques-de-soutien-20261016_G6AIAZUNDNGQ5F7L5QU3MOLZEQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839021+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mexique : l’amibe «mangeuse de cerveau» détectée dans six lacs artificiels du Yucatán, désormais fermés",
+    "link": "https://www.liberation.fr/environnement/biodiversite/mexique-lamibe-mangeuse-de-cerveau-detectee-dans-six-lacs-artificiels-du-yucatan-desormais-fermes-20261016_QFVNDFZYDVEUPBLQRTLTOBR6PE/",
+    "summary": "La présence de ce micro-organisme a été repérée dans cette région très touristique du pays. Il est susceptible de causer des infections cérébrales et a provoqué la mort d’un moniteur de ski nautique dans cet Etat en septembre.",
+    "published": "2026-10-16T14:48:23+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/biodiversite/mexique-lamibe-mangeuse-de-cerveau-detectee-dans-six-lacs-artificiels-du-yucatan-desormais-fermes-20261016_QFVNDFZYDVEUPBLQRTLTOBR6PE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839044+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Paris, l’artiste Christine Sun Kim présente un chœur de soupirs de personnes sourdes",
+    "link": "https://www.liberation.fr/culture/a-paris-lartiste-christine-sun-kim-presente-un-choeur-de-soupirs-de-personnes-sourdes-20261016_MVN5D7KNJNFDPGMFTPN2YM22YU/",
+    "summary": "Invitée pour la première fois du Festival d’Automne à Paris, l’artiste américaine signe une partition musicale unique et transcrit le mondes sonores des sourds dans les couloirs du métro, pour interroger les normes sociales de l’audition.",
+    "published": "2026-10-16T14:48:07+00:00",
+    "authors": [
+      "Ève Beauvallet"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/a-paris-lartiste-christine-sun-kim-presente-un-choeur-de-soupirs-de-personnes-sourdes-20261016_MVN5D7KNJNFDPGMFTPN2YM22YU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839066+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Comment le RN a fait de la voiture un outil électoral et de notabilisation",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html",
+    "summary": "Depuis la crise des « gilets jaunes », l’extrême droite saisit chaque occasion de se poser en défenseur des automobilistes et de leur pouvoir d’achat. Les constructeurs français, dont le Rassemblement national relaie les combats contre les normes européennes, se pressent à sa rencontre.",
+    "published": "2026-10-16T14:45:17+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/16/comment-le-rn-a-fait-de-la-voiture-un-outil-electoral-et-de-notabilisation_6795560_823448.html",
+    "image": "https://img.lemde.fr/2026/10/07/945/0/8256/4128/644/322/60/0/dabc4da_upload-1-tmkdqq20tqma-dsc-7750.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855164+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Panzani, le leader français des pâtes, passe sous pavillon portugais",
+    "link": "https://www.lefigaro.fr/societes/panzani-le-leader-francais-des-pates-passe-sous-pavillon-portugais-20261016",
+    "summary": "INFO LE FIGARO - Le portugais Cerealis est entré en négociations exclusives avec le fonds CVC Capital Partners pour lui racheter le plus célèbre des fabricants français de pâtes. Le nouvel ensemble dépasserait 1 milliard d’euros de chiffre d’affaires.",
+    "published": "2026-10-16T14:39:29+00:00",
+    "authors": [],
+    "categories": [
+      "Entreprises"
+    ],
+    "guid": "https://www.lefigaro.fr/societes/panzani-le-leader-francais-des-pates-passe-sous-pavillon-portugais-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2003_crop/2026/10/16/2581baa3771edb1d0240b33cd042194897b7d3f792de67c26e613604b453f617.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014011+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Arnaques bancaires : lors d’une « opération non autorisée », la banque doit d’abord rembourser le client",
+    "link": "https://www.lemonde.fr/argent/article/2026/10/16/arnaques-bancaires-lors-d-une-operation-non-autorisee-la-banque-doit-d-abord-rembourser-le-client_6795559_1657007.html",
+    "summary": "La Cour de justice de l’Union européenne rappelle un principe existant depuis de nombreuses années, mais qui n’est pas toujours respecté par les banques.",
+    "published": "2026-10-16T14:38:50+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/argent/article/2026/10/16/arnaques-bancaires-lors-d-une-operation-non-autorisee-la-banque-doit-d-abord-rembourser-le-client_6795559_1657007.html",
+    "image": "https://img.lemde.fr/2023/04/17/163/0/3000/1500/644/322/60/0/1557211_1681719505160-argent-03.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855339+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mobilisation du 17 octobre : plus de 500 actions envisagées, 40 000 personnes prévues à Paris, 150 000 ailleurs… A quoi faut-il s’attendre samedi ?",
+    "link": "https://www.liberation.fr/societe/mobilisation-du-17-octobre-plus-de-500-actions-envisagees-40-000-personnes-prevues-a-paris-150-000-ailleurs-a-quoi-faut-il-sattendre-samedi-20261016_Y7OK42IB3FFH5PUP6VTJQR42IA/",
+    "summary": "Les autorités ont revu à la hausse leur prévision de participation pour la journée de mobilisation sociale qui va voir converger les colères des lycéens, des militants pour le climat ou encore des gilets jaunes.",
+    "published": "2026-10-16T14:31:42+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/mobilisation-du-17-octobre-plus-de-500-actions-envisagees-40-000-personnes-prevues-a-paris-150-000-ailleurs-a-quoi-faut-il-sattendre-samedi-20261016_Y7OK42IB3FFH5PUP6VTJQR42IA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839089+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Rugby : le joueur sud-africain Hyron Andrews retrouvé mort sur l’île de Ré à la veille d’un match",
+    "link": "https://www.liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4/",
+    "summary": "Le deuxième ligne des Lions de Johannesburg a fait un arrêt cardio-respiratoire dans sa chambre d’hôtel ce vendredi. Une enquête en recherche des causes de la mort a été confiée à la gendarmerie.",
+    "published": "2026-10-16T14:31:03+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/rugby-un-joueur-sud-africain-retrouve-mort-en-france-a-la-veille-dun-match-20261016_2FYON6TZAFB6ZG2GV7BDWH55J4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839111+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le sud de l’Angleterre confronté à la première « sécheresse sévère » de son histoire",
+    "link": "https://www.lemonde.fr/planete/article/2026/10/16/le-sud-de-l-angleterre-confronte-a-la-premiere-secheresse-severe-de-son-histoire_6795555_3244.html",
+    "summary": "Les autorités s’inquiètent du niveau des grands réservoirs qui alimentent la population en eau potable. Les gestionnaires sont autorisés à déroger aux règles environnementales de protection du milieu naturel.",
+    "published": "2026-10-16T14:30:04+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/10/16/le-sud-de-l-angleterre-confronte-a-la-premiere-secheresse-severe-de-son-histoire_6795555_3244.html",
+    "image": "https://img.lemde.fr/2026/10/15/645/0/8064/4032/644/322/60/0/a8295a5_ftp-1-cb2esneqwewq-2026-10-15t161804z-1152248830-rc2r3oa2g6o6-rtrmadp-3-europe-weather-britain.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855374+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«La Bible de Faust», un livre sauvé des enfers pour éclairer le chef-d’œuvre de Murnau",
+    "link": "https://www.liberation.fr/culture/cinema/la-bible-de-faust-un-livre-sauve-des-enfers-pour-eclairer-le-chef-doeuvre-de-murnau-20261016_CRE6E4BYEFBE3AQ3B2HIBQZL7Y/",
+    "summary": "Réalisé par les décorateurs de Faust, le volume que l’on croyait détruit sous les bombes à Berlin et retrouvé en 2013 fait l’objet d’une somptueuse édition. L’occasion de revoir le film, sur Mubi ou à la Cinémathèque.",
+    "published": "2026-10-16T14:23:38+00:00",
+    "authors": [
+      "Didier Péron"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/cinema/la-bible-de-faust-un-livre-sauve-des-enfers-pour-eclairer-le-chef-doeuvre-de-murnau-20261016_CRE6E4BYEFBE3AQ3B2HIBQZL7Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839132+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Marine Le Pen veut «arrêter» l’aide financière à l’Ukraine si elle est élue : comment se positionnent les autres candidats à la présidentielle ?",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/programmes/marine-le-pen-veut-arreter-l-aide-financiere-a-l-ukraine-si-elle-est-elue-comment-se-positionnent-les-autres-candidats-a-la-presidentielle-20261016",
+    "summary": "DÉCRYPTAGE - La candidate RN n’est pas la seule à vouloir couper le robinet du soutien à Kiev. Mais d’autres prétendants à la fonction suprême souhaitent au contraire maintenir, voire accroître l’aide apportée par la France.",
+    "published": "2026-10-16T14:20:21+00:00",
+    "authors": [],
+    "categories": [
+      "Programmes des candidats à la présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/programmes/marine-le-pen-veut-arreter-l-aide-financiere-a-l-ukraine-si-elle-est-elue-comment-se-positionnent-les-autres-candidats-a-la-presidentielle-20261016",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/16/6c97ffbcba66118ad71685a7e2d500ff610bd50721ed9c49e5eef8b164e865bf.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.013845+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pub pour Gemini qui se moque des parents d’élèves : IA qu’à toujours plus se déresponsabiliser ?",
+    "link": "https://www.liberation.fr/societe/familles/pub-pour-gemini-qui-se-moque-des-parents-deleves-ia-qua-toujours-plus-se-deresponsabiliser-20261016_T5HMJXCXCZEFLAQYL65FX47JUA/",
+    "summary": "Des affiches publicitaires pour l’intelligence artificielle de Google proposent d’inventer des excuses pour échapper à un «café des parents». Une blague de mauvais goût, à l’heure où la protection de l’enfance et les enjeux de l’éducation s’imposent comme des urgences.",
+    "published": "2026-10-16T14:12:59+00:00",
+    "authors": [
+      "Sabrina Champenois"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/familles/pub-pour-gemini-qui-se-moque-des-parents-deleves-ia-qua-toujours-plus-se-deresponsabiliser-20261016_T5HMJXCXCZEFLAQYL65FX47JUA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839155+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Silence on joue ! «Star Wars: Galactic Racer», «Warhammer 40000: Boltgun 2», «Toem 2», «Alien Breed»",
+    "link": "https://www.liberation.fr/culture/jeux-video/silence-on-joue-star-wars-galactic-racer-warhammer-40000-boltgun-2-toem-2-alien-breed-20261016_QP62LLI4ZVBVNGSJ53SZ5OHS7E/",
+    "summary": "Cette semaine, des courses dans les étoiles, des monstres par paquets, des photos tranquilles et un anniversaire extraterrestre.",
+    "published": "2026-10-16T14:07:42+00:00",
+    "authors": [
+      "Erwan Cario"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/jeux-video/silence-on-joue-star-wars-galactic-racer-warhammer-40000-boltgun-2-toem-2-alien-breed-20261016_QP62LLI4ZVBVNGSJ53SZ5OHS7E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839173+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Nos divertissements sont terminés» de Yasmina Reza : souvenirs de famille dans une famille sans souvenirs",
+    "link": "https://www.liberation.fr/culture/livres/nos-divertissements-sont-termines-de-yasmina-reza-souvenirs-de-famille-dans-une-famille-sans-souvenirs-20261016_WSXVMU7CTFAVNN3T7QB2PCLMRA/",
+    "summary": "Les premières années d’une jeune fille.",
+    "published": "2026-10-16T14:01:00+00:00",
+    "authors": [
+      "Claire Devarrieux"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/nos-divertissements-sont-termines-de-yasmina-reza-souvenirs-de-famille-dans-une-famille-sans-souvenirs-20261016_WSXVMU7CTFAVNN3T7QB2PCLMRA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839189+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Blocus des lycées : Nouvelle émeute",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/politique/blocus-des-lycees-nouvelle-emeute",
+    "summary": "Ah mon cousin,Les humeurs sont aussi changeantes à Paris qu’un ciel breton et nous voilà passés en quelques jours de la ferveur à la fureur. La montagne Sainte-Geneviève pourtant habituée... L’article Blocus des lycées : Nouvelle émeute est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T14:00:16+00:00",
+    "authors": [
+      "Adrien Renouard"
+    ],
+    "categories": [
+      "Non classé",
+      "la lettre de M. de Rastignac"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/blocus-des-lycees-nouvelle-emeute",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890575+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Cisjordanie, une journaliste du « Washington Post » rouée de coups par des colons",
+    "link": "https://www.lemonde.fr/international/article/2026/10/16/en-cisjordanie-une-journaliste-du-washington-post-rouee-de-coups-par-des-colons_6795552_3210.html",
+    "summary": "Heidi Levine, qui travaille au Moyen-Orient depuis des décennies, couvrait la récolte des olives près des villages de Turmus Ayya et de Khirbet Abu Falah lorsqu’elle a été attaquée.",
+    "published": "2026-10-16T13:59:57+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/16/en-cisjordanie-une-journaliste-du-washington-post-rouee-de-coups-par-des-colons_6795552_3210.html",
+    "image": "https://img.lemde.fr/2026/10/16/241/0/4240/2120/644/322/60/0/3a05696_ftp-1-8a0i9rjudrbi-2026-10-16t103855z-1514550372-rc2a4oa2o7io-rtrmadp-3-israel-palestinians-settlers-attack-journalist.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855183+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Benoît Hamon, hôte considération",
+    "link": "https://www.liberation.fr/portraits/benoit-hamon-hote-consideration-20261016_BM55YG5I2FCHJBHSZPELOIAHJY/",
+    "summary": "L’ex-candidat à la présidentielle, vainqueur de la primaire PS en 2017, dirige désormais une ONG d’insertion de migrants mais n’exclut pas un retour en politique.",
+    "published": "2026-10-16T13:55:44+00:00",
+    "authors": [
+      "Luc Le Vaillant"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/portraits/benoit-hamon-hote-consideration-20261016_BM55YG5I2FCHJBHSZPELOIAHJY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839206+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Un samedi très compliqué, avec les casseurs de l’ultragauche en embuscade » : ce que prévoient les autorités pour la mobilisation du 17 octobre",
+    "link": "https://www.lefigaro.fr/actualite-france/un-samedi-tres-complique-avec-les-casseurs-de-l-ultragauche-en-embuscade-ce-que-prevoient-les-autorites-pour-la-mobilisation-du-17-octobre-20261016",
+    "summary": "DÉCRYPTAGE - Alors qu’environ 500 actions jugées « crédibles » et 90 défilés sont attendus dans le pays, les black blocs seront une fois encore au rendez-vous pour provoquer le chaos.",
+    "published": "2026-10-16T13:55:08+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/un-samedi-tres-complique-avec-les-casseurs-de-l-ultragauche-en-embuscade-ce-que-prevoient-les-autorites-pour-la-mobilisation-du-17-octobre-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/36ea29399b9d890c13c464438766a6850024e96312f0c056e17aa41e9ea3b70d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.013936+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Des blocages lycéens au 17 octobre, ces semaines où les luttes ont convergé",
+    "link": "https://www.mediapart.fr/journal/france/161026/des-blocages-lyceens-au-17-octobre-ces-semaines-ou-les-luttes-ont-converge",
+    "summary": "Le mouvement lycéen, que personne ou presque n’avait vu venir, a embrasé le pays en l’espace de quelques semaines. À la veille du samedi 17 octobre, la perspective d’une convergence des colères n’a jamais été aussi réaliste. En face, le gouvernement n’est pas impuissant: il est profondément responsable.",
+    "published": "2026-10-16T13:36:08+00:00",
+    "authors": [
+      "Inès Bennacer, Pierre Jequier-Zalc, Mathilde Goanec"
+    ],
+    "categories": [
+      "Rentrée 2026 : la colère lycéenne",
+      "A la Une, Éducation et enseignement supérieur, Lycée, Mobilisation, Université"
+    ],
+    "guid": "1353199 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/16/261016-img-17-septembre-17-octobre-et-la-colere-deborda3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834802+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Débat sur l’article 11 : les députés d’extrême droite saisissent le Conseil constitutionnel pour obtenir la tête de Richard Ferrand",
+    "link": "https://www.liberation.fr/politique/debat-sur-larticle-11-les-deputes-rn-udr-saisissent-le-conseil-constitutionnel-pour-obtenir-la-tete-de-richard-ferrand-20261016_HKTRNX5ST5BABEAT7IFXWLB7UA/",
+    "summary": "Mécontents que le patron des «sages» ait balayé l’hypothèse d’organiser un référendum pour intégrer la «préférence nationale» à la Constitution, les parlementaires du RN et leurs alliés ciottistes ont saisi le Conseil constitutionnel, vendredi 16 octobre.",
+    "published": "2026-10-16T13:33:18+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/debat-sur-larticle-11-les-deputes-rn-udr-saisissent-le-conseil-constitutionnel-pour-obtenir-la-tete-de-richard-ferrand-20261016_HKTRNX5ST5BABEAT7IFXWLB7UA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839229+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Taxe foncière : en vingt ans, la facture des propriétaires a doublé",
+    "link": "https://www.valeursactuelles.com/economie/taxe-fonciere-en-vingt-ans-la-facture-des-proprietaires-a-double",
+    "summary": "L’accalmie de 2026 ne suffira pas à effacer vingt années de hausses. Dans les 200 villes les plus peuplées de France, la taxe foncière progresse cette année de 1,7 %... L’article Taxe foncière : en vingt ans, la facture des propriétaires a doublé est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T13:32:55+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "argent",
+      "France",
+      "Immobilier",
+      "taxe foncière"
+    ],
+    "guid": "https://www.valeursactuelles.com/economie/taxe-fonciere-en-vingt-ans-la-facture-des-proprietaires-a-double",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890607+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Tentative d’interpellation d’un élève au lycée Paul-Eluard de Saint-Denis : un collectif de professeurs réclame la démission du proviseur",
+    "link": "https://www.liberation.fr/societe/education/tentative-dinterpellation-dun-eleve-au-lycee-paul-eluard-de-saint-denis-un-collectif-de-professeurs-reclame-la-demission-du-proviseur-20261016_HTABZTKRFRBKREGZPDTXZTHQXU/",
+    "summary": "Le collectif «Personnels Eluard en lutte» demande ce vendredi 16 octobre «l’abandon des poursuites engagées contre les lycéens et l’amnistie des élèves concernés» par des interpellations. Le jeune brièvement interpellé la veille devrait être prochainement entendu par la police.",
+    "published": "2026-10-16T13:25:49+00:00",
+    "authors": [
+      "Ludovic Séré"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/education/tentative-dinterpellation-dun-eleve-au-lycee-paul-eluard-de-saint-denis-un-collectif-de-professeurs-reclame-la-demission-du-proviseur-20261016_HTABZTKRFRBKREGZPDTXZTHQXU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839253+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Non, Jean-Christophe Grangé, les prostituées japonaises ne nagent pas dans le bonheur",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/non-jean-christophe-grange-les-prostituees-japonaises-ne-nagent-pas-dans-le-bonheur-20261016_2F3C323C3RA7XDSRSS2YZSSFYE/",
+    "summary": "La correspondante de «Libé» à Tokyo dénonce les propos tenus par l’écrivain de polars sur France Inter, dans lesquels il décrit «un marché vertigineux du commerce du désir» au Japon, «un commerce comme un autre» où «personne n’a l’air malheureux».",
+    "published": "2026-10-16T13:20:35+00:00",
+    "authors": [
+      "Karyn Nishimura"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/non-jean-christophe-grange-les-prostituees-japonaises-ne-nagent-pas-dans-le-bonheur-20261016_2F3C323C3RA7XDSRSS2YZSSFYE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839276+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Paroles de lycéens : «J’ai compris qu’il se passait un truc, mais je ne savais même pas ce qu’était un terroriste»",
+    "link": "https://www.liberation.fr/societe/paroles-de-lyceens-jai-compris-quil-se-passait-un-truc-mais-je-ne-savais-meme-pas-ce-quetait-un-terroriste-20261016_BP4VQJSCQBF2BJV4YQFBPHGWI4/",
+    "summary": "Au-delà de la mobilisation, comment vont et vivent les adolescents ? «Libé» donne la parole à des élèves de toute la France. Malo est en terminale en bac technologique agricole. Il raconte ses souvenirs des attentats de 2015 et du confinement de 2020.",
+    "published": "2026-10-16T13:20:00+00:00",
+    "authors": [
+      "Pauline Moullot"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/paroles-de-lyceens-jai-compris-quil-se-passait-un-truc-mais-je-ne-savais-meme-pas-ce-quetait-un-terroriste-20261016_BP4VQJSCQBF2BJV4YQFBPHGWI4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839299+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Alchemical Sisters : la pierre philosophale",
+    "link": "https://www.liberation.fr/culture/musique/alchemical-sisters-la-pierre-philosophale-20261016_JPPDJKWAGFAZTBBU5VND3WELPE/",
+    "summary": "L’album des deux Américaines revisite, entre pastiche et exubérances, trente ans de musiques électroniques.",
+    "published": "2026-10-16T13:14:00+00:00",
+    "authors": [
+      "Benoît Carretier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/musique/alchemical-sisters-la-pierre-philosophale-20261016_JPPDJKWAGFAZTBBU5VND3WELPE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839315+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Paris, Stevie Wonder voit la vie en soul",
+    "link": "https://www.liberation.fr/culture/musique/a-paris-stevie-wonder-voit-la-vie-en-soul-20261016_ITMCIXHHPRHUDKVEJVGHUZKLMQ/",
+    "summary": "Pour les cinquante ans de la sortie de son album «Songs in the Key of Life», la légende a célébré jeudi 15 octobre à Bercy un chef-d’œuvre qui n’a pas pris une ride, entre hymnes à l’amour et appels à la conscience politique.",
+    "published": "2026-10-16T13:09:57+00:00",
+    "authors": [
+      "Jacques Denis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/musique/a-paris-stevie-wonder-voit-la-vie-en-soul-20261016_ITMCIXHHPRHUDKVEJVGHUZKLMQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839335+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Mobilisation du 17 octobre : bras de fer autour du parcours des manifestations parisiennes",
+    "link": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-bras-de-fer-autour-du-parcours-des-manifestations-parisiennes-20261016",
+    "summary": "CARTE – Alors que plusieurs cortèges sont attendus dans la capitale, la préfecture de police a interdit les parcours demandés par les manifestants. Des discussions sont en cours entre autorités et organisateurs.",
+    "published": "2026-10-16T13:08:38+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/mobilisation-du-17-octobre-bras-de-fer-autour-du-parcours-des-manifestations-parisiennes-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/b161a7666acb617f2f01a80cca54a2cfaddd66bf8bb032308f8a457d9fc82c56.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.013977+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Bismillah, c’est les ténèbres» : que signifie ce slogan employé par les lycéens pour se moquer de la police ?",
+    "link": "https://www.lefigaro.fr/actualite-france/bismillah-c-est-les-tenebres-que-signifie-ce-slogan-employe-par-les-lyceens-pour-se-moquer-de-la-police-20261016",
+    "summary": "Cette expression, attribuée à un policier qui aurait tenté de s’infiltrer sur un groupe Snapchat, est reprise ironiquement par les manifestants, comme le symbole du décalage entre eux et les autorités.",
+    "published": "2026-10-16T13:06:38+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/bismillah-c-est-les-tenebres-que-signifie-ce-slogan-employe-par-les-lyceens-pour-se-moquer-de-la-police-20261016",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/16/8ac28e17e20403ec8af25916626668c38b1b6c21794d75c45d6094c19b598cdc.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014187+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le 17 octobre, un rebond bienvenu pour le mouvement lycéen",
+    "link": "https://www.liberation.fr/societe/education/le-17-octobre-un-rebond-bienvenu-pour-le-mouvement-lyceen-20261016_CVQ6DU276FDRZG6LV6EJGWYHA4/",
+    "summary": "La jeunesse mobilisée depuis fin septembre espère voir converger les luttes ce samedi lors de la journée d’action contre la vie chère organisée dans tout le pays.",
+    "published": "2026-10-16T13:02:48+00:00",
+    "authors": [
+      "Eva Lelièvre, Clara Lenôtre"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/education/le-17-octobre-un-rebond-bienvenu-pour-le-mouvement-lyceen-20261016_CVQ6DU276FDRZG6LV6EJGWYHA4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839354+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Nuit des Châteaux, football gaélique, immersion sur le Titanic… des idées de sortie le week-end du 17 et 18 octobre dans vos régions",
+    "link": "https://www.valeursactuelles.com/art-de-vivre/nuit-des-chateaux-football-gaelique-immersion-sur-le-titanic-des-idees-de-sortie-le-week-end-du-17-et-18-octobre-dans-vos-regions",
+    "summary": "En Île-de-France, la magie des châteaux à la nuit tombéeEt si vous partiez découvrir les châteaux français à la lueur des bougies ? Les samedi 17 et dimanche 18 octobre,... L’article Nuit des Châteaux, football gaélique, immersion sur le Titanic… des idées de sortie le week-end du 17 et 18 octobre dans vos régions est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T13:00:17+00:00",
+    "authors": [
+      "Nicolas Boutin"
+    ],
+    "categories": [
+      "Non classé",
+      "artisanat",
+      "chateau",
+      "culture",
+      "littérature",
+      "patrimoine"
+    ],
+    "guid": "https://www.valeursactuelles.com/art-de-vivre/nuit-des-chateaux-football-gaelique-immersion-sur-le-titanic-des-idees-de-sortie-le-week-end-du-17-et-18-octobre-dans-vos-regions",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890645+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Guyane : oublié dans un car scolaire, un enfant de 7 ans meurt déshydraté",
+    "link": "https://www.liberation.fr/societe/police-justice/guyane-oublie-dans-un-car-scolaire-un-enfant-de-7-ans-meurt-deshydrate-20261016_6JMQN5JYTBHX5ITSNVEAJW3YPM/",
+    "summary": "Une enquête a été ouverte après «une série de dysfonctionnements» qui ont conduit à la mort d’un petit garçon dans la ville de Matoury, mardi.",
+    "published": "2026-10-16T12:53:19+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/guyane-oublie-dans-un-car-scolaire-un-enfant-de-7-ans-meurt-deshydrate-20261016_6JMQN5JYTBHX5ITSNVEAJW3YPM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839373+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Elizabeth Strout, écrivaine américaine : «Je n’arrive pas à le croire, j’ai vécu 70 ans !»",
+    "link": "https://www.liberation.fr/culture/livres/elizabeth-strout-ecrivaine-americaine-je-narrive-pas-a-le-croire-jai-vecu-70-ans-20261016_2JHETZCIGVDKZBRJSCMUANIGPM/",
+    "summary": "Avec «Racontez-moi tout», l’autrice continue d’entrelacer son œuvre romanesque par l’entremise d’une rencontre entre ses personnages Lucy Barton et Olive Kitteridge.",
+    "published": "2026-10-16T12:52:00+00:00",
+    "authors": [
+      "Thomas Stélandre"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/elizabeth-strout-ecrivaine-americaine-je-narrive-pas-a-le-croire-jai-vecu-70-ans-20261016_2JHETZCIGVDKZBRJSCMUANIGPM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839393+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Inde, nouvelle arrestation du leader du mouvement des « cafards » à New Delhi, sur fond de controverse électorale",
+    "link": "https://www.lemonde.fr/international/article/2026/10/16/en-inde-nouvelle-arrestation-du-leader-du-mouvement-des-cafards-a-new-delhi-sur-fond-de-controverse-electorale_6795550_3210.html",
+    "summary": "La mobilisation de la jeunesse indienne prend de l’ampleur alors que l’opposition et le Parti du peuple cafard dénoncent une révision des listes électorales, jugée discriminatoire par de nombreux manifestants.",
+    "published": "2026-10-16T12:45:45+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/16/en-inde-nouvelle-arrestation-du-leader-du-mouvement-des-cafards-a-new-delhi-sur-fond-de-controverse-electorale_6795550_3210.html",
+    "image": "https://img.lemde.fr/2026/10/15/398/0/4500/2250/644/322/60/0/317eada_ftp-1-y955uzr7chbk-2026-10-15t103138z-533030585-rc2l3oairtmd-rtrmadp-3-india-politics.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855392+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«115 millions d’euros» envolés aux Emirats : un protagoniste de l’incroyable disparition des actions Hermès mis en examen à Paris",
+    "link": "https://www.liberation.fr/societe/police-justice/115-millions-deuros-envoles-aux-emirats-un-protagoniste-central-de-lincroyable-disparition-des-actions-hermes-mis-en-examen-a-paris-20261016_2B7GHCUQTVCSFHXMXC7N4T7ZEY/",
+    "summary": "L’homme d’affaires franco-suisse Olivier Couriol est suspecté d’avoir profité de l’évaporation de la fortune de Nicolas Puech, l’héritier de la maison de luxe, ruiné par son gestionnaire de fortune.",
+    "published": "2026-10-16T12:38:41+00:00",
+    "authors": [
+      "Laurent Léger"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/115-millions-deuros-envoles-aux-emirats-un-protagoniste-central-de-lincroyable-disparition-des-actions-hermes-mis-en-examen-a-paris-20261016_2B7GHCUQTVCSFHXMXC7N4T7ZEY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839426+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "17 octobre, données volées, Saint Bagayoko et « Il faut tuer Macron » : le site internet de LR piraté",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/politique/17-octobre-donnees-volees-saint-bagayoko-et-il-faut-tuer-macron-le-site-internet-de-lr-pirate",
+    "summary": "Des images à la gloire de Jean-Luc Mélenchon et Bally Bagayoko, Raphaël Glucksmann, Bruno Retailleau et Marine Le Pen sous des explosions, un message codé rappelant une incitation au meurtre... L’article 17 octobre, données volées, Saint Bagayoko et « Il faut tuer Macron » : le site internet de LR piraté est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T12:28:17+00:00",
+    "authors": [
+      "Victor Eyraud"
+    ],
+    "categories": [
+      "Non classé",
+      "17 octobre",
+      "extrême gauche",
+      "Les Républicains",
+      "LR"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/17-octobre-donnees-volees-saint-bagayoko-et-il-faut-tuer-macron-le-site-internet-de-lr-pirate",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890679+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "A l’île Maurice, une colère qui dépasse la crise de l’eau dans une société « très inégalitaire »",
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/16/a-l-ile-maurice-une-colere-qui-depasse-la-crise-de-l-eau-dans-une-societe-tres-inegalitaire_6795548_3212.html",
+    "summary": "Depuis qu’un policier a grièvement blessé une jeune femme, vendredi 9 octobre, des émeutes ont lieu dans plusieurs régions de l’île, où la pénurie d’eau s’ajoute au désarroi d’une jeunesse touchée par l’austérité.",
+    "published": "2026-10-16T12:27:23+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/10/16/a-l-ile-maurice-une-colere-qui-depasse-la-crise-de-l-eau-dans-une-societe-tres-inegalitaire_6795548_3212.html",
+    "image": "https://img.lemde.fr/2026/10/15/289/0/3461/1730/644/322/60/0/0fcbe3c_upload-1-z4hj0fu8lhn4-dpaphotosnine985002.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855285+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Des incendies font quatre morts en Indonésie et asphyxient la région",
+    "link": "https://www.liberation.fr/international/asie-pacifique/des-incendies-font-quatre-morts-en-indonesie-et-asphyxient-la-region-20261016_VKR4SWUEIZCDPFD5V4WHN7EN3I/",
+    "summary": "Depuis le début de l’année, 900 000 hectares ont brûlé dans le pays, notamment sous l’effet du phénomène météorologique El Niño.",
+    "published": "2026-10-16T12:11:16+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/asie-pacifique/des-incendies-font-quatre-morts-en-indonesie-et-asphyxient-la-region-20261016_VKR4SWUEIZCDPFD5V4WHN7EN3I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839470+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Crédit immobilier : les banques prêtent moins et les taux remontent",
+    "link": "https://www.lemonde.fr/argent/article/2026/10/16/credit-immobilier-les-banques-pretent-moins-et-les-taux-remontent_6795545_1657007.html",
+    "summary": "La production de ces crédits a reculé de près de 10 % sur un an glissant, alors que les taux d’intérêt devraient continuer d’augmenter dans les prochains mois.",
+    "published": "2026-10-16T12:00:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/argent/article/2026/10/16/credit-immobilier-les-banques-pretent-moins-et-les-taux-remontent_6795545_1657007.html",
+    "image": "https://img.lemde.fr/2023/05/03/41/0/3000/1500/644/322/60/0/33b2fee_1683120111389-lmargent12.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855265+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Conscience de l’IA : coup de com ou réalité ? Nos journalistes répondent",
+    "link": "https://www.liberation.fr/sciences/conscience-de-lia-coup-de-com-ou-realite-posez-vos-questions-a-nos-journalistes-en-direct-20261016_7YQY7J4DTRAWBE2JN2OBOYPE24/",
+    "summary": "Avec les journalistes de «Libération» spécialistes de l’IA, on revient sur les avancées mathématiques majeures de ces dernières semaines et sur la question qui ronge le milieu : l’IA a-t-elle une conscience ?",
+    "published": "2026-10-16T12:00:00+00:00",
+    "authors": [
+      "Maud Benakcha, Elise Viniacourt, Olivier Monod"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sciences/conscience-de-lia-coup-de-com-ou-realite-posez-vos-questions-a-nos-journalistes-en-direct-20261016_7YQY7J4DTRAWBE2JN2OBOYPE24/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839491+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au Brésil, la ville de Balneario Camboriu, vitrine du « rêve » bolsonariste",
+    "link": "https://www.lemonde.fr/international/article/2026/10/16/au-bresil-la-ville-de-balneario-camboriu-vitrine-du-reve-bolsonariste_6795546_3210.html",
+    "summary": "Dans l’Etat de Santa Catarina, la station balnéaire et ses hautes tours de béton s’est construite sur la fortune des hommes d’affaires de l’agronégoce. Un secteur cher à l’extrême droite, qui a recueilli dans cette cité 70 % des suffrages au premier tour de la présidentielle, le 4 octobre.",
+    "published": "2026-10-16T12:00:00+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/16/au-bresil-la-ville-de-balneario-camboriu-vitrine-du-reve-bolsonariste_6795546_3210.html",
+    "image": "https://img.lemde.fr/2026/10/16/666/0/6936/3468/644/322/60/0/3d20807_upload-1-x7mhkrr9cjii-18-balnea-riocamboriu.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855322+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Affaire des écrits antisémites : Mediapart jugé plus crédible que Jordan Bardella, selon un sondage",
+    "link": "https://www.valeursactuelles.com/politique/affaire-des-ecrits-antisemites-mediapart-juge-plus-credible-que-jordan-bardella-selon-un-sondage",
+    "summary": "Interrogés sur les conséquences des messages antisémites attribués à Jordan Bardella par Mediapart, 69 % des Français déclarent que cette affaire n’aura pas d’incidence sur leur disposition à voter pour... L’article Affaire des écrits antisémites : Mediapart jugé plus crédible que Jordan Bardella, selon un sondage est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T11:58:00+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "Jordan Bardella",
+      "Mediapart",
+      "Présidentielle 2027",
+      "sondage"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/affaire-des-ecrits-antisemites-mediapart-juge-plus-credible-que-jordan-bardella-selon-un-sondage",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890712+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Vive le 17 octobre» : le site des Républicains brièvement transformé en appel à la mobilisation",
+    "link": "https://www.liberation.fr/politique/vive-le-17-octobre-le-site-des-republicains-brievement-transforme-en-appel-a-la-mobilisation-20261016_YVYRHCJ4RBHQLKUBIVRJSADODY/",
+    "summary": "Des hackers ont pris le contrôle du site du parti de droite ce vendredi 16 octobre pendant quelques minutes pour y afficher des messages politiques et des montages à la gloire de Jean-Luc Mélenchon ou Bally Bagayoko.",
+    "published": "2026-10-16T11:36:42+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/vive-le-17-octobre-le-site-des-republicains-brievement-transforme-en-appel-a-la-mobilisation-20261016_YVYRHCJ4RBHQLKUBIVRJSADODY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839513+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Après deux jours de polémique, la nouvelle porte-parole de Donald Trump admet ne jamais avoir été avocate",
+    "link": "https://www.liberation.fr/international/amerique/apres-deux-jours-de-polemique-la-nouvelle-porte-parole-de-donald-trump-admet-ne-jamais-avoir-ete-avocate-20261016_Z7Z5HQYP7ZGCRAA5KRG6CQQCWA/",
+    "summary": "Tout juste nommée à la place de Karoline Leavitt, la nouvelle patronne de la salle de presse de la Maison Blanche faisait face à de lourds soupçons autour de son CV.",
+    "published": "2026-10-16T11:13:18+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/apres-deux-jours-de-polemique-la-nouvelle-porte-parole-de-donald-trump-admet-ne-jamais-avoir-ete-avocate-20261016_Z7Z5HQYP7ZGCRAA5KRG6CQQCWA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839535+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le Chat de Philippe Geluck : et chi ch’était lui ?",
+    "link": "https://www.liberation.fr/culture/livres/le-chat-de-philippe-geluck-et-chi-chetait-lui-20261016_N3HXZAJKFBHPLNHQEUBON5TVVY/",
+    "summary": "Une compilation et des inédits du dessinateur belge qui s’attaque au terrain politique.",
+    "published": "2026-10-16T11:07:00+00:00",
+    "authors": [
+      "Mathieu Lindon"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/le-chat-de-philippe-geluck-et-chi-chetait-lui-20261016_N3HXZAJKFBHPLNHQEUBON5TVVY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839551+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Je ne pourrai jamais les retrouver » : dans le Pas-de-Calais, un éleveur se fait dérober 40 000 euros d’escargots",
+    "link": "https://www.valeursactuelles.com/regions/hauts-de-france/pas-de-calais/saint-omer/faits-divers/je-ne-pourrai-jamais-les-retrouver-dans-le-pas-de-calais-un-eleveur-se-fait-derober-40-000-euros-descargots",
+    "summary": "C’est une affaire comme on en voit peu. À Clairmarais, un village d’un peu plus de 500 habitants, situé dans le Pas-de-Calais, vit un éleveur d’escargots. Un héliciculteur pour être... L’article « Je ne pourrai jamais les retrouver » : dans le Pas-de-Calais, un éleveur se fait dérober 40 000 euros d’escargots est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-16T11:01:16+00:00",
+    "authors": [
+      "Nicolas Boutin"
+    ],
+    "categories": [
+      "Non classé",
+      "agriculteurs",
+      "éleveurs",
+      "vol"
+    ],
+    "guid": "https://www.valeursactuelles.com/regions/hauts-de-france/pas-de-calais/saint-omer/faits-divers/je-ne-pourrai-jamais-les-retrouver-dans-le-pas-de-calais-un-eleveur-se-fait-derober-40-000-euros-descargots",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.890745+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Pesticides dans l’eau: le décret qui enterre la prévention",
+    "link": "https://www.mediapart.fr/journal/ecologie/161026/pesticides-dans-l-eau-le-decret-qui-enterre-la-prevention",
+    "summary": "La concertation menée au sein du groupe national captages s’est achevée, lundi 12 octobre, sur un passage en force du gouvernement. Le projet de décret limite le nombre de captages prioritaires et exclut les pesticides interdits des critères de classement. «Mediapart» en a obtenu la copie.",
+    "published": "2026-10-16T10:59:19+00:00",
+    "authors": [
+      "Karl Laske"
+    ],
+    "categories": [
+      "Écologie",
+      "Biodiversité et pollution, Eau, Pesticides, pollution"
+    ],
+    "guid": "1353257 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/16/261016-img-pesticides-dans-l-eau-le-decret-qui-enterre-la-prevention.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834826+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Un combat noble perverti» : Bally Bagayoko s’insurge après la polémique liée à l’excision et dénonce un «piège politique»",
+    "link": "https://www.liberation.fr/societe/droits-des-femmes/un-combat-noble-perverti-bally-bagayoko-sinsurge-apres-la-polemique-liee-a-lexcision-et-denonce-un-piege-politique-20261016_FPJV5H4LZFG7VK2FVOHYZPDTGI/",
+    "summary": "Critiqué pour son abstention lors d’un vote sur les mutilations sexuelles, le maire LFI de Saint-Denis rappelle son rejet de ces violences mais dénonce une tentative de déstabilisation de la part de l’opposition municipale.",
+    "published": "2026-10-16T10:57:56+00:00",
+    "authors": [
+      "Madeleine Meunier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/droits-des-femmes/un-combat-noble-perverti-bally-bagayoko-sinsurge-apres-la-polemique-liee-a-lexcision-et-denonce-un-piege-politique-20261016_FPJV5H4LZFG7VK2FVOHYZPDTGI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839573+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Rémi Boussemart, président des Jeunes Socialistes : «Dans dix ans, j’espère que la gauche aura gagné»",
+    "link": "https://www.liberation.fr/politique/remi-boussemart-president-des-jeunes-socialistes-dans-dix-ans-jespere-que-la-gauche-aura-gagne-20261016_36ZKUSFXPJA3VJCBMNRT7MK2YU/",
+    "summary": "Ils font partie des visages montants de la politique française et demeurent pourtant méconnus du grand public. «Chez Pol» part à leur rencontre. Aujourd’hui, le président des Jeunes socialistes Rémi Boussemart, qui était un partisan d’Olivier Faure à la primaire.",
+    "published": "2026-10-16T10:56:30+00:00",
+    "authors": [
+      "Vincent Martins, Chez Pol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/remi-boussemart-president-des-jeunes-socialistes-dans-dix-ans-jespere-que-la-gauche-aura-gagne-20261016_36ZKUSFXPJA3VJCBMNRT7MK2YU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839596+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "«À l’abri nulle part ni jamais», la vie au Sud-Liban sous l’œil des drones israéliens",
+    "link": "https://www.mediapart.fr/journal/international/161026/l-abri-nulle-part-ni-jamais-la-vie-au-sud-liban-sous-l-oeil-des-drones-israeliens",
+    "summary": "Les habitants du sud du Liban, frontalier d’Israël, sont constamment surveillés, si ce n’est visés, par de petits drones de l’armée israélienne, qui leur imposent une routine de peur et d’anxiété. La vie dans ces terres rurales en est profondément bouleversée.",
+    "published": "2026-10-16T10:54:59+00:00",
+    "authors": [
+      "Gwenaelle Lenoir"
+    ],
+    "categories": [
+      "International",
+      "Armée israélienne, Drones, Liban, Proche et Moyen-Orient"
+    ],
+    "guid": "1353105 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/16/261016-img-l-abri-nulle-part-ni-jamais-la-vie-au-sud-liban-sous-l-oeil-des-drones-israeliens-5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.834856+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Photo : Deauville, instantanés d’une génération spontanée",
+    "link": "https://www.liberation.fr/culture/photographie/photo-deauville-instantanes-dune-generation-spontanee-20261016_HZNPRQFCSZEB7F76RFGMOTGJ54/",
+    "summary": "Les photographes Cristina de Middel, Bruce Gilden et Tom Wood, entre autres, exposent à l’occasion de la 17e édition de Planches contact leurs travaux sur le territoire normand. Regards croisés sur une Gen Z ancrée dans l’esprit du temps.",
+    "published": "2026-10-16T10:50:30+00:00",
+    "authors": [
+      "Jérémy Piette"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/photographie/photo-deauville-instantanes-dune-generation-spontanee-20261016_HZNPRQFCSZEB7F76RFGMOTGJ54/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839617+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Journée du 17 octobre : pas de consensus sur le parcours parisien, cellule de crise, retour des grenades assourdissantes… les autorités sur un mode méfiant",
+    "link": "https://www.liberation.fr/societe/police-justice/laurent-nunez-annonce-que-les-forces-de-lordre-pourront-a-nouveau-utiliser-les-grenades-assourdissantes-lors-des-manifestations-20261016_PTIOPSJZL5HAXISNYVVG2VW4RY/",
+    "summary": "À la veille du mouvement qui ambitionne de faire converger la colère face à la hausse des prix et celle des lycées, le ministère de l’Intérieur et la préfecture de Paris posent leurs limites.",
+    "published": "2026-10-16T10:50:13+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/laurent-nunez-annonce-que-les-forces-de-lordre-pourront-a-nouveau-utiliser-les-grenades-assourdissantes-lors-des-manifestations-20261016_PTIOPSJZL5HAXISNYVVG2VW4RY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.839641+00:00"
   },
   {
     "source": "Libération",
@@ -27,22 +1327,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/en-images-au-festival-photo-de-deauville-gen-z-et-autres-generations-20261016_6AU66QS4LVHDXKJ3UH6WMUAX54/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425763+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Présidentielle 2027 : «Les choses vont très vite», Sarah Knafo croit aux chances de Reconquête et assume des divergences avec David Lisnard",
-    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-sarah-knafo-laurent-nunez-et-sebastien-chenu-sont-les-invites-des-matinales-20261016",
-    "summary": "L’eurodéputée Reconquête Sarah Knafo, ancienne candidate aux municipales à Paris, reste persuadée que «personne d’autre ne représente» la ligne de son parti.",
-    "published": "2026-10-16T10:44:03+00:00",
-    "authors": [],
-    "categories": [
-      "Présidentielle"
-    ],
-    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-sarah-knafo-laurent-nunez-et-sebastien-chenu-sont-les-invites-des-matinales-20261016",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/16/95c581a28621c523ea4be08b7bba856149a04e55473dfaeaa1aa250362361862.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.366687+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839669+00:00"
   },
   {
     "source": "Le Figaro",
@@ -61,21 +1346,6 @@
   },
   {
     "source": "Libération",
-    "title": "Photo : Deauville, instantanés d’une génération spontanée",
-    "link": "https://www.liberation.fr/culture/photographie/photo-deauville-instantanes-dune-generation-spontanee-20261016_HZNPRQFCSZEB7F76RFGMOTGJ54/",
-    "summary": "Les photographes Cristina de Middel, Bruce Gilden et Tom Wood, entre autres, exposent à l’occasion la 17e édition de Planches contact leurs travaux sur le territoire normand. Regards croisés sur une Gen Z ancrée dans l’esprit du temps.",
-    "published": "2026-10-16T10:40:53+00:00",
-    "authors": [
-      "Jérémy Piette"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/culture/photographie/photo-deauville-instantanes-dune-generation-spontanee-20261016_HZNPRQFCSZEB7F76RFGMOTGJ54/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425802+00:00"
-  },
-  {
-    "source": "Libération",
     "title": "Bruce Gilden, photographe de l’agence Magnum : «Penser que le flash serait agressif est un gros préjugé»",
     "link": "https://www.liberation.fr/culture/photographie/bruce-gilden-photographe-de-lagence-magnum-penser-que-le-flash-serait-agressif-est-un-gros-prejuge-20261016_S46YKMMBVJBA7ATEOEMVZ72OK4/",
     "summary": "L’adepte des cadrages serrés raconte à «Libé» ses débuts et sa technique de «boxeur» pour être toujours au plus près de son sujet. Au festival de Deauville, on pourra retrouver des travaux inédits et une rétrospective de son corpus new-yorkais, exposé sur la plage.",
@@ -87,7 +1357,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/bruce-gilden-photographe-de-lagence-magnum-penser-que-le-flash-serait-agressif-est-un-gros-prejuge-20261016_S46YKMMBVJBA7ATEOEMVZ72OK4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425839+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839693+00:00"
   },
   {
     "source": "Libération",
@@ -102,7 +1372,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/a-deauville-une-25e-heure-et-un-concours-photo-pour-pros-et-amateurs-20261016_KTAIBXPOWVHTPJDNUWSDPAX3PY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425872+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839714+00:00"
   },
   {
     "source": "Libération",
@@ -117,7 +1387,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/festival-planche-contact-a-deauville-ces-trois-photographes-en-residence-ont-tape-dans-loeil-de-libe-20261016_N26OIKMAUNHNDL6XOEAPTFMZOI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425904+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839735+00:00"
   },
   {
     "source": "Le Figaro",
@@ -147,7 +1417,7 @@
     "guid": "https://www.liberation.fr/politique/finalement-marine-le-pen-est-prete-a-faire-campagne-sous-bracelet-electronique-20261016_D23TOVPE3FDGDMLORNLP675JVM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425931+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839752+00:00"
   },
   {
     "source": "Le Figaro",
@@ -203,7 +1473,7 @@
     "guid": "https://www.lemonde.fr/afrique/article/2026/10/16/ethiopie-au-tigre-une-administration-interimaire-mise-en-place-par-le-gouvernement-federal_6795509_3212.html",
     "image": "https://img.lemde.fr/2026/10/01/325/0/3898/1949/644/322/60/0/9633a6a_ftp-1-1xvpgfvkb231-73690210f17b4d1fad3ec20a7329d6ef-0-ca78a0aaa746470d97b70b881d3e05e0.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.350248+00:00"
+    "fetched_at": "2026-10-16T16:11:49.855302+00:00"
   },
   {
     "source": "Le Figaro",
@@ -233,7 +1503,7 @@
     "guid": "https://www.liberation.fr/international/europe/budget-europeen-lombre-de-la-presidentielle-francaise-plane-sur-les-negociations-20261016_MKGYWVJ34ZD5HKLYTQFAU2HECA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425965+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839774+00:00"
   },
   {
     "source": "Le Figaro",
@@ -300,7 +1570,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/jerome-fourquet-et-ruben-rabinovitch-lindividu-est-devenu-le-personnage-principal-de-sa-propre-vie",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.939175+00:00"
+    "fetched_at": "2026-10-16T16:11:50.890778+00:00"
   },
   {
     "source": "Libération",
@@ -315,7 +1585,7 @@
     "guid": "https://www.liberation.fr/culture/livres/linequilibre-de-alcide-pierantozzi-le-roman-vrai-de-la-maladie-mentale-20261016_OVYRPELO2RAVTMATXT2OU474CE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.425991+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839791+00:00"
   },
   {
     "source": "Le Monde",
@@ -343,7 +1613,7 @@
     "guid": "https://www.liberation.fr/politique/campagne-2027-les-podcasts-video-sont-une-bonne-chose-aux-politiques-de-ne-pas-sen-servir-pour-zapper-les-journalistes-20261016_JJ4JBK2LQJCBXGBEG2OAI4ZSP4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.426026+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839815+00:00"
   },
   {
     "source": "Le Monde",
@@ -371,7 +1641,7 @@
     "guid": "https://www.liberation.fr/culture/arts/sur-lile-seguin-le-nouveau-centre-dart-contemporain-le-large-demarre-sur-les-chapeaux-de-roues-20261016_NK63ATM3TBADVEOYCHCWDSK5HQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.426061+00:00"
+    "fetched_at": "2026-10-16T16:11:49.839838+00:00"
   },
   {
     "source": "Libération",
@@ -447,7 +1717,7 @@
     "guid": "https://www.valeursactuelles.com/societe/tribune-mouvement-lyceen-gare-au-grand-deplacement",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.939222+00:00"
+    "fetched_at": "2026-10-16T16:11:50.890806+00:00"
   },
   {
     "source": "Mediapart",
@@ -465,7 +1735,7 @@
     "guid": "1353084 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/16/261016-re-sonances-camille-yembe-versiona.png",
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.303471+00:00"
+    "fetched_at": "2026-10-16T16:11:49.834880+00:00"
   },
   {
     "source": "Libération",
@@ -510,7 +1780,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/contestation-sociale-croyez-vous-a-un-retour-des-gilets-jaunes-20261016",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.366658+00:00"
+    "fetched_at": "2026-10-16T16:11:50.013991+00:00"
   },
   {
     "source": "Le Monde",
@@ -675,21 +1945,6 @@
     "fetched_at": "2026-10-16T10:50:51.426364+00:00"
   },
   {
-    "source": "Libération",
-    "title": "Laurent Nuñez annonce que les forces de l’ordre pourront à nouveau utiliser les grenades assourdissantes lors des manifestations",
-    "link": "https://www.liberation.fr/societe/police-justice/laurent-nunez-annonce-que-les-forces-de-lordre-pourront-a-nouveau-utiliser-les-grenades-assourdissantes-lors-des-manifestations-20261016_PTIOPSJZL5HAXISNYVVG2VW4RY/",
-    "summary": "Leur usage avait été suspendu après qu’un élève a eu la main arrachée. Le ministre de l’Intérieur entend limiter le recours aux armes intermédiaire à des situations de « violences urbaines extrêmement graves».",
-    "published": "2026-10-16T07:13:02+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/laurent-nunez-annonce-que-les-forces-de-lordre-pourront-a-nouveau-utiliser-les-grenades-assourdissantes-lors-des-manifestations-20261016_PTIOPSJZL5HAXISNYVVG2VW4RY/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.426396+00:00"
-  },
-  {
     "source": "Le Figaro",
     "title": "« Éviter la droite la plus bête du monde » : Bruno Retailleau et David Lisnard face au risque d’une déchirure interne",
     "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
@@ -702,7 +1957,7 @@
     "guid": "https://www.lefigaro.fr/elections/presidentielles/candidats/eviter-la-droite-la-plus-bete-du-monde-bruno-retailleau-et-david-lisnard-face-au-risque-d-une-dechirure-interne-20261015",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/15/3f2cd069b94e5251a49f162b16124d3330152838a86419b447ac222fe24dcde8.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.366773+00:00"
+    "fetched_at": "2026-10-16T16:11:50.013869+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -734,12 +1989,12 @@
     ],
     "categories": [
       "International",
-      "A la Une, Asie et Océanie, Biodiversité, Biodiversité et pollution, Climat, extractivisme, Nickel, Peuples autochtones"
+      "Asie et Océanie, Biodiversité, Biodiversité et pollution, Climat, extractivisme, Nickel, Peuples autochtones"
     ],
     "guid": "1353092 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/15/261015-img-sur-l-ile-de.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.303554+00:00"
+    "fetched_at": "2026-10-16T16:11:49.834903+00:00"
   },
   {
     "source": "Mediapart",
@@ -1179,6 +2434,19 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-10-16T10:50:51.426932+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "A quel point le pouvoir d’achat des Français a-t-il décroché ? Ce que disent les chiffres",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/10/16/le-pouvoir-d-achat-des-francais-a-t-il-vraiment-decroche-ce-que-disent-les-chiffres_6795107_4355770.html",
+    "summary": "« Les idées claires pour 2027 ». Des chocs inflationnistes aux salaires qui stagnent, Les Décodeurs font le point en graphiques sur l’évolution du niveau de vie des Français.",
+    "published": "2026-10-16T03:30:04+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/les-decodeurs/article/2026/10/16/le-pouvoir-d-achat-des-francais-a-t-il-vraiment-decroche-ce-que-disent-les-chiffres_6795107_4355770.html",
+    "image": "https://img.lemde.fr/2026/10/03/272/0/4252/2126/644/322/60/0/022df13_upload-1-6ecailw6svko-lidlmarquette-emelyne-09.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:49.855115+00:00"
   },
   {
     "source": "Le Monde",
@@ -1638,7 +2906,7 @@
     "guid": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jordan-bardella-marine-le-pen-les-secrets-d-un-tandem-sous-haute-pression-20261015",
     "image": "https://i.f1g.fr/media/cms/2999x1687_crop/2026/10/15/5c5749a9d6d0b34c61fb5139ab80fb1faa4573e535dc4dc5657abc5358037977.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-16T10:50:51.366746+00:00"
+    "fetched_at": "2026-10-16T16:11:50.013893+00:00"
   },
   {
     "source": "Libération",
@@ -19027,7 +20295,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/je-pensais-qu-il-en-avait-fini-avec-ca-le-calvaire-d-iris-23-ans-qui-a-croise-la-route-d-un-predateur-sexuel-au-visage-de-bon-pere-de-famille-20261010",
     "image": "https://i.f1g.fr/media/cms/1277x718_crop/2026/10/09/0d0b7d8b32742830859a08ee3579cd44cbf86b6c142798758c69457ada53ba66.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-11T04:25:54.401183+00:00"
+    "fetched_at": "2026-10-16T16:11:50.014148+00:00"
   },
   {
     "source": "Libération",
@@ -20506,6 +21774,21 @@
     "image": "https://img.lemde.fr/2026/10/06/634/0/7592/3796/644/322/60/0/13a8025_ftp-1-0jh7jdwhgcam-5282733-01-06.jpg",
     "full_text": null,
     "fetched_at": "2026-10-09T18:02:36.741690+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Tapisserie de Bayeux : le British Museum rectifie le tir après de nombreuses critiques",
+    "link": "https://www.lefigaro.fr/culture/tapisserie-de-bayeux-le-british-museum-rectifie-le-tir-apres-de-nombreuses-critiques-20261009",
+    "summary": "Le musée a mis en place une série de mesures pour s’attaquer aux trop longues files d’attente, alors que la remarquable exposition suscite un vif engouement.",
+    "published": "2026-10-09T15:34:03+00:00",
+    "authors": [],
+    "categories": [
+      "Culture"
+    ],
+    "guid": "https://www.lefigaro.fr/culture/tapisserie-de-bayeux-le-british-museum-rectifie-le-tir-apres-de-nombreuses-critiques-20261009",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/09/40415b8ee098b7ee6376532c3ee5986dfa815c366a1c7ddaf5da5b60430769c8.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-16T16:11:50.014046+00:00"
   },
   {
     "source": "Le Monde",
