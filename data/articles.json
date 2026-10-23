@@ -1,10 +1,426 @@
 [
   {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : l’armée ukrainienne dit qu’elle observera une trêve à Olechky à partir de mardi pour permettre des opérations humanitaires",
+    "link": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+    "summary": "La Maison Blanche avait annoncé que Moscou et Kiev avaient « accepté de suspendre temporairement toutes les opérations militaires dans cette ville afin de permettre l’acheminement de l’aide humanitaire et de préparer l’évacuation des civils par un couloir sécurisé désigné à cet effet ».",
+    "published": "2026-10-23T21:02:47+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/10/23/en-direct-guerre-en-ukraine-l-armee-ukrainienne-dit-qu-elle-observera-une-treve-a-olechky-a-partir-de-mardi-pour-permettre-des-operations-humanitaires_6796922_3210.html",
+    "image": "https://img.lemde.fr/2026/10/22/510/0/3796/1898/644/322/60/0/17d8244_ftp-1-4a0sdnmn29j7-afp-d46g49e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847161+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Dette : à la surprise générale, Moody’s ne dégrade pas la France",
+    "link": "https://www.lefigaro.fr/conjoncture/dette-a-la-surprise-generale-moody-s-ne-degrade-pas-la-france-20261023",
+    "summary": "L’agence de notation américaine a maintenu l’échelon Aa3, avec une perspective négative. La plupart des observateurs s’attendaient à un passage en A1 en raison de l’incapacité du gouvernement à redresser les finances publiques.",
+    "published": "2026-10-23T21:02:09+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/dette-a-la-surprise-generale-moody-s-ne-degrade-pas-la-france-20261023",
+    "image": "https://i.f1g.fr/media/cms/2964x1668_crop/2026/10/23/c3f2bb3d4de046746d55ce12ab2e303e73b8b56d7b95f5c7bd20a1590c7daad8.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869645+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La dette française sous Sarkozy, Hollande et Macron : récit de quinze ans de dérapage incontrôlé",
+    "link": "https://www.lefigaro.fr/economie/la-dette-francaise-sous-sarkozy-hollande-et-macron-recit-de-quinze-ans-de-derapage-incontrole-20261022",
+    "summary": "RÉCIT - Depuis qu’elle a perdu sa note « triple A » en janvier 2012, la France n’a jamais redressé la barre de ses comptes publics. Elle s’est enfoncée par paliers et se retrouve aujourd’hui plongée dans une crise financière inédite.",
+    "published": "2026-10-23T21:02:09+00:00",
+    "authors": [],
+    "categories": [
+      "Économie"
+    ],
+    "guid": "https://www.lefigaro.fr/economie/la-dette-francaise-sous-sarkozy-hollande-et-macron-recit-de-quinze-ans-de-derapage-incontrole-20261022",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/22/86178c19bb98cd36dfe35a83db215e8a096dcb0fe687b7182dc343477b73ff46.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869684+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Tireur des Yvelines : Emmanuel Macron affirme que l’attentat terroriste en banlieue parisienne marque un tournant pour la France",
+    "link": "https://www.lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
+    "summary": "Emmanuel Macron sur place a dénoncé un «attentat» commis «sur la base d’une idéologie raciste». Le président a invité à ne «rien céder» et à ne pas «baisser la tête» face aux «idées qui s’installent.»",
+    "published": "2026-10-23T21:02:03+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
+    "image": "https://i.f1g.fr/media/cms/489x275_crop/2026/10/23/f57ff4b73793ad14cd9b6f0240401624a72ebd1adb453df5b20df258dc5af366.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869908+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - «Acte II» le 24 octobre : la préfecture interdit le parcours Bastille-Nation de la manifestation parisienne demain",
+    "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
+    "summary": "Après plus d’un mois de crise, Emmanuel Macron est monté en première ligne vendredi dans la contestation des lycéens en recevant pour la première fois leurs représentants, à la veille d’une nouvelle journée de mobilisations strictement encadrées.",
+    "published": "2026-10-23T20:59:02+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/025796fee99da1581421482395b18ba7689c932279d42affdc58229acaad390d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.870134+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Première fois» qu’un acte terroriste vise à tuer «en raison de la couleur de peau ou de la religion» supposées : la lourde erreur de Macron sur les tirs des Yvelines",
+    "link": "https://www.lefigaro.fr/politique/premiere-fois-qu-un-acte-terroriste-vise-a-tuer-en-raison-de-la-couleur-de-peau-ou-de-la-religion-supposees-la-lourde-erreur-de-macron-sur-les-tirs-des-yvelines-20261023",
+    "summary": "En déplacement vendredi soir à Trappes, l’une des deux communes touchées, avec La Verrière, le président a qualifié de «tournant» l’attaque «terroriste raciste» qui a tué une personne et en a blessé cinq autres, la présentant comme inédite en dépit de précédents.",
+    "published": "2026-10-23T20:56:53+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/premiere-fois-qu-un-acte-terroriste-vise-a-tuer-en-raison-de-la-couleur-de-peau-ou-de-la-religion-supposees-la-lourde-erreur-de-macron-sur-les-tirs-des-yvelines-20261023",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/ee995eb10a61f32f9d6b646d99536fb6a14f26e0f130e5f6e430aba73635c6e5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869750+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestation à Paris : la préfecture interdit le parcours entre les places de la Bastille et de la Nation, le parcours alternatif refusé par l’intersyndicale",
+    "link": "https://www.lefigaro.fr/actualite-france/manifestation-a-paris-la-prefecture-interdit-le-parcours-entre-les-places-de-la-bastille-et-de-la-nation-le-parcours-alternatif-refuse-par-l-intersyndicale-20261023",
+    "summary": "Malgré l’interdiction du parcours initial, les organisations syndicales et étudiantes maintiennent leur volonté de se rendre place de la Bastille samedi. Elles dénoncent un «revirement de dernière minute» de la préfecture.",
+    "published": "2026-10-23T20:44:50+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/manifestation-a-paris-la-prefecture-interdit-le-parcours-entre-les-places-de-la-bastille-et-de-la-nation-le-parcours-alternatif-refuse-par-l-intersyndicale-20261023",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/91b1405d53527065cef74e66e26c23ba042ff214e5d07da51d880d67848c7c15.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.870105+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Attaque dans les Yvelines : Emmanuel Macron dénonce «un acte terroriste et raciste» qui constitue un «tournant»",
+    "link": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
+    "summary": "Le Parquet national antiterroriste (Pnat) a annoncé se saisir des faits commis par un homme qui a tiré en rafales dans la rue vendredi 23 octobre au matin dans les Yvelines, tuant une personne et en blessant cinq autres.",
+    "published": "2026-10-23T20:41:41+00:00",
+    "authors": [
+      "Libération ., Coppélia Piccolo, Léonard Cassette, Service Photo, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384048+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Affaire «band of connasses» : condamnée en première instance, Tara Heuzé-Sarmini obtient gain de cause en appel",
+    "link": "https://www.liberation.fr/societe/police-justice/affaire-band-of-connasses-condamnee-en-premiere-instance-tara-heuze-sarmini-obtient-gain-de-cause-en-appel-20261023_5HTG25H6RRFOTKUOMYN4EOQIWE/",
+    "summary": "L’entrepreneuse avait diffusé une conversation privée avec un confrère qui la traitait de «connasse» sur le réseau social LinkedIn, sans le consentement de ce dernier.",
+    "published": "2026-10-23T20:32:30+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/affaire-band-of-connasses-condamnee-en-premiere-instance-tara-heuze-sarmini-obtient-gain-de-cause-en-appel-20261023_5HTG25H6RRFOTKUOMYN4EOQIWE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384088+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Elena Nagapetyan, humoriste : «J’ai peur pour la santé des Rolling Stones»",
+    "link": "https://www.liberation.fr/culture/musique/elena-nagapetyan-humoriste-jai-peur-pour-la-sante-des-rolling-stones-20261023_XI3I2PYYC5FELPMT7N2HWL7W6U/",
+    "summary": "",
+    "published": "2026-10-23T20:25:00+00:00",
+    "authors": [
+      "Brice Bossavie"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/musique/elena-nagapetyan-humoriste-jai-peur-pour-la-sante-des-rolling-stones-20261023_XI3I2PYYC5FELPMT7N2HWL7W6U/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384110+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mouvement social : «Le maintien de l’ordre ne se gère pas avec un sourire et un bisou», cingle le préfet de Paris",
+    "link": "https://www.liberation.fr/societe/police-justice/mouvement-social-le-maintien-de-lordre-ne-se-gere-pas-avec-un-sourire-et-un-bisou-cingle-le-prefet-de-paris-20261023_C4BUY7PFVVFTHHJ5TBG3BB4K5U/",
+    "summary": "Dans une interview donnée à «l’Opinion» le 23 octobre, Patrice Faure a défendu les dispositifs employés par les forces de l’ordre place de la République, avant même le début de la manifestation le 17 octobre.",
+    "published": "2026-10-23T20:19:52+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/mouvement-social-le-maintien-de-lordre-ne-se-gere-pas-avec-un-sourire-et-un-bisou-cingle-le-prefet-de-paris-20261023_C4BUY7PFVVFTHHJ5TBG3BB4K5U/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384143+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mouvement social : le parcours parisien changé par la préfecture",
+    "link": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/",
+    "summary": "Emmanuel Macron s’est entretenu vendredi après-midi avec avec les organisations lycéennes, alors que les préfectures ont accordé quelques autorisations de manifestation, sur l’impulsion des organisations syndicales.",
+    "published": "2026-10-23T20:15:15+00:00",
+    "authors": [
+      "Libération ., Service Photo, AFP ., Coppélia Piccolo, Margaux  Gable"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384171+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Romantique dans son essence » : l’art de la cravate, une certaine idée de l’élégance masculine",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/art-de-vivre/romantique-dans-son-essence-lart-de-la-cravate-une-certaine-idee-de-lelegance-masculine",
+    "summary": "« Une cravate bien mise, c’est un de ces traits de génie qui se sentent, s’admirent, mais ne s’analysent ni ne s’enseignent […] La cravate est romantique dans son essence ; du... L’article « Romantique dans son essence » : l’art de la cravate, une certaine idée de l’élégance masculine est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-23T20:00:32+00:00",
+    "authors": [
+      "Alexandre Bertolini"
+    ],
+    "categories": [
+      "Non classé",
+      "cravate",
+      "mode",
+      "vêtements"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/art-de-vivre/romantique-dans-son-essence-lart-de-la-cravate-une-certaine-idee-de-lelegance-masculine",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.836002+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Congrès du RN : Orléans se prépare à être l’épicentre de mobilisations d’ampleur",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html",
+    "summary": "De 20 000 à 30 000 opposants sont attendus en marge du congrès du Rassemblement national, samedi 24 octobre. De nombreux commerces seront fermés et les transports à l’arrêt dans une ville mise sous cloche.",
+    "published": "2026-10-23T19:47:21+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html",
+    "image": "https://img.lemde.fr/2026/10/23/0/0/3000/1500/644/322/60/0/8b8bb92_upload-1-ipilupl24ok5-orleans-asurp-100774.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.846941+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Manche : un homme meurt en coupant un arbre après le passage de la tempête Austen",
+    "link": "https://www.liberation.fr/environnement/climat/manche-un-homme-decede-en-coupant-un-arbre-apres-le-passage-de-la-tempete-austen-20261023_GVBDY3LLABEZZC4A6JESQ472OI/",
+    "summary": "La mort du sexagénaire est une «conséquence indirecte» de la tempête, a précisé la préfecture. Deux autres personnes ont été prises en charge «en urgence absolue» après que le vent a soufflé à plus de 100 km/h dans la zone classée vigilance orange.",
+    "published": "2026-10-23T19:30:31+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/manche-un-homme-decede-en-coupant-un-arbre-apres-le-passage-de-la-tempete-austen-20261023_GVBDY3LLABEZZC4A6JESQ472OI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384210+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Me parlez pas de votre taux de suicide » : quand les agriculteurs sont pris pour cible par les manifestants du 17 octobre",
+    "link": "https://www.valeursactuelles.com/societe/me-parlez-pas-de-votre-taux-de-suicide-quand-les-agriculteurs-sont-pris-pour-cible-par-les-manifestants-du-17-octobre",
+    "summary": "La convergence des luttes n’a pas eu lieu. En amont de la journée de mobilisation du 17 octobre, beaucoup avaient appelé les agriculteurs à se joindre au mouvement de contestation.... L’article « Me parlez pas de votre taux de suicide » : quand les agriculteurs sont pris pour cible par les manifestants du 17 octobre est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-23T19:03:56+00:00",
+    "authors": [
+      "Pierre Victor"
+    ],
+    "categories": [
+      "Non classé",
+      "17 octobre"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/me-parlez-pas-de-votre-taux-de-suicide-quand-les-agriculteurs-sont-pris-pour-cible-par-les-manifestants-du-17-octobre",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.836056+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Jean-Paul Huchon ou l’art du compromis, de Rocard à la région Ile-de-France",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/23/jean-paul-huchon-ou-l-art-du-compromis-de-rocard-a-la-region-ile-de-france_6799142_823448.html",
+    "summary": "Figure influente du Parti socialiste, ce rocardien historique, décédé vendredi, a régné dix-sept ans sur la région francilienne.",
+    "published": "2026-10-23T18:59:16+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/23/jean-paul-huchon-ou-l-art-du-compromis-de-rocard-a-la-region-ile-de-france_6799142_823448.html",
+    "image": "https://img.lemde.fr/2026/10/23/665/0/4368/2184/644/322/60/0/c270155_upload-1-mrogwwg1us1a-zum10005d518.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847098+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Tireur des Yvelines : Macron évoque «un tournant», invite à ne «rien céder» face aux «idées qui s'installent»",
+    "link": "https://www.lefigaro.fr/faits-divers/tireur-des-yvelines-macron-evoque-un-tournant-invite-a-ne-rien-ceder-face-aux-idees-qui-s-installent-20261023",
+    "summary": "Un homme soupçonné d’avoir voulu s’en prendre à des personnes issues de l’immigration a tué une personne et fait cinq blessés vendredi lors d’une fusillade entre Trappes et La Verrière (Yvelines). Il a été interpellé et placé en garde à vue.",
+    "published": "2026-10-23T18:51:51+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/tireur-des-yvelines-macron-evoque-un-tournant-invite-a-ne-rien-ceder-face-aux-idees-qui-s-installent-20261023",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/23/9e5e69cc644c0102faf22f09c7f48e5e08923a8f8b046736d09c1008db2cc213.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869940+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Trappes : l’Élysée dénonce un «attentat terroriste raciste», la gauche s’inquiète d’un «climat où la haine prospère»",
+    "link": "https://www.lefigaro.fr/politique/trappes-l-elysee-denonce-un-attentat-terroriste-raciste-la-gauche-s-inquiete-d-un-climat-ou-la-haine-prospere-20261023",
+    "summary": "DÉCRYPTAGE - La campagne présidentielle a de nouveau été percutée par un fait d’actualité majeur, suscitant de multiples réactions politiques au-delà d’une émotion collective partagée.",
+    "published": "2026-10-23T18:51:44+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/trappes-l-elysee-denonce-un-attentat-terroriste-raciste-la-gauche-s-inquiete-d-un-climat-ou-la-haine-prospere-20261023",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/23/f1c94e8f5b3997aaa661de3b5eb52931861779e91583c7189086371ba3bfbfcf.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869840+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "24 octobre : une journée de mobilisation dans un climat de répression",
+    "link": "https://www.liberation.fr/societe/police-justice/24-octobre-une-journee-de-mobilisation-dans-un-climat-de-repression-20261023_THOBAN4ZYZAVZOUVNJOFQLKQLU/",
+    "summary": "En amont de l’acte II de la contestation lycéenne et sociale organisée ce samedi, le gouvernement s’est arc-bouté sur des positions répressives. Plusieurs recours ont été déposés dans les tribunaux administratifs pour suspendre les interdictions de manifestations.",
+    "published": "2026-10-23T18:49:04+00:00",
+    "authors": [
+      "Anaïs Condomines, Ismaël Halissat"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/24-octobre-une-journee-de-mobilisation-dans-un-climat-de-repression-20261023_THOBAN4ZYZAVZOUVNJOFQLKQLU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384240+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«On ne va pas faire campagne pendant six mois comme ça» : à Amiens, Raphaël Glucksmann consacre à la jeunesse son (rapide) premier déplacement",
+    "link": "https://www.liberation.fr/politique/on-ne-va-pas-faire-campagne-pendant-six-mois-comme-ca-a-amiens-raphael-glucksmann-consacre-a-la-jeunesse-son-rapide-premier-deplacement-20261023_KMO47RCRAVEDHCMWSREUQKLJ5E/",
+    "summary": "Le candidat du PS et de Place publique a fait un passage en Picardie, vendredi 23 octobre au matin, douze jours après sa victoire à la primaire. L’eurodéputé a rencontré des jeunes et défendu son plan pour répondre à la crise.",
+    "published": "2026-10-23T18:48:35+00:00",
+    "authors": [
+      "Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/on-ne-va-pas-faire-campagne-pendant-six-mois-comme-ca-a-amiens-raphael-glucksmann-consacre-a-la-jeunesse-son-rapide-premier-deplacement-20261023_KMO47RCRAVEDHCMWSREUQKLJ5E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384273+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "«Je viens d’un monde où on a faim»: des pilleurs racontent leur 17 octobre",
+    "link": "https://www.mediapart.fr/journal/france/231026/je-viens-d-un-monde-ou-faim-des-pilleurs-racontent-leur-17-octobre",
+    "summary": "«Mediapart» a rencontré trois jeunes hommes présents lors des débordements du 17 octobre, à Paris et à Marseille. Tous font part d’une forme de revanche, voire de vengeance, face aux inégalités sociales et aux violences policières qu’ils estiment subir au quotidien.",
+    "published": "2026-10-23T18:48:33+00:00",
+    "authors": [
+      "Inès Bennacer, Pascale Pascariello, Ilyes Ramdani"
+    ],
+    "categories": [
+      "France",
+      "Jeunesse, Mouvement du 17 octobre, révolte sociale"
+    ],
+    "guid": "1355133 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/21/261021-img-entretien-casseur.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.866375+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, tirs à Trappes et à La Verrière : « Ce qu’il s’est passé aujourd’hui est un tournant dans la vie de notre République », déclare Emmanuel Macron, qui dénonce un « attentat terroriste raciste »",
+    "link": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-tirs-a-trappes-et-a-la-verriere-ce-qu-il-s-est-passe-aujourd-hui-est-un-tournant-dans-la-vie-de-notre-republique-declare-emmanuel-macron-qui-denonce-un-attentat-terroriste-raciste_6799092_3224.html",
+    "summary": "Le Parquet national antiterroriste a fait savoir, vendredi dans la soirée, que le tireur avait piégé son appartement avec trois bouteilles de gaz et des fils électriques. Il a été interpellé et placé en garde à vue. Un membre de son entourage a également été placé en garde à vue.",
+    "published": "2026-10-23T18:43:59+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-tirs-a-trappes-et-a-la-verriere-ce-qu-il-s-est-passe-aujourd-hui-est-un-tournant-dans-la-vie-de-notre-republique-declare-emmanuel-macron-qui-denonce-un-attentat-terroriste-raciste_6799092_3224.html",
+    "image": "https://img.lemde.fr/2026/10/23/136/0/1616/808/644/322/60/0/21fd6c7_upload-1-znnyzhjnqm5p-e6df1bc6-5933-47b8-aad2-debb560dd907.jpeg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.846862+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Y’a un mec qui rafale tout le monde» : de Trappes à La Verrière, le périple meurtrier de Kévin T., qui a fait un mort et 5 blessés dans les Yvelines",
+    "link": "https://www.lefigaro.fr/faits-divers/yvelines-un-homme-tire-en-pleine-rue-a-trappes-au-moins-un-mort-et-quatre-b-20261023",
+    "summary": "Un homme de 39 ans a été interpellé rapidement par des policiers de la BAC de Saint-Quentin-en-Yvelines, à Coignières. Le Parquet national antiterroriste est saisi.",
+    "published": "2026-10-23T18:40:16+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/yvelines-un-homme-tire-en-pleine-rue-a-trappes-au-moins-un-mort-et-quatre-b-20261023",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/23/caf2cdd55003bf100622db502895f856e5fa7756655b96c757e8ead80a4241bd.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869780+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Contestation sociale : Macron écarte les siens pour reprendre la main",
+    "link": "https://www.liberation.fr/politique/contestation-sociale-macron-ecarte-les-siens-pour-reprendre-la-main-20261023_SDFS4PBUXFEQ3DARHHOQVBXPXU/",
+    "summary": "Entre fermeté sécuritaire et promesses à la jeunesse, le Président tente de reprendre seul le contrôle, court-circuitant une nouvelle fois son gouvernement.",
+    "published": "2026-10-23T18:36:04+00:00",
+    "authors": [
+      "Jean-Baptiste Daoulas"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/contestation-sociale-macron-ecarte-les-siens-pour-reprendre-la-main-20261023_SDFS4PBUXFEQ3DARHHOQVBXPXU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384297+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Manifestations du 24 octobre : en prévision des émeutes, des citoyens s’organisent discrètement pour protéger les commerçants des pillages",
+    "link": "https://www.valeursactuelles.com/societe/manifestations-du-24-octobre-en-prevision-des-emeutes-des-citoyens-sorganisent-discretement-pour-proteger-les-commercants-des-pillages",
+    "summary": "Une semaine après les violences du 17 octobre, qui ont touché quelque 1 500 commerces selon les chiffres du gouvernement, la crainte de nouveaux pillages suscite des initiatives citoyennes dans... L’article Manifestations du 24 octobre : en prévision des émeutes, des citoyens s’organisent discrètement pour protéger les commerçants des pillages est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-23T18:31:15+00:00",
+    "authors": [
+      "Mathilde Klotgen"
+    ],
+    "categories": [
+      "Non classé",
+      "17 octobre",
+      "commerçant",
+      "lycée",
+      "lycéens",
+      "manifestation",
+      "pillage"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/manifestations-du-24-octobre-en-prevision-des-emeutes-des-citoyens-sorganisent-discretement-pour-proteger-les-commercants-des-pillages",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.836109+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Ce sont les commerçants qui seront jugés coupables, pas les casseurs» : l’alerte d’une fédération professionnelle sur les risques de l’«autodéfense»",
+    "link": "https://www.lefigaro.fr/social/ce-sont-les-commercants-qui-seront-juges-coupables-pas-les-casseurs-l-alerte-d-une-federation-professionnelle-sur-les-risques-de-l-autodefense-20261023",
+    "summary": "ENTRETIEN - À la veille de «l’acte II» de la mobilisation, samedi 24 octobre, les commerçants se préparent au pire. Face à l’impuissance de l’État, certains sont tentés de se faire justice eux-mêmes, prévient Thierry Véron, président de la Fédération des associations de commerçants et artisans parisiens (Facap).",
+    "published": "2026-10-23T18:30:33+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/ce-sont-les-commercants-qui-seront-juges-coupables-pas-les-casseurs-l-alerte-d-une-federation-professionnelle-sur-les-risques-de-l-autodefense-20261023",
+    "image": "https://i.f1g.fr/media/cms/1200x800_crop/2026/10/23/837f5af0dbca2440800aa286c84321eed812412a29aaa78119069686f7ee726a.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.870051+00:00"
+  },
+  {
     "source": "Le Figaro",
     "title": "Un combattant de MMA, une fillette de 12 ans… Qui sont les victimes du tireur de Trappes ?",
     "link": "https://www.lefigaro.fr/faits-divers/un-combattant-de-mma-une-fillette-de-12-ans-qui-sont-les-cinq-victimes-du-tireur-de-trappes-20261023",
     "summary": "Dans les Yvelines, une fusillade a fait un mort et quatre blessés, dont plusieurs en urgence absolue. Selon le maire de Trappes, il s’agit d’un «attentat probablement islamophobe».",
-    "published": "2026-10-23T16:34:01+00:00",
+    "published": "2026-10-23T18:29:10+00:00",
     "authors": [],
     "categories": [
       "Faits divers"
@@ -12,7 +428,468 @@
     "guid": "https://www.lefigaro.fr/faits-divers/un-combattant-de-mma-une-fillette-de-12-ans-qui-sont-les-cinq-victimes-du-tireur-de-trappes-20261023",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/bff175a8805a4afdb0de21e1f01b49566685550e303d00adf00b9d249a9f3554.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097432+00:00"
+    "fetched_at": "2026-10-23T21:04:12.869967+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Comment on peut s’en prendre à une communauté comme ça ?» Dans les Yvelines, l’effroi après un attentat raciste",
+    "link": "https://www.liberation.fr/societe/police-justice/comment-on-peut-sen-prendre-a-une-communaute-comme-ca-dans-les-yvelines-leffroi-apres-un-attentat-raciste-20261023_D4CR2WF5QNDOBCP2HKGBAY4GWE/",
+    "summary": "Un homme de 39 ans a fait feu, dans la matinée du vendredi 23 octobre, entre Trappes et La Verrière, faisant un mort et plusieurs blessés. Le Parquet national antiterroriste a ouvert une enquête, et Emmanuel Macron, sur place, a dénoncé un «tournant».",
+    "published": "2026-10-23T18:26:26+00:00",
+    "authors": [
+      "Romain Boulho, Léonard Cassette, Coppélia Piccolo"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/comment-on-peut-sen-prendre-a-une-communaute-comme-ca-dans-les-yvelines-leffroi-apres-un-attentat-raciste-20261023_D4CR2WF5QNDOBCP2HKGBAY4GWE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384329+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "En première ligne, les maires oscillent entre inquiétude, colère et volontarisme",
+    "link": "https://www.mediapart.fr/journal/politique/231026/en-premiere-ligne-les-maires-oscillent-entre-inquietude-colere-et-volontarisme",
+    "summary": "À Paris, Grenoble, Angers ou Charleville-Mézières, les élus locaux s’organisent pour que la mobilisation du samedi 24 puisse avoir lieu dans les meilleures conditions possibles. Partout, on craint un nouveau raté qui aurait des conséquences «déflagratoires».",
+    "published": "2026-10-23T18:21:08+00:00",
+    "authors": [
+      "Mathieu Dejean, Pauline Graulle"
+    ],
+    "categories": [
+      "Politique",
+      "droit de manifester, Libertés publiques, Mouvement du 17 octobre, Sécurité"
+    ],
+    "guid": "1355271 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-en-premiere-ligne-les-maires-oscillent-entre-inquietude-colere-et-volontarisme.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.866413+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le président Macron bientôt licencié… mais pas en droit",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/le-president-macron-bientot-licencie-mais-pas-en-droit-20261023_D6W7WHUB6VGYXHFEFPAP544Q2M/",
+    "summary": "Pour Emmanuel Macron, les seuls groupements «légitimes» et donc autorisés à manifester samedi 24 octobre sont les syndicats. Cette idée est totalement étrangère au droit des manifestations qui se montre, au contraire, très libéral, relève la professeure de droit public Roseline Letteron.",
+    "published": "2026-10-23T18:15:14+00:00",
+    "authors": [
+      "Roseline Letteron"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/le-president-macron-bientot-licencie-mais-pas-en-droit-20261023_D6W7WHUB6VGYXHFEFPAP544Q2M/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384360+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Manifestations du 24 octobre : à six mois de la présidentielle, le pouvoir politique est nu",
+    "link": "https://www.liberation.fr/idees-et-debats/manifestations-du-24-octobre-a-six-mois-de-la-presidentielle-le-pouvoir-politique-est-nu-20261023_6GJXECVYJ5FLVC5YQCNP2S3WYY/",
+    "summary": "En interdisant les rassemblements à tour de bras et en déployant un arsenal de sécurité maximale face à la colère de la rue, l’exécutif n’a qu’une réponse à la crise : la répression.",
+    "published": "2026-10-23T18:11:41+00:00",
+    "authors": [
+      "Alexandra Schwartzbrod"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/manifestations-du-24-octobre-a-six-mois-de-la-presidentielle-le-pouvoir-politique-est-nu-20261023_6GJXECVYJ5FLVC5YQCNP2S3WYY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384388+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Autoroute A412 en Haute-Savoie: la procureure d’Annecy demande la suspension du chantier",
+    "link": "https://www.mediapart.fr/journal/france/231026/autoroute-a412-en-haute-savoie-la-procureure-d-annecy-demande-la-suspension-du-chantier",
+    "summary": "Après avoir relevé plusieurs manquements environnementaux sur le chantier de l’autoroute qui doit relier Thonon-les-Bains à Machilly, la procureure d’Annecy demande l’arrêt des travaux jusqu’à leur mise en conformité. La décision est attendue mardi 27 octobre.",
+    "published": "2026-10-23T18:06:30+00:00",
+    "authors": [
+      "Estelle Levresse"
+    ],
+    "categories": [
+      "France",
+      "Annecy, Autoroute, Biodiversité et pollution"
+    ],
+    "guid": "1355268 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-autoroute-a412-en-haute-savoie-la-procureure-dannecy-demande-la-suspension-du-chantier.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.866445+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Manifestation interdite à Lyon: «La situation promet d’être chaotique»",
+    "link": "https://www.mediapart.fr/journal/economie-et-social/231026/manifestation-interdite-lyon-la-situation-promet-d-etre-chaotique",
+    "summary": "La préfecture du Rhône a décidé d’interdire les rassemblements et les manifestations dans un large périmètre de la ville le 24 octobre. Le cosecrétaire départemental de Solidaires Rhône dénonce une atteinte au droit de manifester, qui est le «symptôme du manque de lucidité du pouvoir sur ce qui est en train de se passer».",
+    "published": "2026-10-23T18:06:26+00:00",
+    "authors": [
+      "Mathieu Dejean"
+    ],
+    "categories": [
+      "Économie et social",
+      "droit de manifester, Libertés publiques, Lyon, Mouvement du 17 octobre"
+    ],
+    "guid": "1355251 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-manifestation-interdite-lyon-la-situation-promet-d-etre-chaotique.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.866478+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Tempête Austen : trois départements du nord de la France restent en vigilance orange, 242 000 foyers privés d’électricité",
+    "link": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html",
+    "summary": "Seuls le Nord, le Pas-de-Calais et la Somme sont toujours placés en vigilance orange pour vent. Un homme est mort en coupant un arbre après le passage de la tempête vendredi dans la Manche.",
+    "published": "2026-10-23T18:04:16+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-trois-departements-du-nord-de-la-france-restent-en-vigilance-orange-242-000-foyers-prives-d-electricite_6799023_3245.html",
+    "image": "https://img.lemde.fr/2026/10/23/842/0/6000/3000/644/322/60/0/179c973_ftp-1-qnkx7hopsxma-afp-d47c8cr.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847314+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Cisjordanie : en réponse à une attaque contre des militaires israéliens, Nétanyahou promet des destructions d’ampleur et encore plus de colonies",
+    "link": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
+    "summary": "Après la mort de deux soldats près d’Hébron, le premier ministre israélien a promis « une opération très vaste de l’armée », mais l’état-major semble plus modéré, à quatre jours d’élections législatives décisives.",
+    "published": "2026-10-23T18:01:39+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html",
+    "image": "https://img.lemde.fr/2026/10/23/251/0/3011/1505/644/322/60/0/ff2ff0e_ftp-1-rrehap36ghnu-afp-d48r7v7.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847006+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« On renvoie une image exécrable » : quand les émeutes font fuir les touristes",
+    "link": "https://www.valeursactuelles.com/economie/on-renvoie-une-image-execrable-quand-les-emeutes-font-fuir-les-touristes",
+    "summary": "Depuis samedi dernier, des images de touristes déboussolés au milieu des émeutiers circulent sur les réseaux sociaux. Ces scènes insurrectionnelles ont fait fuir les visiteurs.Si peu d’établissements ont subi des... L’article « On renvoie une image exécrable » : quand les émeutes font fuir les touristes est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-23T18:00:04+00:00",
+    "authors": [
+      "Sixtine Dupont"
+    ],
+    "categories": [
+      "Non classé",
+      "émeutes",
+      "pillage",
+      "touriste"
+    ],
+    "guid": "https://www.valeursactuelles.com/economie/on-renvoie-une-image-execrable-quand-les-emeutes-font-fuir-les-touristes",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.836154+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Derrière la condamnation d’Olivier Bouygues, « un sérieux avertissement pour les grands propriétaires de domaines de chasse »",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/23/derriere-la-condamnation-d-olivier-bouygues-un-serieux-avertissement-pour-les-grands-proprietaires-de-domaines-de-chasse_6799135_3224.html",
+    "summary": "L’homme d’affaires a été condamné à deux ans de prison avec sursis et 750 000 euros d’amende pour l’abattage, par ses gardes-chasse, d’espèces protégées sur sa propriété solognote. Il a fait appel.",
+    "published": "2026-10-23T17:56:47+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/10/23/derriere-la-condamnation-d-olivier-bouygues-un-serieux-avertissement-pour-les-grands-proprietaires-de-domaines-de-chasse_6799135_3224.html",
+    "image": "https://img.lemde.fr/2026/10/23/655/0/5579/2789/644/322/60/0/2bffbc0_upload-1-7msqvo7sqklt-000-c7jb7zt.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847128+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Retrait du mobilier urbain, des poubelles, des vélos en libre-service… Les villes vident leurs rues avant l’Acte II des «gilets jaunes»",
+    "link": "https://www.lefigaro.fr/social/retrait-du-mobilier-urbain-des-poubelles-des-velos-en-libre-service-les-villes-vident-leurs-rues-avant-l-acte-ii-des-gilets-jaunes-20261023",
+    "summary": "À Paris, «des tournées spécifiques» sont d’ores et déjà organisées pour retirer les objets lourds ou inflammables susceptibles d’être utilisés lors de dégradations.",
+    "published": "2026-10-23T17:51:23+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/retrait-du-mobilier-urbain-des-poubelles-des-velos-en-libre-service-les-villes-vident-leurs-rues-avant-l-acte-ii-des-gilets-jaunes-20261023",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/dd70bd4781549ddff1f27d8619fa0326d7f77cb87ed585e8bacc5eabbfa52e83.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.870016+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Priez pour les chrétiens qui souffrent » : six morts dans l’attaque d’une église en Jordanie par « un groupe d’extrémistes »",
+    "link": "https://www.valeursactuelles.com/monde/priez-pour-les-chretiens-qui-souffrent-six-morts-dans-lattaque-dune-eglise-en-jordanie-par-un-groupe-dextremistes",
+    "summary": "« Deux hommes armés sont sortis d’un véhicule et ont ouvert le feu lors d’un cortège funéraire », ont indiqué les autorités jordaniennes ce vendredi 23 octobre.6 morts et une... L’article « Priez pour les chrétiens qui souffrent » : six morts dans l’attaque d’une église en Jordanie par « un groupe d’extrémistes » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-23T17:45:21+00:00",
+    "authors": [
+      "Alix Cagnard"
+    ],
+    "categories": [
+      "Non classé",
+      "Attentat",
+      "Chrétiens d'Orient",
+      "daech",
+      "église",
+      "jordanie",
+      "terrorisme"
+    ],
+    "guid": "https://www.valeursactuelles.com/monde/priez-pour-les-chretiens-qui-souffrent-six-morts-dans-lattaque-dune-eglise-en-jordanie-par-un-groupe-dextremistes",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.836218+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Aux Etats-Unis, le soutien à Israël devient un enjeu électoral des midterms",
+    "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/",
+    "summary": "Pour de nombreux électeurs démocrates, mais aussi républicains, l’appui sans condition de Washington au gouvernement israélien est devenu radioactif. C’est même devenu l’un des déterminants pour le scrutin du 3 novembre qui doit renouveler une partie du Congrès.",
+    "published": "2026-10-23T17:36:44+00:00",
+    "authors": [
+      "Benjamin Delille, Isabelle Hanne"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384418+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Droit d’appel des victimes : quand Gérald Darmanin fait la sourde oreille",
+    "link": "https://www.valeursactuelles.com/societe/droit-dappel-des-victimes-quand-gerald-darmanin-fait-la-sourde-oreille",
+    "summary": "La jeune fille s’était confiée en 2024. Elle avait raconté dans un cadre scolaire avoir été violée entre ses 11 et ses 14 ans par son père, né à Mayotte... L’article Droit d’appel des victimes : quand Gérald Darmanin fait la sourde oreille est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-23T17:31:10+00:00",
+    "authors": [
+      "Marie De Greef-Madelin"
+    ],
+    "categories": [
+      "Non classé",
+      "Gérald Darmanin",
+      "Justice",
+      "victime"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/droit-dappel-des-victimes-quand-gerald-darmanin-fait-la-sourde-oreille",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.836258+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La diplomatie de Giorgia Meloni, une politique au cœur de l’internationale réactionnaire",
+    "link": "https://www.lemonde.fr/international/article/2026/10/23/la-diplomatie-de-giorgia-meloni-une-politique-au-c-ur-de-l-internationale-reactionnaire_6799132_3210.html",
+    "summary": "« Meloni, quatre années au pouvoir » (5/6). La présidente du conseil italien, d’extrême droite, cultive ses affinités idéologiques avec les dirigeants les plus conservateurs, comme Donald Trump, Javier Milei ou Viktor Orban. Et œuvre en Europe, grâce à ses réseaux, au durcissement de la lutte contre l’immigration illégale.",
+    "published": "2026-10-23T17:30:11+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/23/la-diplomatie-de-giorgia-meloni-une-politique-au-c-ur-de-l-internationale-reactionnaire_6799132_3210.html",
+    "image": "https://img.lemde.fr/2026/10/21/0/0/3000/1500/644/322/60/0/331adb5_upload-1-zqr55i2qlwlo-063-2210747392.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847038+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Oraux de médecine : pas de « fraude massive » mais la triche reste possible, selon les inspections générales",
+    "link": "https://www.lemonde.fr/campus/article/2026/10/23/oraux-de-medecine-pas-de-fraude-massive-mais-la-triche-reste-possible-selon-les-inspections-generales_6799130_4401467.html",
+    "summary": "Dans un rapport publié le 23 octobre, aucune faille de sécurité systémique majeure n’a été identifiée lors des épreuves orales du concours de l’internat. La mission d’inspection alerte toutefois sur des fragilités rendant possible la fraude. Mi-septembre, un étudiant anonyme avait affirmé détenir les preuves d’une triche à grande échelle.",
+    "published": "2026-10-23T17:22:14+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/campus/article/2026/10/23/oraux-de-medecine-pas-de-fraude-massive-mais-la-triche-reste-possible-selon-les-inspections-generales_6799130_4401467.html",
+    "image": "https://img.lemde.fr/2026/10/23/425/0/5100/2550/644/322/60/0/20437bc_upload-1-mk3fs5ylyomg-gettyimages-1485177920.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847194+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Cisjordanie : deux soldats israéliens tués, Nétanyahou menace de lancer une opération «comme il n’y en a pas eu depuis la guerre des Six Jours»",
+    "link": "https://www.liberation.fr/international/moyen-orient/cisjordanie-deux-soldats-israeliens-tues-netanyahou-menace-de-lancer-une-operation-comme-il-ny-en-a-pas-eu-depuis-la-guerre-des-six-jours-20261023_P2S2QP4YV5E2PK3O7R5UYOMWL4/",
+    "summary": "Après l’attaque de deux Palestiniens contre un barrage de l’armée israélienne à Hébron ce vendredi 23 octobre, le Premier ministre Benyamin Nétanyahou a annoncé le bouclage total de la Cisjordanie.",
+    "published": "2026-10-23T17:20:00+00:00",
+    "authors": [
+      "Luc Mathieu"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/cisjordanie-deux-soldats-israeliens-tues-netanyahou-menace-de-lancer-une-operation-comme-il-ny-en-a-pas-eu-depuis-la-guerre-des-six-jours-20261023_P2S2QP4YV5E2PK3O7R5UYOMWL4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384447+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Fusillade à Trappes : comment les réseaux sociaux ont jeté en pâture le profil d’un innocent",
+    "link": "https://www.liberation.fr/checknews/fusillade-a-trappes-comment-les-reseaux-sociaux-ont-jete-en-pature-le-profil-dun-innocent-20261023_IOPSGSYQ2VD33DDHTGFVHVDFUU/",
+    "summary": "Après l’attaque meurtrière du vendredi 23 octobre dans les Yvelines, des internautes et médias ont identifié à tort Kevin T., un homme quasi homonyme du suspect, exposant sa vie privée et celle de ses proches.",
+    "published": "2026-10-23T17:06:40+00:00",
+    "authors": [
+      "Jacques Pezet"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/checknews/fusillade-a-trappes-comment-les-reseaux-sociaux-ont-jete-en-pature-le-profil-dun-innocent-20261023_IOPSGSYQ2VD33DDHTGFVHVDFUU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384476+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Brésil : pourquoi les élections peuvent être un tournant",
+    "link": "https://www.valeursactuelles.com/monde/bresil-pourquoi-les-elections-peuvent-etre-un-tournant",
+    "summary": "On ne peut évoquer ces élections brésiliennes, sans auparavant décrire au moins sommairement le contexte du pays. Le Brésil vit depuis bientôt huit ans sous le régime d’exception du pouvoir... L’article Brésil : pourquoi les élections peuvent être un tournant est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-23T17:02:36+00:00",
+    "authors": [
+      "Alexandre Bertolini"
+    ],
+    "categories": [
+      "Non classé",
+      "Brésil",
+      "Élections brésiliennes",
+      "lula"
+    ],
+    "guid": "https://www.valeursactuelles.com/monde/bresil-pourquoi-les-elections-peuvent-etre-un-tournant",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.836297+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "En Italie, Giorgia Meloni face au chaos qu’elle a elle-même alimenté",
+    "link": "https://www.mediapart.fr/journal/international/231026/en-italie-giorgia-meloni-face-au-chaos-qu-elle-elle-meme-alimente",
+    "summary": "Après les manifestations du 17 octobre, les routes du sud de l’Italie sont bloquées par des routiers excédés par la hausse du prix de l’essence. La présidente du Conseil semble incapable de gérer une crise qui relève en grande partie de sa responsabilité et préfère le déni, jusqu’à la caricature.",
+    "published": "2026-10-23T16:57:04+00:00",
+    "authors": [
+      "Romaric Godin"
+    ],
+    "categories": [
+      "Extrêmes droites : le laboratoire italien",
+      "Carburants, Europe, Extrême droite, Giorgia Meloni, Italie, manifestations"
+    ],
+    "guid": "1355213 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-italie.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.866510+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "La passion russe de Nicolas Werth",
+    "link": "https://www.mediapart.fr/journal/culture-et-idees/231026/la-passion-russe-de-nicolas-werth",
+    "summary": "«Adieu ma Russie»: sous ce titre, le grand historien du monde soviétique Nicolas Werth publie un livre exceptionnel. Les retrouvailles bouleversantes d’un fils avec un père disparu nous font arpenter un passé plein d’à présent, de Staline à Poutine.",
+    "published": "2026-10-23T16:56:39+00:00",
+    "authors": [
+      "Edwy Plenel"
+    ],
+    "categories": [
+      "L’échappée",
+      "Alexander Werth, Idées, Memorial, Nicolas Werth, Russie, Stalinisme, Ukraine, URSS"
+    ],
+    "guid": "1352429 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/15/261023-img-la-passion-russe-de-nicolas-werth.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.866537+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le Nutri-Score obligatoire recalé à l’Assemblée nationale : «Les intérêts économiques ont pris le dessus»",
+    "link": "https://www.liberation.fr/societe/sante/le-nutri-score-obligatoire-recale-a-lassemblee-nationale-les-interets-economiques-ont-pris-le-dessus-20261023_HTK5Y6JRORGLTIAB6K4UHK6TBA/",
+    "summary": "La députée PS Sandrine Runel, fervente défenseuse du baromètre retoqué par le Palais-Bourbon jeudi 22 octobre, revient sur ce revers essentiellement symbolique, alors que le PLFSS dans lequel était examinée cette mesure a lui aussi été rejeté par les députés.",
+    "published": "2026-10-23T16:56:15+00:00",
+    "authors": [
+      "Mathilde Lenouvel"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/le-nutri-score-obligatoire-recale-a-lassemblee-nationale-les-interets-economiques-ont-pris-le-dessus-20261023_HTK5Y6JRORGLTIAB6K4UHK6TBA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384507+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Katherine Mansfield en Pléiade : «Il n’y a pas de Scotland Yard pour retrouver la jeunesse perdue»",
+    "link": "https://www.liberation.fr/culture/livres/katherine-mansfield-en-pleiade-il-ny-a-pas-de-scotland-yard-pour-retrouver-la-jeunesse-perdue-20261023_NM6DCKE3JNDN7L5XUCJWI2JBKU/",
+    "summary": "Une Pléiade rassemble les nouvelles de l’autrice néo-zélandaise, dont de nombreuses inédites en français. Ces textes, largement autobiographiques, mêlent la joie au tragique.",
+    "published": "2026-10-23T16:56:00+00:00",
+    "authors": [
+      "Mathieu Lindon"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/katherine-mansfield-en-pleiade-il-ny-a-pas-de-scotland-yard-pour-retrouver-la-jeunesse-perdue-20261023_NM6DCKE3JNDN7L5XUCJWI2JBKU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384533+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Mobilisation du 24 octobre : un dispositif policier conséquent, mais pas hors du commun",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/23/mobilisation-du-24-octobre-un-dispositif-policier-consequent-mais-pas-hors-du-commun_6799125_3224.html",
+    "summary": "Le ministre de l’intérieur, Laurent Nuñez, a indiqué que 70 000 policiers et gendarmes seront mobilisés sur le terrain, samedi, sans compter les unités susceptibles d’être sollicitées, comme le RAID ou le GIGN. C’est 10 000 effectifs de plus que le 17 octobre.",
+    "published": "2026-10-23T16:55:55+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/10/23/mobilisation-du-24-octobre-un-dispositif-policier-consequent-mais-pas-hors-du-commun_6799125_3224.html",
+    "image": "https://img.lemde.fr/2026/10/19/438/0/3000/1500/644/322/60/0/2f5a546_upload-1-j8bxfxthibun-asurp-nuit18-19oct-paris-109721.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.846910+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Istanbul, huit grandes puissances pour tenter d’enrayer l’escalade guerrière",
+    "link": "https://www.liberation.fr/international/moyen-orient/a-istanbul-huit-grandes-puissances-pour-tenter-denrayer-lescalade-guerriere-20261023_YNMBK2VBKZDULPWDZ6CMNJB3Y4/",
+    "summary": "Pour se coordonner face à des conflits qui se multiplient, les chefs de la diplomatie de huit pays d’Europe et du Moyen-Orient se sont réunis, ce vendredi, dans la métropole turque.",
+    "published": "2026-10-23T16:48:12+00:00",
+    "authors": [
+      "AFP ., Veronika Dorman"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/a-istanbul-huit-grandes-puissances-pour-tenter-denrayer-lescalade-guerriere-20261023_YNMBK2VBKZDULPWDZ6CMNJB3Y4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384559+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Interdictions de manifester : «On assiste à une dérive de l’état de droit», alerte Nathalie Tehio, présidente de la Ligue des droits de l’homme",
+    "link": "https://www.liberation.fr/societe/interdictions-de-manifester-on-assiste-a-une-derive-de-letat-de-droit-alerte-nathalie-tehio-presidente-de-la-ligue-des-droits-de-lhomme-20261023_AIOV4TVU5VEGPBBIXKICSKYMWU/",
+    "summary": "Pour l’avocate, la systématisation des arrêtés d’interdiction de manifester en amont de la mobilisation de ce samedi 24 octobre est «une manière de faire taire la rue» et a un effet «dissuasif», y compris quand les décisions sont annulées par la justice.",
+    "published": "2026-10-23T16:43:53+00:00",
+    "authors": [
+      "Samuel Ravier-Regnat"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/interdictions-de-manifester-on-assiste-a-une-derive-de-letat-de-droit-alerte-nathalie-tehio-presidente-de-la-ligue-des-droits-de-lhomme-20261023_AIOV4TVU5VEGPBBIXKICSKYMWU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384612+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Congrès du RN : à Orléans, le parti et la préfecture mettent les bouchées doubles sur la sécurité",
+    "link": "https://www.liberation.fr/politique/congres-du-rn-a-orleans-le-parti-et-la-prefecture-mettent-les-bouchees-doubles-sur-la-securite-20261023_2WMNCZRPDBCUNGPJBLCEMVLYYA/",
+    "summary": "La réélection de Jordan Bardella à la tête du parti d’extrême droite et le premier gros meeting de campagne de Marine Le Pen, organisés dans le Loiret le week-end du 24 octobre, risquent d’être perturbés par plusieurs manifestations organisées par les syndicats et les partis de gauche.",
+    "published": "2026-10-23T16:43:01+00:00",
+    "authors": [
+      "Charlotte Belaïch"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/congres-du-rn-a-orleans-le-parti-et-la-prefecture-mettent-les-bouchees-doubles-sur-la-securite-20261023_2WMNCZRPDBCUNGPJBLCEMVLYYA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384648+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Un ex-militaire rwandais, critique du pouvoir de Kigali, assassiné en Ouganda",
+    "link": "https://www.liberation.fr/international/afrique/un-ex-militaire-rwandais-critique-du-pouvoir-de-kigali-assassine-en-ouganda-20261023_H4C7J72QHFHVHMIVTT4326PFCA/",
+    "summary": "Le corps du Youtubeur Robert Kabera a été retrouvé, décapité, le 17 octobre. Il vivait en exil depuis six ans et se disait persécuté par le régime rwandais.",
+    "published": "2026-10-23T16:42:31+00:00",
+    "authors": [
+      "Célian Macé"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/afrique/un-ex-militaire-rwandais-critique-du-pouvoir-de-kigali-assassine-en-ouganda-20261023_H4C7J72QHFHVHMIVTT4326PFCA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384673+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Melania Trump affirme avoir obtenu une trêve entre Russes et Ukrainiens à Olechky",
+    "link": "https://www.liberation.fr/international/europe/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky-20261023_4KW4CUVBGFDOZOFJI7VDP4XVDM/",
+    "summary": "La Première dame américaine a annoncé avoir obtenu un cessez-le-feu à partir du 29 octobre dans cette ville occupée par la Russie, afin de permettre l’acheminement d’aide et l’évacuation de civils.",
+    "published": "2026-10-23T16:41:26+00:00",
+    "authors": [
+      "AFP ., Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/melania-trump-affirme-avoir-obtenu-une-treve-entre-russes-et-ukrainiens-a-olechky-20261023_4KW4CUVBGFDOZOFJI7VDP4XVDM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:13.384701+00:00"
   },
   {
     "source": "Le Figaro",
@@ -27,7 +904,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/periple-meurtrier-cocaine-pistolet-mitrailleur-de-la-seconde-guerre-mondiale-ce-que-l-on-sait-de-kevin-t-le-suspect-de-la-fusillade-de-trappes-20261023",
     "image": "https://i.f1g.fr/media/cms/3000x2250_crop/2026/10/23/9a11d047d1572fb9b48ea5547e0f4e3e760edf5460d7f7c0f1c62e76c43b5b34.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097460+00:00"
+    "fetched_at": "2026-10-23T21:04:12.869873+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -48,7 +925,7 @@
     "guid": "https://www.valeursactuelles.com/societe/a-quoi-donc-servent-nos-impots-a-paris-le-prefet-recommande-aux-commercants-de-recourir-a-la-securite-privee-et-suscite-lindignation",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.181499+00:00"
+    "fetched_at": "2026-10-23T21:04:13.836348+00:00"
   },
   {
     "source": "Libération",
@@ -63,7 +940,7 @@
     "guid": "https://www.liberation.fr/politique/elections/mort-de-jean-paul-huchon-ancien-president-de-la-region-ile-de-france-20261023_DS6JQY3SDBGEVFGGFR63NJKCT4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384102+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384728+00:00"
   },
   {
     "source": "Le Figaro",
@@ -93,37 +970,7 @@
     "guid": "https://www.liberation.fr/sciences/technologie-innovation/lia-generaliste-defie-les-medecins-sur-le-diagnostic-medical-20261023_IOHISDVGMFHMXAZ6HTKLTT56DI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384141+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - «Acte II» le 24 octobre : des représentants lycéens appellent à «continuer à se mobiliser» après leur rencontre avec Macron",
-    "link": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
-    "summary": "Après plus d’un mois de crise, Emmanuel Macron est monté en première ligne vendredi dans la contestation des lycéens en recevant pour la première fois leurs représentants, avant de rendre visite aux forces de l’ordre, à la veille d’une nouvelle journée de mobilisations strictement encadrées.",
-    "published": "2026-10-23T16:25:02+00:00",
-    "authors": [],
-    "categories": [
-      "Société"
-    ],
-    "guid": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-24-octobre-manifestations-paris-emmanuel-macron-lyceens-sebastien-lecornu-20261023",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/025796fee99da1581421482395b18ba7689c932279d42affdc58229acaad390d.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097121+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Fusillade mortelle dans les Yvelines : Laurent Nuñez dénonce un «crime terroriste»",
-    "link": "https://www.lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
-    "summary": "Interrogé sur les motivations potentiellement racistes du suspect, le ministre de l’Intérieur a indiqué qu’il fallait «laisser l’enquête se dérouler, mais les chefs d’inculpations pour lesquels le procureur a ouvert une enquête me semblent assez clairs, assez explicites».",
-    "published": "2026-10-23T16:22:03+00:00",
-    "authors": [],
-    "categories": [
-      "Faits divers"
-    ],
-    "guid": "https://www.lefigaro.fr/faits-divers/en-direct-fusillade-mortelle-a-trappes-le-tireur-voulait-faire-un-carnage-le-parquet-national-antiterroriste-se-place-en-observation-20261023",
-    "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/23/945d560957e038b1b19f13516b9361f1ad243945b47779d2e2d23b72c399a8da.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097408+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384759+00:00"
   },
   {
     "source": "Le Figaro",
@@ -153,7 +1000,20 @@
     "guid": "https://www.lefigaro.fr/faits-divers/j-entends-une-detonation-et-je-comprends-qu-il-se-passe-un-truc-grave-a-trappes-des-habitants-sous-le-choc-apres-une-fusillade-20261023",
     "image": "https://i.f1g.fr/media/cms/2048x1536_crop/2026/10/23/64670eb264df048178de25c2b099fd3c39006482885ad3713d2548edb9eef6d4.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097355+00:00"
+    "fetched_at": "2026-10-23T21:04:12.869813+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Budget de la « Sécu » : les députés sabordent le projet de loi à l’Assemblée nationale",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/23/budget-de-la-secu-les-deputes-sabordent-le-projet-de-loi-a-l-assemblee-nationale_6799120_823448.html",
+    "summary": "Dans un hémicycle quasiment déserté par les soutiens du gouvernement, les députés ont rejeté la partie « recettes » du projet de loi de financement de la Sécurité sociale. Le parcours du texte n’est pas terminé et le gouvernement espère encore trouver une voie de passage.",
+    "published": "2026-10-23T16:21:16+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/23/budget-de-la-secu-les-deputes-sabordent-le-projet-de-loi-a-l-assemblee-nationale_6799120_823448.html",
+    "image": "https://img.lemde.fr/2026/10/21/2000/0/4000/2000/644/322/60/0/8328b92_upload-1-huvh0pdsoa4y-cbi1348080.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847068+00:00"
   },
   {
     "source": "Libération",
@@ -168,7 +1028,20 @@
     "guid": "https://www.liberation.fr/politique/interdiction-de-manifestation-macron-se-cogne-contre-les-murs-du-droit-20261023_5VGMKB6URJGI3BL2VMNAD6WJH4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384174+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384789+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Les Forges de Tarbes, producteurs des corps d’obus du canon Caesar, demandent leur placement en redressement judiciaire",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/23/les-forges-de-tarbes-producteurs-des-corps-d-obus-du-canon-caesar-demandent-leur-placement-en-redressement-judiciaire_6799119_3234.html",
+    "summary": "« Cette demande vise à préserver l’activité de l’entreprise », a fait savoir le groupe Europlasma dans un communiqué publié jeudi soir, quelques heures après en avoir informé les représentants des salariés lors d’un CSE extraordinaire.",
+    "published": "2026-10-23T16:15:05+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/10/23/les-forges-de-tarbes-producteurs-des-corps-d-obus-du-canon-caesar-demandent-leur-placement-en-redressement-judiciaire_6799119_3234.html",
+    "image": "https://img.lemde.fr/2026/10/23/531/0/3794/1897/644/322/60/0/00af45f_upload-1-8e04kiyevyjr-hl-qtop-3041821.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847223+00:00"
   },
   {
     "source": "Libération",
@@ -183,7 +1056,7 @@
     "guid": "https://www.liberation.fr/culture/livres/katherine-mansfield-nouvelles-deployees-20261023_DYTGE46TFBCS3ER5DJRXDVMINI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384198+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384812+00:00"
   },
   {
     "source": "Le Figaro",
@@ -199,21 +1072,6 @@
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/5db9380a1054eba75b2fa9216bfa15acc5b580c0a45282522f722e418245efc2.jpg",
     "full_text": null,
     "fetched_at": "2026-10-23T16:35:24.097157+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT – Manifestations des 24 et 25 octobre : à Paris et à Orléans, les préfectures imposent des changements de parcours",
-    "link": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/",
-    "summary": "Emmanuel Macron doit s’entretenir ce vendredi à 15 heures avec les organisations lycéennes, alors que les préfets interdisent massivement les manifestations à la veille d’une nouvelle journée de mobilisation. Les défilés ont notamment été interdits à Lyon, Marseille ou Lille.",
-    "published": "2026-10-23T16:06:03+00:00",
-    "authors": [
-      "Libération ., Service Photo, AFP ., Coppélia Piccolo, Margaux  Gable"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384230+00:00"
   },
   {
     "source": "Le Figaro",
@@ -232,21 +1090,6 @@
   },
   {
     "source": "Libération",
-    "title": "EN DIRECT – Attaque dans les Yvelines : Laurent Nuñez parle d’un «crime terroriste», le maire de Trappes d’un «attentat à connotation raciste»",
-    "link": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
-    "summary": "Le Parquet national antiterroriste (Pnat) a annoncé se saisir des faits commis par un homme qui a tiré en rafales dans la rue ce vendredi 23 octobre au matin dans les Yvelines, tuant une personne et en blessant au moins quatre.",
-    "published": "2026-10-23T16:02:19+00:00",
-    "authors": [
-      "Libération ., Service Photo, AFP ., Léonard Cassette"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384266+00:00"
-  },
-  {
-    "source": "Libération",
     "title": "Entre jeunes prolos pilleurs et bourgeois terrifiés, la battle des plateaux, par Daniel Schneidermann",
     "link": "https://www.liberation.fr/idees-et-debats/opinions/entre-jeunes-prolos-pilleurs-et-bourgeois-terrifies-la-battle-des-plateaux-par-daniel-schneidermann-20261023_CQMZ2NXAZVAAJEZCBSDJHALVDM/",
     "summary": "Si le ministre de l’Intérieur rêve de suspendre les réseaux sociaux à la veille de la nouvelle journée d’action nationale contre la vie chère, il faut aussi stopper symétriquement les robinets à polémiques des télés privées pousse-au-crime.",
@@ -258,7 +1101,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/opinions/entre-jeunes-prolos-pilleurs-et-bourgeois-terrifies-la-battle-des-plateaux-par-daniel-schneidermann-20261023_CQMZ2NXAZVAAJEZCBSDJHALVDM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384295+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384840+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -279,7 +1122,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/histoire-a-paris-en-1229-la-grande-greve-des-etudiants",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.181549+00:00"
+    "fetched_at": "2026-10-23T21:04:13.836387+00:00"
   },
   {
     "source": "Libération",
@@ -294,7 +1137,20 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/videosurveillance-reconnaissance-faciale-start-up-specialisee-comment-la-police-utilise-lia-pour-enqueter-sur-le-17-octobre-20261023_SXB2YXOZUBHIXFNLP4LPUIFDXY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384324+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384869+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Un apéro avec Armel Le Cléac’h : « On fait des choses extraordinaires en mer, mais à terre, j’aime bien le côté ordinaire de la vie »",
+    "link": "https://www.lemonde.fr/m-perso/article/2026/10/23/un-apero-avec-armel-le-cleac-h-on-fait-des-choses-extraordinaires-en-mer-mais-a-terre-j-aime-bien-le-cote-ordinaire-de-la-vie_6799114_4497916.html",
+    "summary": "Chaque semaine, « L’Epoque » paie son coup. Le skippeur breton plusieurs fois vainqueur de courses prestigieuses s’élancera à bord de son incroyable multicoque le 1ᵉʳ novembre pour sa cinquième Route du rhum. Il se dit préparé à affronter tous les aléas de la compétition et espère saisir ce « petit truc en plus » qui mène à la victoire.",
+    "published": "2026-10-23T16:00:03+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/m-perso/article/2026/10/23/un-apero-avec-armel-le-cleac-h-on-fait-des-choses-extraordinaires-en-mer-mais-a-terre-j-aime-bien-le-cote-ordinaire-de-la-vie_6799114_4497916.html",
+    "image": "https://img.lemde.fr/2026/10/22/0/0/4700/2350/644/322/60/0/7e75560_upload-1-imsesaoszrrt-01-le-cleac-h-armel-2026-dscf1886.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847259+00:00"
   },
   {
     "source": "Le Figaro",
@@ -339,7 +1195,7 @@
     "guid": "https://www.liberation.fr/culture/livres/palerme-de-giorgio-vasta-et-ramak-fazel-ville-lumiere-20261023_URB3J4ZRFVFIPAETDHJ3DL37HQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384344+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384890+00:00"
   },
   {
     "source": "Libération",
@@ -354,7 +1210,7 @@
     "guid": "https://www.liberation.fr/international/europe/attaque-terroriste-a-trappes-dispositif-policier-xxl-en-vue-de-la-mobilisation-de-samedi-macron-rencontre-les-lyceens-lactu-de-ce-vendredi-23-octobre-20261023_4SNCG25DJBA6BMEHRQ2IPX5SFI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384371+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384915+00:00"
   },
   {
     "source": "Mediapart",
@@ -366,13 +1222,13 @@
       "Sarah Benhaïda, Ilyes Ramdani"
     ],
     "categories": [
-      "Politique",
+      "Du mouvement lycéen à l’explosion sociale",
       "A la Une, Élection présidentielle 2027, Jean-Luc Mélenchon"
     ],
     "guid": "1355187 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-jean-luc-melenchon-le-pouvoir-n-aura-qu-un-seul-choix-accepter-les-revendications-ou-s-en-aller.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.056602+00:00"
+    "fetched_at": "2026-10-23T21:04:12.866568+00:00"
   },
   {
     "source": "Le Figaro",
@@ -416,21 +1272,6 @@
     "fetched_at": "2026-10-23T16:35:24.066183+00:00"
   },
   {
-    "source": "Le Figaro",
-    "title": "«Y’a un mec qui rafale tout le monde» : de Trappes à La Verrière, le périple meurtrier de Kévin T., qui a fait un mort et 5 blessés dans les Yvelines",
-    "link": "https://www.lefigaro.fr/faits-divers/yvelines-un-homme-tire-en-pleine-rue-a-trappes-au-moins-un-mort-et-quatre-b-20261023",
-    "summary": "Un homme de 39 ans a été interpellé rapidement par des policiers de la BAC de Saint-Quentin-en-Yvelines, à Coignières. Le Parquet national antiterroriste est saisi.",
-    "published": "2026-10-23T15:35:41+00:00",
-    "authors": [],
-    "categories": [
-      "Faits divers"
-    ],
-    "guid": "https://www.lefigaro.fr/faits-divers/yvelines-un-homme-tire-en-pleine-rue-a-trappes-au-moins-un-mort-et-quatre-b-20261023",
-    "image": "https://i.f1g.fr/media/cms/orig/2026/10/23/caf2cdd55003bf100622db502895f856e5fa7756655b96c757e8ead80a4241bd.JPG",
-    "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097380+00:00"
-  },
-  {
     "source": "Le Monde",
     "title": "Mobilisations sociales : les chaînes de télévision appelées par l’Arcom « à la plus grande vigilance » après des excès, « fake news » et dérapages depuis le 17 octobre",
     "link": "https://www.lemonde.fr/economie/article/2026/10/23/mobilisations-sociales-les-chaines-tele-appelees-par-l-arcom-a-la-plus-grande-vigilance-apres-des-exces-fake-news-et-derapages-depuis-le-17-octobre_6799106_3234.html",
@@ -457,6 +1298,19 @@
     "fetched_at": "2026-10-23T16:35:24.066542+00:00"
   },
   {
+    "source": "Le Monde",
+    "title": "Une « belle élection présidentielle » en 2027 est-elle possible malgré l’éruption sociale ?",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/23/eruption-sociale-une-belle-election-presidentielle-est-elle-possible_6799105_823448.html",
+    "summary": "Depuis les violences en marge des manifestations du 17 octobre, l’engrenage de la surenchère s’est enclenché, interrogeant notre capacité à débattre sereinement de la prochaine échéance électorale pourtant cruciale, analyse Matthieu Goar, l’un des chefs du service Politique du « Monde ».",
+    "published": "2026-10-23T15:30:00+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/23/eruption-sociale-une-belle-election-presidentielle-est-elle-possible_6799105_823448.html",
+    "image": "https://img.lemde.fr/2026/10/19/750/0/5000/2500/644/322/60/0/862822a_upload-1-2xbupen442dr-2026-10-18-paris-pol-lemonde-17oct-jour-apres-128.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.846975+00:00"
+  },
+  {
     "source": "Libération",
     "title": "Canicules : l’été 2026 a été le plus meurtrier dans les villes européennes depuis 2000",
     "link": "https://www.liberation.fr/environnement/climat/canicules-lete-2026-a-ete-le-plus-meurtrier-dans-les-villes-europeennes-depuis-2000-20261023_7I7HNTIOHREDBJVD6WXZXLGB4E/",
@@ -469,7 +1323,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/canicules-lete-2026-a-ete-le-plus-meurtrier-dans-les-villes-europeennes-depuis-2000-20261023_7I7HNTIOHREDBJVD6WXZXLGB4E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384402+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384950+00:00"
   },
   {
     "source": "Le Figaro",
@@ -499,7 +1353,7 @@
     "guid": "https://www.liberation.fr/culture/livres/en-librairies-benedicte-dupre-la-tour-kiyemis-marouane-essadek-et-thomas-b-reverdy-20261023_6EB6NNFBGNFXHILKLKE3V5VEZU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384425+00:00"
+    "fetched_at": "2026-10-23T21:04:13.384972+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -521,7 +1375,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/cela-arrive-dans-beaucoup-de-professions-les-detectives-prives-de-plus-en-plus-sollicites-contre-les-arrets-de-travail-abusifs",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.181599+00:00"
+    "fetched_at": "2026-10-23T21:04:13.836434+00:00"
   },
   {
     "source": "Le Figaro",
@@ -539,6 +1393,19 @@
     "fetched_at": "2026-10-23T16:35:24.097238+00:00"
   },
   {
+    "source": "Le Monde",
+    "title": "Au Royaume-Uni, « Be ready », la campagne pour préparer la population aux cyberattaques et aux catastrophes climatiques",
+    "link": "https://www.lemonde.fr/international/article/2026/10/23/au-royaume-uni-be-ready-la-campagne-pour-preparer-la-population-aux-cyberattaques-et-aux-catastrophes-climatiques_6799100_3210.html",
+    "summary": "Le gouvernement britannique invite la population à constituer des réserves pour tenir trois jours en cas d’arrêt des communications ou de rupture d’approvisionnement dans les magasins.",
+    "published": "2026-10-23T15:00:29+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/23/au-royaume-uni-be-ready-la-campagne-pour-preparer-la-population-aux-cyberattaques-et-aux-catastrophes-climatiques_6799100_3210.html",
+    "image": "https://img.lemde.fr/2026/09/28/351/0/6000/3000/644/322/60/0/2999c3c_ftp-1-7zr8zd1xr2fv-2026-09-28t100120z-966632141-rc2asna406p4-rtrmadp-3-britain-politics-labour.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847339+00:00"
+  },
+  {
     "source": "Libération",
     "title": "«Attaque terroriste raciste», «barbarie innommable», «violence terrifiante» : les premières réactions politiques après la fusillade meurtrière dans les Yvelines",
     "link": "https://www.liberation.fr/societe/police-justice/attaque-terroriste-raciste-barbarie-innommable-violence-terrifiante-les-premieres-reactions-politiques-apres-la-fusillade-meurtriere-dans-les-yvelines-20261023_N2LYR3YG2VECZAOPHB77EN4KLU/",
@@ -551,7 +1418,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/attaque-terroriste-raciste-barbarie-innommable-violence-terrifiante-les-premieres-reactions-politiques-apres-la-fusillade-meurtriere-dans-les-yvelines-20261023_N2LYR3YG2VECZAOPHB77EN4KLU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384456+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385003+00:00"
   },
   {
     "source": "Le Monde",
@@ -579,7 +1446,7 @@
     "guid": "https://www.liberation.fr/culture/livres/mort-de-ryu-murakami-figure-radicale-de-la-litterature-japonaise-20261023_PN7DEFC5XBGMJM4XPB2FKB56KM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384483+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385031+00:00"
   },
   {
     "source": "Le Figaro",
@@ -622,7 +1489,7 @@
     "guid": "https://www.liberation.fr/culture/livres/lazar-de-nelio-biedermann-noblesse-oblige-20261023_NLXL32APXJGGJND362ZZ3427DY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384506+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385051+00:00"
   },
   {
     "source": "Mediapart",
@@ -640,7 +1507,7 @@
     "guid": "1354969 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/261022-img-liban-agriculture-kamel.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.056665+00:00"
+    "fetched_at": "2026-10-23T21:04:12.866620+00:00"
   },
   {
     "source": "Libération",
@@ -655,7 +1522,7 @@
     "guid": "https://www.liberation.fr/international/europe/prix-sakharov-decerne-a-la-cpi-on-reste-dans-le-domaine-du-symbole-20261023_T3Q2L3XONVFUDMC3WXKIYYWYK4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384533+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385078+00:00"
   },
   {
     "source": "Libération",
@@ -670,7 +1537,7 @@
     "guid": "https://www.liberation.fr/culture/livres/a-voix-haute-de-polina-panassenko-larchipel-de-la-memoire-20261023_PMMIUTX2JZAUHNITAL56DUYQHA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384556+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385098+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -707,7 +1574,7 @@
     "guid": "https://www.liberation.fr/culture/scenes/dans-le-secteur-du-cirque-techniciens-et-artistes-sur-le-fil-20261023_P57CXOLL45CUDG5OPRCNLXE6SY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384583+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385123+00:00"
   },
   {
     "source": "Mediapart",
@@ -725,7 +1592,7 @@
     "guid": "1354064 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/21/261021-img-en-serbie-les-ecologistes-qui-s-attaquent-la-corruption-du-regime-sont-pris-pour-cible.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.056699+00:00"
+    "fetched_at": "2026-10-23T21:04:12.866651+00:00"
   },
   {
     "source": "Mediapart",
@@ -743,7 +1610,7 @@
     "guid": "1355216 at https://www.mediapart.fr/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.056739+00:00"
+    "fetched_at": "2026-10-23T21:04:12.866685+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -779,7 +1646,7 @@
     "guid": "https://www.liberation.fr/societe/manifestations-du-24-octobre-ces-villes-ou-les-rassemblements-seront-interdits-samedi-totalement-ou-partiellement-20261022_5PXEDO4U4ZEDRDW5UIRZPSR7WQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384612+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385151+00:00"
   },
   {
     "source": "Mediapart",
@@ -848,7 +1715,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/face-au-mouvement-social-lurgence-de-reenclencher-un-cycle-vertueux-de-participation-citoyenne-20261023_7PNOBN44Z5AOHMMCUIMZ3D32UI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384641+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385177+00:00"
   },
   {
     "source": "Libération",
@@ -863,7 +1730,7 @@
     "guid": "https://www.liberation.fr/portraits/franck-martins-ex-commandant-leurres-du-crime-20261023_W4RX2X53JBFI7OIJ7G2XPSH6EE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384664+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385201+00:00"
   },
   {
     "source": "Libération",
@@ -878,7 +1745,7 @@
     "guid": "https://www.liberation.fr/culture/musique/les-ecrans-geants-incontournables-des-megaconcerts-20261023_H4X6KHOJZ5HUPATPYQEY46W4WA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384692+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385227+00:00"
   },
   {
     "source": "Libération",
@@ -893,7 +1760,7 @@
     "guid": "https://www.liberation.fr/culture/livres/une-toute-petite-fissure-de-claire-griois-presenter-la-fracture-20261023_AW2O65OOMVGZDA5L3YWAGTBWHY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384714+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385250+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -932,7 +1799,7 @@
     "guid": "https://www.liberation.fr/societe/barricades-agents-de-securite-prives-armes-non-letales-a-paris-la-course-a-lautodefense-des-commercants-depuis-le-17-octobre-20261023_SAJ6OV6XRBAKFCMBQIKWLZJP2E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384748+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385282+00:00"
   },
   {
     "source": "Le Monde",
@@ -960,7 +1827,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/manifestations-du-17-octobre-toujours-plus-ferme-gerald-darmanin-appelle-les-procureurs-a-requerir-des-suspensions-du-droit-de-vote-20261022_SVO5PEN47BCBFM5FXWTET4MGXI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384776+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385310+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -997,7 +1864,7 @@
     "guid": "https://www.lefigaro.fr/nice/mortiers-pillages-et-defense-du-negresco-apres-le-chaos-du-17-octobre-nice-a-l-epreuve-de-l-acte-ii-20261023",
     "image": "https://i.f1g.fr/media/cms/2966x1669_crop/2026/10/23/77105856cb29cd3222bd3ce7fae9d7cace2c565848dfd26c3257c833150ee162.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097325+00:00"
+    "fetched_at": "2026-10-23T21:04:12.870077+00:00"
   },
   {
     "source": "Libération",
@@ -1012,7 +1879,7 @@
     "guid": "https://www.liberation.fr/international/europe/le-prince-regent-du-liechtenstein-soppose-a-la-legalisation-de-livg-20261023_PHCVMC4G45HFXJVXNGMNDOYSQY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384802+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385337+00:00"
   },
   {
     "source": "Le Monde",
@@ -1040,7 +1907,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/fusillade-mortelle-dans-les-yvelines-l-appartement-du-suspect-etait-piege-20261023",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/277ecadb8edf69dfc216da7cb226b3cbd80d4059753e459163de3f07837b9a74.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.097482+00:00"
+    "fetched_at": "2026-10-23T21:04:12.869990+00:00"
   },
   {
     "source": "Mediapart",
@@ -1073,7 +1940,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/le-chaos-du-17-octobre-frein-au-tourisme-la-france-nest-pas-quune-carte-postale-20261023_GGLGBYDKWZB4VF5OYLMKPSAQ7Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384828+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385364+00:00"
   },
   {
     "source": "Libération",
@@ -1088,7 +1955,7 @@
     "guid": "https://www.liberation.fr/societe/on-oublie-la-delinquance-et-la-drogue-a-nice-un-bal-populaire-fait-danser-le-quartier-des-moulins-20261023_GWKDLO6TUVEZTHOI6NIWEZJXZU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384859+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385394+00:00"
   },
   {
     "source": "Libération",
@@ -1103,7 +1970,7 @@
     "guid": "https://www.liberation.fr/politique/villepin-denonce-lamalgame-entre-lfi-et-ultragauche-et-defonce-la-logique-du-bouc-emissaire-du-gouvernement-20261023_PMICIJJWBNDLNBYZVBI7JE76NU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384882+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385420+00:00"
   },
   {
     "source": "Libération",
@@ -1118,7 +1985,7 @@
     "guid": "https://www.liberation.fr/international/europe/en-mer-noire-les-navires-marchands-pris-dans-lescalade-20261023_R4A4LVPBABBL3LOSY44PZ27TB4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-23T16:35:24.384909+00:00"
+    "fetched_at": "2026-10-23T21:04:13.385448+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1751,6 +2618,21 @@
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/58087d858d699dfa2ae082d3f743a36c99f8d373fb9288aa6fdf08fdbd6d285b.jpg",
     "full_text": null,
     "fetched_at": "2026-10-23T11:07:39.100503+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
+    "link": "https://www.lefigaro.fr/conjoncture/oat-spread-effet-boule-de-neige-le-petit-lexique-pour-comprendre-ce-qui-se-joue-autour-de-la-dette-francaise-20261023",
+    "summary": "DÉCRYPTAGE - Les signaux d’alerte se multiplient pour les finances publiques françaises. Mais comment les interpréter ? Le Figaro a décrypté cinq notions incontournables pour comprendre ce qui se joue.",
+    "published": "2026-10-23T09:20:22+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/oat-spread-effet-boule-de-neige-le-petit-lexique-pour-comprendre-ce-qui-se-joue-autour-de-la-dette-francaise-20261023",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/23/bbe7d481fba86a5b44d2bd29fc8f536196d0cb4b102db016dd19cc620efa7e4f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.869714+00:00"
   },
   {
     "source": "Libération",
@@ -2452,6 +3334,19 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-10-23T11:07:39.116803+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Les motifs appelant à la solidarité s’élargissent et alimentent le succès des plateformes de cagnottes",
+    "link": "https://www.lemonde.fr/argent/article/2026/10/23/les-motifs-appelant-a-la-solidarite-s-elargissent-et-alimentent-le-succes-des-plateformes-de-cagnottes_6798949_1657007.html",
+    "summary": "Soins médicaux, études, organisation d’un événement sportif, indemnisation des dégats commis en marge des manifestations du 17 octobre… Nombreux sont les Français à avoir recours aux plateformes de cagnottes en ligne. Non sans poser quelques questions de sécurité pour les sites qui gèrent les montants récoltés.",
+    "published": "2026-10-23T04:00:20+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/argent/article/2026/10/23/les-motifs-appelant-a-la-solidarite-s-elargissent-et-alimentent-le-succes-des-plateformes-de-cagnottes_6798949_1657007.html",
+    "image": "https://img.lemde.fr/2023/04/17/500/0/3000/1500/644/322/60/0/7271473_1681718659172-hhhh.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-23T21:04:12.847288+00:00"
   },
   {
     "source": "Le Monde",
@@ -15837,21 +16732,6 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-10-19T12:20:39.975625+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Aux Etats-Unis, le soutien à Israël devient un enjeu électoral des midterms",
-    "link": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/",
-    "summary": "Pour de nombreux électeurs démocrates, mais aussi républicains, l’appui sans condition de Washington au gouvernement israélien est devenu radioactif. C’est même devenu l’un des déterminants pour le scrutin du 3 novembre qui doit renouveler une partie du Congrès.",
-    "published": "2026-10-19T04:14:00+00:00",
-    "authors": [
-      "Benjamin Delille, Isabelle Hanne"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-19T12:20:39.975654+00:00"
   },
   {
     "source": "Libération",
