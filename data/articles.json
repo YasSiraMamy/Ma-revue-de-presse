@@ -1,6 +1,103 @@
 [
   {
     "source": "Le Figaro",
+    "title": "Elon Musk accuse l'Ukraine de violer les conditions d'utilisation de Starlink",
+    "link": "https://www.lefigaro.fr/international/elon-musk-accuse-l-ukraine-de-violer-les-conditions-d-utilisation-de-starlink-20261025",
+    "summary": "Kiev dépend de ce système de communication par satellites ainsi que de sa version de niveau militaire, Starshield, pour se défendre contre les attaques russes de missiles et de drones.",
+    "published": "2026-10-25T03:19:52+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/elon-musk-accuse-l-ukraine-de-violer-les-conditions-d-utilisation-de-starlink-20261025",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/25/325895bb11c44eb3545488d96ee4ad6a2274372455b07f1a122a869612c7a10b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-25T03:31:38.832782+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Israël impose un bouclage de la Cisjordanie mardi, jour des élections",
+    "link": "https://www.lefigaro.fr/international/israel-impose-un-bouclage-de-la-cisjordanie-mardi-jour-des-elections-20261025",
+    "summary": "Quelque 2.000 Palestiniens ont été chassés de chez eux par l’armée samedi à Hébron, la plus grande ville de Cisjordanie occupée, après l’attaque menée vendredi par deux Palestiniens abattus.",
+    "published": "2026-10-25T02:18:35+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/israel-impose-un-bouclage-de-la-cisjordanie-mardi-jour-des-elections-20261025",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/25/b334990b980db6b4fc01aaafea183ec0efcd9138a18c7ffab1c6ca26f8063fa5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-25T03:31:38.832930+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Kim Jong Un loue «l'amitié invincible» sino-nord-coréenne lors d'une visite surprise en Chine",
+    "link": "https://www.lefigaro.fr/international/kim-jong-un-loue-l-amitie-invincible-sino-nord-coreenne-lors-d-une-visite-surprise-en-chine-20261025",
+    "summary": "Lors de ce déplacement, que ni Pékin ni Pyongyang n’avaient annoncé au préalable, Kim Jong Un a visité un mémorial rendant hommage aux soldats chinois morts aux côtés de Nord-Coréens lors de la guerre de Corée.",
+    "published": "2026-10-25T01:43:47+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/kim-jong-un-loue-l-amitie-invincible-sino-nord-coreenne-lors-d-une-visite-surprise-en-chine-20261025",
+    "image": "https://i.f1g.fr/media/cms/3000x1987_crop/2026/10/25/5bdf55ad1ce6b8d07a6c15947364dff467a4bfc7503ec30c123c8a234269e4cf.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-25T03:31:38.833131+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "L’archidiocèse de New York va verser 800 millions de dollars à plus de 1 300 victimes d’abus sexuels",
+    "link": "https://www.lemonde.fr/international/article/2026/10/25/l-archidiocese-de-new-york-va-verser-800-millions-de-dollars-a-plus-de-1-300-victimes-d-abus-sexuels_6799830_3210.html",
+    "summary": "L’Eglise catholique américaine, embourbée depuis le début des années 2000 dans des scandales sexuels à répétition, a déjà conclu plusieurs accords similaires, mettant un terme aux poursuites judiciaires.",
+    "published": "2026-10-24T23:33:11+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/25/l-archidiocese-de-new-york-va-verser-800-millions-de-dollars-a-plus-de-1-300-victimes-d-abus-sexuels_6799830_3210.html",
+    "image": "https://img.lemde.fr/2026/10/24/0/0/4243/2121/644/322/60/0/564f83a_upload-1-eyyf41rh3mls-000-96ga2b8.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-25T03:31:38.887891+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Nigeria : au moins vingt morts dans une attaque de « bandits » dans le Nord-Est",
+    "link": "https://www.lemonde.fr/afrique/article/2026/10/25/nigeria-au-moins-vingt-morts-dans-une-attaque-de-bandits-dans-le-nord-est_6799797_3212.html",
+    "summary": "Si cette zone du pays est confrontée depuis longtemps à une insurrection djihadiste, elle est également en proie à des bandes criminelles sans motivation idéologique, qui terrorisent les communautés rurales.",
+    "published": "2026-10-24T23:17:23+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/10/25/nigeria-au-moins-vingt-morts-dans-une-attaque-de-bandits-dans-le-nord-est_6799797_3212.html",
+    "image": "https://img.lemde.fr/2026/10/24/282/0/3104/1552/644/322/60/0/171bbbf_upload-1-wz96ffj1xtpd-2025-09-02t114253z-65098475-rc2ofgad1hk5-rtrmadp-3-nigeria-security.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-25T03:31:38.887914+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Donald Trump a voté par anticipation en Floride aux élections de mi-mandat",
+    "link": "https://www.lemonde.fr/international/article/2026/10/25/donald-trump-a-vote-par-anticipation-en-floride-aux-elections-de-mi-mandat_6799764_3210.html",
+    "summary": "A dix jours des midterms, le locataire de la Maison Blanche multiplie les attaques contre les démocrates et agite à nouveau le spectre de la fraude électorale.",
+    "published": "2026-10-24T23:06:08+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/25/donald-trump-a-vote-par-anticipation-en-floride-aux-elections-de-mi-mandat_6799764_3210.html",
+    "image": "https://img.lemde.fr/2026/10/24/263/0/6400/3200/644/322/60/0/8829085_ftp-1-mku9jjklvxgt-afp-d4by63u.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-25T03:31:38.887812+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Guerre en Ukraine : des frappes russes dans les régions de Dnipropetrovsk et de Kharkiv font quatre morts. Retrouvez les informations du 18 au 24 octobre.",
+    "link": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-les-regions-de-dnipropetrovsk-et-de-kharkiv_6796922_3210.html",
+    "summary": "Une personne a été tuée et quatre autres ont été blessées dans une attaque ayant visé la ville ukrainienne de Kharkiv, dans le nord-est du pays, a annoncé Oleh Synehoubov, chef de l’administration militaire régionale, dans la nuit de samedi à dimanche.",
+    "published": "2026-10-24T23:00:49+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/10/25/en-direct-guerre-en-ukraine-au-moins-quatre-morts-dans-des-frappes-russes-dans-les-regions-de-dnipropetrovsk-et-de-kharkiv_6796922_3210.html",
+    "image": "https://img.lemde.fr/2026/10/23/145/0/6000/3000/644/322/60/0/190a159_ftp-1-mht8qwc7behq-8e25412aae66497f806d6c49cd90786b-1-046d3fe5da0d4c2aa7fae7f33701a472.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-25T03:31:38.887969+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "Des cortèges calmes, moins de casse, des heurts contenus… Une nouvelle journée de mobilisation sous haute surveillance partout en France",
     "link": "https://www.lefigaro.fr/actualite-france/des-corteges-calmes-moins-de-casse-des-heurts-contenus-une-nouvelle-journee-de-mobilisation-sous-haute-surveillance-partout-en-france-20261024",
     "summary": "REPORTAGE - Une semaine après les scènes de chaos du 17 octobre, les manifestations contre la vie chère se sont déroulées dans un calme relatif ce samedi. Malgré des affrontements en fin de cortège dans plusieurs grandes villes, les forces de l’ordre sont parvenues à limiter les pillages et les dégradations.",
@@ -12,7 +109,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/des-corteges-calmes-moins-de-casse-des-heurts-contenus-une-nouvelle-journee-de-mobilisation-sous-haute-surveillance-partout-en-france-20261024",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/24/d5690d8df550fcca7f53cf5c12fb53b68869b884094abae494d781a5bf71f46d.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.237998+00:00"
+    "fetched_at": "2026-10-25T03:31:38.832742+00:00"
   },
   {
     "source": "Le Figaro",
@@ -27,7 +124,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/en-direct-mobilisation-manifestations-24-octobre-etudiants-lyceens-acte-ii-gilets-jaunes-orleans-congres-du-rn-20261024",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/24/b16766171b823a274c45d3981256be282e3cbceb85f9ead0400359a4f23aa804.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238017+00:00"
+    "fetched_at": "2026-10-25T03:31:38.832815+00:00"
   },
   {
     "source": "Le Figaro",
@@ -70,7 +167,7 @@
     "guid": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html",
     "image": "https://img.lemde.fr/2026/10/24/133/0/1600/800/644/322/60/0/35585bb_upload-1-xj1ik4q1z77e-whatsapp-image-2026-10-24-ddat-19-01-14.jpeg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236103+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887602+00:00"
   },
   {
     "source": "Le Figaro",
@@ -118,7 +215,7 @@
     "guid": "1355521 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/24/261024-img-pp-video.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272841+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193334+00:00"
   },
   {
     "source": "Mediapart",
@@ -136,7 +233,7 @@
     "guid": "1355525 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/24/261024-img-bardella.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272870+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193390+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -158,7 +255,7 @@
     "guid": "https://www.valeursactuelles.com/societe/charles-gave-on-sort-de-leurope-il-faut-redevenir-souverain",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883692+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970506+00:00"
   },
   {
     "source": "Le Figaro",
@@ -188,7 +285,7 @@
     "guid": "https://www.liberation.fr/societe/en-direct-mouvement-social-nouvelle-journee-de-mobilisation-ce-samedi-sous-haute-tension-20261024_3M2CMHWFRJBM7PMWOQ47Q4DYHU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.921971+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287426+00:00"
   },
   {
     "source": "Le Monde",
@@ -199,9 +296,9 @@
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/10/24/a-orleans-le-rassemblement-national-tient-son-congres-sous-haute-tension-et-sans-suspense_6799729_823448.html",
-    "image": "https://img.lemde.fr/2026/10/24/854/0/5120/2560/644/322/60/0/d7565e4_upload-1-wneprwjcdnpr-whatsapp-image-2026-10-24-at-21-11-46.jpeg",
+    "image": "https://img.lemde.fr/2026/10/25/962/365/2076/1038/644/322/60/0/820eda8_upload-1-o57svszztdre-rn-orleans-asurp-203043.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236157+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887678+00:00"
   },
   {
     "source": "Le Figaro",
@@ -231,7 +328,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-un-club-mma-francilien-rend-hommage-a-pengo-le-jeune-homme-de-26-ans-tue-a-trappes-20261024_QFOWDJ375JGU5CQVNCE3TCO2OM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.921996+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287466+00:00"
   },
   {
     "source": "Mediapart",
@@ -249,7 +346,7 @@
     "guid": "1355513 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/24/261024-img-a-la-contre-mobilisation-02.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272890+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193433+00:00"
   },
   {
     "source": "Libération",
@@ -264,7 +361,7 @@
     "guid": "https://www.liberation.fr/societe/a-lyon-on-veut-juste-manifester-pas-se-faire-defoncer-la-gueule-20261024_4FYRQ6WO25CQXHBMGN6GEB5HMY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922014+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287499+00:00"
   },
   {
     "source": "Le Figaro",
@@ -279,7 +376,7 @@
     "guid": "https://www.lefigaro.fr/international/on-n-avait-pas-fait-dix-metres-qu-on-nous-demandait-deja-de-degager-a-milan-les-jeunes-face-au-verrouillage-du-centre-ville-20261024",
     "image": "https://i.f1g.fr/media/cms/3000x2030_crop/2026/10/24/68aeebc5ea7529efcb9e2de38eee7ac0be7bdcdfca747c5887980ea2a1145522.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238081+00:00"
+    "fetched_at": "2026-10-25T03:31:38.832963+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -300,7 +397,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/trump-poutine-xi-le-nouveau-yalta-se-prepare-sans-leurope",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883726+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970560+00:00"
   },
   {
     "source": "Le Figaro",
@@ -315,7 +412,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-le-livre-d-hitler-mein-kampf-retrouve-au-domicile-du-tireur-20261024",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/24/30466b26cc79a07aa2555d2928ee2c7e173115ea4cf7d16767979818a3cc67c8.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238110+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833017+00:00"
   },
   {
     "source": "Mediapart",
@@ -333,7 +430,7 @@
     "guid": "1355503 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/24/261024-img-live-22.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272913+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193478+00:00"
   },
   {
     "source": "Le Figaro",
@@ -363,7 +460,7 @@
     "guid": "https://www.liberation.fr/societe/un-combattant-dur-mais-avec-un-grand-coeur-pengo-bossio-wangi-passionne-de-mma-tue-dans-lattentat-de-trappes-20261024_YZ5N5SVHMBFITICHRX2ACRJ7QQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922033+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287530+00:00"
   },
   {
     "source": "Libération",
@@ -378,7 +475,7 @@
     "guid": "https://www.liberation.fr/societe/jai-eu-peur-du-flop-a-cause-de-la-repression-mais-tout-le-monde-est-la-a-paris-une-manif-nombreuse-pluvieuse-et-globalement-heureuse-20261024_Q5B2TYB2XRHNFK6JZUBEXJI6DY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922055+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287564+00:00"
   },
   {
     "source": "Libération",
@@ -393,7 +490,7 @@
     "guid": "https://www.liberation.fr/economie/social/une-hausse-du-smic-avant-le-1er-janvier-en-discussion-selon-le-ministre-de-leconomie-20261024_JAOBZ6WO2FCJFMXFPC4F74NIAE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922073+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287606+00:00"
   },
   {
     "source": "Libération",
@@ -408,7 +505,7 @@
     "guid": "https://www.liberation.fr/politique/a-orleans-jordan-bardella-reelu-lors-dun-congres-sans-surprise-mais-sous-tension-20261024_NJWZPLV77VGYHL4ZZMFRDUW3PI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922090+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287634+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -430,7 +527,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/lincorrect/masculinistes-dans-leur-univers-mental-tout-se-monnaye-surtout-lamour-affirme-ophelie-roque",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883756+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970619+00:00"
   },
   {
     "source": "Mediapart",
@@ -448,7 +545,7 @@
     "guid": "1355483 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/24/261024-img-la-ville-de-trappes-03.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272934+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193519+00:00"
   },
   {
     "source": "Le Figaro",
@@ -463,7 +560,7 @@
     "guid": "https://www.lefigaro.fr/politique/a-orleans-une-mobilisation-anti-rn-sans-heurts-majeurs-20261024",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/24/efd2131e915c0b3bd9bd75e4ff8b0f58ecebc7dc18f5a8a362a354cb8bd31c2e.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238175+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833160+00:00"
   },
   {
     "source": "Libération",
@@ -478,7 +575,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/motivations-du-suspect-profil-de-la-victime-etat-de-sante-des-blesses-ce-que-lon-sait-ce-samedi-de-lattaque-raciste-dans-les-yvelines-20261024_ZEXTBXBQPJBSTCEJ5JPENIN3KI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922111+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287669+00:00"
   },
   {
     "source": "Mediapart",
@@ -496,7 +593,7 @@
     "guid": "1355491 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/24/261024-img-ali-rabeh-tout-le-monde-doit-prendre-ses-responsabilites.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272950+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193554+00:00"
   },
   {
     "source": "Le Monde",
@@ -522,7 +619,7 @@
     "guid": "https://www.lemonde.fr/sport/article/2026/10/24/avant-le-match-de-nfl-au-stade-de-france-la-tournee-qui-voulait-introduire-le-football-americain-en-france-en-1938_6799721_3242.html",
     "image": "https://img.lemde.fr/2026/10/22/908/0/4872/2436/644/322/60/0/c681857_upload-1-fahklruoqog0-grk3833406.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236213+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887765+00:00"
   },
   {
     "source": "Le Monde",
@@ -553,7 +650,7 @@
     "guid": "1353403 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/22/261022-img-mohammed-al-kurd.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272967+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193606+00:00"
   },
   {
     "source": "Mediapart",
@@ -571,7 +668,7 @@
     "guid": "1355327 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/panneau-ben-gvir-et-smotrich.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.272983+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193643+00:00"
   },
   {
     "source": "Le Monde",
@@ -584,7 +681,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/24/rishon-lezion-une-ville-devenue-miroir-electoral-d-israel_6799720_3210.html",
     "image": "https://img.lemde.fr/2026/10/24/1246/0/6160/3080/644/322/60/0/355d6b7_upload-1-r45khnbondns-ll-rishon-lezion-07.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236195+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887736+00:00"
   },
   {
     "source": "Le Figaro",
@@ -599,7 +696,7 @@
     "guid": "https://www.lefigaro.fr/politique/seul-candidat-jordan-bardella-reelu-president-du-rn-avec-98-98-des-voix-20261024",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/24/b06ad54ba7ccf600fd2761063576456eea42a9be82d1f144bb849a4ebee4572a.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238189+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833184+00:00"
   },
   {
     "source": "Le Monde",
@@ -635,7 +732,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/au-congres-dorleans-le-rn-affiche-sa-satisfaction-face-aux-gauches-coalisees",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883795+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970679+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -654,7 +751,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/art-de-vivre/les-secrets-du-vin-anjou-noir-2022-domaine-belargus",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883819+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970732+00:00"
   },
   {
     "source": "Le Monde",
@@ -667,7 +764,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/24/en-allemagne-une-fuite-massive-de-documents-internes-a-l-afd-embarrasse-le-parti-d-extreme-droite_6799718_3210.html",
     "image": "https://img.lemde.fr/2026/07/05/1160/0/8090/4045/644/322/60/0/8406cc8_ftp-1-v84dq9mzrfaj-5538793-01-06.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236253+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887841+00:00"
   },
   {
     "source": "Libération",
@@ -682,7 +779,7 @@
     "guid": "https://www.liberation.fr/societe/en-ardeche-un-cortege-brave-linterdiction-de-manifester-pour-rassembler-les-gens-qui-ont-envie-de-faire-des-choses-20261024_YJUJS6PEUVBBZDLR5VKGHPNSRE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922128+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287697+00:00"
   },
   {
     "source": "Le Monde",
@@ -715,7 +812,7 @@
     "guid": "https://www.valeursactuelles.com/societe/bloques-par-la-police-des-cars-de-sans-papiers-venus-manifester-contre-le-rn-a-orleans-contraints-de-faire-demi-tour",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883846+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970792+00:00"
   },
   {
     "source": "Libération",
@@ -730,7 +827,7 @@
     "guid": "https://www.liberation.fr/politique/on-a-un-ennemi-commun-le-rn-a-orleans-la-gauche-unie-contre-lextreme-droite-dans-une-grande-manifestation-pacifiste-20261024_X2AMCZTZTNBLBMGLV3GBM464GA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922147+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287729+00:00"
   },
   {
     "source": "Le Monde",
@@ -743,7 +840,7 @@
     "guid": "https://www.lemonde.fr/les-decodeurs/article/2026/10/24/passage-a-l-heure-d-hiver-pourquoi-le-changement-d-heure-est-si-critique_5348679_4355771.html",
     "image": "https://img.lemde.fr/2018/08/31/0/0/4800/2400/644/322/60/0/6b454d8_K7Bp3e9w0yQRiTp6h6q1Wc7t.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236228+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887791+00:00"
   },
   {
     "source": "Libération",
@@ -758,7 +855,7 @@
     "guid": "https://www.liberation.fr/culture/livres/ladolescence-du-perroquet-damelie-nothomb-prises-de-bec-a-lage-ingrat-20261024_QQOWIBXXJZGTXFERDMPJQK3VIM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922161+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287754+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -781,7 +878,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/bretagne/morbihan/lorient/economie/le-minor-le-combat-de-deux-patrons-pour-sauver-un-tresor-industriel-francais",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883872+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970836+00:00"
   },
   {
     "source": "Le Figaro",
@@ -860,7 +957,7 @@
     "guid": "https://www.valeursactuelles.com/societe/allez-faire-du-racisme-a-la-tele-dans-le-cortege-parisien-melenchon-sen-prend-a-bfm-tv",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883903+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970888+00:00"
   },
   {
     "source": "Le Monde",
@@ -895,7 +992,7 @@
     "guid": "https://www.valeursactuelles.com/societe/changement-dheure-comment-ne-pas-y-perdre-le-sommeil",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883925+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970929+00:00"
   },
   {
     "source": "Mediapart",
@@ -913,7 +1010,7 @@
     "guid": "1355381 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-flavio-bolsonaro.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.273001+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193683+00:00"
   },
   {
     "source": "Le Figaro",
@@ -928,7 +1025,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/attaque-terroriste-dans-les-yvelines-trois-membres-de-l-entourage-familial-et-amical-du-tireur-places-en-garde-a-vue-20261024",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/24/392ec2b14756fc5c49dbc55fde2f1d55cca4a28bd6e68f8ced779b6684eb3f19.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238124+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833041+00:00"
   },
   {
     "source": "Le Figaro",
@@ -943,7 +1040,7 @@
     "guid": "https://www.lefigaro.fr/secteur/high-tech/manifestations-du-24-octobre-qu-est-ce-que-bitchat-cette-appli-de-messagerie-sans-internet-qui-connait-un-pic-de-telechargements-20261024",
     "image": "https://i.f1g.fr/media/cms/1606x979_crop/2026/10/24/8ddfc51b6ce9234dec1d072ecf7428d76c6b5803787164c15579f2ffca7a90d5.png",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238037+00:00"
+    "fetched_at": "2026-10-25T03:31:38.832850+00:00"
   },
   {
     "source": "Le Figaro",
@@ -958,7 +1055,7 @@
     "guid": "https://www.lefigaro.fr/faits-divers/fusillade-terroriste-dans-les-yvelines-la-famille-de-pengo-bossio-wangi-tue-dans-l-attaque-s-interroge-sur-une-eventuelle-responsabilite-des-autorites-20261024",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/24/3d86ab8d1a408b4a3f565516bb4628fffc7dedeb6d8687a82c2eadd33b5d337d.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238140+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833070+00:00"
   },
   {
     "source": "Le Figaro",
@@ -988,7 +1085,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/opinions/apres-lattentat-de-trappes-les-mots-sains-du-maire-ali-rabeh-sur-la-responsabilite-des-medias-face-au-racisme-20261024_OLCW4ADRWFCNHPHOURAEUZFWQ4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922179+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287785+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1003,7 +1100,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/les-gilets-jaunes-confirment-une-nouvelle-mobilisation-le-31-octobre-contre-la-derive-autoritaire-du-gouvernement-20261024",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/24/bb7762303e374a7b38407971272538c76c87dacac65d76f9e13e6fc1b0c50a8b.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238053+00:00"
+    "fetched_at": "2026-10-25T03:31:38.832879+00:00"
   },
   {
     "source": "Libération",
@@ -1018,7 +1115,7 @@
     "guid": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-je-mappelle-marie-jeanne-20261024_C74KRWEGWBCO5ODNN3I56ITBPE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922192+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287807+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1033,7 +1130,7 @@
     "guid": "https://www.lefigaro.fr/sciences/une-heure-de-sommeil-en-plus-ce-que-le-passage-a-l-heure-d-hiver-fait-vraiment-a-notre-corps-20261024",
     "image": "https://i.f1g.fr/media/cms/3000x2003_crop/2026/10/23/417f1692c5c8c4ade069e7c56044c09d0603b1001bccb6c3216cb326c6fed881.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238216+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833230+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1054,7 +1151,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/huit-morts-et-quarante-blesses-lors-dun-attentat-dans-une-eglise-en-jordanie-les-autorite-appellent-a-lunite",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.883951+00:00"
+    "fetched_at": "2026-10-25T03:31:39.970975+00:00"
   },
   {
     "source": "Libération",
@@ -1069,7 +1166,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/terrorisme-dextreme-droite-la-tendance-actuelle-est-la-tentative-dactes-individuels-20261024_NREFUAPD65FZBERA62QZBRRP6I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922209+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287836+00:00"
   },
   {
     "source": "Le Monde",
@@ -1134,7 +1231,7 @@
     "guid": "https://www.liberation.fr/lifestyle/intimites/mario-mercier-maitre-de-lerotisme-occulte-enfin-redecouvert-20261024_RGTK23DYHFDRZKHJM6BSF66SRM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922224+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287861+00:00"
   },
   {
     "source": "Le Monde",
@@ -1147,7 +1244,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/24/au-yemen-des-frappes-saoudiennes-font-au-moins-quatre-morts-a-sanaa-capitale-aux-mains-des-houthistes_6799703_3210.html",
     "image": "https://img.lemde.fr/2026/10/24/68/0/3217/1608/644/322/60/0/543d52f_upload-1-jnwylrh4asai-2026-09-30t100525z-2140277220-rc2jtnab3fem-rtrmadp-3-iran-crisis-yemen-dailylife.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236320+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887940+00:00"
   },
   {
     "source": "Libération",
@@ -1162,7 +1259,7 @@
     "guid": "https://www.liberation.fr/culture/musique/le-plus-beau-de-teddybear-il-etait-une-voix-20261024_EPZS54PUDRFQZH4MHDYEKLQ75I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922236+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287883+00:00"
   },
   {
     "source": "Le Monde",
@@ -1175,7 +1272,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/24/espagne-a-madrid-25-000-manifestants-pour-defendre-les-retraites-a-un-mois-des-elections-legislatives_6799702_3210.html",
     "image": "https://img.lemde.fr/2026/10/24/486/0/8959/4479/644/322/60/0/643889d_ftp-1-0pruqwl6vljm-afp-d4av29n.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236337+00:00"
+    "fetched_at": "2026-10-25T03:31:38.888018+00:00"
   },
   {
     "source": "Libération",
@@ -1190,7 +1287,7 @@
     "guid": "https://www.liberation.fr/culture/cinema/abel-ferrara-certaines-histoires-mempechent-de-fonctionner-normalement-alors-je-dois-aller-au-bout-20261024_VFDZ6VMXENBJTK6VP4LQFAPVN4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922252+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287913+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1302,7 +1399,7 @@
     "guid": "1355328 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/20261022-img-armenie-mine-amulsar-60.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.273018+00:00"
+    "fetched_at": "2026-10-25T03:31:39.193718+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1317,7 +1414,7 @@
     "guid": "https://www.lefigaro.fr/politique/premiere-fois-qu-un-acte-terroriste-vise-a-tuer-en-raison-de-la-couleur-de-peau-ou-de-la-religion-supposees-la-lourde-erreur-de-macron-sur-les-tirs-des-yvelines-20261023",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/23/ee995eb10a61f32f9d6b646d99536fb6a14f26e0f130e5f6e430aba73635c6e5.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238159+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833103+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1435,7 +1532,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-le-tireur-presume-a-dit-avoir-voulu-venger-les-commercants-pilles-le-17-octobre-et-avoir-cible-des-personnes-de-couleur_6799689_3224.html",
     "image": "https://img.lemde.fr/2026/10/24/954/0/6240/3120/644/322/60/0/8d26038_upload-1-izzv81mmyl7v-10-trappes-attentat-raciste-hleuqeux-dsc5500.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236139+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887650+00:00"
   },
   {
     "source": "Mediapart",
@@ -1466,7 +1563,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
     "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/1de69bf_upload-1-yj2nqx8xrdsm-modei-le-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236270+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887866+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1542,7 +1639,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-de-la-casse-et-de-la-repression-20261024_KWR2BQJFZFD6VK6KDF2BI3O7RY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922263+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287934+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1620,7 +1717,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/une-femme-noire-peut-elle-incarner-la-france-avec-aya-nakamura-ce-nest-plus-une-question-cest-une-realite-20261024_REAGLE7345DWBDNVUAOGMA2QXI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922281+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287965+00:00"
   },
   {
     "source": "Le Monde",
@@ -1760,7 +1857,7 @@
     "guid": "https://www.liberation.fr/environnement/alimentation/des-applications-qui-identifient-les-champignons-trouves-en-foret-grace-a-lia-la-fausse-bonne-idee-decriee-par-les-mycologues-20261024_V4ZIL2ZDOBGUDH5VZVSHKXVDSI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922298+00:00"
+    "fetched_at": "2026-10-25T03:31:39.287997+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1856,7 +1953,7 @@
     "guid": "https://www.liberation.fr/culture/livres/top-des-ventes-de-livres-mais-ou-donc-est-passe-stephane-bern-20261024_Y4XBYV7V25FZ5NPEMJ7EP5ZXYI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922314+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288026+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1871,7 +1968,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/on-va-tous-se-transformer-en-sauvages-alors-ces-francais-excedes-et-terrifies-face-a-l-impuissance-publique-20261024",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/23/96fc8a3cd9d876f4b8999a0234ac354dc0416bf795bc23b32db9355f51e1025d.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238067+00:00"
+    "fetched_at": "2026-10-25T03:31:38.832906+00:00"
   },
   {
     "source": "Libération",
@@ -1886,7 +1983,7 @@
     "guid": "https://www.liberation.fr/societe/sante/pour-combler-les-deserts-medicaux-le-gouvernement-veut-plafonner-la-pratique-esthetique-des-medecins-20261024_VKJUSI67KFDC5IMXBP7EFAJA74/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922330+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288055+00:00"
   },
   {
     "source": "Libération",
@@ -1901,7 +1998,7 @@
     "guid": "https://www.liberation.fr/economie/medias/rn-du-figaro-a-marianne-des-medias-renoncent-a-letiquette-extreme-droite-pour-le-parti-de-marine-le-pen-20261024_SE7JORKRP5B2DPJI6X5JXFDHDE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922346+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288085+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1937,7 +2034,7 @@
     "guid": "https://www.liberation.fr/culture/arts/the-90s-art-fashion-a-la-tate-britain-et-hop-dans-la-big-benne-20261024_3CHYISBTBNC33HF7BYVPJVRZ5E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922374+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288129+00:00"
   },
   {
     "source": "Libération",
@@ -1952,7 +2049,7 @@
     "guid": "https://www.liberation.fr/lifestyle/argent-boulot/covoiturage-sur-la-route-avec-les-francais-qui-partagent-leurs-trajets-pour-alleger-un-peu-le-plein-sacrement-cher-20261024_TWBMZJOBPNCP3G4STF3TZBO5WU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922390+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288158+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1988,7 +2085,7 @@
     "guid": "https://www.liberation.fr/international/amerique/presidentielle-au-bresil-face-a-flavio-bolsonaro-lula-retrouve-du-repondant-20261024_45EGC64Y4BCP7CC4TP6YT7LVCM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922406+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288185+00:00"
   },
   {
     "source": "Libération",
@@ -2003,7 +2100,7 @@
     "guid": "https://www.liberation.fr/economie/si-les-caisses-sont-vides-cest-aussi-parce-quelles-sont-mal-remplies-le-petit-livre-qui-demystifie-la-dette-20261024_AJRMBASF7RGVVER6LEUIK5XO4Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922434+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288218+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2018,7 +2115,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/pourquoi-le-changement-d-heure-a-lieu-si-tot-cette-annee-20261012",
     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/12/963d6af1867c9a40428d4e2f89dbaf37a8ca3e85b0ebdaa7519d8fe62972a637.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238201+00:00"
+    "fetched_at": "2026-10-25T03:31:38.833205+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2048,7 +2145,7 @@
     "guid": "https://www.liberation.fr/culture/musique/amy-winehouse-secrets-dun-classique-20261024_TDCH4KNXTFAK7NWBWY77A3LVUA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922446+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288239+00:00"
   },
   {
     "source": "Libération",
@@ -2063,7 +2160,7 @@
     "guid": "https://www.liberation.fr/politique/dans-la-france-de-macron-on-ne-dit-plus-bonne-manif-mais-tu-fais-attention-hein-20261024_4NWIEE4J6FCXJIZNIANL56NK3Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922460+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288265+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2100,7 +2197,7 @@
     "guid": "https://www.liberation.fr/societe/sante/vaccin-a-arn-messager-contre-le-melanome-cest-lune-des-avancees-les-plus-significatives-depuis-lavenement-de-limmunotherapie-20261024_77CV5BIAUNFBDGKBHLG6L45RXE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922478+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288299+00:00"
   },
   {
     "source": "Le Monde",
@@ -2141,7 +2238,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/opinions/emmanuel-macron-putain-encore-sept-mois-par-mathieu-lindon-20261024_JSVU3E4FGJFLXAWX6EIBQES36Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922491+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288320+00:00"
   },
   {
     "source": "Le Monde",
@@ -2204,7 +2301,7 @@
     "guid": "https://www.lefigaro.fr/international/pays-endettes-malaise-existentiel-de-la-jeunesse-dans-le-sillage-de-la-france-pourquoi-la-contestation-sociale-a-gagne-toute-l-europe-20261024",
     "image": "https://i.f1g.fr/media/cms/2998x1686_crop/2026/10/23/835932b965aed5c74a9b3013f80745eb4f2c0d94ca9ad5f6ac3e2f4404029188.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.238097+00:00"
+    "fetched_at": "2026-10-25T03:31:38.832992+00:00"
   },
   {
     "source": "Le Monde",
@@ -2245,7 +2342,7 @@
     "guid": "https://www.liberation.fr/societe/paroles-de-manifestants-si-je-commence-a-ne-pas-y-aller-car-jai-peur-de-me-faire-gazer-cest-une-capitulation-20261024_THWQYAUEPFF2HMVPNFOZFZMTA4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922507+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288351+00:00"
   },
   {
     "source": "Le Monde",
@@ -2273,7 +2370,7 @@
     "guid": "https://www.liberation.fr/politique/elections/entre-le-rassemblement-national-et-la-macronie-le-nouvel-en-meme-temps-20261024_FMKHEXGWJJF73M27DKH4P4PMSE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922526+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288381+00:00"
   },
   {
     "source": "Libération",
@@ -2288,7 +2385,7 @@
     "guid": "https://www.liberation.fr/forums/locean-un-milieu-a-proteger-en-trois-dimensions-20261024_3Z4ZNTXYPFEDTP6ZP7IWZ6TQNA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922538+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288404+00:00"
   },
   {
     "source": "Le Monde",
@@ -2301,7 +2398,7 @@
     "guid": "https://www.lemonde.fr/argent/article/2026/10/24/puis-je-renoncer-a-une-succession_6799552_1657007.html",
     "image": "https://img.lemde.fr/2023/04/17/179/0/3000/1500/644/322/60/0/de894aa_1681719507528-ftf.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236369+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887990+00:00"
   },
   {
     "source": "Le Monde",
@@ -2570,7 +2667,7 @@
     "guid": "https://www.liberation.fr/economie/dette-contre-toute-attente-moodys-maintient-la-note-de-la-france-20261023_B6U3PWPYWFFHNKTAT7H3JXBBNY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922557+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288436+00:00"
   },
   {
     "source": "Le Monde",
@@ -2628,7 +2725,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-devant-le-esso-de-trappes-il-nous-a-regardes-et-il-nous-a-tire-dessus-20261023_3SICLLNDBRDGHPWGTRHWXGTWWU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922573+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288464+00:00"
   },
   {
     "source": "Libération",
@@ -2643,7 +2740,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/affaire-band-of-connasses-condamnee-en-premiere-instance-tara-heuze-sarmini-obtient-gain-de-cause-en-appel-20261023_5HTG25H6RRFOTKUOMYN4EOQIWE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922588+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288489+00:00"
   },
   {
     "source": "Libération",
@@ -2658,7 +2755,7 @@
     "guid": "https://www.liberation.fr/culture/musique/elena-nagapetyan-humoriste-jai-peur-pour-la-sante-des-rolling-stones-20261023_XI3I2PYYC5FELPMT7N2HWL7W6U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922597+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288506+00:00"
   },
   {
     "source": "Libération",
@@ -2673,7 +2770,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/mouvement-social-le-maintien-de-lordre-ne-se-gere-pas-avec-un-sourire-et-un-bisou-cingle-le-prefet-de-paris-20261023_C4BUY7PFVVFTHHJ5TBG3BB4K5U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922614+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288536+00:00"
   },
   {
     "source": "Libération",
@@ -2688,7 +2785,7 @@
     "guid": "https://www.liberation.fr/societe/en-direct-mouvement-social-macron-recoit-les-lyceens-ce-vendredi-alors-que-les-arretes-dinterdiction-se-multiplient-20261023_PJGBRMNUHJDWRH47JQNWLR3FPA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922629+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288560+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2751,7 +2848,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/manche-un-homme-decede-en-coupant-un-arbre-apres-le-passage-de-la-tempete-austen-20261023_GVBDY3LLABEZZC4A6JESQ472OI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922646+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288597+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2827,7 +2924,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/24-octobre-une-journee-de-mobilisation-dans-un-climat-de-repression-20261023_THOBAN4ZYZAVZOUVNJOFQLKQLU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922663+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288627+00:00"
   },
   {
     "source": "Libération",
@@ -2842,7 +2939,7 @@
     "guid": "https://www.liberation.fr/politique/on-ne-va-pas-faire-campagne-pendant-six-mois-comme-ca-a-amiens-raphael-glucksmann-consacre-a-la-jeunesse-son-rapide-premier-deplacement-20261023_KMO47RCRAVEDHCMWSREUQKLJ5E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922681+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288659+00:00"
   },
   {
     "source": "Mediapart",
@@ -2903,7 +3000,7 @@
     "guid": "https://www.liberation.fr/politique/contestation-sociale-macron-ecarte-les-siens-pour-reprendre-la-main-20261023_SDFS4PBUXFEQ3DARHHOQVBXPXU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922694+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288683+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2969,7 +3066,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/comment-on-peut-sen-prendre-a-une-communaute-comme-ca-dans-les-yvelines-leffroi-apres-un-attentat-raciste-20261023_D4CR2WF5QNDOBCP2HKGBAY4GWE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922711+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288714+00:00"
   },
   {
     "source": "Mediapart",
@@ -3002,7 +3099,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/le-president-macron-bientot-licencie-mais-pas-en-droit-20261023_D6W7WHUB6VGYXHFEFPAP544Q2M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922728+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288742+00:00"
   },
   {
     "source": "Libération",
@@ -3017,7 +3114,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/manifestations-du-24-octobre-a-six-mois-de-la-presidentielle-le-pouvoir-politique-est-nu-20261023_6GJXECVYJ5FLVC5YQCNP2S3WYY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922743+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288769+00:00"
   },
   {
     "source": "Mediapart",
@@ -3165,7 +3262,7 @@
     "guid": "https://www.liberation.fr/international/amerique/aux-etats-unis-le-soutien-a-israel-devient-un-enjeu-electoral-des-midterms-20261019_Y3ERGXBCOJGK5GKXJ2E5WHX6QU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922759+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288798+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -3198,7 +3295,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/23/gilbert-achcar-chercheur-l-america-first-de-donald-trump-ne-doit-pas-s-entendre-comme-un-repli-sur-soi-c-est-une-affirmation-de-domination-sur-le-monde_6799131_3210.html",
     "image": "https://img.lemde.fr/2026/10/21/594/0/1625/812/644/322/60/0/c6e92ea_upload-1-glumazzpwtpk-jane-fine-06-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.236179+00:00"
+    "fetched_at": "2026-10-25T03:31:38.887712+00:00"
   },
   {
     "source": "Le Monde",
@@ -3267,7 +3364,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/cisjordanie-deux-soldats-israeliens-tues-netanyahou-menace-de-lancer-une-operation-comme-il-ny-en-a-pas-eu-depuis-la-guerre-des-six-jours-20261023_P2S2QP4YV5E2PK3O7R5UYOMWL4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922776+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288828+00:00"
   },
   {
     "source": "Libération",
@@ -3282,7 +3379,7 @@
     "guid": "https://www.liberation.fr/checknews/fusillade-a-trappes-comment-les-reseaux-sociaux-ont-jete-en-pature-le-profil-dun-innocent-20261023_IOPSGSYQ2VD33DDHTGFVHVDFUU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-24T22:55:55.922791+00:00"
+    "fetched_at": "2026-10-25T03:31:39.288857+00:00"
   },
   {
     "source": "Valeurs actuelles",
