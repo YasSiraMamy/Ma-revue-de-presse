@@ -1,46 +1,345 @@
 [
   {
     "source": "Le Figaro",
+    "title": "Présidentielle 2027 : à la peine dans les sondages, Gabriel Attal propose une «grande primaire des démocrates» pour éviter un duel LFI-RN",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-la-peine-dans-les-sondages-gabriel-attal-propose-une-grande-primaire-des-democrates-20261028",
+    "summary": "Invité mercredi du « 20 heures » de TF1, le candidat Renaissance à la présidentielle a dit redouter par-dessus tout un second tour entre LFI et le RN, dont son camp serait exclu. Mais son idée a aussitôt été accueillie très froidement chez Édouard Philippe et Bruno Retailleau.",
+    "published": "2026-10-28T23:53:24+00:00",
+    "authors": [],
+    "categories": [
+      "Les candidats à l'élection présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-la-peine-dans-les-sondages-gabriel-attal-propose-une-grande-primaire-des-democrates-20261028",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/28/dc5746b6376083a894fce24c3d96f02b48db5e80c2b4cac4c7653af6381acdaf.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248804+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En fuite aux Etats-Unis, Flavio Bolsonaro assure être le « leader » du Brésil",
+    "link": "https://www.lemonde.fr/international/article/2026/10/29/en-fuite-aux-etats-unis-flavio-bolsonaro-assure-etre-le-leader-du-bresil_6801710_3210.html",
+    "summary": "Battu dimanche lors du second tour de l’élection présidentielle et visé par plusieurs enquêtes dans son pays, le sénateur d’extrême droite a atterri mercredi en Floride. Il dénonce une « fraude électorale » et affirme « diriger l’opposition » depuis l’étranger.",
+    "published": "2026-10-28T23:08:30+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/29/en-fuite-aux-etats-unis-flavio-bolsonaro-assure-etre-le-leader-du-bresil_6801710_3210.html",
+    "image": "https://img.lemde.fr/2026/10/28/455/0/5463/2731/644/322/60/0/03d22a1_ftp-1-bivvbexayojb-afp-d4pr8bt.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.195986+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Emmanuel Macron dénonce une «désinhibition du racisme» et de «l'antisémitisme», visant RN et LFI",
+    "link": "https://www.lefigaro.fr/politique/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-rn-et-lfi-20261028",
+    "summary": "Interrogé sur la chaîne Youtube HugoDécrypte sur les responsables d’un climat qui a pu favoriser l’attentat de Trappes, le chef de l’Etat a estimé qu’il y avait «des mouvements politiques qui ont laissé s’installer cela».",
+    "published": "2026-10-28T22:56:35+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/emmanuel-macron-denonce-une-desinhibition-du-racisme-et-de-l-antisemitisme-visant-rn-et-lfi-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/28/d7e460d1dd6f8ef077dc15c419f0f992773879ee75e549ca431006bf949ed32e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248646+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Salaires : Emmanuel Macron exhorte les branches qui rémunèrent sous le Smic à négocier",
+    "link": "https://www.lefigaro.fr/conjoncture/salaires-emmanuel-macron-exhorte-les-branches-qui-remunerent-sous-le-smic-a-negocier-20261028",
+    "summary": "Interrogé mercredi par le média HugoDécrypte, le chef de l’État a appelé à la reprise des négociations salariales dans les branches professionnelles dont les minima restent inférieurs au Smic, sans se prononcer sur une éventuelle revalorisation de celui-ci.",
+    "published": "2026-10-28T22:51:54+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/salaires-emmanuel-macron-exhorte-les-branches-qui-remunerent-sous-le-smic-a-negocier-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/28/2a1fd54b632eccd1130b942e649b47dcb870181e5b1be388515a72184838f28c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248673+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Paris : la justice suspend le couvre-feu pour les mineurs non accompagnés",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html",
+    "summary": "Cet arrêté, daté de lundi, courait jusqu’à jeudi 6 heures, et concernait certains secteurs situés autour de l’Elysée, de l’Assemblée nationale, du Sénat, de l’avenue des Champs-Elysées ou encore des gares.",
+    "published": "2026-10-28T22:45:44+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/10/28/paris-la-justice-suspend-le-couvre-feu-pour-les-mineurs-non-accompagnes_6801677_3224.html",
+    "image": "https://img.lemde.fr/2026/10/21/375/0/4500/2250/644/322/60/0/9167bd1_upload-1-5ufl897rzxyr-41-21102026-dscf4725-couvre-feu-paris-carrot.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.196077+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Accident ferroviaire en Espagne : le bilan s’alourdit à 68 morts, trois jours de deuil national décrétés",
+    "link": "https://www.lefigaro.fr/international/en-direct-espagne-nouvelle-catastrophe-ferroviaire-au-moins-10-morts-au-sud-de-madrid-20261028",
+    "summary": "Deux trains sont entrés en collision mercredi matin près d’Urda, en Castille-La Manche, à environ 150 km au sud de Madrid. Selon un premier bilan des autorités locales, l’accident aurait fait plus de 60 morts et de nombreux blessés selon la sécurité civile.",
+    "published": "2026-10-28T22:45:02+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/en-direct-espagne-nouvelle-catastrophe-ferroviaire-au-moins-10-morts-au-sud-de-madrid-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/28/60f3401fa38e7037f0f98345aaacc3cf421f9d563fc615571a34af43b0de9ee0.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248392+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Midterms : Trump veut disqualifier une candidate démocrate en Alaska, après des révélations du New York Times",
+    "link": "https://www.lefigaro.fr/international/midterms-trump-veut-disqualifier-une-candidate-democrate-en-alaska-apres-des-revelations-du-new-york-times-20261028",
+    "summary": "Selon le quotidien new-yorkais, la campagne de cette ancienne juge tribale amérindienne a engagé des recherches sur les registres électoraux en 2025 afin de trouver un homonyme au sénateur sortant, Dan Sullivan.",
+    "published": "2026-10-28T22:35:51+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/midterms-trump-veut-disqualifier-une-candidate-democrate-en-alaska-apres-des-revelations-du-new-york-times-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/159028c78657e63cdb09698ffc36829de4c1a8370f3090b0a847ffd95bc63707.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248697+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Commando armé, influence étrangère, soupçons en interne : psychose à l’usine Framatome après le spectaculaire vol d’une tonne d’un métal critique",
+    "link": "https://www.lefigaro.fr/actualite-france/commando-arme-influence-etrangere-soupcons-en-interne-psychose-a-l-usine-framatome-apres-le-spectaculaire-vol-d-une-tonne-d-un-metal-critique-20261028",
+    "summary": "ENQUÊTE - Trente fûts de cristaux d’hafnium, utilisé notamment dans l’aéronautique (sous-marins nucléaires, avions de combat, drones d’attaque), ont été subtilisés la semaine dernière à Jarrie (Isère).",
+    "published": "2026-10-28T22:27:44+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/commando-arme-influence-etrangere-soupcons-en-interne-psychose-a-l-usine-framatome-apres-le-spectaculaire-vol-d-une-tonne-d-un-metal-critique-20261028",
+    "image": "https://i.f1g.fr/media/cms/1244x666_crop/2026/10/28/18e5c3360b81e40b09789bfbae7090ff7dcc3ed683aae6c2599da9c43b661e7e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248592+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Brésil : Flavio Bolsonaro déclare qu’il est le «véritable président» du pays",
+    "link": "https://www.lefigaro.fr/international/bresil-flavio-bolsonaro-declare-qu-il-est-le-veritable-president-du-pays-20261028",
+    "summary": "Le sénateur a fui le Brésil au lendemain de l’élection du président sortant Luiz Inácio Lula da Silva, pour se réfugier aux États-Unis.",
+    "published": "2026-10-28T22:16:05+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/bresil-flavio-bolsonaro-declare-qu-il-est-le-veritable-president-du-pays-20261028",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/28/b73b8e5f36b1b1263eae2c7bf38e92758ddcec70e190f3821dfd9741b6daf995.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248517+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Exil, prison, soupçons de détournement de fonds… Derrière la fuite rocambolesque de Flavio Bolsonaro, les casseroles d’une dynastie brésilienne",
+    "link": "https://www.lefigaro.fr/international/exil-prison-soupcons-de-detournement-de-fonds-derriere-la-fuite-rocambolesque-de-flavio-bolsonaro-les-casseroles-d-une-dynastie-bresilienne-20261028",
+    "summary": "RÉCIT - Perdant de l’élection présidentielle, le fils de l’ex-président brésilien visé par plusieurs enquêtes judiciaires a quitté le Brésil pour les États-Unis. La fratrie Bolsonaro, très présente dans la vie politique du pays, n’est pas en reste.",
+    "published": "2026-10-28T21:59:12+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/exil-prison-soupcons-de-detournement-de-fonds-derriere-la-fuite-rocambolesque-de-flavio-bolsonaro-les-casseroles-d-une-dynastie-bresilienne-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/19c6063629c4ecec4a34c5127b41a5b8f67c4685606873296dd762341d8207fa.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248491+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Espagne : le récit des 23 dernières minutes qui ont mené à la collision entre deux trains ayant fait au moins 68 morts",
+    "link": "https://www.lefigaro.fr/international/espagne-le-recit-des-23-dernieres-minutes-qui-ont-mene-a-la-collision-entre-deux-trains-qui-a-fait-au-moins-68-morts-20261028",
+    "summary": "CHRONOLOGIE - Le Figaro a reconstitué les événements qui se sont écoulés entre le début de l’incident technique et le drame, survenu dans la province de Tolède, au sud de Madrid, mercredi.",
+    "published": "2026-10-28T21:50:13+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/espagne-le-recit-des-23-dernieres-minutes-qui-ont-mene-a-la-collision-entre-deux-trains-qui-a-fait-au-moins-68-morts-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/3dc3e63af1810e9c221fcb763c1ca11401df9bc930f775007e12b5b5138831a7.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248327+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Derrière le tragique accident ferroviaire en Espagne, des actions «inexplicables» et une terrible erreur humaine",
+    "link": "https://www.lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028",
+    "summary": "RECIT - Alors que le bilan mercredi soir s’élevait à 68 morts après la collision entre deux trains, le ministère espagnol des Transports a pointé du doigt une erreur de la part du gestionnaire du réseau.",
+    "published": "2026-10-28T21:41:58+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028",
+    "image": "https://i.f1g.fr/media/cms/2850x1602_crop/2026/10/28/411357eada4533de8a1b2b2471d13558c01921aa6c1ae1794159e5efd5728c47.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248360+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "L’Espagne à nouveau endeuillée par une catastrophe ferroviaire, moins d’un an après celle d’Adamuz",
+    "link": "https://www.lemonde.fr/international/article/2026/10/28/l-espagne-a-nouveau-endeuillee-par-une-catastrophe-ferroviaire-moins-d-un-an-apres-celle-d-adamuz_6801644_3210.html",
+    "summary": "La collision entre deux trains à grande vitesse, qui a fait au moins 68 morts près de Tolède, serait due à une panne informatique suivie d’une erreur humaine. Le ministre des transports a qualifié l’accident d’« invraisemblable ».",
+    "published": "2026-10-28T21:11:24+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/28/l-espagne-a-nouveau-endeuillee-par-une-catastrophe-ferroviaire-moins-d-un-an-apres-celle-d-adamuz_6801644_3210.html",
+    "image": "https://img.lemde.fr/2026/10/28/274/0/3283/1641/644/322/60/0/146b9eb_ftp-1-163mm2ofldbb-4e626ae0f1a24e6cad723d1b3e97b31c-0-6a27ac8371f944918bc5495a2c478767.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.195779+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Catastrophe ferroviaire en Espagne : au moins 68 morts selon le bilan encore provisoire, un deuil national de trois jours décrété",
+    "link": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
+    "summary": "L’accident de train meurtrier, le deuxième en moins d’un an, est survenu sur la ligne à grande vitesse Madrid-Séville peu avant 9 heures ce mercredi 28 octobre. Plus de 100 personnes sont blessées, dont 18 gravement.",
+    "published": "2026-10-28T20:58:18+00:00",
+    "authors": [
+      "Jérôme Balazard, Zoé Vezyroglou, Victoria Bennardi, Apolline Le Romanser, AFP ., Reuters ., Service Photo"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.483161+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Avec son appel à une «grande primaire», Attal joint sa voix à ceux qui veulent faire craquer Philippe",
+    "link": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
+    "summary": "A la peine dans les sondages, le candidat Renaissance a lancé, ce mercredi 28 octobre sur TF1, un appel à organiser un scrutin de désignation entre «démocrates». Sans en définir ni le casting, ni les modalités, ni le calendrier.",
+    "published": "2026-10-28T20:55:17+00:00",
+    "authors": [
+      "Victor Boiteau"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/avec-son-appel-a-une-grande-primaire-attal-joint-sa-voix-a-ceux-qui-veulent-faire-craquer-philippe-20261028_KOSAWAUGVRHOHNMGQAPTT5SOC4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.483202+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Législatives en Israël : le leader d’un des partis arabes prêt à soutenir un gouvernement alternatif pour faire tomber Nétanyahou",
+    "link": "https://www.liberation.fr/international/moyen-orient/en-direct-elections-en-israel-les-deux-camps-au-coude-a-coude-501-des-bulletins-depouilles-20261028_RK7VM2FNENGVBLHT6JNUS3TX24/",
+    "summary": "Avec plus de 88 % des bulletins dépouillés, les projections accordent 53 sièges à la coalition du Premier ministre sortant, qui n’atteint pas la majorité (61 sièges). Face à lui, l’opposition menée par Gadi Eisenkot en remporterait 48, tandis que les listes arabes atteindraient 19 sièges.",
+    "published": "2026-10-28T20:53:52+00:00",
+    "authors": [
+      "Eve Roger, Antoine  Rondel, Service Photo, AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/en-direct-elections-en-israel-les-deux-camps-au-coude-a-coude-501-des-bulletins-depouilles-20261028_RK7VM2FNENGVBLHT6JNUS3TX24/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.483240+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Aucun élément précis relatif à la réalité de risques» : la justice suspend le couvre-feu pour les mineurs à Paris",
+    "link": "https://www.liberation.fr/societe/police-justice/aucun-element-precis-relatif-a-la-realite-de-risques-la-justice-suspend-le-couvre-feu-pour-les-mineurs-a-paris-20261028_NZUHWVWQAZFANMH67R7BHB4MJU/",
+    "summary": "Dans la foulée des violences du 17 octobre, le préfet de police de la capitale avait pris un arrêté interdisant certains quartiers aux jeunes pendant la nuit, jusqu’à ce jeudi matin.",
+    "published": "2026-10-28T20:48:53+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/aucun-element-precis-relatif-a-la-realite-de-risques-la-justice-suspend-le-couvre-feu-pour-les-mineurs-a-paris-20261028_NZUHWVWQAZFANMH67R7BHB4MJU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.483272+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Pierre Lellouche : « L’Europe risque-t-elle d’être la grande oubliée des négociations de paix ? »",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/monde/pierre-lellouche-leurope-risque-t-elle-detre-la-grande-oubliee-des-negociations-de-paix",
+    "summary": "Cette fois, il semble bien que la guerre d’Ukraine approche de sa fin. Le 20 octobre, à Oslo, Steve Witkoff a rencontré Volodymyr Zelensky, lui-même entouré du président finlandais Alexander Stubb... L’article Pierre Lellouche : « L’Europe risque-t-elle d’être la grande oubliée des négociations de paix ? » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-28T20:48:14+00:00",
+    "authors": [
+      "Mathilde Klotgen"
+    ],
+    "categories": [
+      "Non classé",
+      "otan",
+      "Poutine",
+      "Union européenne",
+      "union soviétique",
+      "Vladimir Poutine"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/pierre-lellouche-leurope-risque-t-elle-detre-la-grande-oubliee-des-negociations-de-paix",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:30.134721+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Depuis les Etats-Unis, Flávio Bolsonaro se prétend «le président élu» du Brésil et affirme qu’il dirigera l’opposition",
+    "link": "https://www.liberation.fr/international/amerique/bresil-flavio-bolsonaro-finalement-en-route-vers-lequateur-selon-les-autorites-argentines-20261028_LFMTR6A5EZEMPFAUO2JRZ3CCRA/",
+    "summary": "Le candidat défait à la présidentielle brésilienne, visé par plusieurs enquêtes, a fui le pays et a atterri ce mercredi 28 octobre en Floride. Il n’a pas manqué de remercier Donald Trump, qui lui a assuré un visa.",
+    "published": "2026-10-28T20:40:55+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/bresil-flavio-bolsonaro-finalement-en-route-vers-lequateur-selon-les-autorites-argentines-20261028_LFMTR6A5EZEMPFAUO2JRZ3CCRA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.483306+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "«Je vis très confortablement» : Mélenchon admet avoir une bonne retraite grâce à la capitalisation sans vouloir la «recommander à la société»",
     "link": "https://www.lefigaro.fr/conjoncture/je-vis-tres-confortablement-melenchon-admet-avoir-une-bonne-retraite-grace-a-la-capitalisation-sans-vouloir-la-recommander-a-la-societe-20261028",
     "summary": "S’il juge la capitalisation trop inégalitaire et instable, le candidat insoumis ne se «[plaint] pas» des bénéfices que lui apporte ce système en tant qu’ancien parlementaire.",
-    "published": "2026-10-28T20:00:38+00:00",
+    "published": "2026-10-28T20:14:55+00:00",
     "authors": [],
     "categories": [
       "Conjoncture"
     ],
     "guid": "https://www.lefigaro.fr/conjoncture/je-vis-tres-confortablement-melenchon-admet-avoir-une-bonne-retraite-grace-a-la-capitalisation-sans-vouloir-la-recommander-a-la-societe-20261028",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/28/1e5dfdb26e2e4bdbccad4c8ed98ab209c8ad137dbfbf0e013cab7fb9c0200340.jpg",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/28/d9a38124fbdd958294ad256f1a8763d4c9bdbc9eb764adf77139a572515052d8.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478199+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248722+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/28/la-reserve-federale-americaine-choisit-d-attendre-avant-de-relever-de-nouveau-ses-taux-malgre-l-inflation_6801642_3234.html",
+    "summary": "Si la hausse des prix reste bien supérieure à son objectif, la banque centrale des Etats-Unis a laissé sa politique monétaire inchangée mercredi 28 octobre, à moins d’une semaine des élections de mi-mandat.",
+    "published": "2026-10-28T20:03:17+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/10/28/la-reserve-federale-americaine-choisit-d-attendre-avant-de-relever-de-nouveau-ses-taux-malgre-l-inflation_6801642_3234.html",
+    "image": "https://img.lemde.fr/2026/10/28/106/0/8493/4246/644/322/60/0/83df94c_ftp-1-5skbr5wm3n8e-5abb4cd0d0094ee597d76a8b4edc3585-0-97c2f0c2beb7427798d15cfd6b654aaa.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.195956+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Parcoursup : à l’Assemblée, la gauche tente d’éviter les procès en opposition stérile",
+    "link": "https://www.liberation.fr/politique/parcoursup-a-lassemblee-la-gauche-tente-deviter-les-proces-en-opposition-sterile-20261028_TR22CK542ZE3RLTCOPOSK67PNY/",
+    "summary": "Invités par le gouvernement à débattre sur l’avenir de la plateforme d’orientation des bacheliers, ce mercredi 28 octobre, les députés hostiles à son utilisation ont défendu leurs propositions alternatives.",
+    "published": "2026-10-28T20:02:59+00:00",
+    "authors": [
+      "Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/parcoursup-a-lassemblee-la-gauche-tente-deviter-les-proces-en-opposition-sterile-20261028_TR22CK542ZE3RLTCOPOSK67PNY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.483336+00:00"
   },
   {
     "source": "Le Monde",
     "title": "Présidentielle 2027 : Gabriel Attal pour l’organisation d’une « grande primaire des démocrates »",
     "link": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-gabriel-attal-pour-l-organisation-d-une-grande-primaire-des-democrates_6801640_823448.html",
-    "summary": "La primaire que propose le candidat Renaissance à l’élection présidentielle permettrait, selon lui, « d’empêcher » un deuxième tour entre Jean-Luc Mélenchon et Marine Le Pen.",
+    "summary": "La primaire que propose le candidat Renaissance à l’élection présidentielle permettrait, selon lui, « d’empêcher » un second tour entre Jean-Luc Mélenchon et Marine Le Pen.",
     "published": "2026-10-28T20:00:04+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/10/28/presidentielle-2027-gabriel-attal-pour-l-organisation-d-une-grande-primaire-des-democrates_6801640_823448.html",
     "image": "https://img.lemde.fr/2026/10/28/0/0/8286/4143/644/322/60/0/feff779_upload-1-lqq2lh8kkol7-000-d3aq7wl.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140608+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Présidentielle 2027 : à la peine dans les sondages, Gabriel Attal propose une «grande primaire des démocrates»",
-    "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-la-peine-dans-les-sondages-gabriel-attal-propose-une-grande-primaire-des-democrates-20261028",
-    "summary": "Invité mercredi du «20 heures» de TF1, le candidat Renaissance à la présidentielle a dit redouter par-dessus tout un second tour entre LFI et le RN. «Notre pays ne s’en relèverait pas», a-t-il averti.",
-    "published": "2026-10-28T19:59:30+00:00",
-    "authors": [],
-    "categories": [
-      "Les candidats à l'élection présidentielle"
-    ],
-    "guid": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-a-la-peine-dans-les-sondages-gabriel-attal-propose-une-grande-primaire-des-democrates-20261028",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/875856693d9bbd0d741c071f3f9634a3374f4c0f19f6eafbf02c3041ed21ca06.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478231+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196051+00:00"
   },
   {
     "source": "Libération",
@@ -55,7 +354,7 @@
     "guid": "https://www.liberation.fr/international/europe/jai-cesse-davoir-confiance-dans-les-trains-lespagne-frappee-par-une-nouvelle-catastrophe-ferroviaire-20261028_DUL6F6B7LNDNZKLBJJG5BDKPVQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467559+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483368+00:00"
   },
   {
     "source": "Le Figaro",
@@ -91,7 +390,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/lentre-soi-parisien-recompense-par-le-prix-decembre",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348358+00:00"
+    "fetched_at": "2026-10-29T00:37:30.134773+00:00"
   },
   {
     "source": "Le Monde",
@@ -102,9 +401,9 @@
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-midterms-2026-donald-trump-attendu-dans-l-ohio-barack-obama-en-georgie-suivez-la-campagne-des-elections-de-mi-mandat-aux-etats-unis_6801590_3210.html",
-    "image": "https://img.lemde.fr/2026/09/30/324/0/3000/1500/644/322/60/0/9fcd29f_upload-1-eyyzpm5tgkyp-route66-arinyoon-36.jpg",
+    "image": "https://img.lemde.fr/2026/10/28/301/0/4322/2161/644/322/60/0/c5ddb67_ftp-1-ue5ngffidqls-2026-10-28t193200z-376651992-rc2jcoaaq9d1-rtrmadp-3-usa-election-georgia-obama.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140506+00:00"
+    "fetched_at": "2026-10-29T00:37:29.195895+00:00"
   },
   {
     "source": "Le Figaro",
@@ -126,13 +425,13 @@
     "title": "Manifestation du 17 octobre : une adolescente de 17 ans a déposé plainte après avoir été éborgnée",
     "link": "https://www.lemonde.fr/societe/article/2026/10/28/manifestation-du-17-octobre-une-adolescente-de-17-ans-a-depose-plainte-apres-avoir-ete-eborgnee_6801639_3224.html",
     "summary": "L’étudiante en langues étrangères sortait d’un restaurant et « ne participait pas à la manifestation », selon son avocat, qui estime qu’elle a été touchée au visage par « un tir tendu de grenade lacrymogène ». L’IGPN a été saisie.",
-    "published": "2026-10-28T19:46:38+00:00",
+    "published": "2026-10-28T19:46:37+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/societe/article/2026/10/28/manifestation-du-17-octobre-une-adolescente-de-17-ans-a-depose-plainte-apres-avoir-ete-eborgnee_6801639_3224.html",
     "image": "https://img.lemde.fr/2026/10/28/686/0/8210/4105/644/322/60/0/3a2a64b_upload-1-ryh0renffe0m-000-9ug3hh.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140862+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196195+00:00"
   },
   {
     "source": "Le Figaro",
@@ -147,22 +446,7 @@
     "guid": "https://www.lefigaro.fr/politique/presidentielle-2027-dominique-de-villepin-etrille-les-propos-d-edouard-philippe-sur-l-echec-de-l-integration-20261028",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/28/dbaca0117e32cdd4512e77e7ed14fb4f552cc3ef2d844539c829dc6611b74a81.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478323+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT – Législatives en Israël : le leader de la Liste commune prêt à soutenir un gouvernement alternatif pour faire tomber Nétanyahou",
-    "link": "https://www.liberation.fr/international/moyen-orient/en-direct-elections-en-israel-les-deux-camps-au-coude-a-coude-501-des-bulletins-depouilles-20261028_RK7VM2FNENGVBLHT6JNUS3TX24/",
-    "summary": "Après plus des 85 % des bulletins dépouillés, les projections accordent 53 sièges à la coalition du Premier ministre sortant, qui n’atteint pas la majorité (61 sièges). Face à lui, l’opposition menée par Gadi Eisenkot en remporterait 48, tandis que les listes arabes atteindraient 19 sièges.",
-    "published": "2026-10-28T19:38:29+00:00",
-    "authors": [
-      "Libération ., Service Photo, AFP ., Reuters ., Eve Roger"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/moyen-orient/en-direct-elections-en-israel-les-deux-camps-au-coude-a-coude-501-des-bulletins-depouilles-20261028_RK7VM2FNENGVBLHT6JNUS3TX24/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467615+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248827+00:00"
   },
   {
     "source": "Libération",
@@ -177,7 +461,22 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/drame-ferroviaire-en-espagne-la-securite-du-rail-en-question-pedro-sanchez-sous-pression-20261028_VBBJMMEACFBJJOB75NA4TTV534/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467657+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483402+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Casseurs-payeurs : après l’adoption d’un texte durci au Sénat, la longue course d’obstacles qui attend encore le projet de loi",
+    "link": "https://www.lefigaro.fr/politique/casseurs-payeurs-apres-l-adoption-d-un-texte-durci-au-senat-la-longue-course-d-obstacles-qui-attend-encore-le-projet-de-loi-20261028",
+    "summary": "DÉCRYPTAGE - Entre un calendrier serré et des risques d’inconstitutionnalité, l’avenir de ce texte soutenu par le gouvernement reste semé d’embûches.",
+    "published": "2026-10-28T19:30:00+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/casseurs-payeurs-apres-l-adoption-d-un-texte-durci-au-senat-la-longue-course-d-obstacles-qui-attend-encore-le-projet-de-loi-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/10/28/b733076ba532a23d7d696fb6ed0f51f62ad5f09fb3f0c524d3a207709c7f618f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248773+00:00"
   },
   {
     "source": "Libération",
@@ -192,7 +491,7 @@
     "guid": "https://www.liberation.fr/environnement/agriculture/retour-des-neonicotinoides-saisie-dans-ce-dossier-empoisonne-lagence-sanitaire-face-a-des-delais-impossibles-20261028_2HJQYVZHHZERXIQKCODIVRMU5I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467698+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483436+00:00"
   },
   {
     "source": "Le Monde",
@@ -205,22 +504,22 @@
     "guid": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-le-cessez-le-feu-a-olechky-est-un-immense-succes-selon-volodymyr-zelensky-qui-appelle-a-une-rencontre-entre-moscou-kiev-et-washington-en-novembre_6799896_3210.html",
     "image": "https://img.lemde.fr/2026/10/27/703/0/8640/4320/644/322/60/0/51f093c_ftp-1-u6yyi1p47vx7-1fbac3abdd034acf9cd82b74d0a77df5-1-239d698f0f874b508a2c2df17cfe2557.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140652+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196024+00:00"
   },
   {
-    "source": "Libération",
-    "title": "EN DIRECT – Catastrophe ferroviaire en Espagne : le bilan provisoire s’alourdit à 68 morts, un deuil national de trois jours décrété",
-    "link": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
-    "summary": "L’accident de train meurtrier, le deuxième en moins d’un an, est survenu sur la ligne à grande vitesse Madrid-Séville peu avant 9 heures ce mercredi 28 octobre. Plus de 100 personnes sont blessées, dont 18 gravement.",
-    "published": "2026-10-28T19:12:44+00:00",
-    "authors": [
-      "Jérôme Balazard, Zoé Vezyroglou, Victoria Bennardi, Apolline Le Romanser, AFP ., Reuters ., Service Photo"
+    "source": "Le Figaro",
+    "title": "« Signalements anonymes », soupçons de corruption et enquête interne : ce scandale qui empoisonne Malakoff Humanis, le géant de la protection sociale",
+    "link": "https://www.lefigaro.fr/societes/signalements-anonymes-soupcons-de-corruption-et-enquete-interne-ce-scandale-qui-empoisonne-malakoff-humanis-le-geant-de-la-protection-sociale-20261028",
+    "summary": "RÉCIT - Le poids lourd de la complémentaire santé est secoué depuis des mois par des soupçons de corruption. Son directeur général est sur la sellette. Un cabinet de chasseurs de têtes lui cherche un remplaçant.",
+    "published": "2026-10-28T19:15:00+00:00",
+    "authors": [],
+    "categories": [
+      "Entreprises"
     ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/europe/une-collision-entre-deux-trains-fait-plusieurs-blesses-en-espagne-20261028_4FA7VFGSBNG2ZJIFT7II3P7BUM/",
-    "image": null,
+    "guid": "https://www.lefigaro.fr/societes/signalements-anonymes-soupcons-de-corruption-et-enquete-interne-ce-scandale-qui-empoisonne-malakoff-humanis-le-geant-de-la-protection-sociale-20261028",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/28/42b391d3e13944f6b96306103c01c045ef6c336f23b211e3c834617592c5bcec.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467736+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248620+00:00"
   },
   {
     "source": "Libération",
@@ -235,7 +534,7 @@
     "guid": "https://www.liberation.fr/societe/lenvie-qui-ressort-cest-de-se-proteger-soi-et-ses-pairs-dans-le-sillage-des-mobilisations-les-jeunes-se-forment-a-devenir-street-medic-20261028_L2ILY5CJXZDCNEJKKGFBNE34JY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467774+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483467+00:00"
   },
   {
     "source": "Libération",
@@ -250,7 +549,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-lopposition-ne-pourra-diriger-le-pays-que-si-elle-coopere-avec-les-partis-arabes-20261027_6GK4JWOB5FGXVOJ6T66TXR52GM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467815+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483542+00:00"
   },
   {
     "source": "Le Monde",
@@ -270,13 +569,13 @@
     "title": "Dans le Massif central, un intrigant essaim de plus de 700 microséismes",
     "link": "https://www.lemonde.fr/planete/article/2026/10/28/dans-le-massif-central-un-intrigant-essaim-de-plus-de-700-microseismes_6801636_3244.html",
     "summary": "Depuis dix jours, dans l’est du département du Puy-de-Dôme, près d’Ambert, dans le parc naturel régional Livradois-Forez, des petits tremblements de terre s’enchaînent, dont plusieurs suffisamment forts pour être ressentis.",
-    "published": "2026-10-28T19:00:05+00:00",
+    "published": "2026-10-28T19:00:02+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/planete/article/2026/10/28/dans-le-massif-central-un-intrigant-essaim-de-plus-de-700-microseismes_6801636_3244.html",
     "image": "https://img.lemde.fr/2026/10/28/274/0/8192/4096/644/322/60/0/78ab11a_upload-1-jey6q4qyaa94-024-5070598.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140889+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196220+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -298,7 +597,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/attentat-contre-une-eglise-en-jordanie-malgre-le-deuil-les-chretiens-refusent-de-ceder-a-la-peur",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348428+00:00"
+    "fetched_at": "2026-10-29T00:37:30.134822+00:00"
   },
   {
     "source": "Le Monde",
@@ -311,7 +610,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/28/dans-la-presse-israelienne-le-reveil-douloureux-de-l-opposition-et-le-jeu-des-hypotheses-souvent-contradictoires-pour-sortir-de-l-impasse-politique_6801635_3210.html",
     "image": "https://img.lemde.fr/2026/10/28/480/0/5760/2880/644/322/60/0/34e1747_upload-1-hc2lxado5cls-lgeai-qg-netanyahou-18.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140423+00:00"
+    "fetched_at": "2026-10-29T00:37:29.195825+00:00"
   },
   {
     "source": "Libération",
@@ -326,7 +625,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467854+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483572+00:00"
   },
   {
     "source": "Le Monde",
@@ -354,7 +653,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/loi-integrale-contre-les-vss-un-parcours-de-soins-encore-perfectible-20261028_OLIOM7XJ55C7VAA7T4AI32QBLE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467893+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483606+00:00"
   },
   {
     "source": "Le Figaro",
@@ -384,22 +683,7 @@
     "guid": "https://www.lefigaro.fr/international/video-supprimee-fausses-pistes-soutiens-presumes-les-dessous-de-la-cavale-de-flavio-bolsonaro-apres-sa-defaite-a-la-presidentielle-bresilienne-20261028",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/28/4f4f81591071b2e685e603cdedfecd513b1965503ee6c79e0c57cd4fca34cda8.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478065+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Derrière le tragique accident ferroviaire en Espagne, des actions «inexplicables» et une terrible erreur humaine",
-    "link": "https://www.lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028",
-    "summary": "RECIT - Alors que le bilan mercredi soir s’élevait à 68 morts après la collision entre deux trains, le ministère espagnol des Transports a pointé du doigt une erreur de la part du gestionnaire du réseau.",
-    "published": "2026-10-28T18:43:17+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/derriere-le-tragique-accident-ferroviaire-en-espagne-des-actions-inexplicables-et-une-terrible-erreur-humaine-20261028",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/90e7a740769a76380fd32fc6a2f8ab4c83968054d1b077aa772c7c3317288ea6.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.477788+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248543+00:00"
   },
   {
     "source": "Le Monde",
@@ -412,7 +696,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/10/28/logement-comment-les-meubles-sont-devenus-le-couteux-moteur-de-la-location-longue-duree_6801630_3224.html",
     "image": "https://img.lemde.fr/2026/10/08/416/0/5000/2500/644/322/60/0/2f39836_upload-1-oesauosx00bg-bg-6oct26-france-permisdelouer-7-002.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140722+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196105+00:00"
   },
   {
     "source": "Le Monde",
@@ -425,22 +709,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/10/28/eric-olhats-l-ex-conseiller-et-recruteur-d-antoine-griezmann-vise-par-une-nouvelle-enquete-pour-violences-sexuelles-sur-mineur_6801628_3224.html",
     "image": "https://img.lemde.fr/2026/07/28/378/0/3000/1500/644/322/60/0/99afb76_upload-1-401misyjhoq8-frame-1174.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140919+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Exil, prison, soupçons de détournement de fonds… Derrière la fuite rocambolesque de Flavio Bolsonaro, les casseroles d’une dynastie brésilienne",
-    "link": "https://www.lefigaro.fr/international/exil-prison-soupcons-de-detournement-de-fonds-derriere-la-fuite-rocambolesque-de-flavio-bolsonaro-les-casseroles-d-une-dynastie-bresilienne-20261028",
-    "summary": "RÉCIT - Perdant de l’élection présidentielle, le fils de l’ex-président brésilien visé par plusieurs enquêtes judiciaires a quitté le Brésil pour les États-Unis. La fratrie Bolsonaro, très présente dans la vie politique du pays, n’est pas en reste.",
-    "published": "2026-10-28T18:18:03+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/exil-prison-soupcons-de-detournement-de-fonds-derriere-la-fuite-rocambolesque-de-flavio-bolsonaro-les-casseroles-d-une-dynastie-bresilienne-20261028",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/19c6063629c4ecec4a34c5127b41a5b8f67c4685606873296dd762341d8207fa.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478033+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196248+00:00"
   },
   {
     "source": "Libération",
@@ -455,22 +724,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/opinions/apres-les-legislatives-netanyahou-reste-une-drogue-dure-pour-les-israeliens-20261028_C4LLBMZNNJC57IUKJTSWQM2SAQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467933+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Commando armé, influence étrangère, soupçons en interne : psychose à l’usine Framatome après le spectaculaire vol d’une tonne d’un métal critique",
-    "link": "https://www.lefigaro.fr/actualite-france/commando-arme-influence-etrangere-soupcons-en-interne-psychose-a-l-usine-framatome-apres-le-spectaculaire-vol-d-une-tonne-d-un-metal-critique-20261028",
-    "summary": "ENQUÊTE - Trente fûts de cristaux d’hafnium, utilisé notamment dans l’aéronautique (sous-marins nucléaires, avions de combat, drones d’attaque), ont été subtilisés la semaine dernière à Jarrie (Isère).",
-    "published": "2026-10-28T18:13:30+00:00",
-    "authors": [],
-    "categories": [
-      "Société"
-    ],
-    "guid": "https://www.lefigaro.fr/actualite-france/commando-arme-influence-etrangere-soupcons-en-interne-psychose-a-l-usine-framatome-apres-le-spectaculaire-vol-d-une-tonne-d-un-metal-critique-20261028",
-    "image": "https://i.f1g.fr/media/cms/1244x666_crop/2026/10/28/18e5c3360b81e40b09789bfbae7090ff7dcc3ed683aae6c2599da9c43b661e7e.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478164+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483638+00:00"
   },
   {
     "source": "Le Figaro",
@@ -500,7 +754,7 @@
     "guid": "https://www.liberation.fr/economie/medias/apres-une-interview-houleuse-de-sarah-knafo-la-direction-de-france-info-et-les-societes-des-journalistes-de-radio-france-montent-au-creneau-20261028_FJ3R222MUJCXZIU65SWPYNTG2Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.467969+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483668+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -520,7 +774,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/israel-une-election-sans-vainqueur-un-pays-plus-divise-que-jamais",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348481+00:00"
+    "fetched_at": "2026-10-29T00:37:30.134862+00:00"
   },
   {
     "source": "Libération",
@@ -535,7 +789,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/elections-en-israel-isaac-herzog-un-president-au-role-determinant-dans-le-choix-du-premier-ministre-20261028_YGEPNNK4WBHB7N3ZID7HJVY4EU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468006+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483699+00:00"
   },
   {
     "source": "Libération",
@@ -550,7 +804,7 @@
     "guid": "https://www.liberation.fr/culture/livres/de-la-prehistoire-a-lepoque-contemporaine-fresque-toute-lhistoire-de-lart-20261028_4I7JCO6H6NFABNUB6JNBYQINNM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468035+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483723+00:00"
   },
   {
     "source": "Libération",
@@ -565,7 +819,7 @@
     "guid": "https://www.liberation.fr/international/amerique/de-promesses-en-bassesses-comment-donald-trump-a-creuse-encore-et-encore-la-dette-des-etats-unis-20261028_BFRXB7CO4VBUXJOSBIRPMBUTUU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468070+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483753+00:00"
   },
   {
     "source": "Mediapart",
@@ -583,7 +837,7 @@
     "guid": "1354523 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/23/capture-d-e-cran-2026-10-23-a-17-21-58.png",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172285+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368418+00:00"
   },
   {
     "source": "Libération",
@@ -598,7 +852,7 @@
     "guid": "https://www.liberation.fr/international/europe/royaume-uni-lactiviste-dextreme-droite-tommy-robinson-de-nouveau-condamne-20261028_NM3UMPXTGZGBFD5GPXLMLE2CRM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468103+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483780+00:00"
   },
   {
     "source": "Libération",
@@ -613,7 +867,7 @@
     "guid": "https://www.liberation.fr/international/amerique/dolores-huerta-pionniere-du-mouvement-ouvrier-paysan-et-defenseuse-des-droits-civiques-est-morte-a-96-ans-20261028_FXGYWIWSD5EA7IXOEIVCXK4HY4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468162+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483809+00:00"
   },
   {
     "source": "Le Figaro",
@@ -628,7 +882,7 @@
     "guid": "https://www.lefigaro.fr/conjoncture/deux-accidents-graves-en-moins-d-un-an-la-descente-aux-enfers-du-reseau-de-train-a-grande-vitesse-espagnol-20261028",
     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/28/1a9d59d6672c09523a9a2d40a96258371efa76f3016375222a52034dadf7e79b.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.477832+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248419+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -650,7 +904,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/on-bloque-lextreme-droite-la-campagne-de-blocage-numerique-inspiree-de-larmee-de-lula",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348538+00:00"
+    "fetched_at": "2026-10-29T00:37:30.134906+00:00"
   },
   {
     "source": "Libération",
@@ -665,7 +919,7 @@
     "guid": "https://www.liberation.fr/culture/cinema/le-cineaste-iranien-jafar-panahi-a-nouveau-condamne-a-de-la-prison-par-le-regime-islamique-20261028_GSCRDLNJI5AC3MEFCTKY6VZC5A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468200+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483838+00:00"
   },
   {
     "source": "Mediapart",
@@ -683,7 +937,7 @@
     "guid": "1356355 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/261028-img-en-france-le-retour.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172332+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368456+00:00"
   },
   {
     "source": "Mediapart",
@@ -701,7 +955,7 @@
     "guid": "1356350 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/261027-img-nunez-gauche-trappes.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172369+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368510+00:00"
   },
   {
     "source": "Libération",
@@ -716,7 +970,7 @@
     "guid": "https://www.liberation.fr/international/amerique/fuite-de-flavio-bolsonaro-le-bresil-sidere-lopposition-sans-leader-designe-20261028_PBU7RLIJOJE7VHO7EQQTWONJEQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468235+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483866+00:00"
   },
   {
     "source": "Le Monde",
@@ -729,7 +983,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/10/28/apres-l-attentat-raciste-de-trappes-lfi-et-emmanuel-gregoire-mettent-en-garde-contre-des-manifestations-liees-a-l-extreme-droite-prevues-ce-week-end_6801620_823448.html",
     "image": "https://img.lemde.fr/2026/10/24/1040/0/6240/3120/644/322/60/0/db733ff_upload-1-ifa6lpl8tjcy-16-trappes-attentat-raciste-hleuqeux-dsc5664.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140800+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196168+00:00"
   },
   {
     "source": "Libération",
@@ -744,7 +998,7 @@
     "guid": "https://www.liberation.fr/politique/la-gauche-denonce-la-tenue-de-manifestations-et-devenements-neofascistes-ce-week-end-a-paris-20261028_LYRJRKK7S5E3HH5ZSW7E2RFZWE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468267+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483893+00:00"
   },
   {
     "source": "Le Monde",
@@ -772,7 +1026,7 @@
     "guid": "https://www.liberation.fr/libeplus/vieillir-sans-demenager-lascenseur-piece-maitresse-du-logement-de-demain-20261028_LHAE3N5OERA3RML4DFI2WYA2DQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468309+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483926+00:00"
   },
   {
     "source": "Libération",
@@ -787,7 +1041,7 @@
     "guid": "https://www.liberation.fr/international/amerique/lex-footballeur-rai-apres-la-victoire-de-lula-au-bresil-ce-mouvement-populaire-a-ete-le-plus-emouvant-de-ma-vie-20261028_VG6X6SLJRFGV7ELNELPEHH66NM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468345+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483957+00:00"
   },
   {
     "source": "Libération",
@@ -802,7 +1056,7 @@
     "guid": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-legislatives-en-israel-fuite-de-flavio-bolsonaro-lactu-de-ce-mercredi-28-octobre-20261028_CCRIGW7W45HO3HBZS6GI56QHDI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468374+00:00"
+    "fetched_at": "2026-10-29T00:37:29.483981+00:00"
   },
   {
     "source": "Le Monde",
@@ -815,7 +1069,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/10/28/mobilisation-lyceenne-face-aux-senateurs-jean-michel-blanquer-defend-parcoursup-et-sa-reforme-du-lycee-et-du-bac_6801616_3224.html",
     "image": "https://img.lemde.fr/2026/10/28/246/0/5450/2725/644/322/60/0/18f31ed_upload-1-kkxz06izucwk-000-c6t64bn.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140539+00:00"
+    "fetched_at": "2026-10-29T00:37:29.195928+00:00"
   },
   {
     "source": "Libération",
@@ -830,7 +1084,7 @@
     "guid": "https://www.liberation.fr/culture/le-centre-pompidou-classe-monument-historique-prouve-que-tu-existes-20261028_JEEFRPTDZ5AVNFU3V5TN6LCWHY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468406+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484009+00:00"
   },
   {
     "source": "Le Monde",
@@ -843,7 +1097,7 @@
     "guid": "https://www.lemonde.fr/idees/article/2026/10/28/la-lettre-ouverte-de-l-ecrivain-jonathan-littell-a-emmanuel-macron-taper-jusqu-a-ce-que-le-peuple-se-taise-voila-votre-reponse-tout-au-long-de-vos-deux-mandats_6801615_3232.html",
     "image": "https://img.lemde.fr/2026/10/28/420/0/4000/2000/644/322/60/0/0fc35c5_upload-1-o8hhqgepnuuu-gettyimages-1242870030.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140468+00:00"
+    "fetched_at": "2026-10-29T00:37:29.195862+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -867,7 +1121,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/thibault-de-montbrial-les-prochains-pillages-viseront-les-domiciles",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348605+00:00"
+    "fetched_at": "2026-10-29T00:37:30.134960+00:00"
   },
   {
     "source": "Le Monde",
@@ -880,7 +1134,7 @@
     "guid": "https://www.lemonde.fr/planete/article/2026/10/28/en-jamaique-un-an-apres-l-ouragan-melissa-la-reconstruction-s-eternise-et-les-sinistres-s-impatientent_6801613_3244.html",
     "image": "https://img.lemde.fr/2026/10/27/500/0/3000/1500/644/322/60/0/472b6c0_upload-1-dsg4a86wt5ng-atownsend-melissarecovery-56.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.140758+00:00"
+    "fetched_at": "2026-10-29T00:37:29.196138+00:00"
   },
   {
     "source": "Libération",
@@ -895,7 +1149,7 @@
     "guid": "https://www.liberation.fr/economie/social/emploi-des-moins-de-25-ans-les-jeunes-dans-leur-chomage-ingrat-20261028_E3YUPBNLX5EAXBPZPANZMFBLNE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468437+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484034+00:00"
   },
   {
     "source": "Libération",
@@ -910,7 +1164,7 @@
     "guid": "https://www.liberation.fr/politique/sommet-de-la-remigration-dans-les-hauts-de-seine-tapis-brun-pour-les-figures-les-plus-radicales-de-lextreme-droite-20261028_ZP2BN5JK4RCT5MNINIB4WYLQFQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468472+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484063+00:00"
   },
   {
     "source": "Le Figaro",
@@ -940,7 +1194,7 @@
     "guid": "https://www.liberation.fr/culture/livres/qui-est-le-couple-sur-le-cliche-lenvers-dune-photo-budapest-56-de-phil-casoar-et-eszter-balazs-20261028_MG7FHEW6DFDPDJL3QNFV6RLAAQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468509+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484100+00:00"
   },
   {
     "source": "Libération",
@@ -955,7 +1209,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/les-sanctions-contre-linfirmiere-refusant-doter-son-calot-etaient-disproportionnees-tranche-la-justice-20261028_IILC7JI3YRBRXD5UKWUIT3VWEE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468541+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484127+00:00"
   },
   {
     "source": "Mediapart",
@@ -973,7 +1227,7 @@
     "guid": "1354367 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/20/261020-img-le-cabinet-d-expertise-syndex-condamne-pour-harcelement-moral-et-travail-dissimule.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172407+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368542+00:00"
   },
   {
     "source": "Mediapart",
@@ -991,7 +1245,7 @@
     "guid": "1356131 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/261028-img-aller-au-travail-et-disparaitre-les-syriens-du-golan-sous-la-menace-constante-de-l-armee-israelienne.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172443+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368573+00:00"
   },
   {
     "source": "Mediapart",
@@ -1009,7 +1263,7 @@
     "guid": "1353410 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/26/261026-img-serie-manufacture-d-idees-23-justice-reparatrice-le-cas-haiti.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172474+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368601+00:00"
   },
   {
     "source": "Libération",
@@ -1024,7 +1278,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/eric-olhats-ancien-mentor-dantoine-griezmann-vise-par-une-nouvelle-enquete-pour-viols-et-agressions-sexuelles-20261028_ISPSFBT7LREA5CSKWGI6DVX3GE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468580+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484158+00:00"
   },
   {
     "source": "Libération",
@@ -1039,7 +1293,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/la-france-ne-sortira-pas-de-limpasse-budgetaire-sans-augmenter-les-impots-20261028_5WSLYYR7Q5GRRLGH7JYBTONT74/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468621+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484190+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1062,7 +1316,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/attentat-de-trappes-de-lfi-aux-militants-decoloniaux-radiographie-dune-recuperation",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348658+00:00"
+    "fetched_at": "2026-10-29T00:37:30.135007+00:00"
   },
   {
     "source": "Libération",
@@ -1077,7 +1331,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/journee-du-sourire-dans-un-supermarche-non-les-salaries-ne-sont-pas-des-pom-pom-girls-20261028_MM24ZJBBNBGIPM46OJA2NUPCKQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468659+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484221+00:00"
   },
   {
     "source": "Libération",
@@ -1092,7 +1346,7 @@
     "guid": "https://www.liberation.fr/international/amerique/participation-aux-midterms-la-figure-de-donald-trump-pese-lourdement-sur-chaque-scrutin-20261028_TNFTXSHGTJCTFCGC34CKUHGHUI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468689+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484247+00:00"
   },
   {
     "source": "Libération",
@@ -1107,7 +1361,7 @@
     "guid": "https://www.liberation.fr/politique/attentat-de-trappes-un-hommage-national-va-etre-organise-annonce-le-gouvernement-20261028_2P43SEXRMJFNPKTD2KLM5UWH5U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468725+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484277+00:00"
   },
   {
     "source": "Libération",
@@ -1122,7 +1376,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/opinions/etre-correspondant-au-proche-orient-cest-raconter-toute-lhumanite-arrachee-par-arthur-sarradin-prix-albert-londres-du-livre-2026-et-correspondant-regional-de-liberation-base-au-liban-20261028_QX22OCCWPND63E5SZT7W6HPS6E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468762+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484308+00:00"
   },
   {
     "source": "Libération",
@@ -1137,7 +1391,7 @@
     "guid": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-ces-accidents-de-train-les-plus-meurtriers-en-europe-depuis-2000-20260119_H26F5XYZTBALJEM33MVXMXJZKI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468802+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484337+00:00"
   },
   {
     "source": "Libération",
@@ -1152,7 +1406,7 @@
     "guid": "https://www.liberation.fr/societe/amine-kessaci-au-proces-des-assassins-presumes-de-son-grand-frere-ce-qui-me-manque-le-plus-cest-sa-voix-20261028_7273JAGGEFAFDIVCASSYTI3NVE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468839+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484369+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1174,7 +1428,7 @@
     "guid": "https://www.valeursactuelles.com/regions/ile-de-france/paris/na/faits-divers/on-va-les-egorger-les-sales-blancs-a-paris-un-homme-interpelle-apres-des-menaces-dans-un-supermarche",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348710+00:00"
+    "fetched_at": "2026-10-29T00:37:30.135056+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1219,7 +1473,7 @@
     "guid": "https://www.lefigaro.fr/international/espagne-deux-trains-entrent-en-collision-au-sud-de-madrid-plusieurs-blesses-20261028",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/28/9e981a67350672db0d80fa0945eb890e9c14a50828d2e1af67f4539f577c6390.png",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.477863+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248443+00:00"
   },
   {
     "source": "Libération",
@@ -1234,22 +1488,7 @@
     "guid": "https://www.liberation.fr/international/un-coup-terrible-a-la-liberte-de-la-presse-en-egypte-le-principal-media-independant-mada-masr-condamne-a-fermer-20261028_KONZXXXURJBIZLTTJMCFORXLXQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468873+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Accident ferroviaire en Espagne : le bilan s’alourdit à 68 morts, trois jours de deuil national décrétés",
-    "link": "https://www.lefigaro.fr/international/en-direct-espagne-nouvelle-catastrophe-ferroviaire-au-moins-10-morts-au-sud-de-madrid-20261028",
-    "summary": "Deux trains sont entrés en collision mercredi matin près d’Urda, en Castille-La Manche, à environ 150 km au sud de Madrid. Selon un premier bilan des autorités locales, l’accident aurait fait plus de 60 morts et de nombreux blessés selon la sécurité civile.",
-    "published": "2026-10-28T15:02:07+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/en-direct-espagne-nouvelle-catastrophe-ferroviaire-au-moins-10-morts-au-sud-de-madrid-20261028",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/28/60f3401fa38e7037f0f98345aaacc3cf421f9d563fc615571a34af43b0de9ee0.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.477931+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484397+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1271,7 +1510,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/pillages-et-degradations-les-commercants-peuvent-ils-faire-payer-letat",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348757+00:00"
+    "fetched_at": "2026-10-29T00:37:30.135096+00:00"
   },
   {
     "source": "Libération",
@@ -1286,7 +1525,7 @@
     "guid": "https://www.liberation.fr/portraits/emmanuel-maurel-depute-lame-a-gauche-20261028_Z65IFHAIE5ARDMBUC2MMC5YJN4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468898+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484424+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1301,7 +1540,7 @@
     "guid": "https://www.lefigaro.fr/international/flavio-bolsonaro-a-atterri-a-miami-apres-sa-defaite-a-la-presidentielle-bresilienne-20261028",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/28/b78c5389c808a0af4612b39b1379660d448c604fc63c53d2cd41f595d35f93d6.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478092+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248566+00:00"
   },
   {
     "source": "Libération",
@@ -1316,7 +1555,7 @@
     "guid": "https://www.liberation.fr/culture/arts/art-contemporain/en-centre-val-de-loire-les-oeuvres-de-gloire-du-festival-artchipel-20261028_4OZUDHHRF5C4JH3ZLVAGR3YHW4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468939+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484456+00:00"
   },
   {
     "source": "Libération",
@@ -1331,7 +1570,7 @@
     "guid": "https://www.liberation.fr/economie/conso/chute-des-ventes-de-shein-temu-et-aliexpress-le-gouvernement-y-voit-les-fruits-de-sa-politique-contre-les-petits-colis-20261028_UKEV7XGKF5CUJI2GB3C4XCFX3A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.468978+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484511+00:00"
   },
   {
     "source": "Libération",
@@ -1346,7 +1585,7 @@
     "guid": "https://www.liberation.fr/economie/social/depot-de-bilan-du-bhv-marais-laudit-qui-eclaire-la-manoeuvre-dune-direction-au-pied-du-mur-20261028_23EZP6JBT5CFDBIA4QKVK4SSCY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469015+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484545+00:00"
   },
   {
     "source": "Libération",
@@ -1361,7 +1600,7 @@
     "guid": "https://www.liberation.fr/politique/un-ancien-candidat-rn-a-tourcoing-epingle-pour-setre-moque-de-la-victime-de-lattentat-de-trappes-20261027_DPADQD754ZC3ZM5WRJIHROUOIY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469051+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484573+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1382,22 +1621,7 @@
     "guid": "https://www.valeursactuelles.com/politique/sondage-le-maire-lfi-de-saint-denis-bally-bagayoko-progresse-apres-les-manifestations-du-mois-doctobre",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.348805+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Après avoir fui le Brésil, Flávio Bolsonaro a finalement débarqué en Floride",
-    "link": "https://www.liberation.fr/international/amerique/bresil-flavio-bolsonaro-finalement-en-route-vers-lequateur-selon-les-autorites-argentines-20261028_LFMTR6A5EZEMPFAUO2JRZ3CCRA/",
-    "summary": "Le candidat défait à la présidentielle brésilienne, visé par plusieurs enquêtes, a atterri ce mercredi 28 octobre à Guayaquil, avant de reprendre la route vers une destination inconnue.",
-    "published": "2026-10-28T13:42:32+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/amerique/bresil-flavio-bolsonaro-finalement-en-route-vers-lequateur-selon-les-autorites-argentines-20261028_LFMTR6A5EZEMPFAUO2JRZ3CCRA/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469083+00:00"
+    "fetched_at": "2026-10-29T00:37:30.135138+00:00"
   },
   {
     "source": "Libération",
@@ -1412,7 +1636,7 @@
     "guid": "https://www.liberation.fr/politique/cest-tres-complique-de-repondre-avec-ce-micro-sous-les-yeux-le-depute-benjamin-lucas-epingle-cnews-en-repondant-sur-lattentat-de-trappes-20261028_NLEJ7X42VRDOLFHYTIFVZCN4BI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469125+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484604+00:00"
   },
   {
     "source": "Libération",
@@ -1427,7 +1651,7 @@
     "guid": "https://www.liberation.fr/politique/renovation-des-lycees-la-promesse-a-4-milliards-du-gouvernement-qui-ne-sert-a-rien-selon-un-president-de-region-20261028_JASHG6R24FC3HKWND5PMSGSHOA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469177+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484633+00:00"
   },
   {
     "source": "Libération",
@@ -1442,7 +1666,22 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/en-serbie-les-etudiants-ont-fait-tomber-bien-plus-quun-gouvernement-20261028_IERA5B556ZCNTOHATZ5FEZNK6I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469216+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484666+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Cela nécessite de l’épargne en plus et donc un effort» : le casse-tête du passage du système de retraite à la capitalisation",
+    "link": "https://www.lefigaro.fr/social/cela-necessite-de-l-epargne-en-plus-et-donc-un-effort-le-casse-tete-du-passage-du-systeme-de-retraite-a-la-capitalisation-20261028",
+    "summary": "Face à la difficulté de réformer le système actuel par répartition, plusieurs candidats à la présidentielle, d’Édouard Philippe à Marine Le Pen, présentent le passage à la capitalisation comme le remède miracle. Mais la transition s’annonce ardue.",
+    "published": "2026-10-28T13:08:42+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/cela-necessite-de-l-epargne-en-plus-et-donc-un-effort-le-casse-tete-du-passage-du-systeme-de-retraite-a-la-capitalisation-20261028",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/28/051874ca0a9954319e398cb7ab8f7eea24158bb8dbe4bff77040872ccd1adb78.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-29T00:37:29.248750+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1477,7 +1716,7 @@
     "guid": "https://www.liberation.fr/economie/chomage-le-nombre-de-demandeurs-demploi-a-augmente-de-21-sur-un-an-20261028_RDUG6JHIANB3RIEPSTL6WTGC5A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469245+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484692+00:00"
   },
   {
     "source": "Libération",
@@ -1492,7 +1731,7 @@
     "guid": "https://www.liberation.fr/societe/logement/fichage-de-locataires-la-plateforme-sigilio-assignee-en-justice-20261028_IVDG4WCVBRGT3EBOEEJQCLJBSU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.469277+00:00"
+    "fetched_at": "2026-10-29T00:37:29.484721+00:00"
   },
   {
     "source": "Libération",
@@ -1538,21 +1777,6 @@
     "image": "https://i.f1g.fr/media/cms/2286x1278_crop/2026/10/28/1b82d2f514127b1ae68640ea6a992ea6d6f43d7f9fc86f74f7f94a10f1e5cbaf.jpg",
     "full_text": null,
     "fetched_at": "2026-10-28T12:14:24.304614+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "«Cela nécessite de l’épargne en plus et donc un effort» : le casse-tête du passage du système de retraite à la capitalisation",
-    "link": "https://www.lefigaro.fr/social/cela-necessite-de-l-epargne-en-plus-et-donc-un-effort-le-casse-tete-du-passage-du-systeme-de-retraite-a-la-capitalisation-20261028",
-    "summary": "Face à la difficulté de réformer le système actuel par répartition, plusieurs candidats à la présidentielle, d’Édouard Philippe à Marine Le Pen, présentent le passage à la capitalisation comme le remède miracle. Mais la transition s’annonce ardue.",
-    "published": "2026-10-28T12:07:30+00:00",
-    "authors": [],
-    "categories": [
-      "Social"
-    ],
-    "guid": "https://www.lefigaro.fr/social/cela-necessite-de-l-epargne-en-plus-et-donc-un-effort-le-casse-tete-du-passage-du-systeme-de-retraite-a-la-capitalisation-20261028",
-    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/28/051874ca0a9954319e398cb7ab8f7eea24158bb8dbe4bff77040872ccd1adb78.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-28T12:14:24.304447+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1677,7 +1901,7 @@
     "guid": "1356279 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/20262810-img-cop17-biodiversite-autochtones.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172508+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368631+00:00"
   },
   {
     "source": "Mediapart",
@@ -1695,7 +1919,7 @@
     "guid": "1353395 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/22/261022-img-de-tiktok-a-la-station-essence-03.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172541+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368658+00:00"
   },
   {
     "source": "Libération",
@@ -1771,7 +1995,7 @@
     "guid": "1356277 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/261028-img-tchat-yunnes-abzouz-lenaig-bredoux.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172578+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368689+00:00"
   },
   {
     "source": "Libération",
@@ -1882,7 +2106,7 @@
     "guid": "1356291 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/261028-img-train-espagne.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:29.172612+00:00"
+    "fetched_at": "2026-10-29T00:37:29.368717+00:00"
   },
   {
     "source": "Le Monde",
@@ -2359,7 +2583,7 @@
     "guid": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/23/f8c1d5b19d12d7fa0cb20b2015ef98580a23b5075e5e1ff64dab2d3526a8d3e1.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-28T20:05:30.478361+00:00"
+    "fetched_at": "2026-10-29T00:37:29.248859+00:00"
   },
   {
     "source": "Mediapart",
