@@ -1,6 +1,736 @@
 [
   {
     "source": "Le Figaro",
+    "title": "À quelques jours des «midterms», Donald Trump annule ses meetings du week-end",
+    "link": "https://www.lefigaro.fr/international/a-quelques-jours-des-midterms-donald-trump-annule-ses-meetings-du-week-end-20261030",
+    "summary": "Interrogé jeudi par un journaliste qui lui demandait s’il était fatigué de sillonner le pays pour faire campagne, le président américain, âgé de 80 ans, a répondu se sentir «parfaitement bien».",
+    "published": "2026-10-30T00:13:26+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/a-quelques-jours-des-midterms-donald-trump-annule-ses-meetings-du-week-end-20261030",
+    "image": "https://i.f1g.fr/media/cms/3000x2004_crop/2026/10/30/9c650c76c5d46b246f5161b51b35faa9225a7200bb9cc64896b56e17f3f84107.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366787+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le bitcoin dévisse après des rumeurs de cyberattaque massive sur la plateforme de cryptomonnaies Binance",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/le-bitcoin-devisse-apres-des-rumeurs-de-cyberattaque-massive-sur-la-plateforme-de-cryptomonnaies-binance-20261029",
+    "summary": "Alors que plusieurs spécialistes ont fait état de détournements colossaux, Binance a assuré que les fonds déposés par les clients sur son site étaient «totalement à l’abri».",
+    "published": "2026-10-30T00:09:07+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/le-bitcoin-devisse-apres-des-rumeurs-de-cyberattaque-massive-sur-la-plateforme-de-cryptomonnaies-binance-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x2082_crop/2026/10/29/efd3f3d6352f06f84de6effb197145ae3bd2081a71dd9ef2f84cc1352b721cdc.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366901+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La plateforme de cryptomonnaies Binance fait état d’une cyberattaque massive, plus de 2,5 milliards de dollars gelés",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-cryptomonnaies-binance-enquete-sur-un-eventuel-probleme-de-securite-apres-des-signalements-de-mouvements-suspects-20261029",
+    "summary": "Plusieurs spécialistes ont affirmé que des pirates s’étaient introduits sur la plateforme. Certains parlent de la plus grave attaque jamais perpétrée dans le monde des cryptomonnaies.",
+    "published": "2026-10-30T00:09:04+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-cryptomonnaies-binance-enquete-sur-un-eventuel-probleme-de-securite-apres-des-signalements-de-mouvements-suspects-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x2002_crop/2026/10/29/2dc6de4a9cedf02b70efe7141b0d7d3fe3ff9001166a041480e1b5242447522d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366873+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Élections en Israël : le camp de Netanyahou en tête mais sans majorité, selon les résultats définitifs",
+    "link": "https://www.lefigaro.fr/international/elections-en-israel-le-camp-de-netanyahou-en-tete-mais-sans-majorite-selon-les-resultats-definitifs-20261030",
+    "summary": "Les résultats publiés par la Commission électorale israélienne confirment également la percée spectaculaire des deux listes arabes Raam et la Liste unifiée.",
+    "published": "2026-10-30T00:00:03+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/elections-en-israel-le-camp-de-netanyahou-en-tete-mais-sans-majorite-selon-les-resultats-definitifs-20261030",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/30/d75887a8859abbdb257eb57289a2c0907474da03fb34f22e6e2cf72a7d969529.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366612+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Flavio Bolsonaro a fui le Brésil dans un avion payé depuis un compte bancaire aux États-Unis",
+    "link": "https://www.lefigaro.fr/international/flavio-bolsonaro-a-fui-le-bresil-dans-un-avion-paye-depuis-un-compte-bancaire-aux-etats-unis-20261030",
+    "summary": "Selon le New York Times, l’avion aurait été affrété par Jason Miller, un conseiller du président américain Donald Trump.",
+    "published": "2026-10-29T23:27:47+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/flavio-bolsonaro-a-fui-le-bresil-dans-un-avion-paye-depuis-un-compte-bancaire-aux-etats-unis-20261030",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/30/d19700624fc3272222facfcc34f4b36c08725ad819a437f86ee9fee66025946b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366809+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Accusations de détournement de fonds publics : Édouard Philippe placé sous le statut de témoin assisté",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029",
+    "summary": "L’ancien premier ministre a été entendu toute la journée de jeudi par deux juges d’instruction financiers, qui l’avaient convoqué pour l’entendre comme témoin assisté.",
+    "published": "2026-10-29T22:23:31+00:00",
+    "authors": [],
+    "categories": [
+      "Les candidats à l'élection présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/candidats/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/29/262849f30aed6054ac044e00839927ab7d2d152a9cc2fb718ad6e06be93b34f2.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366638+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Face à l’effondrement du BHV, l’impuissance de la Mairie de Paris",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html",
+    "summary": "L’enseigne historique du centre de la capitale va probablement être placée en redressement judiciaire et la Ville n’a que peu de moyens pour limiter la casse.",
+    "published": "2026-10-29T21:44:55+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/29/face-a-l-effondrement-du-bhv-l-impuissance-de-la-mairie-de-paris_6802394_823448.html",
+    "image": "https://img.lemde.fr/2026/10/29/500/0/6000/3000/644/322/60/0/5ad6989_upload-1-1phasqofuaau-2026-09-11t144459z-810801010-rc21hnaop4mb-rtrmadp-3-france-business-bhv.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362199+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestation du 31 octobre : syndicats de salariés et d'étudiants attaquent en justice sur le parcours à Paris",
+    "link": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-a-paris-20261029",
+    "summary": "Le 24 octobre, les syndicats s’étaient déjà vus imposer un parcours en lisière de Paris, entre les portes d’Italie et de Vincennes. Pour le 31 octobre, le tracé retenu va de la porte de Charenton à la porte de Bagnolet.",
+    "published": "2026-10-29T21:43:17+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-syndicats-de-salaries-et-d-etudiants-attaquent-en-justice-sur-le-parcours-a-paris-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/29/607c0bd20ab9b698b6e14ae9b527a641895c98bb49e00c7c719770da4630260f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366553+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Présidentielle 2027 : «C’est le chant du cygne», Dominique de Villepin refuse à son tour la «primaire des démocrates» voulue par Gabriel Attal",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-attal-primaire-democrates-retailleau-philippe-lisnard-les-republicains-20261029",
+    "summary": "Distancé dans les sondages, Gabriel Attal a prôné mercredi l’organisation d’une «primaire des démocrates» avant l’élection présidentielle, pour «empêcher» un deuxième tour entre LFI et le RN.",
+    "published": "2026-10-29T21:15:16+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-attal-primaire-democrates-retailleau-philippe-lisnard-les-republicains-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/29/c34da2731798d773cecfccf8ee50bc1dc5e7bdda659732ee46140f4ade1c5893.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366690+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Attentat raciste à Trappes : Kévin T. mis en examen et placé en détention provisoire",
+    "link": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-lassaillant-a-ete-transfere-dans-la-nuit-devant-un-tribunal-20261029_OTCT6T3Y4VCNZIKJLLPBEO6KVY/",
+    "summary": "La garde à vue de Kévin T. avait été levée peu après minuit. Le suspect a reconnu avoir «spécifiquement ciblé des personnes de types musulman ou nord-africain» et choisi le lieu de son action, car «Trappes est un repaire d’islamistes».",
+    "published": "2026-10-29T21:11:31+00:00",
+    "authors": [
+      "Ludovic Séré"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-lassaillant-a-ete-transfere-dans-la-nuit-devant-un-tribunal-20261029_OTCT6T3Y4VCNZIKJLLPBEO6KVY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430029+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Crise des carburants : onze pays de l’UE vont libérer 42,6 millions de barils de pétrole, dont la moitié de gazole",
+    "link": "https://www.liberation.fr/international/europe/crise-des-carburants-douze-pays-de-lue-vont-liberer-426-millions-de-barils-de-petrole-dont-la-moitie-de-gazole-20261029_IIUBYMLTFRENBGOYP22V5PFWVY/",
+    "summary": "Le prélèvement, qui sera effectué d’ici fin janvier, vise à stabiliser les prix avant l’hiver, alors que le gazole dépasse 2,30 euros le litre dans plusieurs pays. Sans que Bruxelles redoute de problème d’approvisionnement.",
+    "published": "2026-10-29T21:00:46+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/crise-des-carburants-douze-pays-de-lue-vont-liberer-426-millions-de-barils-de-petrole-dont-la-moitie-de-gazole-20261029_IIUBYMLTFRENBGOYP22V5PFWVY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430070+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Dette : la France au bord du gouffre financier",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/economie/dette-la-france-au-bord-du-gouffre-financier",
+    "summary": "La nouvelle était attendue. Elle s’est répandue comme une traînée de poudre dans les rédactions des journaux économiques, ce 21 octobre, quelques minutes à peine après que les taux à dix... L’article Dette : la France au bord du gouffre financier est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-29T20:55:19+00:00",
+    "authors": [
+      "Marc Baudriller"
+    ],
+    "categories": [
+      "Non classé",
+      "BCE",
+      "Bercy",
+      "dette"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/dette-la-france-au-bord-du-gouffre-financier",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.673482+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La plateforme de prédiction Polymarket victime d’une «intrusion», plusieurs millions de dollars potentiellement volés",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-prediction-polymarket-victime-d-une-intrusion-plusieurs-millions-de-dollars-potentiellement-voles-20261029",
+    "summary": "Dans un message publié sur son compte X (ex-Twitter) la plateforme a affirmé qu’un de ses «prestataires tiers» avait été visé par une «intrusion». Sur les réseaux sociaux, certains utilisateurs assurent avoir perdu plusieurs centaines de milliers de dollars.",
+    "published": "2026-10-29T20:51:11+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/la-plateforme-de-prediction-polymarket-victime-d-une-intrusion-plusieurs-millions-de-dollars-potentiellement-voles-20261029",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/29/8aee55db211c372075f4970dd469f88d05005c44b2782c68504042e190586537.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366931+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Edouard Philippe placé sous le statut de témoin assisté dans une enquête ouverte notamment pour détournement de fonds publics",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html",
+    "summary": "« Edouard Philippe se félicite de cette décision favorable qui confirme qu’il n’y a rien à lui reprocher dans cette affaire », a réagi son avocat, Emmanuel Marsigny, sollicité par l’Agence France-Presse.",
+    "published": "2026-10-29T20:50:29+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/10/29/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-enquete-ouverte-notamment-pour-detournement-de-fonds-publics_6802392_3224.html",
+    "image": "https://img.lemde.fr/2026/10/22/505/0/4724/2362/644/322/60/0/9d75f9a_upload-1-x7mclzvbusrf-mmagnin-edouard-philippe-charleville-mezieres-29.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.361948+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : après sa proposition d’une primaire aux contours flous, Gabriel Attal cible le « centre et la droite »",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html",
+    "summary": "Le candidat Renaissance, qui a peu convaincu par son appel à une primaire incluant la gauche sociale-démocrate, a recentré sa proposition. Il aimerait voir d’autres personnalités mettre la pression sur Edouard Philippe qui refuse de se plier à cette idée.",
+    "published": "2026-10-29T20:49:56+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/29/presidentielle-2027-apres-sa-proposition-d-une-primaire-aux-contours-flous-gabriel-attal-cible-le-centre-et-la-droite_6802391_823448.html",
+    "image": "https://img.lemde.fr/2026/10/21/268/0/4645/2322/644/322/60/0/fdf6c33_upload-1-ah3ggn1lh9w8-cbi1348033.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.361913+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Accusations de détournement de fonds publics : Edouard Philippe placé sous le statut de témoin assisté",
+    "link": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/",
+    "summary": "L’ancien Premier ministre et candidat à la présidentielle a été entendu toute la journée ce jeudi 29 octobre par deux juges d’instruction financiers, dans l’affaire sur la gestion de la Cité numérique du Havre, ville dont il est maire depuis 2020.",
+    "published": "2026-10-29T20:48:58+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/accusations-de-detournement-de-fonds-publics-edouard-philippe-place-sous-le-statut-de-temoin-assiste-20261029_UWFAVBEB3JFJTOXIU74AZIPC6I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430105+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Célèbre pour «Star Trek» et les «X-Men», l’acteur Patrick Stewart meurt à 86 ans",
+    "link": "https://www.liberation.fr/culture/cinema/celebre-pour-star-trek-et-les-x-men-lacteur-patrick-stewart-meurt-a-86-ans-20261029_OOKRYOVS6JH5JM6CWEDYEWJFUI/",
+    "summary": "Atteint de la maladie d’Alzheimer, le Britannique est mort mercredi à Los Angeles, selon un communiqué diffusé sur ses réseaux sociaux.",
+    "published": "2026-10-29T20:39:22+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/cinema/celebre-pour-star-trek-et-les-x-men-lacteur-patrick-stewart-meurt-a-86-ans-20261029_OOKRYOVS6JH5JM6CWEDYEWJFUI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430135+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La responsable berlinoise du parti de gauche radicale Die Linke admet, dans une note confidentielle, avoir « peur » de militants proches de son parti",
+    "link": "https://www.lemonde.fr/international/article/2026/10/29/la-responsable-berlinoise-du-parti-de-gauche-radicale-die-linke-admet-dans-une-note-confidentielle-avoir-peur-de-militants-proches-de-son-parti_6802390_3210.html",
+    "summary": "Probable future maire de Berlin, Elif Eralp, arrivée en tête aux élections du 20 septembre, a évoqué sans les citer, dans un texte envoyé par erreur au « Spiegel », certains militants propalestiniens, et dit craindre pour sa sécurité et celle de sa famille.",
+    "published": "2026-10-29T20:15:52+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/29/la-responsable-berlinoise-du-parti-de-gauche-radicale-die-linke-admet-dans-une-note-confidentielle-avoir-peur-de-militants-proches-de-son-parti_6802390_3210.html",
+    "image": "https://img.lemde.fr/2026/10/07/294/0/7143/3571/644/322/60/0/737d365_ftp-1-0bl1e7pyaerd-0a8fed72a1f9476fbee481e04c4f42c1-0-4ac42cd43d174c08b5ee1b5e6bbccac1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362229+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Patrick Stewart, acteur britannique célèbre pour ses rôles dans « X-Men » et « Star Trek », est mort",
+    "link": "https://www.lemonde.fr/culture/article/2026/10/29/patrick-stewart-acteur-britannique-celebre-pour-ses-roles-dans-x-men-et-star-trek-est-mort_6802388_3246.html",
+    "summary": "Bien qu’il soit surtout connu pour ses rôles du professeur Charles Xavier et du capitaine Jean-Luc Picard, respectivement dans « X-Men » et « Star Trek », il a passé la majeure partie de sa carrière sur les planches.",
+    "published": "2026-10-29T20:13:47+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/10/29/patrick-stewart-acteur-britannique-celebre-pour-ses-roles-dans-x-men-et-star-trek-est-mort_6802388_3246.html",
+    "image": "https://img.lemde.fr/2026/10/29/317/0/6324/3162/644/322/60/0/8c9f113_ftp-1-qqzg8tew1moy-3a4d6db306e74a17bc441b4dec536933-0-602b535d01684155b23d4a0c42da48e0.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.361979+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "L’Arcom adresse une mise en garde à Radio France à la suite de la diffusion sur France Culture d’un montage détournant des propos de Jean-Luc Mélenchon",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html",
+    "summary": "L’extrait sonore tronqué diffusé à la fin du mois de juin laissait entendre que le chef de file de LFI avait tenu des propos antisémites. L’Arcom a appelé la radio publique à ne pas renouveler un tel « manquement aux exigences d’honnêteté et de rigueur ».",
+    "published": "2026-10-29T20:10:16+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/29/l-arcom-adresse-une-mise-en-garde-a-radio-france-a-la-suite-de-la-diffusion-sur-france-culture-d-un-montage-detournant-des-propos-de-jean-luc-melenchon_6802387_823448.html",
+    "image": "https://img.lemde.fr/2026/10/29/1250/0/7488/3744/644/322/60/0/bc090d3_upload-1-b0trenvwyhh9-000-666m28g.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362290+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "La BCE laisse planer le doute sur son soutien à la France",
+    "link": "https://www.mediapart.fr/journal/economie-et-social/291026/la-bce-laisse-planer-le-doute-sur-son-soutien-la-france",
+    "summary": "Suivant l’exemple de la Fed, la BCE a décidé de maintenir ces taux. Alors que la dette française est sous pression, que les risques de contagion sont réapparus, Christine Lagarde n’a pas soufflé un mot sur les moyens que l’institution monétaire pourrait mettre en œuvre pour défendre la zone euro. Elle laisse cette charge à son successeur.",
+    "published": "2026-10-29T20:06:31+00:00",
+    "authors": [
+      "Martine Orange"
+    ],
+    "categories": [
+      "Économie et social",
+      "BCE, dettes, Finance, Politique monétaire, taux, Zone euro"
+    ],
+    "guid": "1356681 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/img-2026-10-29-christine-lagarde.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.589760+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Le Grand Remplacement Numérique » : l’IA va-t-elle remplacer l’homme au travail ?",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/economie/le-grand-remplacement-numerique-lia-va-t-elle-remplacer-lhomme-au-travail",
+    "summary": "Il y a deux audaces consubstantielles à la démarche de l’avocat Arnaud Touati, dans son ouvrage Le Grand Remplacement Numérique (Editions de Boeck Supérieur) qui paraît ce jeudi 29 octobre.La... L’article « Le Grand Remplacement Numérique » : l’IA va-t-elle remplacer l’homme au travail ? est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-29T20:00:48+00:00",
+    "authors": [
+      "Pierre Victor"
+    ],
+    "categories": [
+      "Non classé",
+      "intelligence artificielle",
+      "technologie"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/le-grand-remplacement-numerique-lia-va-t-elle-remplacer-lhomme-au-travail",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.673531+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Ukraine, derrière la mission humanitaire à Olechky, la crainte d’une opération militaire et de propagande russe",
+    "link": "https://www.lemonde.fr/international/article/2026/10/29/en-ukraine-derriere-la-mission-humanitaire-a-olechky-la-crainte-d-une-operation-militaire-et-de-propagande-russe_6802386_3210.html",
+    "summary": "Quelque 2 000 habitants de cette ville ukrainienne occupée doivent recevoir de l’aide et être évacués d’ici à dimanche 1ᵉʳ novembre. Beaucoup redoutent une instrumentalisation par le Kremlin.",
+    "published": "2026-10-29T19:54:31+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/29/en-ukraine-derriere-la-mission-humanitaire-a-olechky-la-crainte-d-une-operation-militaire-et-de-propagande-russe_6802386_3210.html",
+    "image": "https://img.lemde.fr/2026/10/27/720/0/8640/4320/644/322/60/0/a426870_ftp-1-x5x4h3o14ijv-f2e167d6c0ee458eb6890781d6957caa-0-f277c11f645c4a9ab3a1649530bb1640.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362040+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Y’aura des clowns tueurs contre des CRS ! » : face à l’Halloween de tous les dangers, le ministère de l’Intérieur mobilise ses forces",
+    "link": "https://www.lefigaro.fr/actualite-france/y-aura-des-clowns-tueurs-contre-des-crs-face-a-l-halloween-de-tous-les-dangers-le-ministere-de-l-interieur-mobilise-ses-forces-20261029",
+    "summary": "DÉCRYPTAGE - Le nez rivé sur les réseaux sociaux, Beauvau se prépare à endiguer une vague houleuse qui pourrait voir converger différentes menaces.",
+    "published": "2026-10-29T19:54:04+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/y-aura-des-clowns-tueurs-contre-des-crs-face-a-l-halloween-de-tous-les-dangers-le-ministere-de-l-interieur-mobilise-ses-forces-20261029",
+    "image": "https://i.f1g.fr/media/cms/2527x1422_crop/2026/10/29/353df9d4ae419ec3531371c98eeffd52ae69ece38e96167bef161190c1a5e2ab.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366517+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Une conférence du député LFI Raphaël Arnault prévue à Lyon le 5 novembre annulée pour raisons de « sécurité »",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html",
+    "summary": "Le député du Vaucluse a publié en début de semaine sur son compte Instagram une affiche annonçant des « débats et échanges » en sa présence autour de son livre « Antifasciste » le 5 novembre, dans une salle municipale de la mairie du 8ᵉ arrondissement de Lyon.",
+    "published": "2026-10-29T19:49:31+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/29/lyon-annulation-d-une-conference-du-depute-lfi-raphael-arnault-pour-raisons-de-securite-decidee-par-une-mairie-d-arrondissement_6802385_823448.html",
+    "image": "https://img.lemde.fr/2026/10/29/318/0/3813/1906/644/322/60/0/7eb2341_ftp-1-g67sridjhqra-afp-d4t36zq.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362320+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "WNBA : Atlanta embarque les Valkyries de Gabby Williams dans un ultime match pour le titre",
+    "link": "https://www.liberation.fr/sports/wnba-atlanta-embarque-les-valkyries-de-gabby-williams-dans-un-ultime-match-pour-le-titre-20261029_KW7JWIKF2JFSTHML4KIA3QT3XU/",
+    "summary": "Malgré les 26 points de la capitaine française, le Dream s’est détaché dès le premier quart-temps et ramène la série à 3-3, avant un match décisif samedi à San Francisco.",
+    "published": "2026-10-29T19:49:03+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/wnba-atlanta-embarque-les-valkyries-de-gabby-williams-dans-un-ultime-match-pour-le-titre-20261029_KW7JWIKF2JFSTHML4KIA3QT3XU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430167+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Après l’attentat raciste à Trappes, une ville entière prise d’effroi",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/apres-lattentat-raciste-a-trappes-une-ville-entiere-prise-deffroi-20261029_FIFJ4SQKN5DDXOKT4NW22LZNXM/",
+    "summary": "Une semaine après l’attaque terroriste qui a coûté la vie à Pengo Bossio Wangi, amateur de MMA, et blessé sept personnes, les habitants de la ville des Yvelines dénoncent un climat de haine qui a servi de terreau à ce drame.",
+    "published": "2026-10-29T19:45:38+00:00",
+    "authors": [
+      "Paul Quinio"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/editorial/apres-lattentat-raciste-a-trappes-une-ville-entiere-prise-deffroi-20261029_FIFJ4SQKN5DDXOKT4NW22LZNXM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430198+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Trappes, une semaine après l’attentat raciste : «Quelqu’un est venu nous tuer délibérément»",
+    "link": "https://www.liberation.fr/societe/police-justice/a-trappes-une-semaine-apres-lattentat-raciste-quelquun-est-venu-nous-tuer-deliberement-20261029_5A4AO43CDZBDTNQA6DPSDEOISI/",
+    "summary": "Une semaine après l’attaque terroriste qui a tué Pengo Bossio Wangi et fait sept blessés, la ville des Yvelines est sous le choc et s’indigne d’être devenue une cible. A la veille d’un rassemblement ce vendredi, les habitants témoignent auprès de «Libération» de leur crainte et de leur colère.",
+    "published": "2026-10-29T19:43:59+00:00",
+    "authors": [
+      "Christel Brigaudeau, photo Cyril Zannettacci"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/a-trappes-une-semaine-apres-lattentat-raciste-quelquun-est-venu-nous-tuer-deliberement-20261029_5A4AO43CDZBDTNQA6DPSDEOISI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430233+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Remboursement des soins pour les victimes de violences sexuelles : «suite logique» de la loi intégrale, la proposition de loi insoumise adoptée",
+    "link": "https://www.liberation.fr/societe/droits-des-femmes/remboursement-des-soins-pour-les-victimes-de-violences-sexuelles-suite-logique-de-la-loi-integrale-la-proposition-de-loi-insoumise-adoptee-20261029_DA3X6YHR4JE3FAOZUOLRIM34WA/",
+    "summary": "Malgré une tentative d’obstruction du RN, le texte de Gabrielle Cathala a été adopté par 152 voix pour et 2 contre. Il vise à combler les lacunes de la proposition de loi dite intégrale, en permettant une prise en charge des soins en psychotraumatisme pour les mineurs comme pour les majeurs.",
+    "published": "2026-10-29T19:41:56+00:00",
+    "authors": [
+      "Marlène Thomas Decreusefond"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/droits-des-femmes/remboursement-des-soins-pour-les-victimes-de-violences-sexuelles-suite-logique-de-la-loi-integrale-la-proposition-de-loi-insoumise-adoptee-20261029_DA3X6YHR4JE3FAOZUOLRIM34WA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430269+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Matignon s’apprête à vendre l’hôtel particulier du Haut-Commissariat à la stratégie et au plan",
+    "link": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html",
+    "summary": "L’hôtel Beistegui, un petit bijou qui donne sur l’esplanade des Invalides, à Paris, appartient à l’Etat depuis 1971. Sa cession s’inscrit dans un programme visant à récupérer 300 millions d’euros en 2027.",
+    "published": "2026-10-29T19:29:24+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/10/29/matignon-s-apprete-a-vendre-l-hotel-particulier-du-haut-commissariat-a-la-strategie-et-au-plan_6802384_823448.html",
+    "image": "https://img.lemde.fr/2026/10/29/718/0/4300/2150/644/322/60/0/8a81322_upload-1-a2mfxk1iom64-maxnewsfrsix033594.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362176+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pour le dernier Halloween d’Emmanuel Macron, le grand bal des projets et des promesses fantômes",
+    "link": "https://www.liberation.fr/politique/pour-le-dernier-halloween-demmanuel-macron-le-grand-bal-des-projets-et-des-promesses-fantomes-20261029_65VWFKW2JBFKXE27UYIKJDY3VQ/",
+    "summary": "Référendums jamais organisés, réforme constitutionnelle enterrée, ambitions écologiques zombifiées… A quelques mois de quitter l’Elysée, et après dix ans à la tête du pays, le Président laisse derrière lui une longue liste de projets inaboutis.",
+    "published": "2026-10-29T19:05:38+00:00",
+    "authors": [
+      "Laure Equy"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/pour-le-dernier-halloween-demmanuel-macron-le-grand-bal-des-projets-et-des-promesses-fantomes-20261029_65VWFKW2JBFKXE27UYIKJDY3VQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430300+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Je sens que je dois dire ces choses, et je ne peux pas le faire dans ma position actuelle» : le calendrier très politique du départ de Christine Lagarde de la BCE",
+    "link": "https://www.lefigaro.fr/economie/je-sens-que-je-dois-dire-ces-choses-et-je-ne-peux-pas-le-faire-dans-ma-position-actuelle-le-calendrier-tres-politique-du-depart-de-christine-lagarde-de-la-bce-20261029",
+    "summary": "DÉCRYPTAGE - En anticipant son départ, la Française laisse à Emmanuel Macron la possibilité de participer au choix de son successeur. Une nomination stratégique, avant l’élection présidentielle, et face au risque de crise financière qui pèse sur la France.",
+    "published": "2026-10-29T19:05:30+00:00",
+    "authors": [],
+    "categories": [
+      "Économie"
+    ],
+    "guid": "https://www.lefigaro.fr/economie/je-sens-que-je-dois-dire-ces-choses-et-je-ne-peux-pas-le-faire-dans-ma-position-actuelle-le-calendrier-tres-politique-du-depart-de-christine-lagarde-de-la-bce-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/29/8e4e60e2f481899c2cc5335f86ffcf4af4342947a244b54506173bbcd1f9aa2c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366963+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Le devoir des adultes, c’est de protéger immédiatement les enfants » : près d’un élève sur deux victime de violences sexuelles en CE2",
+    "link": "https://www.valeursactuelles.com/societe/le-devoir-des-adultes-cest-de-proteger-immediatement-les-enfants-pres-dun-eleve-sur-deux-victime-de-violences-sexuelles-en-ce2",
+    "summary": "Après le scandale des violences sexuelles dans le périscolaire, l’école primaire est à son tour concernée. Selon une enquête de la Direction de l’évaluation, de la prospective et de la... L’article « Le devoir des adultes, c’est de protéger immédiatement les enfants » : près d’un élève sur deux victime de violences sexuelles en CE2 est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-29T19:01:18+00:00",
+    "authors": [
+      "Mathilde Klotgen"
+    ],
+    "categories": [
+      "Non classé",
+      "école",
+      "école privée",
+      "école publique",
+      "élèves",
+      "enfant",
+      "parents d'élèves",
+      "Périscolaire",
+      "violences sexuelles"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/le-devoir-des-adultes-cest-de-proteger-immediatement-les-enfants-pres-dun-eleve-sur-deux-victime-de-violences-sexuelles-en-ce2",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.673586+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le cas Ali O., réfugié palestinien déchu de son statut, mis en examen pour terrorisme en France pour des actes commis en Cisjordanie, mobilise des rapporteurs spéciaux de l’ONU",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/29/le-cas-ali-o-refugie-palestinien-dechu-de-son-statut-mis-en-examen-pour-terrorisme-en-france-pour-des-actes-commis-en-cisjordanie-mobilise-des-rapporteurs-speciaux-de-l-onu_6802380_3224.html",
+    "summary": "Cet homme de 36 ans, en détention provisoire depuis deux ans et demi, s’est vu retirer le statut de réfugié sur la base d’informations provenant d’Israël. Quatre rapporteurs des Nations unies se disent « alarmés » par son cas.",
+    "published": "2026-10-29T19:00:05+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/10/29/le-cas-ali-o-refugie-palestinien-dechu-de-son-statut-mis-en-examen-pour-terrorisme-en-france-pour-des-actes-commis-en-cisjordanie-mobilise-des-rapporteurs-speciaux-de-l-onu_6802380_3224.html",
+    "image": "https://img.lemde.fr/2026/05/20/1032/0/5706/2853/644/322/60/0/4e62d82_ftp-1-rietlsxru2ig-2026-05-20t214503z-648712503-rc2wakafduwx-rtrmadp-3-usa-albanese-sanctions.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362260+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "A la BCE, Christine Lagarde annonce son départ et veut « s’engager sur des sujets qui ne sont pas des sujets de politique monétaire »",
+    "link": "https://www.lemonde.fr/economie/article/2026/10/29/a-la-bce-christine-lagarde-annonce-son-depart-et-veut-s-engager-sur-des-sujets-qui-ne-sont-pas-des-sujets-de-politique-monetaire_6802379_3234.html",
+    "summary": "Le Conseil des gouverneurs de la BCE a laissé les taux inchangés, en dépit de la reprise de l’inflation en zone euro, laissant les regards se focaliser sur l’annonce de la démission de la présidente Christine Lagarde, neuf mois avant la fin de son mandat.",
+    "published": "2026-10-29T18:59:24+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/10/29/a-la-bce-christine-lagarde-annonce-son-depart-et-veut-s-engager-sur-des-sujets-qui-ne-sont-pas-des-sujets-de-politique-monetaire_6802379_3234.html",
+    "image": "https://img.lemde.fr/2026/10/29/350/0/6684/3342/644/322/60/0/896c294_ftp-1-b4cddgzlnj7d-2026-10-29t144307z-1449301536-rc22doa3aibd-rtrmadp-3-ecb-policy.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362080+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«On a tous des patients qui ont été sauvés parce qu’ils ont participé à des essais cliniques» : comment bénéficier des nouvelles découvertes contre le cancer ?",
+    "link": "https://www.liberation.fr/societe/sante/nous-sommes-pris-entre-deux-injonctions-la-recherche-contre-le-cancer-entre-course-contre-la-montre-et-accessibilite-des-soins-20261029_DUYNRUG7QNCCPATXX3X32ELUXM/",
+    "summary": "Dans la foulée du congrès européen de cancérologie et son lot d’annonces de traitements prometteurs, le professeur Jean-Jacques Kiladjian, responsable du pôle recherche clinique à l’Inserm, explique leur cheminement avant leur accès au plus grand nombre.",
+    "published": "2026-10-29T18:52:16+00:00",
+    "authors": [
+      "Apolline Le Romanser"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/nous-sommes-pris-entre-deux-injonctions-la-recherche-contre-le-cancer-entre-course-contre-la-montre-et-accessibilite-des-soins-20261029_DUYNRUG7QNCCPATXX3X32ELUXM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430334+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’éditorial d’Arthur Berdah : « Primaire à droite, le pire système à l’exception de tous les autres »",
+    "link": "https://www.lefigaro.fr/vox/politique/l-editorial-d-arthur-berdah-primaire-a-droite-le-pire-systeme-a-l-exception-de-tous-les-autres-20261029",
+    "summary": "En 2016, Nicolas Sarkozy, Alain Juppé et François Fillon avaient sonné le réveil du peuple de droite, faisant déplacer 4 millions d’électeurs et leur donnant un élan électoral puissant.",
+    "published": "2026-10-29T18:49:12+00:00",
+    "authors": [],
+    "categories": [
+      "Vox Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/vox/politique/l-editorial-d-arthur-berdah-primaire-a-droite-le-pire-systeme-a-l-exception-de-tous-les-autres-20261029",
+    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/10/29/d8bcfc54f9c75cf1265fb76e653732d7e895e0adc434b0a702f219952c58c79a.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366742+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Louvre : après des mois de conflit social, syndicats et direction trouvent un accord",
+    "link": "https://www.liberation.fr/culture/louvre-apres-des-mois-de-conflit-social-syndicats-et-direction-trouvent-un-accord-20261029_UWN3NRBK7VAAXPSFRAXVY4UGIU/",
+    "summary": "Le préavis de grève qui courait depuis décembre 2025 a pris fin ce jeudi 29 octobre, avec la signature d’un texte actant notamment le recrutement d’une centaine de personnes.",
+    "published": "2026-10-29T18:46:24+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/louvre-apres-des-mois-de-conflit-social-syndicats-et-direction-trouvent-un-accord-20261029_UWN3NRBK7VAAXPSFRAXVY4UGIU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430363+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Présidentielle 2027 : le reflux d’Édouard Philippe réveille le débat sur la primaire à droite",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-le-reflux-d-edouard-philippe-reveille-le-debat-sur-la-primaire-a-droite-20261029",
+    "summary": "DÉCRYPTAGE - Alors que les sondages donnent le candidat Horizons éliminé dès le premier tour, le doute se fait sentir chez certains LR tentés jusqu’ici.",
+    "published": "2026-10-29T18:44:04+00:00",
+    "authors": [],
+    "categories": [
+      "Primaire à droite"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/presidentielle-2027-le-reflux-d-edouard-philippe-reveille-le-debat-sur-la-primaire-a-droite-20261029",
+    "image": "https://i.f1g.fr/media/cms/2850x1603_crop/2026/10/29/2fc052476e6381f17962636e7e6ad7dc662e9f446c6b3e05dc1ba9d8d5b2acd9.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366663+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La commission d’enquête sur le week-end du 17 octobre compte auditionner dès la semaine prochaine",
+    "link": "https://www.liberation.fr/politique/la-commission-denquete-sur-le-week-end-du-17-octobre-compte-auditionner-des-la-semaine-prochaine-20261029_LI24S4HDGJDWFEOWSAPP53IUVM/",
+    "summary": "Après des jours de blocage liés à l’appartenance politique des rapporteurs, les travaux des députés sur le déroulement et les débordements de la mobilisation devraient commencer. Le ministre de l’Intérieur, Laurent Nuñez, fera partie des premiers convoqués.",
+    "published": "2026-10-29T18:40:43+00:00",
+    "authors": [
+      "Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/la-commission-denquete-sur-le-week-end-du-17-octobre-compte-auditionner-des-la-semaine-prochaine-20261029_LI24S4HDGJDWFEOWSAPP53IUVM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430394+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Ministre de l’Économie, présidente de la BCE… Le parcours exceptionnel de Christine Lagarde à la tête des institutions économiques mondiales",
+    "link": "https://www.lefigaro.fr/conjoncture/ministre-de-l-economie-presidente-de-la-bce-le-parcours-exceptionnel-de-christine-lagarde-a-la-tete-des-institutions-economiques-mondiales-20261029",
+    "summary": "PORTRAIT - La présidente quittera la Banque centrale européenne le 7 février 2027, afin d’avoir la liberté de défendre les valeurs européennes de la France, à l’approche des élections.",
+    "published": "2026-10-29T18:35:00+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/ministre-de-l-economie-presidente-de-la-bce-le-parcours-exceptionnel-de-christine-lagarde-a-la-tete-des-institutions-economiques-mondiales-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/29/d8d1246f39c05c7016ffff02668a21be1ce591a5143021d287d8d50c886dcd26.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366990+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Présidentielle 2027 : Philippe critique la «surreprésentation de jeunes issus de l’immigration lors des violences du 17 octobre», Villepin réplique",
+    "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-philippe-critique-la-surrepresentation-de-jeunes-issus-de-limmigration-lors-des-violences-du-17-octobre-villepin-replique",
+    "summary": "Édouard Philippe assume son changement de ton sur l’immigration. Dans un entretien accordé au Point, publié le mardi 27 octobre, l’ancien Premier ministre d’Emmanuel Macron, désormais candidat à l’élection présidentielle,... L’article Présidentielle 2027 : Philippe critique la «surreprésentation de jeunes issus de l’immigration lors des violences du 17 octobre», Villepin réplique est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-29T18:30:33+00:00",
+    "authors": [
+      "Alexandre Bertolini"
+    ],
+    "categories": [
+      "Non classé",
+      "dominique de villepin",
+      "Edouard Philippe",
+      "immigration",
+      "Présidentielle 2027"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-philippe-critique-la-surrepresentation-de-jeunes-issus-de-limmigration-lors-des-violences-du-17-octobre-villepin-replique",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.673635+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Après le départ de Christine Lagarde, pourquoi la France est mal partie pour conserver la présidence de la BCE",
+    "link": "https://www.lefigaro.fr/conjoncture/apres-le-depart-de-christine-lagarde-pourquoi-la-france-est-mal-partie-pour-conserver-la-presidence-de-la-bce-20261029",
+    "summary": "DÉCRYPTAGE - Le départ de Christine Lagarde le 7 février 2027 aiguise déjà les appétits. De nombreux États espèrent placer l’un des leurs à sa tête. La France part avec de nombreux handicaps.",
+    "published": "2026-10-29T18:27:12+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/apres-le-depart-de-christine-lagarde-pourquoi-la-france-est-mal-partie-pour-conserver-la-presidence-de-la-bce-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x1999_crop/2026/03/30/0bae969ec7184933a7cc2b18eced9c93a32c873680bc0a6930b59e4bf3cbe9a1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.367046+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Mobilisation sociale: «Ils vont arrêter tout le monde»",
+    "link": "https://www.mediapart.fr/journal/france/291026/mobilisation-sociale-ils-vont-arreter-tout-le-monde-0",
+    "summary": "En un mois de mobilisation lycéenne, le nombre de gardes à vue a déjà dépassé celui du mouvement des Gilets jaunes, qui avait duré huit mois. Nos invités reviennent sur la répression judiciaire sans précédent du mouvement social en cours.",
+    "published": "2026-10-29T18:25:27+00:00",
+    "authors": [
+      "À l’air libre"
+    ],
+    "categories": [
+      "France",
+      "A la Une, garde à vue, Libertés publiques, manifestations, Mouvement du 17 octobre, répression"
+    ],
+    "guid": "1356678 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261029-all-repression.png",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.589797+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Catastrophe ferroviaire en Espagne : plusieurs Français portés disparus",
+    "link": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-plusieurs-francais-portes-disparus-20261029_CFPV67PS6BGBNI34DLBURDMIEY/",
+    "summary": "Le Quai d’Orsay est sans nouvelles de plusieurs ressortissants, alors que les secours espagnols continuent ce jeudi de rechercher des victimes dans les décombres des trains entrés en collision à Urda mercredi. Toujours provisoire, le bilan s’élève à au moins 69 morts et 108 blessés.",
+    "published": "2026-10-29T18:15:22+00:00",
+    "authors": [
+      "Eva Savarieau"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-plusieurs-francais-portes-disparus-20261029_CFPV67PS6BGBNI34DLBURDMIEY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430426+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Influenceuses, étudiantes d’Assas, étrangers: la répression tous azimuts du mouvement social",
+    "link": "https://www.mediapart.fr/journal/economie-et-social/291026/influenceuses-etudiantes-d-assas-etrangers-la-repression-tous-azimuts-du-mouvement-social",
+    "summary": "Gardes à vue, interdictions de manifester ou d’accéder à leur université, placement en centre de rétention administrative: «Mediapart» documente plusieurs cas, révélateurs d’un durcissement des réponses administratives et judiciaires face à la mobilisation de la jeunesse ces dernières semaines.",
+    "published": "2026-10-29T18:14:35+00:00",
+    "authors": [
+      "Inès Bennacer"
+    ],
+    "categories": [
+      "Économie et social",
+      "A la Une, influenceurs, Justice, Mouvement du 17 octobre, répression"
+    ],
+    "guid": "1356635 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261029-img-depuis-la-mobilisation-du-24-octobre-une-vague-de-repression-judiciaire.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.589852+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Midterms 2026 : deux Dan Sullivan pour un siège en Alaska, la manipulation des démocrates dévoilée",
+    "link": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-deux-dan-sullivan-pour-un-siege-en-alaska-la-manipulation-des-democrates-devoilee_6802377_3210.html",
+    "summary": "Le « New York Times » a révélé, mercredi 28 octobre, que le recrutement d’un homonyme du sénateur sortant républicain a été orchestré par l’entourage de la candidate démocrate, Mary Peltola.",
+    "published": "2026-10-29T18:11:59+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/29/midterms-2026-deux-dan-sullivan-pour-un-siege-en-alaska-la-manipulation-des-democrates-devoilee_6802377_3210.html",
+    "image": "https://img.lemde.fr/2026/10/24/0/0/5500/2750/644/322/60/0/54dacee_ftp-1-wpo7txqep8aj-2026-10-24t015453z-461159314-rc214oam03ar-rtrmadp-3-usa-election-alaska-trump.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.361874+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Après la mort d’un homme en garde à vue au commissariat de Saint-Ouen, une enquête confiée à un juge d’instruction",
+    "link": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/",
+    "summary": "Le quadragénaire, découvert inanimé mardi dans sa cellule et en arrêt cardio-respiratoire, n’avait pu être ranimé par les sapeurs-pompiers.",
+    "published": "2026-10-29T18:08:52+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.430453+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "Le militant autrichien Martin Sellner, figure de la mouvance identitaire radicale, refoulé à l’aéroport de Beauvais",
     "link": "https://www.lefigaro.fr/actualite-france/le-militant-autrichien-martin-sellner-figure-de-la-mouvance-identitaire-radicale-refoule-a-l-aeroport-de-beauvais-20261029",
     "summary": "«J’ai été arrêté à l’aéroport en France. Je serai expulsé demain. Bientôt, ils prendront aussi mon téléphone», écrit le militant sur X ce jeudi.",
@@ -49,7 +779,7 @@
     "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-electeurs-lfi-au-fast-food-macronistes-a-la-brasserie-quand-lassiette-revele-les-opinions-politiques-selon-un-sondage",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:42.831089+00:00"
+    "fetched_at": "2026-10-30T00:38:09.673683+00:00"
   },
   {
     "source": "Le Monde",
@@ -80,7 +810,7 @@
     "guid": "1356657 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261029-img-les-medias-arabes-inde-pendants.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.873689+00:00"
+    "fetched_at": "2026-10-30T00:38:09.589887+00:00"
   },
   {
     "source": "Le Monde",
@@ -127,21 +857,6 @@
   },
   {
     "source": "Le Figaro",
-    "title": "« Y’aura des clowns tueurs contre des CRS ! » : face à l’Halloween de tous les dangers, le ministère de l’Intérieur mobilise ses forces",
-    "link": "https://www.lefigaro.fr/actualite-france/y-aura-des-clowns-tueurs-contre-des-crs-face-a-l-halloween-de-tous-les-dangers-le-ministere-de-l-interieur-mobilise-ses-forces-20261029",
-    "summary": "DÉCRYPTAGE - Le nez rivé sur les réseaux sociaux, Beauvau se prépare à endiguer une vague houleuse qui pourrait voir converger différentes menaces.",
-    "published": "2026-10-29T17:54:18+00:00",
-    "authors": [],
-    "categories": [
-      "Société"
-    ],
-    "guid": "https://www.lefigaro.fr/actualite-france/y-aura-des-clowns-tueurs-contre-des-crs-face-a-l-halloween-de-tous-les-dangers-le-ministere-de-l-interieur-mobilise-ses-forces-20261029",
-    "image": "https://i.f1g.fr/media/cms/2527x1422_crop/2026/10/29/353df9d4ae419ec3531371c98eeffd52ae69ece38e96167bef161190c1a5e2ab.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.943925+00:00"
-  },
-  {
-    "source": "Le Figaro",
     "title": "Foot : Didier Deschamps pisté par un grand club italien ?",
     "link": "https://www.lefigaro.fr/sports/football/italie/foot-didier-deschamps-piste-par-un-grand-club-italien-20261029",
     "summary": "Libre depuis son départ des Bleus, le technicien français figure parmi les pistes envisagées pour succéder à Luciano Spalletti, actuellement aux commandes d’une Juve en pleine crise.",
@@ -168,7 +883,7 @@
     "guid": "https://www.liberation.fr/environnement/cop17-en-armenie-lerosion-de-la-biodiversite-pourrait-destabiliser-a-court-terme-leconomie-mondiale-20261029_WSHMVUAYMVDQBOAAWDLIEXTD2U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963514+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430486+00:00"
   },
   {
     "source": "Libération",
@@ -183,7 +898,7 @@
     "guid": "https://www.liberation.fr/societe/31-octobre-le-point-sur-les-parcours-de-manifestations-dans-les-grandes-villes-20261029_AGIPSSIHAVDJ5CFWXYJXKLHFS4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963539+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430518+00:00"
   },
   {
     "source": "Le Figaro",
@@ -216,7 +931,7 @@
     "guid": "1356636 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261029-img-ni-colloque-ni-manifestation.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.873722+00:00"
+    "fetched_at": "2026-10-30T00:38:09.589923+00:00"
   },
   {
     "source": "Le Figaro",
@@ -237,14 +952,14 @@
     "source": "Le Monde",
     "title": "Mobilisations du 31 octobre : Laurent Nuñez prévoit un dispositif de 70 000 policiers et gendarmes, et confirme l’interdiction des rassemblements dans les centres-villes",
     "link": "https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-du-31-octobre-laurent-nunez-prevoit-un-dispositif-de-70-000-policiers-et-gendarmes-et-confirme-l-interdiction-des-rassemblements-dans-les-centres-villes_6802369_823448.html",
-    "summary": "« C’est un dispositif exceptionnel, c’est le même volume que pour le 24 octobre », a expliqué le ministre de l’intérieur, au cours d’un point presse organisé jeudi soir, à deux jours de nouvelles mobilisations sociales.",
+    "summary": "« C’est un dispositif exceptionnel, c’est le même volume que pour le 24 octobre », a expliqué le ministre de l’intérieur, au cours d’un point presse organisé jeudi soir, à deux jours des nouvelles mobilisations sociales.",
     "published": "2026-10-29T17:37:35+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/10/29/mobilisations-du-31-octobre-laurent-nunez-prevoit-un-dispositif-de-70-000-policiers-et-gendarmes-et-confirme-l-interdiction-des-rassemblements-dans-les-centres-villes_6802369_823448.html",
-    "image": "https://img.lemde.fr/2026/10/29/474/0/3686/1843/644/322/60/0/cf38761_ftp-1-4eotbfvca9lc-afp-d4uv3tc.jpg",
+    "image": "https://img.lemde.fr/2026/10/29/650/0/5213/2606/644/322/60/0/debbfc1_ftp-1-zbbemtrtuajf-afp-d4uv3u6.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.887687+00:00"
+    "fetched_at": "2026-10-30T00:38:09.361792+00:00"
   },
   {
     "source": "Libération",
@@ -259,7 +974,7 @@
     "guid": "https://www.liberation.fr/international/europe/kevin-t-mis-en-examen-le-bilan-salourdit-en-espagne-roux-de-bezieux-a-la-tete-des-jo-lactu-de-ce-jeudi-29-octobre-20261029_SK6SJT2PXBGDZMVTE43AHTQEMA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963555+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430543+00:00"
   },
   {
     "source": "Mediapart",
@@ -277,7 +992,7 @@
     "guid": "1356643 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261027-img-totalenergies-total-benefices.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.873745+00:00"
+    "fetched_at": "2026-10-30T00:38:09.589955+00:00"
   },
   {
     "source": "Libération",
@@ -292,7 +1007,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/manifestations-du-31-octobre-bitchat-la-messagerie-sans-internet-adoptee-dans-les-corteges-20261029_P3FP4ARZE5FVLBZTYURNKZO3QQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963575+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430576+00:00"
   },
   {
     "source": "Le Monde",
@@ -320,7 +1035,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/attentat-raciste-de-trappes-kevin-t-avait-ete-arrete-trois-jours-plus-tot-pour-une-agression-sur-un-homme-noir-20261029_IQZQDSA7CRD3DILQU6EUOPVYO4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963595+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430610+00:00"
   },
   {
     "source": "Le Monde",
@@ -348,7 +1063,7 @@
     "guid": "https://www.liberation.fr/international/europe/union-europeenne-lidee-dun-canada-membre-associe-ravive-les-tensions-entre-ursula-von-der-leyen-et-les-vingt-sept-20261029_OPYIT6SBWBAO7P2TWC7LCUVUAQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963613+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430641+00:00"
   },
   {
     "source": "Libération",
@@ -363,7 +1078,7 @@
     "guid": "https://www.liberation.fr/international/amerique/midterms-les-etats-unis-face-au-spectre-dun-nouveau-deni-electoral-de-trump-20261029_WY6PALCMQ5ALLNIDD5VMBTFJ34/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963631+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430671+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -384,7 +1099,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/lavenir-ne-sannonce-pas-paisible-previent-lancien-patron-de-la-dgse-pierre-brochand-apres-les-pillages-du-17-octobre",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:42.831127+00:00"
+    "fetched_at": "2026-10-30T00:38:09.673738+00:00"
   },
   {
     "source": "Le Monde",
@@ -413,6 +1128,19 @@
     "fetched_at": "2026-10-29T18:06:41.887780+00:00"
   },
   {
+    "source": "Le Monde",
+    "title": "En Afghanistan, la crise humanitaire s’aggrave sous l’effet de la politique des talibans et faute de financements : « Nous sommes livrés à nous-mêmes »",
+    "link": "https://www.lemonde.fr/international/article/2026/10/29/en-afghanistan-la-crise-humanitaire-s-aggrave-sous-l-effet-de-la-politique-des-talibans-et-faute-de-financements-nous-sommes-livres-a-nous-memes_6802366_3210.html",
+    "summary": "Coupes dans l’aide internationale, hausse des prix alimentaires, retours massifs depuis l’Iran et le Pakistan : les crises s’accumulent dans le pays. Les enfants en sont parmi les premières victimes, tandis que les fermetures de centres de santé réduisent les possibilités de les soigner.",
+    "published": "2026-10-29T17:00:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/29/en-afghanistan-la-crise-humanitaire-s-aggrave-sous-l-effet-de-la-politique-des-talibans-et-faute-de-financements-nous-sommes-livres-a-nous-memes_6802366_3210.html",
+    "image": "https://img.lemde.fr/2026/10/28/1803/0/8256/4128/644/322/60/0/3735bfb_upload-1-oeyhvezweg1h-dsf7154.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.362013+00:00"
+  },
+  {
     "source": "Libération",
     "title": "Etats-Unis : après une série de panne de congélateurs sur des bases militaires, le Pentagone soupçonne une cyberattaque",
     "link": "https://www.liberation.fr/international/amerique/etats-unis-apres-une-serie-de-panne-de-congelateurs-sur-des-bases-militaires-le-pentagone-soupconne-une-cyberattaque-20261029_2TT2N7YGPRGPLC4QPW3QMP3QTY/",
@@ -425,7 +1153,7 @@
     "guid": "https://www.liberation.fr/international/amerique/etats-unis-apres-une-serie-de-panne-de-congelateurs-sur-des-bases-militaires-le-pentagone-soupconne-une-cyberattaque-20261029_2TT2N7YGPRGPLC4QPW3QMP3QTY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963648+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430704+00:00"
   },
   {
     "source": "Libération",
@@ -440,7 +1168,7 @@
     "guid": "https://www.liberation.fr/economie/social/parcours-de-la-manifestation-du-31-octobre-a-paris-lintersyndicale-attaque-au-tribunal-pour-contrer-les-manoeuvres-dangereuses-de-la-prefecture-20261029_XJZFHTSFABDHZIUSCG7UP346AU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963669+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430740+00:00"
   },
   {
     "source": "Libération",
@@ -455,22 +1183,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/face-au-bruit-du-duo-degagiste-rn-et-lfi-tenir-ses-mots-20261029_H4WTZ5DSSFC6FJL2FTITR7PAEI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963686+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Catastrophe ferroviaire en Espagne : plusieurs Français portés disparus, le bilan s’alourdit à 74 morts",
-    "link": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-plusieurs-francais-portes-disparus-20261029_CFPV67PS6BGBNI34DLBURDMIEY/",
-    "summary": "Le Quai d’Orsay est sans nouvelles de plusieurs ressortissants, alors que les secours espagnols continuent ce jeudi de rechercher des victimes dans les décombres des trains entrés en collision à Urda mercredi. Toujours provisoire, le bilan s’élève désormais à au moins 74 morts et 108 blessés.",
-    "published": "2026-10-29T16:39:21+00:00",
-    "authors": [
-      "Eva Savarieau"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-plusieurs-francais-portes-disparus-20261029_CFPV67PS6BGBNI34DLBURDMIEY/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963704+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430769+00:00"
   },
   {
     "source": "Le Figaro",
@@ -489,7 +1202,7 @@
   },
   {
     "source": "Libération",
-    "title": "En Espagne, la catastrophe ferroviaire percute la campagne des législatives",
+    "title": "En Espagne, la catastrophe ferroviaire trouble la campagne des législatives",
     "link": "https://www.liberation.fr/international/europe/en-espagne-la-catastrophe-ferroviaire-percute-la-campagne-des-legislatives-20261029_ZIQANXZN3VBSVA3RY4QXNGRWDI/",
     "summary": "L’accident meurtrier du 28 octobre force les partis à revoir leur stratégie avant le scrutin du 29 novembre. Le gouvernement de gauche de Pedro Sánchez, déstabilisé, est la cible de critiques virulentes sur l’état des lignes à grande vitesse.",
     "published": "2026-10-29T16:37:58+00:00",
@@ -500,7 +1213,7 @@
     "guid": "https://www.liberation.fr/international/europe/en-espagne-la-catastrophe-ferroviaire-percute-la-campagne-des-legislatives-20261029_ZIQANXZN3VBSVA3RY4QXNGRWDI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963720+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430799+00:00"
   },
   {
     "source": "Le Figaro",
@@ -530,7 +1243,7 @@
     "guid": "https://www.liberation.fr/international/afrique/flambee-de-violence-dans-le-sud-de-lethiopie-le-drapeau-de-la-discorde-20261029_75VYSQTLFNEAVPC7PU7A2AZCUU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963735+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430845+00:00"
   },
   {
     "source": "Libération",
@@ -545,7 +1258,7 @@
     "guid": "https://www.liberation.fr/economie/medias/montage-mensonger-visant-jean-luc-melenchon-sur-france-culture-larcom-met-en-garde-radio-france-20261029_CJDH6AMEURBCZK24WV7J7LAZ44/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963751+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430877+00:00"
   },
   {
     "source": "Libération",
@@ -560,7 +1273,7 @@
     "guid": "https://www.liberation.fr/culture/musique/dans-burning-song-la-ruee-vers-lorgue-de-kali-malone-20261029_A64QNHZ4LJAN5GVQREGYHFKTNI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963765+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430903+00:00"
   },
   {
     "source": "Le Figaro",
@@ -603,7 +1316,7 @@
     "guid": "https://www.liberation.fr/societe/droits-des-femmes/apres-lassemblee-le-senat-approuve-a-son-tour-limprescriptibilite-des-crimes-sexuels-sur-les-mineurs-20261029_2D3LF4MZMRFTRJ5H4ZCAGMZ32E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963780+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430931+00:00"
   },
   {
     "source": "Le Monde",
@@ -631,7 +1344,7 @@
     "guid": "https://www.lefigaro.fr/conjoncture/quelle-est-cette-taxe-emeutes-qui-pourrait-faire-augmenter-les-prix-des-contrats-d-assurance-20261029",
     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/10/29/e3f9ce04c71f29e03c276b51c5d305b9d8e7866958bd33a6d98bf099906ae2a7.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.944104+00:00"
+    "fetched_at": "2026-10-30T00:38:09.366587+00:00"
   },
   {
     "source": "Mediapart",
@@ -649,7 +1362,7 @@
     "guid": "1355472 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/27/261027-img-au-texas.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.873768+00:00"
+    "fetched_at": "2026-10-30T00:38:09.589987+00:00"
   },
   {
     "source": "Le Monde",
@@ -662,7 +1375,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/10/29/attentat-raciste-de-trappes-kevin-t-mis-en-examen-pour-assassinat-et-tentatives-d-assassinat-terroriste-a-reconnu-avoir-cible-des-personnes-de-type-musulman-ou-africain_6802354_3224.html",
     "image": "https://img.lemde.fr/2026/10/24/564/0/6240/3120/644/322/60/0/eb1ea3f_upload-1-l7o2cm0vf5ml-8-trappes-attentat-raciste-hleuqeux-dsc5466.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.887715+00:00"
+    "fetched_at": "2026-10-30T00:38:09.362119+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -683,13 +1396,13 @@
     "guid": "https://www.valeursactuelles.com/politique/je-vis-tres-confortablement-jean-luc-melenchon-confesse-beneficier-dune-genereuse-retraite-par-capitalisation",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:42.831156+00:00"
+    "fetched_at": "2026-10-30T00:38:09.673789+00:00"
   },
   {
     "source": "Mediapart",
     "title": "En Espagne, la catastrophe ferroviaire plombe le début de campagne de Sánchez",
     "link": "https://www.mediapart.fr/journal/international/291026/en-espagne-la-catastrophe-ferroviaire-plombe-le-debut-de-campagne-de-sanchez",
-    "summary": "Pilier de la campagne socialiste, le ministre des transports Óscar Puente est très fragilisé par le drame d’Urda, qui a causé la mort d’au moins 74 personnes. C’est toute l’équation de la campagne électorale qui se trouve modifiée, à un mois du scrutin.",
+    "summary": "Pilier de la campagne socialiste, le ministre des transports Óscar Puente est très fragilisé par le drame d’Urda, qui a causé la mort d’au moins 69 personnes. C’est toute l’équation de la campagne électorale qui se trouve modifiée, à un mois du scrutin.",
     "published": "2026-10-29T15:59:24+00:00",
     "authors": [
       "Ludovic Lamant"
@@ -701,7 +1414,7 @@
     "guid": "1356579 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261029-img-en-espagne-la-catastrophe.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.873787+00:00"
+    "fetched_at": "2026-10-30T00:38:09.590017+00:00"
   },
   {
     "source": "Le Figaro",
@@ -744,22 +1457,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/29/en-israel-benyamin-netanyahou-accuse-les-partis-arabes-de-fraude-electorale-et-d-avoir-recu-des-fonds-de-l-etranger_6802349_3210.html",
     "image": "https://img.lemde.fr/2026/10/28/690/0/5760/2880/644/322/60/0/56e5b91_upload-1-svxw70j91u6k-lgeai-qg-netanyahou-53.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.887797+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Attentat raciste à Trappes : Kévin T. mis en examen, le Pnat demande son placement en détention provisoire",
-    "link": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-lassaillant-a-ete-transfere-dans-la-nuit-devant-un-tribunal-20261029_OTCT6T3Y4VCNZIKJLLPBEO6KVY/",
-    "summary": "La garde à vue de Kévin T. avait été levée peu après minuit. Le suspect a reconnu avoir «spécifiquement ciblé des personnes de types musulman ou nord-africain» et choisi le lieu de son action, car «Trappes est un repaire d’islamistes».",
-    "published": "2026-10-29T15:29:58+00:00",
-    "authors": [
-      "Ludovic Séré"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/attentat-raciste-a-trappes-lassaillant-a-ete-transfere-dans-la-nuit-devant-un-tribunal-20261029_OTCT6T3Y4VCNZIKJLLPBEO6KVY/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963798+00:00"
+    "fetched_at": "2026-10-30T00:38:09.362150+00:00"
   },
   {
     "source": "Libération",
@@ -774,22 +1472,7 @@
     "guid": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-a-urda-lentretien-du-reseau-ferre-espagnol-en-question-20261029_JK7YHP4DY5EGNENLQAVGGN64PM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963815+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Après le départ de Christine Lagarde, pourquoi la France est mal partie pour conserver la présidence de la BCE",
-    "link": "https://www.lefigaro.fr/conjoncture/apres-le-depart-de-christine-lagarde-pourquoi-la-france-est-mal-partie-pour-conserver-la-presidence-de-la-bce-20261029",
-    "summary": "DÉCRYPTAGE - Le départ de Christine Lagarde le 7 février 2027 aiguise déjà les appétits. De nombreux États espèrent placer l’un des leurs à sa tête. La France part avec de nombreux handicaps.",
-    "published": "2026-10-29T15:05:11+00:00",
-    "authors": [],
-    "categories": [
-      "Conjoncture"
-    ],
-    "guid": "https://www.lefigaro.fr/conjoncture/apres-le-depart-de-christine-lagarde-pourquoi-la-france-est-mal-partie-pour-conserver-la-presidence-de-la-bce-20261029",
-    "image": "https://i.f1g.fr/media/cms/3000x1999_crop/2026/03/30/0bae969ec7184933a7cc2b18eced9c93a32c873680bc0a6930b59e4bf3cbe9a1.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.944203+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430961+00:00"
   },
   {
     "source": "Le Monde",
@@ -824,7 +1507,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/le-militant-elias-dimzalene-condamne-en-appel-pour-avoir-appele-a-l-intifada-dans-paris",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:42.831180+00:00"
+    "fetched_at": "2026-10-30T00:38:09.673853+00:00"
   },
   {
     "source": "Libération",
@@ -839,7 +1522,7 @@
     "guid": "https://www.liberation.fr/portraits/etienne-jarrier-a-la-tete-de-lorchestre-du-nouveau-monde-allegro-20261029_J7TFLOZ2LFBWTMARBCJXOOP3S4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963828+00:00"
+    "fetched_at": "2026-10-30T00:38:09.430985+00:00"
   },
   {
     "source": "Libération",
@@ -854,7 +1537,22 @@
     "guid": "https://www.liberation.fr/culture/hello-kitty-annule-sa-collaboration-avec-une-serie-japonaise-accusee-de-promouvoir-un-discours-antichinois-20261029_2JEHW3Z225GCBLVCEKEBCXGKPA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963845+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431015+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Christine Lagarde va quitter la présidence de la Banque centrale européenne le 7 février 2027, neuf mois avant le terme de son mandat",
+    "link": "https://www.lefigaro.fr/conjoncture/christine-lagarde-va-quitter-la-presidence-de-la-bce-le-7-fevrier-2027-20261029",
+    "summary": "En quittant son poste dès février prochain, Christine Lagarde ouvre la possibilité à Emmanuel Macron de participer à la désignation de son successeur avant l’élection présidentielle du printemps 2027. Le président français a appelé à une transition «ordonnée et équilibrée».",
+    "published": "2026-10-29T14:53:52+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/christine-lagarde-va-quitter-la-presidence-de-la-bce-le-7-fevrier-2027-20261029",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/29/40137b0817a3de4d7957105284e54a4447e8b1ead242359f1d7728409de0e409.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.367020+00:00"
   },
   {
     "source": "Libération",
@@ -869,7 +1567,7 @@
     "guid": "https://www.liberation.fr/international/europe/guerre-en-ukraine-au-moins-13-morts-dans-une-attaque-russe-sur-la-gare-de-dnipro-20261029_FRSCMJN5O5DMXEXUUOB6VH5WJU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963862+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431048+00:00"
   },
   {
     "source": "Libération",
@@ -884,7 +1582,7 @@
     "guid": "https://www.liberation.fr/economie/totalenergies-somme-de-faire-sa-transition-climatique-par-des-actionnaires-activistes-20261029_4GNQX3ZNRNH7TMDBMDW5KJAJOI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963883+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431082+00:00"
   },
   {
     "source": "Le Figaro",
@@ -914,7 +1612,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/attentat-de-trappes-quand-le-terrorisme-raciste-rencontre-la-faillite-de-nos-consciences-20261029_4GL7PZXESJBKTC3A3CWJ6DRIUM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963901+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431114+00:00"
   },
   {
     "source": "Le Figaro",
@@ -950,7 +1648,7 @@
     "guid": "https://www.valeursactuelles.com/regions/ile-de-france/hauts-de-seine/na/societe/pillages-du-17-octobre-la-famille-dun-pilleur-bientot-privee-de-son-hlm",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:42.831211+00:00"
+    "fetched_at": "2026-10-30T00:38:09.673898+00:00"
   },
   {
     "source": "Le Monde",
@@ -978,7 +1676,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/elections-en-israel-le-camp-de-netanyahou-accuse-de-fraude-les-partis-arabes-en-passe-de-faire-un-score-historique-20261029_U37PSYAZIJHM5P4PS3X5E75CHY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963918+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431146+00:00"
   },
   {
     "source": "Mediapart",
@@ -996,7 +1694,7 @@
     "guid": "1356582 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261029-img-infirmiere-suspendue-pour-le-port-d-un-calot-la-justice-donne-tort-l-ap-hp.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.873805+00:00"
+    "fetched_at": "2026-10-30T00:38:09.590047+00:00"
   },
   {
     "source": "Mediapart",
@@ -1014,7 +1712,22 @@
     "guid": "1356363 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/28/261028-img-la-reunion-la-promotion-aberrante-du-directeur-de-la-secu.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.873825+00:00"
+    "fetched_at": "2026-10-30T00:38:09.590078+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Hervé Morin au Figaro : «La primaire est notre dernière chance, et c’est maintenant ou jamais !»",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/herve-morin-au-figaro-la-primaire-est-notre-derniere-chance-et-c-est-maintenant-ou-jamais-20261029",
+    "summary": "ENTRETIEN - Le président de la région Normandie estime qu’aucun des candidats de la droite et du centre «n’a le droit de se proclamer candidat naturel en justifiant son assise dans l’opinion publique».",
+    "published": "2026-10-29T13:38:42+00:00",
+    "authors": [],
+    "categories": [
+      "Primaire à droite"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/primaires-droite/herve-morin-au-figaro-la-primaire-est-notre-derniere-chance-et-c-est-maintenant-ou-jamais-20261029",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/29/b4b4f7402591f95b492e3931a72335b40fb992d47cd79fbac34c66149909f125.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366716+00:00"
   },
   {
     "source": "Le Monde",
@@ -1067,7 +1780,7 @@
     "guid": "https://www.valeursactuelles.com/politique/remigration-ce-concept-qui-ulcere-la-gauche-et-divise-les-droites-europeennes",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:42.831236+00:00"
+    "fetched_at": "2026-10-30T00:38:09.673943+00:00"
   },
   {
     "source": "Libération",
@@ -1082,7 +1795,7 @@
     "guid": "https://www.liberation.fr/economie/social/hausse-anticipee-du-smic-le-ministre-du-travail-vise-une-decision-autour-du-5-novembre-jour-de-greve-generale-20261029_D3ZHTBTWFZBFHE5SKMWR7ZTC2A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963935+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431176+00:00"
   },
   {
     "source": "Libération",
@@ -1097,7 +1810,7 @@
     "guid": "https://www.liberation.fr/sports/jeux-olympiques/jo-dhiver-2030-le-successeur-dedgar-grospiron-attendu-ce-jeudi-lex-patron-du-medef-geoffroy-roux-de-bezieux-en-piste-20261029_RX5DXJARTBGQHG2M7IGWWS7ISI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963955+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431208+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1127,7 +1840,7 @@
     "guid": "https://www.liberation.fr/politique/sommet-et-manifestation-pour-la-remigration-deux-evenements-dextreme-droite-interdits-20261029_QS573U2GDJC4JHM2BAEBCYQVKM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963971+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431236+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1164,7 +1877,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/mbappe-dior-carrefour-la-strategie-du-boycott-par-pekin-pour-faire-plier-les-geants-20261029_B2KUV6MHIZG2PPR4AYT5ZUT7AQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.963987+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431264+00:00"
   },
   {
     "source": "Libération",
@@ -1179,7 +1892,7 @@
     "guid": "https://www.liberation.fr/environnement/biodiversite/avec-252-millions-dhectares-de-nature-restaures-le-monde-atteint-un-niveau-inedit-mais-largement-insuffisant-20261029_M3VUWXPQGJEPZLB5YZJNRLVF44/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964005+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431296+00:00"
   },
   {
     "source": "Libération",
@@ -1194,7 +1907,7 @@
     "guid": "https://www.liberation.fr/lifestyle/hightech/acte-iii-halloween-le-31-octobre-les-manifestants-seront-ils-massivement-deguises-20261029_XED4VMKA2BHX5P3MJWTQQ75DCI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964021+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431325+00:00"
   },
   {
     "source": "Libération",
@@ -1209,7 +1922,7 @@
     "guid": "https://www.liberation.fr/checknews/24-octobre-comment-une-milice-soutenue-par-lultradroite-et-felicitee-par-la-police-a-passe-a-tabac-des-manifestants-a-montpellier-20261029_7O4BG4MJ4BFVFBOMVDLMYUWW54/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964038+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431360+00:00"
   },
   {
     "source": "Libération",
@@ -1224,7 +1937,7 @@
     "guid": "https://www.liberation.fr/economie/conso/samedis-de-manifestations-le-gouvernement-va-faciliter-louverture-des-commerces-le-dimanche-dici-a-noel-20261029_XSF4HA7NRREODOT2B57AFNWCLE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964055+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431391+00:00"
   },
   {
     "source": "Libération",
@@ -1239,7 +1952,7 @@
     "guid": "https://www.liberation.fr/politique/violences-policieres-attention-a-lengourdissement-civique-20261029_HRBCA5CLFBGH3CNW6JOIBDALGU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964071+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431424+00:00"
   },
   {
     "source": "Libération",
@@ -1254,7 +1967,7 @@
     "guid": "https://www.liberation.fr/economie/piratage-du-fisc-un-deuxieme-suspect-age-de-16-ans-mis-en-examen-20261029_EAAAGMFYJVH2XAQOXE6PROQU7M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964093+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431452+00:00"
   },
   {
     "source": "Libération",
@@ -1269,7 +1982,7 @@
     "guid": "https://www.liberation.fr/politique/elections/sur-la-chine-marine-tondelier-appuie-la-ou-ca-fait-mal-avec-les-insoumis-20261029_7RRTVLAM2FEHNMFISZ3M2H2GSI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964110+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431483+00:00"
   },
   {
     "source": "Libération",
@@ -1284,7 +1997,7 @@
     "guid": "https://www.liberation.fr/politique/quatre-jours-plus-tard-edouard-philippe-qualifie-lattentat-de-trappes-de-raciste-20261029_WDNVEASOW5CLTEEH4J52WC32JY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964125+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431509+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1337,7 +2050,7 @@
     "guid": "https://www.liberation.fr/politique/repression-du-mouvement-lyceen-le-defenseur-des-droits-francois-noel-buffet-jure-quon-va-lentendre-mais-pas-tout-de-suite-20261029_G2MUCS63YBHBVDQUY2BWOA4MYE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964142+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431539+00:00"
   },
   {
     "source": "Libération",
@@ -1352,7 +2065,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/transformer-le-traumatisme-de-la-guerre-en-divertissement-est-problematique-le-nouveau-call-of-duty-sinvite-dans-la-politique-en-coree-du-sud-20261028_BDT2AGELLZCTFO3AFS2RNGCP5A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-29T18:06:41.964162+00:00"
+    "fetched_at": "2026-10-30T00:38:09.431573+00:00"
   },
   {
     "source": "Libération",
@@ -1587,6 +2300,21 @@
     "fetched_at": "2026-10-29T18:06:41.964375+00:00"
   },
   {
+    "source": "Le Figaro",
+    "title": "Présidentielle 2027 : êtes-vous favorable à l'organisation d'une primaire de la droite et du centre ?",
+    "link": "https://www.lefigaro.fr/politique/presidentielle-2027-etes-vous-favorable-a-l-organisation-d-une-primaire-de-la-droite-et-du-centre-20261029",
+    "summary": "",
+    "published": "2026-10-29T09:31:26+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/presidentielle-2027-etes-vous-favorable-a-l-organisation-d-une-primaire-de-la-droite-et-du-centre-20261029",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-30T00:38:09.366762+00:00"
+  },
+  {
     "source": "Le Monde",
     "title": "Mobilisation lycéenne : Edouard Geffray estime que les « jeunes ont besoin d’aller en cours »",
     "link": "https://www.lemonde.fr/campus/article/2026/10/29/mobilisation-lyceenne-edouard-geffray-estime-que-les-jeunes-ont-besoin-d-aller-en-cours_6802299_4401467.html",
@@ -1677,21 +2405,6 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-10-29T18:06:42.831332+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Présidentielle 2027 : «Un projet mort-né», la «primaire des démocrates» voulue par Attal suscite le rejet chez Philippe et Retailleau",
-    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-attal-primaire-democrates-retailleau-philippe-lisnard-les-republicains-20261029",
-    "summary": "Distancé dans les sondages, Gabriel Attal a prôné mercredi l’organisation d’une «primaire des démocrates» avant l’élection présidentielle, pour «empêcher» un deuxième tour entre LFI et le RN.",
-    "published": "2026-10-29T09:01:02+00:00",
-    "authors": [],
-    "categories": [
-      "Présidentielle"
-    ],
-    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-attal-primaire-democrates-retailleau-philippe-lisnard-les-republicains-20261029",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/29/a06acc10ce43771ee988afb8537c7732c4e2d7375c29dcc40abaf14882ee5d27.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-29T09:28:23.269301+00:00"
   },
   {
     "source": "Le Monde",
@@ -1898,21 +2611,6 @@
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/28/34f0a512d2fc2b3e8f2a709a905c598fb8973b9cb841db27d9ed8bd181c28083.jpg",
     "full_text": null,
     "fetched_at": "2026-10-29T09:28:23.269342+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "«Nous sommes pris entre deux injonctions» : la recherche contre le cancer, entre course contre la montre et accessibilité des soins",
-    "link": "https://www.liberation.fr/societe/sante/nous-sommes-pris-entre-deux-injonctions-la-recherche-contre-le-cancer-entre-course-contre-la-montre-et-accessibilite-des-soins-20261029_DUYNRUG7QNCCPATXX3X32ELUXM/",
-    "summary": "Dans la foulée du congrès européen de cancérologie et son lot d’annonces de traitements prometteurs, le professeur Jean-Jacques Kiladjian, responsable du pôle recherche clinique à l’Inserm, explique pourquoi plusieurs années s’écoulent avant leur accès au plus grand nombre.",
-    "published": "2026-10-29T07:35:00+00:00",
-    "authors": [
-      "Apolline Le Romanser"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/sante/nous-sommes-pris-entre-deux-injonctions-la-recherche-contre-le-cancer-entre-course-contre-la-montre-et-accessibilite-des-soins-20261029_DUYNRUG7QNCCPATXX3X32ELUXM/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-29T09:28:23.471206+00:00"
   },
   {
     "source": "Libération",
@@ -2971,21 +3669,6 @@
     "image": "https://img.lemde.fr/2026/10/28/480/0/5760/2880/644/322/60/0/34e1747_upload-1-hc2lxado5cls-lgeai-qg-netanyahou-18.jpg",
     "full_text": null,
     "fetched_at": "2026-10-29T09:28:23.267008+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Un homme meurt en garde à vue au commissariat de Saint-Ouen, l’IGPN saisie",
-    "link": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/",
-    "summary": "Le quadragénaire, découvert inanimé dans sa cellule et en arrêt cardio-respiratoire, n’a pu être ranimé par les sapeurs-pompiers, selon des sources proches de l’enquête ce mercredi 28 octobre.",
-    "published": "2026-10-28T18:47:17+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/un-homme-meurt-en-garde-a-vue-au-commissariat-de-saint-ouen-ligpn-saisie-20261028_2DEHX4U46NETFEFDURPFY5PEVU/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-29T09:28:23.471741+00:00"
   },
   {
     "source": "Le Monde",
