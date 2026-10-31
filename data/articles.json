@@ -1,18 +1,538 @@
 [
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Manifestations du 31 octobre : Beauvau annonce 320.000 manifestants en France, les organisateurs revendiquent près d’un demi-million",
+    "title": "EN DIRECT - Boxe : le combat d’une vie pour le Français Mbilli face à la légende Canelo",
+    "link": "https://www.lefigaro.fr/sports/boxe/en-direct-boxe-le-combat-d-une-vie-pour-le-francais-mbilli-face-a-la-legende-canelo-20261031",
+    "summary": "Champion du monde WBC des super-moyens, Christian Mbilli défie la légende mexicaine Saúl «Canelo» Alvarez, ce samedi, à Riyad. En quête d’histoire, le Français vise à réaliser l’un des plus grands exploits de la boxe tricolore.",
+    "published": "2026-10-31T21:04:03+00:00",
+    "authors": [],
+    "categories": [
+      "Boxe"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/boxe/en-direct-boxe-le-combat-d-une-vie-pour-le-francais-mbilli-face-a-la-legende-canelo-20261031",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/31/0b5148139a14d711e006b02ff92d6313debc273cbe64e1790ca6913ec2c0427b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359636+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Chrétiens persécutés : derrière les massacres, la menace du déracinement",
+    "link": "https://www.valeursactuelles.com/monde/chretiens-persecutes-derriere-les-massacres-la-menace-du-deracinement",
+    "summary": "En quelques jours, une église attaquée en Jordanie, au moins soixante chrétiens orthodoxes tués en Éthiopie. Au même moment, un nouveau rapport de l’Aide à l’Église en détresse confirme l’aggravation... L’article Chrétiens persécutés : derrière les massacres, la menace du déracinement est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-31T21:02:39+00:00",
+    "authors": [
+      "Alexandre Bertolini"
+    ],
+    "categories": [
+      "Non classé",
+      "chrétiens",
+      "Chrétiens d'Orient",
+      "Chrétienté",
+      "Proche-Orient"
+    ],
+    "guid": "https://www.valeursactuelles.com/monde/chretiens-persecutes-derriere-les-massacres-la-menace-du-deracinement",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:12.244144+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, manifestations du 31 octobre : plusieurs centaines de milliers de personnes ont défilé contre la vie chère en France, des couvre-feux partiels prévus cette nuit dans certaines grandes villes",
+    "link": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html",
+    "summary": "Les manifestations de samedi se sont « bien déroulées », a estimé Laurent Nuñez en début de soirée. Plus de 40 000 contrôles ont été menés par les forces de l’ordre samedi, et plus de 500 personnes ont été interpellées. Le ministre de l’intérieur a dénoncé la « violence inouïe » de « groupes de casseurs » avant une nuit pendant laquelle des appels à mobilisation ont circulé cette semaine.",
+    "published": "2026-10-31T21:01:37+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-plusieurs-centaines-de-milliers-de-personnes-ont-defile-contre-la-vie-chere-en-france-des-couvre-feux-partiels-prevus-cette-nuit-dans-certaines-grandes-villes_6803391_3224.html",
+    "image": "https://img.lemde.fr/2026/10/31/320/0/3840/1920/644/322/60/0/c5019e7_upload-1-7qus1e32jcw0-dscf7210.jpeg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393359+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "XV de France : cinq nouveaux Bleus appelés en vue du match contre les Fidji, Alldritt convoqué",
+    "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-cinq-nouveaux-bleus-convoques-en-vue-du-match-contre-les-fidji-alldritt-convoque-20261031",
+    "summary": "Fabien Galthié a dévoilé un nouveau groupe de 42 joueurs ce samedi soir, sans attendre la fin de la 8e journée du Top 14.",
+    "published": "2026-10-31T21:01:12+00:00",
+    "authors": [],
+    "categories": [
+      "XV de France"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-cinq-nouveaux-bleus-convoques-en-vue-du-match-contre-les-fidji-alldritt-convoque-20261031",
+    "image": "https://i.f1g.fr/media/cms/3000x1998_crop/2026/10/31/e57c24279dd3e2c2ce343cc013a2e80363436f2599fd3af89c37b19c133f13be.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359538+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestations du 31 octobre à Marseille : cinq interpellations après le cambriolage d’un Foot Locker",
+    "link": "https://www.lefigaro.fr/marseille/cinq-interpellations-a-marseille-apres-le-pillage-d-un-magasin-foot-locker-20261031",
+    "summary": "INFO LE FIGARO - Le magasin a été attaqué en tout début de soirée dans le centre-ville de la cité phocéenne.",
+    "published": "2026-10-31T20:55:45+00:00",
+    "authors": [],
+    "categories": [
+      "Marseille"
+    ],
+    "guid": "https://www.lefigaro.fr/marseille/cinq-interpellations-a-marseille-apres-le-pillage-d-un-magasin-foot-locker-20261031",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/31/23d659e36d1ac5cdf0b9de7d3a6075f998f9d6b81229ec53dc46db85cee424a7.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359397+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Manifestations du 31 octobre : Nuñez fustige des «centaines» de «casseurs et pilleurs» animés par la «mouvance d’ultragauche», 565 interpellations en France",
     "link": "https://www.lefigaro.fr/actualite-france/en-direct-manifestation-du-31-octobre-le-parcours-bastille-nation-a-paris-finalement-interdit-par-le-conseil-d-etat-20261031",
-    "summary": "L’acte III de la colère sociale a rassemblé 70.000 manifestants à Paris contre 110.000 une semaine plus tôt, selon le ministère de l’Intérieur.",
-    "published": "2026-10-31T16:54:03+00:00",
+    "summary": "L’acte III des manifestations a mobilisé 320.000 personnes dans l’ensemble du pays, dont 70.000 à Paris selon la préfecture de police.",
+    "published": "2026-10-31T20:53:03+00:00",
     "authors": [],
     "categories": [
       "Société"
     ],
     "guid": "https://www.lefigaro.fr/actualite-france/en-direct-manifestation-du-31-octobre-le-parcours-bastille-nation-a-paris-finalement-interdit-par-le-conseil-d-etat-20261031",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/31/32ad9fa1e0b8aae141b5b7e9e6123d244a2c2e6683185d3d621c052eeb3b6a0d.jpg",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/31/0b400f78d9d8cf28f3c92b34313cb1a24bff4fdb6f8b5bab634bc555dd9e23fc.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.453686+00:00"
+    "fetched_at": "2026-10-31T21:05:11.359274+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La plainte de Donald Trump contre le Wall Street Journal au sujet d'une lettre à Epstein a été rejetée",
+    "link": "https://www.lefigaro.fr/flash-actu/la-plainte-de-donald-trump-contre-le-wall-street-journal-au-sujet-d-une-lettre-a-epstein-a-ete-rejetee-20261031",
+    "summary": "Le journal américain avait attribué au président américain une lettre salace à l’intention du financier et criminel sexuel en 2003.",
+    "published": "2026-10-31T20:50:54+00:00",
+    "authors": [],
+    "categories": [
+      "Flash Actu"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-actu/la-plainte-de-donald-trump-contre-le-wall-street-journal-au-sujet-d-une-lettre-a-epstein-a-ete-rejetee-20261031",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/36a402d23a10e08471617a1b5a65695bf6585287eb637e85f83c9bc566136a18.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359514+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Cinq Britanniques d’ultradroite interpellés près de Dunkerque pour des « actions d’intimidation » contre des migrants",
+    "link": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html",
+    "summary": "A l’issue de leurs gardes à vue, ces militants, qui étaient notamment en possession de quatre bombes lacrymogènes, devraient être placés en rétention dans la perspective de leur expulsion du territoire français, selon la préfecture.",
+    "published": "2026-10-31T20:44:54+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/10/31/cinq-britanniques-d-ultradroite-interpelles-pres-de-dunkerque-pour-des-actions-d-intimidation-contre-des-migrants_6803734_3224.html",
+    "image": "https://img.lemde.fr/2026/09/07/184/0/3000/1500/644/322/60/0/3600db1_upload-1-zejgujgkq429-frame-1280.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393608+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Anatomía de un instante» d’Alberto Rodriguez en rajoute un putsch",
+    "link": "https://www.liberation.fr/culture/series/anatomia-de-un-instante-dalberto-rodriguez-en-rajoute-un-putsch-20261101_KKBMFNMTA5ASBLLZF6TTKSK7K4/",
+    "summary": "Sur Arte, une fiction retrace la tentative de coup d’Etat du 23 février 1981 en Espagne. Une vulgarisation historique qui s’enferme dans un style didactique.",
+    "published": "2026-10-31T20:43:43+00:00",
+    "authors": [
+      "Théo  Ribeton"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/series/anatomia-de-un-instante-dalberto-rodriguez-en-rajoute-un-putsch-20261101_KKBMFNMTA5ASBLLZF6TTKSK7K4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579415+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Manifestations du 31 octobre : les cortèges se sont «bien déroulés» selon Nuñez, entre 320 000 et 500 000 personnes dans les rues en France",
+    "link": "https://www.liberation.fr/economie/social/en-direct-manifestation-du-31-octobre-le-conseil-detat-suit-la-prefecture-les-autorites-sur-le-qui-vive-20261031_GE5NPRRSUFAHFHTTA3Q2LGEOZI/",
+    "summary": "Un acte III de la mobilisation sociale lancée par les lycéens, rejoints par les étudiants et les gilets jaunes, s’est déroulé ce samedi 31 octobre dans toute la France. Des affrontements avec la police ont eu lieu dans certaines grandes villes.",
+    "published": "2026-10-31T20:36:34+00:00",
+    "authors": [
+      "Service Photo, AFP ., Reuters ., Antoine  Rondel, Cassandre Leray, Sylvain Mouillard"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/social/en-direct-manifestation-du-31-octobre-le-conseil-detat-suit-la-prefecture-les-autorites-sur-le-qui-vive-20261031_GE5NPRRSUFAHFHTTA3Q2LGEOZI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579476+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« La Pologne ne s’est pas éteinte et ne s’éteindra pas », déclare Donald Tusk alors que le pays est plongé dans une grave crise politique liée au Tribunal constitutionnel",
+    "link": "https://www.lemonde.fr/international/article/2026/10/31/la-pologne-ne-s-est-pas-eteinte-et-ne-s-eteindra-pas-declare-donald-tusk-alors-que-le-pays-est-plonge-dans-une-grave-crise-politique-liee-au-tribunal-constitutionnel_6803486_3211.html",
+    "summary": "Le refus du président nationaliste Karol Nawrocki de valider les nominations de juges au Tribunal constitutionnel a déclenché une grave crise au sein de l’institution, dont le président controversé a été écarté par d’autres juges nommés par le camp du premier ministre centriste, vendredi, avant une intervention de la police.",
+    "published": "2026-10-31T20:32:46+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/31/la-pologne-ne-s-est-pas-eteinte-et-ne-s-eteindra-pas-declare-donald-tusk-alors-que-le-pays-est-plonge-dans-une-grave-crise-politique-liee-au-tribunal-constitutionnel_6803486_3211.html",
+    "image": "https://img.lemde.fr/2026/10/31/500/0/6048/3024/644/322/60/0/aeb9557_ftp-1-e4rqshednlko-afp-d6264g3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393400+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestations du 31 octobre : de 320.000 à près de 500.000 manifestants en France, 511 interpellations recensées",
+    "link": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-de-320-000-a-pres-de-500-000-manifestants-en-france-296-interpellations-recensees-20261031",
+    "summary": "Les organisations lycéennes et étudiantes revendiquent, elles, 500.000 participants. Elles appellent déjà à bloquer facs et lycées dès mardi, avant la grève du 5 novembre.",
+    "published": "2026-10-31T20:19:55+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-de-320-000-a-pres-de-500-000-manifestants-en-france-296-interpellations-recensees-20261031",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/3b20a4e7e07746c0dc0cafee1426650991373555ca466b9173e13e1806c69cbe.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359317+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Avec «GenZ s’en charge», la jeunesse allemande entre doucement dans la protestation",
+    "link": "https://www.lefigaro.fr/international/avec-genz-s-en-charge-la-jeunesse-allemande-entre-doucement-dans-la-protestation-20261031",
+    "summary": "REPORTAGE - Les jeunes Allemands ont manifesté dans une trentaine de villes contre la cherté de la vie, le service militaire, les coupes sociales ou le manque d’écoute des gouvernements. Inspirée par la France, la mobilisation est néanmoins en deçà des attentes.",
+    "published": "2026-10-31T20:19:22+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/avec-genz-s-en-charge-la-jeunesse-allemande-entre-doucement-dans-la-protestation-20261031",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/31/d76f6defa38bf5ad874028a08641b109f5cf1f24911c492d88627ac5f96a2e6c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359833+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Trump-Poutine-Xi Jinping : la guerre évolue, la paix semble difficile",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/monde/trump-poutine-xi-jinping-la-guerre-evolue-la-paix-semble-difficile",
+    "summary": "Le sommet de Shenzhen, en Chine, prévu le 19 novembre, entre Trump, Poutine et Xi, pourrait poser les bases d’un Yalta 2, d’autant que ces derniers jours, la diplomatie s’est... L’article Trump-Poutine-Xi Jinping : la guerre évolue, la paix semble difficile est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-31T20:00:04+00:00",
+    "authors": [
+      "Nicolas Boutin"
+    ],
+    "categories": [
+      "Non classé",
+      "Donald Trump",
+      "guerre",
+      "guerre en Iran",
+      "Guerre en Ukraine",
+      "paix",
+      "Vladimir Poutine",
+      "Xi Jinping"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/trump-poutine-xi-jinping-la-guerre-evolue-la-paix-semble-difficile",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:12.244195+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«J’ai une version de mon père décédé sur mon téléphone» : quand l’IA «ressuscite» les morts",
+    "link": "https://www.lefigaro.fr/actualite-france/j-ai-une-version-de-mon-pere-decede-sur-mon-telephone-quand-l-ia-ressuscite-les-morts-20261031",
+    "summary": "ENQUÊTE - Un double virtuel pour faire «revivre» des êtres chers, des photos de disparus qui s’animent… Les nouveaux développements de l’IA et son accès au grand public floutent la frontière entre les vivants et les morts.",
+    "published": "2026-10-31T20:00:00+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/j-ai-une-version-de-mon-pere-decede-sur-mon-telephone-quand-l-ia-ressuscite-les-morts-20261031",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/30/3e065ef536a4459636d601a43fc067fc818680209d4a3e9ae1d658dd43f99c09.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359427+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestations du 31 octobre : un gendarme «blessé à la cheville» après avoir été ciblé par un cocktail Molotov",
+    "link": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-un-gendarme-blesse-a-la-cheville-apres-avoir-ete-cible-par-un-cocktail-molotov-20261031",
+    "summary": "Le militaire, capitaine d’escadron, a repris son service malgré sa blessure.",
+    "published": "2026-10-31T19:41:54+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/manifestations-du-31-octobre-un-gendarme-blesse-a-la-cheville-apres-avoir-ete-cible-par-un-cocktail-molotov-20261031",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/be544f84112f180b37c437520f4d019246ff607e1e320ab35f78e0236282b5f9.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359371+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestation du 31 octobre: au moins 50 stations de métro fermées à Paris",
+    "link": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-au-moins-41-stations-de-metro-fermees-a-paris-20261031",
+    "summary": "La RATP a rajouté en fin d’après-midi la fermeture de nouvelles stations dans le nord de Paris, autour de Pigalle, et près de Bastille où se concentrent encore les tensions en début de soirée.",
+    "published": "2026-10-31T19:35:32+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-au-moins-41-stations-de-metro-fermees-a-paris-20261031",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/e08e48220736288160225ce51b5796fdfb946e36a5bd7d4ece2b13d5b1a079d1.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359346+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "«Même manifester, cela devient difficile»: partout en France, des cortèges inquiets pour les libertés",
+    "link": "https://www.mediapart.fr/journal/france/311026/meme-manifester-cela-devient-difficile-partout-en-france-des-corteges-inquiets-pour-les-libertes",
+    "summary": "Contrairement aux espoirs du gouvernement, la mobilisation n’a pas faibli pour cette troisième journée de manifestations. Les revendications contre la vie chère et pour la défense de l’éducation nationale demeurent, mais une sourde colère monte contre le pouvoir qui se barricade derrière la répression.",
+    "published": "2026-10-31T19:21:50+00:00",
+    "authors": [
+      "La rédaction de Mediapart"
+    ],
+    "categories": [
+      "France",
+      "A la Une, droit de manifester, éducation nationale, Libertés publiques, mobilisation sociale, Social, syndicats, Violences policières"
+    ],
+    "guid": "1356996 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/31/261031-img-manifestations.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.425908+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Istanbul, les attaques dans la mer Noire au cœur de la rencontre entre Erdogan et Zelensky",
+    "link": "https://www.liberation.fr/international/a-istanbul-les-attaques-dans-la-mer-noire-au-coeur-de-la-rencontre-entre-erdogan-et-zelensky-20261031_3ODDN7JSSBFA5DZIC2QUOJ7J7A/",
+    "summary": "La multiplication des attaques de drones sur les navires inquiète les pays riverains de la mer Noire et perturbe les routes commerciales. D’après le président ukrainien, les deux dirigeants se sont engagés à travailler sur un «corridor céréalier» pour maintenir les approvisionnements.",
+    "published": "2026-10-31T19:05:12+00:00",
+    "authors": [
+      "AFP ., Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/a-istanbul-les-attaques-dans-la-mer-noire-au-coeur-de-la-rencontre-entre-erdogan-et-zelensky-20261031_3ODDN7JSSBFA5DZIC2QUOJ7J7A/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579514+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Quand la Révolution dévore ses enfants",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/histoire/quand-la-revolution-devore-ses-enfants",
+    "summary": "Lorsqu’une diligence le conduit à Versailles en ce mois d’avril 1789, Antoine Barnave est un homme qui a déjà un passé de révolutionnaire derrière lui. Ce jeune avocat de 28 ans,... L’article Quand la Révolution dévore ses enfants est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-31T19:01:30+00:00",
+    "authors": [
+      "Olivier Maulin"
+    ],
+    "categories": [
+      "Non classé",
+      "Etats généraux",
+      "Louis XVI",
+      "monarchie",
+      "révolution française"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/quand-la-revolution-devore-ses-enfants",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:12.244234+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’hôtel de demain, entre ancrage local, quête d’expériences et intelligence artificielle",
+    "link": "https://www.lefigaro.fr/voyages/hotels/l-hotel-de-demain-entre-ancrage-local-quete-d-experiences-et-intelligence-artificielle-20261031",
+    "summary": "RÉCIT - Le secteur de l’hospitalité est en pleine mutation. Tour d’horizon des possibles, alors que s’ouvre à Paris le salon EquipHotel, qui réunit du 2 au 5 novembre les professionnels du secteur.",
+    "published": "2026-10-31T19:00:00+00:00",
+    "authors": [],
+    "categories": [
+      "Hôtels"
+    ],
+    "guid": "https://www.lefigaro.fr/voyages/hotels/l-hotel-de-demain-entre-ancrage-local-quete-d-experiences-et-intelligence-artificielle-20261031",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/30/d7bcce510e4ed7cf511cbb0c5fcc41928e6ff29dac211f6b0562d1d81469bd99.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359579+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Manifs du 31 octobre : de Paris à Lille en passant par Carcassonne, une foule encore dense et parée à «amplifier la mobilisation»",
+    "link": "https://www.liberation.fr/societe/manif-du-31-octobre-de-paris-a-lille-en-passant-par-carcassonne-une-foule-encore-dense-et-paree-a-amplifier-la-mobilisation-20261031_KAOH4NQER5G5PI57QGVZL5FUQ4/",
+    "summary": "Pour cet «Acte III» du mouvement contre la vie chère, entre 320 000 et 500 000 personnes ont défilé partout en France. Parfois déguisés pour Halloween, toujours déterminés pour faire repartir le mouvement la semaine prochaine avec la grève nationale du 5 novembre.",
+    "published": "2026-10-31T18:55:24+00:00",
+    "authors": [
+      "Arthur Cerf, Julien Gester, Sabrina Champenois, Quentin Girard, Stéphanie Maurice"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/manif-du-31-octobre-de-paris-a-lille-en-passant-par-carcassonne-une-foule-encore-dense-et-paree-a-amplifier-la-mobilisation-20261031_KAOH4NQER5G5PI57QGVZL5FUQ4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579547+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Sur X, une multiplication de menaces d’attaques racistes vise les livreurs des plateformes",
+    "link": "https://www.liberation.fr/economie/sur-x-une-multiplication-de-menaces-dattaques-racistes-vise-les-livreurs-des-plateformes-20261031_QO3MBJS3IBG5PJQNCUEIJLMW44/",
+    "summary": "Le ministre du Travail, Jean-Pierre Farandou, a fermement condamné ce samedi 31 octobre la recrudescence de contenus haineux qui ciculent depuis quelques semaines sur les réseaux sociaux. Une enquête a été ouverte par le parquet de Paris pour incitation à la haine raciale.",
+    "published": "2026-10-31T18:53:58+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/sur-x-une-multiplication-de-menaces-dattaques-racistes-vise-les-livreurs-des-plateformes-20261031_QO3MBJS3IBG5PJQNCUEIJLMW44/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579605+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Près de Dunkerque, cinq Britanniques interpellés jeudi pour des actions anti-migrants",
+    "link": "https://www.lefigaro.fr/actualite-france/pres-de-dunkerque-cinq-britanniques-interpelles-jeudi-pour-des-actions-anti-migrants-20261031",
+    "summary": "À l’issue de leurs gardes à vue, ces militants, qui étaient notamment en possession de quatre bombes lacrymogènes, devraient être placés en rétention dans la perspective de leur expulsion du territoire français.",
+    "published": "2026-10-31T18:48:32+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/pres-de-dunkerque-cinq-britanniques-interpelles-jeudi-pour-des-actions-anti-migrants-20261031",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/258b9ceeaa96b2505e9a26a31f730d83cb61931303ddf5492a572bd1db591963.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359803+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« De l’argent pour les systèmes sociaux plutôt que pour la guerre » : dans une trentaine de villes allemandes, des manifestants hostiles au service militaire",
+    "link": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html",
+    "summary": "De Cologne à Berlin en passant par Hambourg, les rassemblements se sont déroulés sans débordement. Au sein des cortèges, constitués principalement de jeunes, le coût de la vie, le refus de la conscription ou la difficulté de se loger étaient au centre des revendications.",
+    "published": "2026-10-31T18:31:53+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/31/de-l-argent-pour-les-systemes-sociaux-plutot-que-pour-la-guerre-dans-une-trentaine-de-villes-allemandes-des-manifestants-hostiles-au-service-militaire_6803729_3210.html",
+    "image": "https://img.lemde.fr/2026/10/31/86/0/5500/2750/644/322/60/0/fb55511_ftp-1-kk8xtyugn20e-2026-10-31t133551z-315778834-rc2deoazyw8a-rtrmadp-3-germany-protest.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393513+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Marseille, une manif interdite, mais qui rassemble pourtant 10 000 personnes «sans incident»",
+    "link": "https://www.liberation.fr/societe/a-marseille-une-manif-interdite-mais-qui-rassemble-pourtant-10-000-personnes-sans-incident-20261031_WW6BS4FI5JADPPYC2FBRYPGPBQ/",
+    "summary": "En dépit de l’interdiction de défiler ce samedi 31 octobre dans la préfecture des Bouches-du-Rhône, un cortège improvisé et garni s’est ébroué dans les rues, au gré de la présence des forces de l’ordre.",
+    "published": "2026-10-31T18:30:34+00:00",
+    "authors": [
+      "Caroline Delabroy"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/a-marseille-une-manif-interdite-mais-qui-rassemble-pourtant-10-000-personnes-sans-incident-20261031_WW6BS4FI5JADPPYC2FBRYPGPBQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579635+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Roumanie, les citoyens s’emparent du problème de la désinformation en ligne",
+    "link": "https://www.lemonde.fr/international/article/2026/10/31/en-roumanie-les-citoyens-s-emparent-du-probleme-de-la-desinformation-en-ligne_6803728_3210.html",
+    "summary": "Le premier tour de la présidentielle de 2024, finalement annulé, a révélé des manipulations en ligne. Auparavant présente dans la rue, la société civile est désormais très investie sur les réseaux sociaux contre les fausses informations.",
+    "published": "2026-10-31T18:16:48+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/31/en-roumanie-les-citoyens-s-emparent-du-probleme-de-la-desinformation-en-ligne_6803728_3210.html",
+    "image": "https://img.lemde.fr/2026/10/27/1439/0/2096/1048/644/322/60/0/c2aabcf_upload-1-2fzgpsqes43c-ares-cuba-3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393536+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Clermont : un quatrième mort découvert après l’incendie «criminel» d’un immeuble",
+    "link": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/",
+    "summary": "Les secours ont extrait un nouveau cadavre, en début d’après-midi le 31 octobre, a annoncé le parquet de la ville auvergnate, ce samedi.",
+    "published": "2026-10-31T18:08:57+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579660+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Certains mangeaient des chiens» : en Ukraine, les habitants évacués d’Olechky racontent leur calvaire",
+    "link": "https://www.liberation.fr/international/europe/certains-mangeaient-des-chiens-en-ukraine-les-habitants-evacues-dolechky-racontent-leur-calvaire-20261031_5WINDIPWLBE3HDN3HGUGZXUCPU/",
+    "summary": "Coincée depuis des mois, sans nourriture ni électricité, la population de cette ville proche de Kherson a pu quitter les lieux à la faveur d’une trêve entre Kyiv et Moscou. Et échapper à un quotidien décrit comme «terrifiant».",
+    "published": "2026-10-31T18:06:17+00:00",
+    "authors": [
+      "AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/certains-mangeaient-des-chiens-en-ukraine-les-habitants-evacues-dolechky-racontent-leur-calvaire-20261031_5WINDIPWLBE3HDN3HGUGZXUCPU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579727+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Crémation : quand la société veut effacer ses morts",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/cremation-quand-la-societe-veut-effacer-ses-morts",
+    "summary": "« Mamie Cécile ». Le malaise s’installe quand les invités apprennent que le pochon de satin bleu, posé parmi les bibelots de l’étagère, contient les cendres de la belle-mère. C’est par cette... L’article Crémation : quand la société veut effacer ses morts est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-31T18:01:54+00:00",
+    "authors": [
+      "Bertille Vaur"
+    ],
+    "categories": [
+      "Non classé",
+      "crémation",
+      "décès",
+      "enterrement",
+      "mort",
+      "mortalité"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/cremation-quand-la-societe-veut-effacer-ses-morts",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:12.244275+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "En Pologne, la bataille pour le retour de l’État de droit s’accélère",
+    "link": "https://www.lefigaro.fr/international/en-pologne-la-bataille-pour-le-retour-de-l-etat-de-droit-s-accelere-20261031",
+    "summary": "RÉCIT - Des juges, investis par le Parlement mais non reconnus par le président, ont pris le contrôle de l’institution avec l’aval du premier ministre. L’opposition dénonce un «coup d’État».",
+    "published": "2026-10-31T17:26:59+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/en-pologne-la-bataille-pour-le-retour-de-l-etat-de-droit-s-accelere-20261031",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/31/088bb741f35b9eac9d66b437efc7ab7641a7cece580d9aaabd28fd68ee5cae97.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.359455+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pas de «photo de famille» au G20 des diplomates, miné par les tensions",
+    "link": "https://www.liberation.fr/international/pas-de-photo-de-famille-au-g20-des-diplomates-mine-par-les-tensions-20261031_7EZNOGXV35EFNPCZO5FD4HGBKQ/",
+    "summary": "Les ministres des Affaires étrangères étaient rassemblés à Atlanta, les 30 et 31 octobre, pour un sommet qui s’est conclu dans une ambiance glaciale. Le cliché final a été annulé, plusieurs membres occidentaux n’ayant pas souhaité poser aux côtés du Russe Sergueï Lavrov.",
+    "published": "2026-10-31T17:17:11+00:00",
+    "authors": [
+      "AFP ., Associated Press, Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/pas-de-photo-de-famille-au-g20-des-diplomates-mine-par-les-tensions-20261031_7EZNOGXV35EFNPCZO5FD4HGBKQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579757+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Art de vivre : un excellent champagne à moins de 35 euros !",
+    "link": "https://www.valeursactuelles.com/art-de-vivre/art-de-vivre-un-excellent-champagne-a-moins-de-35-euros",
+    "summary": "Des trois principaux cépages plantés en Champagne, le pinot meunier a longtemps été le vilain petit canard. Si sa résistance au gel, ses rendements intéressants et son apport de «... L’article Art de vivre : un excellent champagne à moins de 35 euros ! est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-10-31T17:00:56+00:00",
+    "authors": [
+      "Pierre Victor"
+    ],
+    "categories": [
+      "Non classé",
+      "Champagne",
+      "vin"
+    ],
+    "guid": "https://www.valeursactuelles.com/art-de-vivre/art-de-vivre-un-excellent-champagne-a-moins-de-35-euros",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:12.244311+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "En Russie, le gouvernement veut faire taire les langues minoritaires",
+    "link": "https://www.liberation.fr/international/europe/en-russie-le-gouvernement-veut-faire-taire-les-langues-minoritaires-20261031_AAW4HD4FJ5A2XBUXFUY7WNGRFI/",
+    "summary": "Les langues autres que le russe peinent à trouver leur place, alors qu’un nouveau cours devant transmettre les «valeurs russes» apparaît dans le cursus scolaire. Des écrivains en exil s’organisent pour défendre la diversité linguistique du pays.",
+    "published": "2026-10-31T17:00:01+00:00",
+    "authors": [
+      "Ysé Himy Hoffschir"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/en-russie-le-gouvernement-veut-faire-taire-les-langues-minoritaires-20261031_AAW4HD4FJ5A2XBUXFUY7WNGRFI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.579785+00:00"
   },
   {
     "source": "Le Figaro",
@@ -57,22 +577,7 @@
     "guid": "https://www.lefigaro.fr/international/la-russie-prevenue-par-les-etats-unis-d-une-menace-credible-d-attentat-a-moscou-samedi-20261031",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/a7787cfe62459677e508e4f7997053b9f5810e0e7ba92228f4041f32a2332aca.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.453815+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "EN DIRECT – Manifestations du 31 octobre : 320 000 personnes ont participé aux défilés selon l’Intérieur, 500 000 selon les organisateurs",
-    "link": "https://www.liberation.fr/economie/social/en-direct-manifestation-du-31-octobre-le-conseil-detat-suit-la-prefecture-les-autorites-sur-le-qui-vive-20261031_GE5NPRRSUFAHFHTTA3Q2LGEOZI/",
-    "summary": "Un acte III de la mobilisation sociale lancée par les lycéens, rejoints par les étudiants et les gilets jaunes, se déroule ce samedi 31 octobre dans toute la France, dans un contexte de crainte du moindre débordement de la part des autorités.",
-    "published": "2026-10-31T16:45:05+00:00",
-    "authors": [
-      "Service Photo, AFP ., Reuters ., Antoine  Rondel, Cassandre Leray"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/economie/social/en-direct-manifestation-du-31-octobre-le-conseil-detat-suit-la-prefecture-les-autorites-sur-le-qui-vive-20261031_GE5NPRRSUFAHFHTTA3Q2LGEOZI/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759198+00:00"
+    "fetched_at": "2026-10-31T21:05:11.359488+00:00"
   },
   {
     "source": "Le Figaro",
@@ -87,7 +592,7 @@
     "guid": "https://www.lefigaro.fr/flash-actu/lingot-d-or-bijoux-une-femme-agee-depouillee-d-un-million-d-euros-a-son-domicile-a-neuilly-sur-seine-20261031",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/31/918588283a51e91139a9ac76f552d9a347cdb9b16f9e53edca9baeca0ee5c31a.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.453842+00:00"
+    "fetched_at": "2026-10-31T21:05:11.359607+00:00"
   },
   {
     "source": "Le Monde",
@@ -100,7 +605,7 @@
     "guid": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-des-habitants-d-olechky-evacues-vendredi-sont-arrives-dans-le-nord-du-pays-volodymyr-zelensky-en-turquie-pour-rencontrer-recep-tayyip-erdogan_6799896_3210.html",
     "image": "https://img.lemde.fr/2026/10/31/653/0/5152/2576/644/322/60/0/784ef33_ftp-1-chavw3qjptso-2026-10-31t131804z-1803645108-rc2ceoatramw-rtrmadp-3-ukraine-crisis-oleshky.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.584753+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393459+00:00"
   },
   {
     "source": "Le Monde",
@@ -113,20 +618,20 @@
     "guid": "https://www.lemonde.fr/culture/article/2026/10/31/dracula-la-veritable-histoire-sur-arte-livre-une-lecture-geopolitique-de-l-europe-de-l-est-depuis-le-xv-siecle_6803721_3246.html",
     "image": "https://img.lemde.fr/2026/10/27/27/0/1920/960/644/322/60/0/3f930e4_upload-1-cusqsdwfxl1n-vlad-tepes-rotoscopie-tsvp.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.585034+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393741+00:00"
   },
   {
     "source": "Le Monde",
     "title": "Le parquet de Paris a ouvert une enquête pour provocation à la haine raciale en raison de menaces racistes visant des livreurs et chauffeurs sur X",
     "link": "https://www.lemonde.fr/societe/article/2026/10/31/le-parquet-de-paris-a-ouvert-une-enquete-pour-provocation-a-la-haine-raciale-en-raison-de-menaces-racistes-visant-des-livreurs-et-chauffeurs-sur-x_6803720_3224.html",
     "summary": "Sur le réseau social, un salon de discussion ouvert aux utilisateurs, intitulé « L’heure est à l’action face à la violence des islamo-collabos antifas », a été l’espace où ces propos racistes et d’incitation à la violence ont été tenus, au début d’octobre.",
-    "published": "2026-10-31T16:24:39+00:00",
+    "published": "2026-10-31T16:24:37+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/societe/article/2026/10/31/le-parquet-de-paris-a-ouvert-une-enquete-pour-provocation-a-la-haine-raciale-en-raison-de-menaces-racistes-visant-des-livreurs-et-chauffeurs-sur-x_6803720_3224.html",
     "image": "https://img.lemde.fr/2026/09/22/101/0/5898/2949/644/322/60/0/29a242d_upload-1-fpmlsvy3xtbv-000-a4e67pm.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.584897+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393637+00:00"
   },
   {
     "source": "Le Figaro",
@@ -185,6 +690,19 @@
     "fetched_at": "2026-10-31T16:55:07.584810+00:00"
   },
   {
+    "source": "Le Monde",
+    "title": "Cédric Chetaille, contre-amiral : « Nous assistons à une forme de nouvelle “guerre des étoiles” sous-marine »",
+    "link": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
+    "summary": "Le fond des océans fait l’objet d’une inédite compétition militaire. La multiplication de réseaux de capteurs à des fins de surveillance ou d’espionnage risque de bouleverser les tactiques navales, explique l’ancien commandant de sous-marins nucléaires dans un entretien au « Monde ».",
+    "published": "2026-10-31T16:00:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/10/31/cedric-chetaille-contre-amiral-nous-assistons-a-une-forme-de-nouvelle-guerre-des-etoiles-sous-marine_6803715_3210.html",
+    "image": "https://img.lemde.fr/2026/10/29/720/0/8640/4320/644/322/60/0/bf66bb0_upload-1-zjrvybpef76q-sipa-ap22998390-000008.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393665+00:00"
+  },
+  {
     "source": "Valeurs actuelles",
     "title": "Xavier Grall : pour le Christ et la Bretagne",
     "link": "https://www.valeursactuelles.com/clubvaleurs/culture/xavier-grall-pour-le-christ-et-la-bretagne",
@@ -203,7 +721,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/culture/xavier-grall-pour-le-christ-et-la-bretagne",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.486816+00:00"
+    "fetched_at": "2026-10-31T21:05:12.244346+00:00"
   },
   {
     "source": "Mediapart",
@@ -221,7 +739,7 @@
     "guid": "1356570 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/2611-aux-manettes-l1500xh1000px.png",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599051+00:00"
+    "fetched_at": "2026-10-31T21:05:11.425946+00:00"
   },
   {
     "source": "Le Monde",
@@ -249,7 +767,7 @@
     "guid": "https://www.liberation.fr/international/europe/leonor-de-recondo-lespagne-ne-peut-pas-me-priver-du-droit-de-voter-20261129_XHXPRMFSHZB5DPV6MJIEJI2J4A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759239+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579817+00:00"
   },
   {
     "source": "Le Figaro",
@@ -264,7 +782,7 @@
     "guid": "https://www.lefigaro.fr/international/espagne-le-recit-des-23-dernieres-minutes-qui-ont-mene-a-la-collision-entre-deux-trains-qui-a-fait-au-moins-68-morts-20261028",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/28/3dc3e63af1810e9c221fcb763c1ca11401df9bc930f775007e12b5b5138831a7.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.453929+00:00"
+    "fetched_at": "2026-10-31T21:05:11.359751+00:00"
   },
   {
     "source": "Libération",
@@ -279,7 +797,7 @@
     "guid": "https://www.liberation.fr/economie/transports/catastrophe-ferroviaire-en-espagne-une-francaise-parmi-les-69-morts-20261031_S5PPP4BNYVBLLJDZXCRLIEMISU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759270+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579843+00:00"
   },
   {
     "source": "Le Monde",
@@ -292,7 +810,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/10/31/collision-de-trains-en-espagne-une-francaise-parmi-les-69-morts-le-ministere-des-affaires-etrangeres-dit-sa-tres-vive-emotion_6803714_3210.html",
     "image": "https://img.lemde.fr/2026/10/30/458/0/5500/2750/644/322/60/0/f61309e_ftp-1-xh4uotq2qisu-2026-10-30t170722z-495208549-rc2sdoax9ayj-rtrmadp-3-spain-accident.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.584691+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393578+00:00"
   },
   {
     "source": "Le Figaro",
@@ -307,7 +825,7 @@
     "guid": "https://www.lefigaro.fr/international/collision-de-trains-en-espagne-une-francaise-est-decedee-20261031",
     "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/dfabbd3aa9f5a6ab7406c7a1a74491bef579208f470f5ccdb346b60a382f153f.JPG",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.453899+00:00"
+    "fetched_at": "2026-10-31T21:05:11.359724+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -325,7 +843,7 @@
     "guid": "https://www.valeursactuelles.com/regions/provence-alpes-cote-dazur/var/draguignan/societe/var-192-fusees-decouvertes-dans-des-colis-40-kilos-dartifices-saisis-au-domicile-du-suspect",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.486864+00:00"
+    "fetched_at": "2026-10-31T21:05:12.244385+00:00"
   },
   {
     "source": "Libération",
@@ -340,7 +858,7 @@
     "guid": "https://www.liberation.fr/culture/dans-nocturne-rowan-joffe-deroule-sa-psychologie-de-conte-noir-20261031_6PLJU4B5NVEOPGDGG57GYIGRZQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759296+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579866+00:00"
   },
   {
     "source": "Le Monde",
@@ -368,7 +886,7 @@
     "guid": "https://www.liberation.fr/politique/paris-des-tags-remigration-retrouves-dans-les-rues-de-la-capitale-emmanuel-gregoire-saisit-la-justice-20261031_MZUT22YVZZGFXKSEWDBJZODFUM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759327+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579893+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -390,7 +908,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/don-dorganes-jusqua-80-ans-lage-nempeche-pas-de-sauver-des-vies",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.486922+00:00"
+    "fetched_at": "2026-10-31T21:05:12.244436+00:00"
   },
   {
     "source": "Libération",
@@ -405,7 +923,7 @@
     "guid": "https://www.liberation.fr/culture/livres/stephen-king-la-totale-de-la-trouille-au-maitre-20261031_45OS2WMNARGX3FBCFI3ALMRGD4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759351+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579915+00:00"
   },
   {
     "source": "Mediapart",
@@ -423,7 +941,7 @@
     "guid": "1356531 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261031-eclatsdesciences.png",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599089+00:00"
+    "fetched_at": "2026-10-31T21:05:11.425979+00:00"
   },
   {
     "source": "Mediapart",
@@ -441,7 +959,7 @@
     "guid": "1356943 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/31/261031-img-bitcoin-ia.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599120+00:00"
+    "fetched_at": "2026-10-31T21:05:11.426012+00:00"
   },
   {
     "source": "Le Figaro",
@@ -478,20 +996,20 @@
     "guid": "https://www.valeursactuelles.com/societe/fraudes-dans-les-pompes-funebres-comment-les-entreprises-trompent-les-familles-endeuillees",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.486973+00:00"
+    "fetched_at": "2026-10-31T21:05:12.244480+00:00"
   },
   {
     "source": "Le Monde",
     "title": "A Combs-la-Ville, des gymnastes et des entraîneurs français étrennent leurs nouvelles couleurs qataries",
     "link": "https://www.lemonde.fr/sport/article/2026/10/31/a-combs-la-ville-des-gymnastes-et-des-entraineurs-francais-etrennent-leurs-nouvelles-couleurs-qataries_6803639_3242.html",
-    "summary": "Recrutés par le Qatar pour monter une équipe nationale de gymnastique, les entraîneurs Gina et Marc Chirilcenco présentent six gymnastes, dont deux Françaises, lors d’un tournoi international en Seine-et-Marne ce week-end. Celles-ci représentent désormais sportivement le petit émirat.",
+    "summary": "Recrutés par le Qatar pour monter une équipe nationale de gymnastique, les entraîneurs Gina et Marc Chirilcenco présentent six gymnastes, dont deux Françaises, au tournoi international qui a lieu en Seine-et-Marne ce week-end. Celles-ci représentent désormais sportivement le petit émirat.",
     "published": "2026-10-31T14:00:04+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/sport/article/2026/10/31/a-combs-la-ville-des-gymnastes-et-des-entraineurs-francais-etrennent-leurs-nouvelles-couleurs-qataries_6803639_3242.html",
     "image": "https://img.lemde.fr/2026/10/31/380/0/3151/1575/644/322/60/0/6beec34_upload-1-bugfs7gbkprh-000-33xh74e.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.584985+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393718+00:00"
   },
   {
     "source": "Le Figaro",
@@ -541,7 +1059,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/ecole-privee-le-vote-de-lfi-qui-fait-craindre-le-pire-pour-21-millions-deleves",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.487052+00:00"
+    "fetched_at": "2026-10-31T21:05:12.244529+00:00"
   },
   {
     "source": "Libération",
@@ -556,7 +1074,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/on-va-se-debarrasser-de-vous-trois-jours-avant-lattentat-raciste-de-trappes-kevin-t-mis-en-cause-pour-une-agression-contre-un-homme-noir-20261031_5DIRIH5IRRAMTFCT2R6EQOPR4A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759386+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579947+00:00"
   },
   {
     "source": "Libération",
@@ -571,7 +1089,7 @@
     "guid": "https://www.liberation.fr/culture/livres/prix-goncourt-2026-on-a-lu-pour-vous-les-quatre-livres-finalistes-20261031_SFVM5AWQHRBYVKVPCYOWYJ2ZLI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759413+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579970+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -607,7 +1125,7 @@
     "guid": "https://www.liberation.fr/forums/le-pois-chiche-cest-emouvant-rencontre-avec-nadia-sammut-cheffe-invitee-a-la-grande-bouffe-de-libe-20261031_PQNGG453FFDORIPE7PRXC2IRGU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759441+00:00"
+    "fetched_at": "2026-10-31T21:05:11.579996+00:00"
   },
   {
     "source": "Libération",
@@ -622,7 +1140,20 @@
     "guid": "https://www.liberation.fr/international/afrique/a-dakar-les-jeux-olympiques-de-la-jeunesse-a-lepreuve-des-crises-20261031_EBLB2APBVNENHAHMYXKW6EMJN4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759470+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580023+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Peter Medak, réalisateur attachant qui a revisité la comédie comme le film d’horreur, est mort",
+    "link": "https://www.lemonde.fr/disparitions/article/2026/10/31/peter-medak-realisateur-attachant-qui-a-revisite-la-comedie-comme-le-film-d-horreur-est-mort_6803600_3382.html",
+    "summary": "D’origine hongroise, le cinéaste avait tourné plusieurs longs-métrages avant de glisser vers les séries, signant notamment des épisodes de « Miss Marple », de « The Wire » ou de « Breaking Bad ». Il s’est éteint le 27 octobre, à l’âge de 88 ans.",
+    "published": "2026-10-31T12:50:59+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/disparitions/article/2026/10/31/peter-medak-realisateur-attachant-qui-a-revisite-la-comedie-comme-le-film-d-horreur-est-mort_6803600_3382.html",
+    "image": "https://img.lemde.fr/2026/10/31/369/0/3310/1655/644/322/60/0/a7eee76_upload-1-zpjrfuqtszmf-bal-5968483.JPG",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393791+00:00"
   },
   {
     "source": "Libération",
@@ -637,7 +1168,7 @@
     "guid": "https://www.liberation.fr/politique/voir-ce-que-lon-voit-sur-les-pillages-edouard-philippe-en-perdition-ideologique-20261031_BU25K37GIFFWHEOET24N653CYU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759501+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580051+00:00"
   },
   {
     "source": "Le Monde",
@@ -665,13 +1196,13 @@
     "guid": "https://www.liberation.fr/societe/attentat-raciste-dans-les-yvelines-ali-rabeh-destinataire-dune-enveloppe-avec-une-lettre-raciste-et-de-la-poudre-blanche-20261031_JTQO5447N5GZ3OCDLD53MT5TW4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759532+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580081+00:00"
   },
   {
     "source": "Mediapart",
     "title": "À Erevan, la COP Biodiversité accouche d’une souris",
     "link": "https://www.mediapart.fr/journal/international/311026/erevan-la-cop-biodiversite-accouche-d-une-souris",
-    "summary": "La 17e COP consacrée à la biodiversité s’est achevée à Erevan samedi matin 31 octobre. Un épais corpus de textes a été adopté, mais les pays ne se sont accordés que sur les plus petits dénominateurs communs, renvoyant les sujets difficiles aux prochaines négociations, dans deux ans.",
+    "summary": "La 17e COP consacrée à la biodiversité s’est achevée à Erevan samedi 31 octobre au matin. Un épais corpus de textes a été adopté, mais les pays ne se sont accordés que sur les plus petits dénominateurs communs, renvoyant les sujets difficiles aux prochaines négociations, dans deux ans.",
     "published": "2026-10-31T12:23:01+00:00",
     "authors": [
       "Amélie Poinssot"
@@ -683,7 +1214,7 @@
     "guid": "1356882 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/31/311026-img-cop-biodiversite-final.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599152+00:00"
+    "fetched_at": "2026-10-31T21:05:11.426041+00:00"
   },
   {
     "source": "Libération",
@@ -698,7 +1229,7 @@
     "guid": "https://www.liberation.fr/checknews/piratage-de-binance-comment-la-plateforme-dechange-de-cryptomonnaies-sest-elle-fait-derober-lequivalent-de-6-milliards-de-dollars-20261031_UZB2FVREURGWVJBNB3QCI6YRKI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759562+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580109+00:00"
   },
   {
     "source": "Le Monde",
@@ -744,7 +1275,7 @@
     "guid": "https://www.lemonde.fr/sport/article/2026/10/31/ce-sera-peut-etre-ma-derniere-route-du-rhum-charles-caudrelier-tenant-du-titre-s-offre-un-nouveau-defi_6803596_3242.html",
     "image": "https://img.lemde.fr/2026/10/27/544/0/6526/3263/644/322/60/0/a6732dd_upload-1-3zbheir61aze-000-d3cq864.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.585118+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393765+00:00"
   },
   {
     "source": "Libération",
@@ -759,7 +1290,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/message-anonyme-couacs-en-serie-secret-dans-les-coulisses-de-la-crise-php-cette-journee-ou-le-web-a-tremble-20261031_NXBBCPM73NG7ZHDBD5VB72ZPGM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759595+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580139+00:00"
   },
   {
     "source": "Le Figaro",
@@ -830,7 +1361,7 @@
     "guid": "1356871 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/31/261030-img-ministere-de-linterieur-assignation-residence.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599182+00:00"
+    "fetched_at": "2026-10-31T21:05:11.426070+00:00"
   },
   {
     "source": "Libération",
@@ -845,7 +1376,7 @@
     "guid": "https://www.liberation.fr/international/europe/comme-en-france-la-generation-z-appelee-a-manifester-en-allemagne-20261031_GPKPHJLGPJGMDAK6ARQSI5T334/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759621+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580163+00:00"
   },
   {
     "source": "Le Figaro",
@@ -875,7 +1406,7 @@
     "guid": "https://www.liberation.fr/culture/livres/en-librairies-anne-percin-john-banville-zoe-besmond-de-senneville-20261031_KPSETTUVXZDIPDPIIXYM7BJNGE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759648+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580188+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -953,7 +1484,7 @@
     "source": "Mediapart",
     "title": "Les manifestations en direct. Entre 320 000 et 500 000 manifestants en France",
     "link": "https://www.mediapart.fr/journal/france/311026/les-manifestations-en-direct-entre-320-000-et-500-000-manifestants-en-france",
-    "summary": "Une nouvelle journée de mobilisation est organisée samedi dans toute la France, à l’appel de collectifs de Gilets jaunes, d’étudiants et de lycéens. Des cortèges placés sous haute surveillance, avec plus de 70 000 membres des forces de l’ordre déployés.",
+    "summary": "De nouvelles manifestations étaient organisées samedi, dans toute la France, à l’appel de collectifs de Gilets jaunes, d’étudiants et de lycéens. Des cortèges placés sous haute surveillance, avec plus de 70 000 membres des forces de l’ordre déployés. Entre 320 000 et 500 000 manifestants ont défilé.",
     "published": "2026-10-31T10:58:24+00:00",
     "authors": [
       "La rédaction de Mediapart"
@@ -965,7 +1496,7 @@
     "guid": "1356725 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/31/31102026-31octobremanifestation5-tulyppe-3.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599211+00:00"
+    "fetched_at": "2026-10-31T21:05:11.426099+00:00"
   },
   {
     "source": "Libération",
@@ -980,7 +1511,7 @@
     "guid": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-je-mappelle-gurvan-et-je-suis-heureux-20261031_MD42ZHR4LRDKJMMEF4QXC2NOJ4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759670+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580209+00:00"
   },
   {
     "source": "Le Monde",
@@ -1023,7 +1554,7 @@
     "guid": "https://www.liberation.fr/culture/musique/tumulte-golden-bug-truus-de-groot-sarakiniko-or-la-playlist-du-cahier-musique-de-liberation-20261031_DB7HC7RKNNBEVBZR6K2Q44FDNY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759694+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580232+00:00"
   },
   {
     "source": "Libération",
@@ -1038,7 +1569,7 @@
     "guid": "https://www.liberation.fr/environnement/biodiversite/biodiversite-en-armenie-la-cop17-adopte-de-maigres-avancees-entre-beaux-discours-patates-chaudes-et-postures-anti-science-20261031_QUMRCGZPGBAUJIAWOKHX7BKPZM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759729+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580270+00:00"
   },
   {
     "source": "Mediapart",
@@ -1056,7 +1587,7 @@
     "guid": "1356574 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/29/261027-img-lettre-amour-2010.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599239+00:00"
+    "fetched_at": "2026-10-31T21:05:11.426128+00:00"
   },
   {
     "source": "Mediapart",
@@ -1074,7 +1605,7 @@
     "guid": "1356851 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/30/261030-img-ahmed-benmezroua.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599271+00:00"
+    "fetched_at": "2026-10-31T21:05:11.426159+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1104,22 +1635,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-20261031_E5MRNDK7TFFVNCW4QQYYAVGFCE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759748+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Manifestation du 31 octobre: au moins 41 stations de métro fermées à Paris",
-    "link": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-au-moins-41-stations-de-metro-fermees-a-paris-20261031",
-    "summary": "À partir de 9 heures, les restrictions vont s’étendre à plusieurs stations situées le long du parcours de la manifestation et dans des pôles majeurs de correspondance, notamment autour de Bastille, République, Strasbourg-Saint-Denis et de l’Opéra.",
-    "published": "2026-10-31T10:09:45+00:00",
-    "authors": [],
-    "categories": [
-      "Société"
-    ],
-    "guid": "https://www.lefigaro.fr/actualite-france/manifestation-du-31-octobre-au-moins-41-stations-de-metro-fermees-a-paris-20261031",
-    "image": "https://i.f1g.fr/media/cms/orig/2026/10/31/e08e48220736288160225ce51b5796fdfb946e36a5bd7d4ece2b13d5b1a079d1.JPG",
-    "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.453759+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580287+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1195,7 +1711,7 @@
     "guid": "https://www.liberation.fr/international/amerique/midterms-la-bataille-oubliee-des-congres-locaux-ou-les-democrates-peuvent-aussi-frapper-fort-20261031_E6E6IKG5DZDGRDSJKVHCK22LX4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759776+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580354+00:00"
   },
   {
     "source": "Libération",
@@ -1210,7 +1726,7 @@
     "guid": "https://www.liberation.fr/culture/arts/art-contemporain/kader-attia-et-elizabeth-peyton-au-louvre-un-cas-dechos-20261031_KGXY5KFZPJAFVEZBSHHRSXSJ3U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759801+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580379+00:00"
   },
   {
     "source": "Le Monde",
@@ -1241,7 +1757,7 @@
     "guid": "1356890 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/10/30/20261030rassemblementtrappes.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.599300+00:00"
+    "fetched_at": "2026-10-31T21:05:11.426189+00:00"
   },
   {
     "source": "Libération",
@@ -1256,7 +1772,7 @@
     "guid": "https://www.liberation.fr/international/amerique/flavio-bolsonaro-autoproclame-de-gaulle-bresilien-dit-avoir-quitte-le-bresil-pour-fuir-une-persecution-20261031_P4G2N6S4SBFPHCEV7NWGEBYRYA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759831+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580407+00:00"
   },
   {
     "source": "Libération",
@@ -1271,7 +1787,7 @@
     "guid": "https://www.liberation.fr/international/europe/pologne-la-police-bloque-lacces-au-tribunal-constitutionnel-au-coeur-dune-crise-politique-entre-les-nationalistes-et-les-liberaux-20261031_62KONISPKBETTIBIYH7R4FR46A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759859+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580437+00:00"
   },
   {
     "source": "Le Monde",
@@ -1299,7 +1815,7 @@
     "guid": "https://www.lefigaro.fr/economie/en-20-ans-je-n-ai-jamais-vu-ca-les-offres-allechantes-des-assureurs-vie-pour-garder-la-collecte-a-flot-20261031",
     "image": "https://i.f1g.fr/media/cms/2968x1669_crop/2026/10/30/98119e4e8d4c6e703fe009897bba23ec9e9019191c3a1d50ad48d1a0b94fa7df.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.453870+00:00"
+    "fetched_at": "2026-10-31T21:05:11.359778+00:00"
   },
   {
     "source": "Le Monde",
@@ -1313,21 +1829,6 @@
     "image": "https://img.lemde.fr/2026/10/30/170/0/2048/1024/644/322/60/0/f7e287a_ftp-1-soucxxb44dym-71bb181cbb9d4cf1854db38b4edc72d4-0-711ffb9b6d98491cb895f47926ce1427.jpg",
     "full_text": null,
     "fetched_at": "2026-10-31T11:47:20.139216+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Clermont : trois morts dans l’incendie d’un immeuble, un homme interpellé",
-    "link": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/",
-    "summary": "Les secours ont extrait un nouveau cadavre, tard dans la nuit du vendredi 30 au samedi 31 octobre, au lendemain de l’incendie qui a ravagé un immeuble du centre-ville de la ville auvergnate.",
-    "published": "2026-10-31T09:11:22+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/clermont-trois-morts-dans-lincendie-dun-immeuble-un-homme-interpelle-20261031_UXQGZDYMMFB5LGJJ2XWBCKJUB4/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759886+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1390,7 +1891,7 @@
     "guid": "https://www.liberation.fr/lifestyle/intimites/eloges-funebres-ecrits-avec-lia-pour-les-employes-funeraires-ca-sonne-tres-creux-20261031_X3PWLSCT6JCKDE4P6QCMTBG4VU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759913+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580463+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1420,7 +1921,7 @@
     "guid": "https://www.liberation.fr/culture/musique/cecile-coulon-je-trouve-ca-assez-mignon-de-draguer-avec-des-playlists-20261031_7WYQ76367VGLZKYNDN3GU6KYKI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759936+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580484+00:00"
   },
   {
     "source": "Le Monde",
@@ -1448,7 +1949,7 @@
     "guid": "https://www.liberation.fr/lifestyle/gastronomie/la-bretagne-nouvelle-terre-viticole-sur-le-littoral-on-a-ce-cote-iode-et-maritime-qui-plait-20261031_V3RJ7OKP5ZHNFH2FOJWMBVWZEM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759961+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580508+00:00"
   },
   {
     "source": "Libération",
@@ -1463,7 +1964,7 @@
     "guid": "https://www.liberation.fr/culture/livres/lenfant-grise-de-gregoire-courtois-galopin-de-terre-20261031_FY3S5IA4ZFBP5NHI4ACW6BXZEA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.759991+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580530+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1497,7 +1998,7 @@
     "guid": "https://www.lemonde.fr/intimites/article/2026/10/31/quand-nous-avons-quitte-la-ville-pour-le-cotentin-tout-le-monde-nous-a-demande-si-nous-n-avions-pas-peur-de-nous-ennuyer-en-hiver_6803475_6190330.html",
     "image": "https://img.lemde.fr/2025/10/15/104/0/1024/512/644/322/60/0/38d7716_upload-1-txj8rjvkbumh-lemonde-animation-03.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.584927+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393693+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1527,7 +2028,7 @@
     "guid": "https://www.liberation.fr/culture/livres/top-des-ventes-de-livres-le-boum-de-gaston-et-le-temps-long-danne-godard-20261031_WR4UQIWPLFAPZHANODEFFPK7JI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760038+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580560+00:00"
   },
   {
     "source": "Le Monde",
@@ -1592,7 +2093,7 @@
     "guid": "https://www.liberation.fr/sports/une-suspicion-dincompetence-dans-le-milieu-de-la-voile-les-femmes-encore-trop-absentes-sur-la-ligne-de-depart-20261031_VYY3KOPKXZANLJGFO5CGTXV2SI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760075+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580593+00:00"
   },
   {
     "source": "Libération",
@@ -1607,7 +2108,7 @@
     "guid": "https://www.liberation.fr/societe/31-octobre-le-point-sur-les-parcours-de-manifestations-dans-les-grandes-villes-20261029_AGIPSSIHAVDJ5CFWXYJXKLHFS4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760112+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580624+00:00"
   },
   {
     "source": "Le Monde",
@@ -1668,7 +2169,7 @@
     "guid": "https://www.liberation.fr/lifestyle/intimites/au-japon-les-clubs-de-cul-virtuels-pullulent-certains-sy-cherchent-des-amis-pour-parler-dautres-viennent-pour-nouer-des-relations-intimes-20261031_QWX23A3VOFHMVAZ7NCRZWXFBA4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760142+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580652+00:00"
   },
   {
     "source": "Libération",
@@ -1683,7 +2184,7 @@
     "guid": "https://www.liberation.fr/societe/sante/manifestations-la-police-ne-doit-plus-utiliser-les-gaz-lacrymogenes-tant-quon-ne-connait-pas-leurs-effets-sur-la-sante-20261031_5DRP3P54HVDWXBXFA5NDVC7OB4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760175+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580686+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1765,7 +2266,7 @@
     "guid": "https://www.liberation.fr/international/afrique/niger-deux-mois-apres-son-enlevement-le-journaliste-moussa-kaka-toujours-introuvable-20261031_VGTK6UKEPRBNHKYZH2YV5KLUZA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760202+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580709+00:00"
   },
   {
     "source": "Le Monde",
@@ -1778,7 +2279,7 @@
     "guid": "https://www.lemonde.fr/les-decodeurs/article/2026/10/31/midterms-aux-etats-unis-le-petit-guide-pour-tout-comprendre-aux-elections-de-mi-mandat_6803393_4355770.html",
     "image": "https://img.lemde.fr/2026/10/27/417/0/5079/2539/644/322/60/0/ed55bc4_upload-1-yah3pypiz6wt-2026-10-22-otouron-arizona-midterms-035.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.584721+00:00"
+    "fetched_at": "2026-10-31T21:05:11.393428+00:00"
   },
   {
     "source": "Libération",
@@ -1793,7 +2294,7 @@
     "guid": "https://www.liberation.fr/societe/sante/dans-les-quartiers-populaires-les-gardiens-dimmeuble-deviennent-un-relais-pour-sensibiliser-aux-actions-de-prevention-sante-20261031_WBVDQG4LYFAF3PVSXBYGOLFH4M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760265+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580769+00:00"
   },
   {
     "source": "Libération",
@@ -1808,7 +2309,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/patrick-boucheron-notre-situation-historique-nest-pas-pre-revolutionnaire-mais-pre-autoritaire-20261031_NQPU366UOZF7BIP3HOG7D4EQYA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760234+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580741+00:00"
   },
   {
     "source": "Libération",
@@ -1823,7 +2324,7 @@
     "guid": "https://www.liberation.fr/societe/immigration/dans-les-campagnes-francaises-le-racisme-de-plus-en-plus-decomplexe-on-est-passe-des-regards-insistants-a-des-agressions-verbales-et-physiques-20261031_VRYHVZX53RD55G4RLI4S6BUPBQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760296+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580798+00:00"
   },
   {
     "source": "Le Monde",
@@ -1839,6 +2340,19 @@
     "fetched_at": "2026-10-31T16:55:07.584781+00:00"
   },
   {
+    "source": "Le Monde",
+    "title": "S’engager ou non ? A l’approche de l’élection présidentielle 2027, artistes et intellectuels s’interrogent",
+    "link": "https://www.lemonde.fr/culture/article/2026/10/31/s-engager-ou-non-a-l-approche-de-l-election-presidentielle-2027-artistes-et-intellectuels-s-interrogent_6803380_3246.html",
+    "summary": "Peur du faux pas, d’une phrase tronquée qui serait diffusée en boucle sur les réseaux sociaux et de l’acharnement numérique, ou tout simplement échaudées par un engagement antérieur, les personnalités sont moins disposées à se lancer.",
+    "published": "2026-10-31T04:15:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/10/31/s-engager-ou-non-a-l-approche-de-l-election-presidentielle-2027-artistes-et-intellectuels-s-interrogent_6803380_3246.html",
+    "image": "https://img.lemde.fr/2026/10/30/1025/0/6253/3126/644/322/60/0/78f9f92_upload-1-br5sypdgozlc-engagement-d-artistes-en-politique-def.jpg",
+    "full_text": null,
+    "fetched_at": "2026-10-31T21:05:11.393484+00:00"
+  },
+  {
     "source": "Libération",
     "title": "Roky Erickson, compilation de l’enfer",
     "link": "https://www.liberation.fr/culture/musique/roky-erickson-compilation-de-lenfer-20261031_TXWSV734TRE4RI4PLNQJB3ZECI/",
@@ -1851,7 +2365,7 @@
     "guid": "https://www.liberation.fr/culture/musique/roky-erickson-compilation-de-lenfer-20261031_TXWSV734TRE4RI4PLNQJB3ZECI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760316+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580817+00:00"
   },
   {
     "source": "Le Figaro",
@@ -2144,7 +2658,7 @@
     "guid": "https://www.liberation.fr/societe/a-trappes-apres-lattentat-raciste-un-rassemblement-aux-airs-de-meeting-digne-et-resolu-20261030_5TSGQCXJGJFYDFH3UW2Y5GTNDA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760347+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580845+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -2180,7 +2694,7 @@
     "guid": "https://www.liberation.fr/politique/sommet-et-manifestation-pour-la-remigration-deux-evenements-dextreme-droite-interdits-20261029_QS573U2GDJC4JHM2BAEBCYQVKM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760371+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580867+00:00"
   },
   {
     "source": "Libération",
@@ -2195,7 +2709,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/il-avait-le-regard-fou-il-ma-saute-dessus-deux-ans-de-prison-avec-sursis-requis-contre-jean-vincent-place-pour-agressions-sexuelles-20261030_YB5PPPAYOBBMXAOS2QO4SR4WUM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-10-31T16:55:07.760407+00:00"
+    "fetched_at": "2026-10-31T21:05:11.580898+00:00"
   },
   {
     "source": "Le Figaro",
@@ -7684,7 +8198,7 @@
     "guid": "https://immobilier.lefigaro.fr/article/heritage-des-baby-boomers-ces-villes-ou-le-choc-demographique-va-faire-chuter-les-prix-immobiliers-20261028",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/23/f8c1d5b19d12d7fa0cb20b2015ef98580a23b5075e5e1ff64dab2d3526a8d3e1.jpg",
     "full_text": null,
-    "fetched_at": "2026-10-30T09:40:55.953603+00:00"
+    "fetched_at": "2026-10-31T21:05:11.359668+00:00"
   },
   {
     "source": "Le Monde",
