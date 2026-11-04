@@ -1,25 +1,807 @@
 [
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Midterms 2026 : suivez les premiers résultats des élections américaines",
+    "title": "Dijon : un homme, soupçonné d’avoir tué sa sœur et blessé sa mère, interpellé aux Pays-Bas",
+    "link": "https://www.lefigaro.fr/faits-divers/dijon-un-homme-soupconne-d-avoir-tue-sa-soeur-et-blesse-sa-mere-interpelle-aux-pays-bas-20261104",
+    "summary": "Le jeune homme, qui faisait l’objet d’un mandat d’arrêt européen, avait fui le domicile familial avant l’arrivée de la police vers 3 heures du matin le 25 octobre, où sa sœur de 21 ans avait été retrouvée morte et sa mère grièvement blessée.",
+    "published": "2026-11-04T10:29:21+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/dijon-un-homme-soupconne-d-avoir-tue-sa-soeur-et-blesse-sa-mere-interpelle-aux-pays-bas-20261104",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/0185334774f454ea8aed52e12a73a0a1aa21eecaf5395f11774d9565cd1ab8f8.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705883+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Attentat de Trappes : «Je suis noir, je suis Français, je suis père de famille», le message fort de Thierry Henry",
+    "link": "https://www.lefigaro.fr/sports/football/attentat-de-trappes-je-suis-noir-je-suis-francais-je-suis-pere-de-famille-le-message-fort-de-thierry-henry-20261104",
+    "summary": "Le champion du monde 1998 a dévoilé son émotion après l’attentat raciste survenu à Trappes et qui a fait un mort le 23 octobre dernier.",
+    "published": "2026-11-04T10:28:32+00:00",
+    "authors": [],
+    "categories": [
+      "Football"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/football/attentat-de-trappes-je-suis-noir-je-suis-francais-je-suis-pere-de-famille-le-message-fort-de-thierry-henry-20261104",
+    "image": "https://i.f1g.fr/media/cms/2986x1992_crop/2026/11/04/1c5f91520699c5673ff7753569fb4d70b17dcc3b0ee3f3bd6045d79ab0718b87.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705855+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Testament, photos volées, lettres incendiaires, patrimoine… Dix révélations sur la succession de Brigitte Bardot",
+    "link": "https://www.lefigaro.fr/culture/testament-photos-volees-lettres-incendiaires-patrimoine-dix-revelations-sur-la-succession-de-brigitte-bardot-20261104",
+    "summary": "EXCLUSIF - Alors qu’un inventaire de la Madrague est réalisé mercredi, de nombreuses questions restent en suspens. Le Figaro y répond.",
+    "published": "2026-11-04T10:26:38+00:00",
+    "authors": [],
+    "categories": [
+      "Culture"
+    ],
+    "guid": "https://www.lefigaro.fr/culture/testament-photos-volees-lettres-incendiaires-patrimoine-dix-revelations-sur-la-succession-de-brigitte-bardot-20261104",
+    "image": "https://i.f1g.fr/media/cms/2266x1805_crop/2026/11/04/d9e4e599d8d87d9907b94afe6e1b5ea8d7e2ba9dd51afbf22e47fe6b6c932644.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705657+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Après les supermarchés, l’Établissement français du sang victime d’une cyberattaque, ses chambres froides prises pour cible",
+    "link": "https://www.lefigaro.fr/social/apres-les-supermarches-l-etablissement-francais-du-sang-victime-d-une-cyberattaque-ses-chambres-froides-prises-pour-cible-20261104",
+    "summary": "Mardi 3 novembre, une cyberattaque a déréglé à distance les équipements frigorifiques de trois sites de l’EFS, faisant grimper les seuils de température jusqu’à des niveaux extrêmes.",
+    "published": "2026-11-04T10:25:28+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/apres-les-supermarches-l-etablissement-francais-du-sang-victime-d-une-cyberattaque-ses-chambres-froides-prises-pour-cible-20261104",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/d062583c61aadfe2a96e9b891244f9c64e7e87bec24bccfb34ababd5675761d3.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705609+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : la Chine dit être en contact avec les Etats-Unis et la Russie pour un sommet à trois",
+    "link": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-la-chine-dit-etre-en-contact-avec-les-etats-unis-et-la-russie-pour-un-sommet-a-trois_6803934_3210.html",
+    "summary": "La possibilité d’une rencontre entre Xi Jinping, Donald Trump et Vladimir Poutine à l’occasion du sommet de l’APEC (Asia-Pacific Economic Cooperation), à Shenzhen, les 18 et 19 novembre, est évoquée depuis plusieurs semaines. Le Kremlin avait fait état, le 21 octobre, de préparatifs en vue d’un tel rendez-vous, qui inquiète les autorités ukrainiennes.",
+    "published": "2026-11-04T10:21:16+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/11/04/en-direct-guerre-en-ukraine-la-chine-dit-etre-en-contact-avec-les-etats-unis-et-la-russie-pour-un-sommet-a-trois_6803934_3210.html",
+    "image": "https://img.lemde.fr/2026/10/12/669/0/8032/4016/644/322/60/0/6e58794_ftp-1-rza51vphq93f-f31b7c1d8b23407a94f603903b45b4cc-0-f93a68b12fec45cc8283cc8cfcef6ab0.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652255+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT – Midterms, le jour d’après : «une lueur d’espoir pour la démocratie américaine», selon le chercher Olivier Richomme",
+    "link": "https://www.liberation.fr/international/amerique/en-direct-resultats-des-midterms-2026-aux-etats-unis-les-democrates-remportent-le-senat-et-la-chambre-des-representants-20261104_7VW63XWLYRBBDC7VH46XLUAMG4/",
+    "summary": "Les républicains de Donald Trump ont connu un revers majeur lors des élections de mi-mandat, perdant le contrôle du Sénat et de la Chambre des représentants.",
+    "published": "2026-11-04T10:15:23+00:00",
+    "authors": [
+      "Libération ., Service Photo, AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/en-direct-resultats-des-midterms-2026-aux-etats-unis-les-democrates-remportent-le-senat-et-la-chambre-des-representants-20261104_7VW63XWLYRBBDC7VH46XLUAMG4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.760832+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Midterms 2026 : vague bleue au Congrès, Donald Trump subit un revers cinglant à deux ans de son départ de la Maison-Blanche",
     "link": "https://www.lefigaro.fr/international/en-direct-midterms-2026-donald-trump-resultats-elections-americaines-etats-unis-democrates-republicains-congres-senat-chambre-des-representants-20261104",
-    "summary": "Des millions d’Américains se sont rendus aux urnes mardi lors d’élections aux allures de référendum sur Donald Trump, l’opposition démocrate espérant regagner la majorité au Congrès.",
-    "published": "2026-11-04T00:58:02+00:00",
+    "summary": "Les démocrates ont signé une victoire sans appel mardi avec une majorité acquise aux deux chambres du Congrès américain. Ce basculement encore inimaginable il y a un an, ouvre une ère d’incertitude pour Donald Trump à deux ans de son départ de la Maison-Blanche.",
+    "published": "2026-11-04T10:15:03+00:00",
     "authors": [],
     "categories": [
       "International"
     ],
     "guid": "https://www.lefigaro.fr/international/en-direct-midterms-2026-donald-trump-resultats-elections-americaines-etats-unis-democrates-republicains-congres-senat-chambre-des-representants-20261104",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/04/a04b55b0c81f05c7be5ea6e76a61eecea8a3a49907308f41ea4f9b4285ef3e7c.jpg",
+    "image": "https://i.f1g.fr/media/cms/2058x1372_crop/2026/11/04/be037449ef95c75ffd9b45f05a58169594fce2d342f76b03254239397e585b72.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.355437+00:00"
+    "fetched_at": "2026-11-04T10:32:05.705419+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le proviseur d’un lycée agressé près de Bordeaux dans le cadre des manifestations",
+    "link": "https://www.lefigaro.fr/bordeaux/le-proviseur-d-un-lycee-agresse-pres-de-bordeaux-dans-le-cadre-des-manifestations-20261104",
+    "summary": "Mortiers, feux de poubelles et agressions du personnel éducatif étaient au rendez-vous de la rentrée des lycées girondins. Trois d’entre eux ont été fermés par la préfecture de la Gironde.",
+    "published": "2026-11-04T10:12:26+00:00",
+    "authors": [],
+    "categories": [
+      "Bordeaux"
+    ],
+    "guid": "https://www.lefigaro.fr/bordeaux/le-proviseur-d-un-lycee-agresse-pres-de-bordeaux-dans-le-cadre-des-manifestations-20261104",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/04/bda56f4c2334d5c97d66d6a227da4bbc7b52821633dad8dc11b2a76819d784f8.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705908+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "L’Olympique lyonnais et l’entraîneur Paulo Fonseca se séparent, malgré un bon début de saison",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/04/l-olympique-lyonnais-et-l-entraineur-paulo-fonseca-se-separent-malgre-un-bon-debut-de-saison_6806142_3242.html",
+    "summary": "La formation rhodanienne a accepté de libérer son coach, qui va signer au Sporting Portugal, le club qu’il soutient depuis toujours. Le technicien de 53 ans était pourtant encore sous contrat avec l’OL jusqu’au mois de juin 2027.",
+    "published": "2026-11-04T10:10:56+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/article/2026/11/04/l-olympique-lyonnais-et-l-entraineur-paulo-fonseca-se-separent-malgre-un-bon-debut-de-saison_6806142_3242.html",
+    "image": "https://img.lemde.fr/2026/11/01/132/0/1813/906/644/322/60/0/5c2e2d6_ftp-1-llc2ebsnavhg-2026-11-01t180533z-1562275968-up1emb11e98ee-rtrmadp-3-soccer-france-ol-sco.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652280+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "«Tu serviras à rien, t’es qu’une femme»: à La Grande-Motte, un rapport administratif accablant pour la police municipale",
+    "link": "https://www.mediapart.fr/journal/france/041126/tu-serviras-rien-t-es-qu-une-femme-la-grande-motte-un-rapport-administratif-accablant-pour-la-police-munic",
+    "summary": "«Mediapart» a eu accès à une enquête administrative qui fait état de propos sexistes, racistes et de violences physiques exercées sur des agentes au sein de la police municipale de La Grande-Motte. Sans que la hiérarchie s’émeuve. Deux plaintes ont également été déposées.",
+    "published": "2026-11-04T10:09:16+00:00",
+    "authors": [
+      "Prisca Borrel"
+    ],
+    "categories": [
+      "France",
+      "A la Une, La Grande-Motte, Police, police municipale"
+    ],
+    "guid": "1357637 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/03/261103-img-a-la-grande-motte.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.661895+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le Crédit mutuel Arkéa confirme avoir été victime d’une cyberattaque, le détournement est évalué à 118 millions d’euros",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
+    "summary": "La caisse fédérale bretonne n’a pas communiqué le montant du préjudice, déclarant mercredi que l’incident était désormais « maîtrisé ».",
+    "published": "2026-11-04T10:08:38+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/pixels/article/2026/11/04/le-credit-mutuel-arkea-confirme-avoir-ete-victime-d-une-cyberattaque-le-detournement-est-evalue-a-118-millions-d-euros_6806141_4408996.html",
+    "image": "https://img.lemde.fr/2025/09/05/464/0/5568/2784/644/322/60/0/e678eb3_upload-1-9lky8afeyqvc-000-36qb4ty.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652223+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "États-Unis : après la défaite aux « midterms », Trump prêt à surenchérir à l’international",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/monde/etats-unis-apres-la-defaite-aux-midterms-trump-pret-a-surencherir-a-linternational",
+    "summary": "S’il y a un domaine où les midterms ne changeront pas grand chose, c’est celui de la politique étrangère. En dépit de la victoire démocrate, Donald Trump y gardera une... L’article États-Unis : après la défaite aux « midterms », Trump prêt à surenchérir à l’international est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-04T10:02:35+00:00",
+    "authors": [
+      "Pierre Victor"
+    ],
+    "categories": [
+      "Non classé",
+      "Donald Trump",
+      "États-Unis",
+      "international",
+      "midterms"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/etats-unis-apres-la-defaite-aux-midterms-trump-pret-a-surencherir-a-linternational",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.554087+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La Ville de Paris condamnée pour sa propagande illégale en faveur de l’euthanasie",
+    "link": "https://www.lefigaro.fr/actualite-france/la-ville-de-paris-condamnee-pour-sa-propagande-illegale-en-faveur-de-l-euthanasie-20261104",
+    "summary": "INFO LE FIGARO - En mai 2024, la Ville de Paris avait organisé une campagne d’affichage pour défendre le droit de «choisir de mourir dans la dignité», en plein examen de la loi sur la fin de vie. Cette campagne a porté atteinte à la neutralité du service public, estime le tribunal administratif.",
+    "published": "2026-11-04T10:01:31+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/la-ville-de-paris-condamnee-pour-sa-propagande-illegale-en-faveur-de-l-euthanasie-20261104",
+    "image": "https://i.f1g.fr/media/cms/2365x1330_crop/2026/11/04/fe393bd54d3419634f350a5a4d21e26d7e16d11b007dcc2be2ef9407ed3cc670.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705686+00:00"
   },
   {
     "source": "Libération",
-    "title": "EN DIRECT – Midterms 2026 : les bureaux de vote commencent à fermer et les résultats à tomber aux Etats-Unis",
+    "title": "La banque Crédit Mutuel Arkéa victime d’une cyberattaque : 118 millions d’euros dérobés selon «le Télégramme»",
+    "link": "https://www.liberation.fr/economie/la-banque-credit-mutuel-arkea-victime-dune-cyberattaque-118-millions-deuros-derobes-20261104_4Z63MN5LKFBCLK3MH6L2AAR3PQ/",
+    "summary": "L’établissement bancaire aurait été victime d’une attaque s’étendant sur plusieurs jours, selon «Les Echos».",
+    "published": "2026-11-04T10:00:46+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/la-banque-credit-mutuel-arkea-victime-dune-cyberattaque-118-millions-deuros-derobes-20261104_4Z63MN5LKFBCLK3MH6L2AAR3PQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.760865+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Relèvement du plafond du Livret A : « On est loin de la volonté affichée par Emmanuel Macron d’orienter l’épargne des Français vers des placements à long terme »",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/04/relevement-du-plafond-du-livret-a-on-est-loin-de-la-volonte-affichee-par-emmanuel-macron-d-orienter-l-epargne-des-francais-vers-des-placements-a-long-terme_6806139_3234.html",
+    "summary": "Le gouvernement prévoit de porter entre 25 000 et 30 000 euros le plafond du livret préféré des Français en février 2027, au lieu de 22 950 euros actuellement. Une annonce qui vise à financer des mesures d’urgence, mais qui risque, en définitive, d’aggraver l’endettement public, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde »",
+    "published": "2026-11-04T10:00:06+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/11/04/relevement-du-plafond-du-livret-a-on-est-loin-de-la-volonte-affichee-par-emmanuel-macron-d-orienter-l-epargne-des-francais-vers-des-placements-a-long-terme_6806139_3234.html",
+    "image": "https://img.lemde.fr/2026/11/04/115/0/5616/2808/644/322/60/0/dd78fe9_upload-1-fe07stbywxpw-000-par7125749.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652008+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Assassinat de Dominique Bernard : l’assaillant renvoyé aux assises, non-lieu pour son frère et son cousin",
+    "link": "https://www.liberation.fr/societe/police-justice/assassinat-de-dominique-bernard-lassaillant-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin-20261104_4DZJY4URHFGQFO45H3SPO6ZYJI/",
+    "summary": "Le Parquet national antiterroriste a annoncé faire appel de cette décision. Il avait demandé que les trois personnes soient jugées pour l’assassinat du professeur de français le 13 octobre 2023 à Arras.",
+    "published": "2026-11-04T09:57:30+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/assassinat-de-dominique-bernard-lassaillant-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin-20261104_4DZJY4URHFGQFO45H3SPO6ZYJI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.760897+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Présidentielle 2027 : comment Borne parvient à enquiquiner Attal et en même temps Glucksmann",
+    "link": "https://www.liberation.fr/politique/presidentielle-2027-comment-borne-parvient-a-enquiquiner-attal-et-en-meme-temps-glucksmann-20261104_LUHKWW7UNZHQRBRTUWCNQ2V7DE/",
+    "summary": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+    "published": "2026-11-04T09:52:58+00:00",
+    "authors": [
+      "Chez Pol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/presidentielle-2027-comment-borne-parvient-a-enquiquiner-attal-et-en-meme-temps-glucksmann-20261104_LUHKWW7UNZHQRBRTUWCNQ2V7DE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.760923+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Dans le Michigan, Abdul el-Sayed ouvre une nouvelle voie aux progressistes",
+    "link": "https://www.mediapart.fr/journal/international/041126/dans-le-michigan-abdul-el-sayed-ouvre-une-nouvelle-voie-aux-progressistes",
+    "summary": "Premier musulman élu au Sénat, le progressiste a prouvé qu’il était possible de défendre des idées économiques et sociales jugées radicales outre-Atlantique dans un État clé du Midwest.",
+    "published": "2026-11-04T09:51:43+00:00",
+    "authors": [
+      "Alexis Buisson"
+    ],
+    "categories": [
+      "International",
+      "A la Une, Abdul El-Sayed, congrès, Élections aux États-Unis, Michigan, Amériques"
+    ],
+    "guid": "1357795 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-midterms-aux-etats-unis-la-nuit-electorale-en-direct-23.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.661927+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Mobilisation du 5 novembre : Laurent Nuñez veut un dispositif «robuste» en vue d’«une journée sensible»",
+    "link": "https://www.lefigaro.fr/actualite-france/manifestation-5-novembre-greve-mobilisation-etudiants-syndicats-et-gilets-jaunes-en-lutte-contre-la-vie-chere-20261104",
+    "summary": "Pour éviter des débordements, le ministre de l’Intérieur a demandé aux préfets de «travailler dans le même esprit que pour les journées du 24 et 31 octobre» avec la mise en place de «dispositifs opérationnels robustes, agiles et réactifs», avec des effectifs de police et de gendarmerie renforcés «pendant cette journée sensible».",
+    "published": "2026-11-04T09:51:32+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/manifestation-5-novembre-greve-mobilisation-etudiants-syndicats-et-gilets-jaunes-en-lutte-contre-la-vie-chere-20261104",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/04/b733195517863ff3812bddb3f7840c87c0b493b5016d5285452963be8eab8cf4.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705752+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Au Bourget, Mélenchon veut-il enterrer Hollande ? «Chez Pol, l’émission» avec Thomas Legrand et Lucie Alexandre",
+    "link": "https://www.liberation.fr/politique/elections/au-bourget-melenchon-veut-il-enterrer-hollande-chez-pol-lemission-avec-thomas-legrand-et-lucie-alexandre-20261104_H5JFXGOA3FA53HU2UOLR5Z3C2Q/",
+    "summary": "Le candidat insoumis à l’élection présidentielle doit présenter son programme, samedi 7 novembre au Bourget. Un lieu qui rappelle un meeting marquant : celui de François Hollande, quatorze ans plus tôt. Une revanche ? On en parle et on répond à vos questions sur Twitch et YouTube.",
+    "published": "2026-11-04T09:51:03+00:00",
+    "authors": [
+      "Emanuel Descours, Maud Benakcha, Thomas Legrand, Lucie Alexandre"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/au-bourget-melenchon-veut-il-enterrer-hollande-chez-pol-lemission-avec-thomas-legrand-et-lucie-alexandre-20261104_H5JFXGOA3FA53HU2UOLR5Z3C2Q/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.760958+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Assassinat du professeur Dominique Bernard : l’assaillant est renvoyé aux assises, non-lieu pour son frère et son cousin",
+    "link": "https://www.lefigaro.fr/faits-divers/assassinat-du-professeur-dominique-bernard-l-assaillant-est-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin-20261104",
+    "summary": "En dix minutes, Mohammed Mogouchkov, un Russe originaire d’Ingouchie dans sa vingtaine à l’époque, avait fait un mort et trois blessés, un autre professeur et deux agents, qui avaient tenté de s’interposer ou de défendre leurs collègues.",
+    "published": "2026-11-04T09:51:00+00:00",
+    "authors": [],
+    "categories": [
+      "Faits divers"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/assassinat-du-professeur-dominique-bernard-l-assaillant-est-renvoye-aux-assises-non-lieu-pour-son-frere-et-son-cousin-20261104",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/c12f3fbc83ff40967b809ef9738144a8725ac46575fbfcdeb0d90135731b5e73.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705830+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Prix Goncourt 2026 : le lauréat Philippe Jaenada révèle avoir utilisé l’IA à trois reprises pour écrire «L’inconnue du quai de Javel»",
+    "link": "https://www.liberation.fr/culture/livres/prix-goncourt-2026-le-laureat-philippe-jaenada-revele-avoir-utilise-lia-a-trois-reprises-pour-ecrire-linconnue-du-quai-de-javel-20261104_AJO3OQFPFFHDXLBABUPVOG45FY/",
+    "summary": "À peine sacré, l’auteur dévoile déjà les petits secrets de son roman : une phrase du livre a été écrite par l’IA, et il s’en est aussi servi pour faire des recherches techniques. Philippe Jaenada veut ne surtout pas faire «comme si elle n’existait pas».",
+    "published": "2026-11-04T09:50:56+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/prix-goncourt-2026-le-laureat-philippe-jaenada-revele-avoir-utilise-lia-a-trois-reprises-pour-ecrire-linconnue-du-quai-de-javel-20261104_AJO3OQFPFFHDXLBABUPVOG45FY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.760994+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Estimez-vous que la défaite de Donald Trump aux midterms est une bonne nouvelle pour les Européens ?",
+    "link": "https://www.lefigaro.fr/international/estimez-vous-que-la-defaite-de-donald-trump-aux-midterms-est-une-bonne-nouvelle-pour-les-europeens-20261104",
+    "summary": "",
+    "published": "2026-11-04T09:50:46+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/estimez-vous-que-la-defaite-de-donald-trump-aux-midterms-est-une-bonne-nouvelle-pour-les-europeens-20261104",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705951+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La haine de LFI rend Bruno Retailleau aveugle envers Eric Zemmour",
+    "link": "https://www.liberation.fr/politique/la-haine-de-lfi-rend-bruno-retailleau-aveugle-envers-eric-zemmour-20261104_CY5UBT6XZBH77HCZJNJFVLUC2E/",
+    "summary": "Le président LR veut purement et simplement interdire le parti des insoumis, mais s’acharne à défendre Zemmour, pourtant multicondamné pour incitation à la haine raciale et porteur d’un projet raciste.",
+    "published": "2026-11-04T09:49:53+00:00",
+    "authors": [
+      "Chez Pol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/la-haine-de-lfi-rend-bruno-retailleau-aveugle-envers-eric-zemmour-20261104_CY5UBT6XZBH77HCZJNJFVLUC2E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761024+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La banque Crédit Mutuel Arkéa victime d’une cyberattaque ayant permis des «opérations frauduleuses»",
+    "link": "https://www.lefigaro.fr/societes/la-banque-credit-mutuel-arkea-victime-d-une-cyberattaque-ayant-permis-des-operations-frauduleuses-20261104",
+    "summary": "Le groupe bancaire breton n’a pas confirmé le montant du détournement de 133 millions de dollars (118 millions d’euros) cité par le journal Le Télégramme.",
+    "published": "2026-11-04T09:39:36+00:00",
+    "authors": [],
+    "categories": [
+      "Entreprises"
+    ],
+    "guid": "https://www.lefigaro.fr/societes/la-banque-credit-mutuel-arkea-victime-d-une-cyberattaque-ayant-permis-des-operations-frauduleuses-20261104",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/21ec8f65cf93ad585177e35f3748506a097f9aea53ab9f98f7d527adebea4a2b.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705584+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Midterms 2026 : cinq graphiques pour comprendre la déroute de Donald Trump",
+    "link": "https://www.lefigaro.fr/elections-americaines/midterms-2026-cinq-graphiques-pour-comprendre-la-deroute-de-donald-trump-20261104",
+    "summary": "INFOGRAPHIE – Chambre, Sénat, Texas… Les démocrates infligent à Donald Trump une défaite plus large que prévu. Les faits saillants de la soirée électorale en graphiques.",
+    "published": "2026-11-04T09:38:26+00:00",
+    "authors": [],
+    "categories": [
+      "Elections Américaines"
+    ],
+    "guid": "https://www.lefigaro.fr/elections-americaines/midterms-2026-cinq-graphiques-pour-comprendre-la-deroute-de-donald-trump-20261104",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/04/1ef1a8b877727deb2c5313c55a4a7da8596663ed5a9eb5596bd152cd53a9de82.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705536+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pour Bardella, une nouvelle promo et toujours les mêmes mythos",
+    "link": "https://www.liberation.fr/politique/pour-bardella-une-nouvelle-promo-et-toujours-les-memes-mythos-20261104_OI25DBVZLZDQHCOGK2NBRHDXJU/",
+    "summary": "Le président du RN sort son troisième livre, «Gouverner», dans lequel il cite un historien antisémite. Face aux accusations de «Mediapart», il garde la même stratégie : le déni.",
+    "published": "2026-11-04T09:35:05+00:00",
+    "authors": [
+      "Sylvain Chazot, Chez Pol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/pour-bardella-une-nouvelle-promo-et-toujours-les-memes-mythos-20261104_OI25DBVZLZDQHCOGK2NBRHDXJU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761083+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«L’ingérence de mes lasers spatiaux dans les élections n’a pas fonctionné» : après les midterms, Elon Musk rit jaune",
+    "link": "https://www.liberation.fr/international/amerique/lingerence-de-mes-lasers-spatiaux-dans-les-elections-na-pas-fonctionne-apres-les-midterms-elon-musk-rit-jaune-20261104_BXKI5KPNRJEJFOV2GABBXGDAVM/",
+    "summary": "L’homme d’affaires, qui a dépensé des centaines de millions de dollars pour soutenir les candidats du camp de Donald Trump, s’inquiète par ailleurs ce mercredi 4 novembre d’un possible coup de frein sur ses implantations de centres de données dédiés à l’IA.",
+    "published": "2026-11-04T09:30:55+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/lingerence-de-mes-lasers-spatiaux-dans-les-elections-na-pas-fonctionne-apres-les-midterms-elon-musk-rit-jaune-20261104_BXKI5KPNRJEJFOV2GABBXGDAVM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761128+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A chaque époque, son bien manger",
+    "link": "https://www.liberation.fr/forums/a-chaque-epoque-son-bien-manger-20261104_KS2SG6SOH5CUHIHCDRFAUKCTLM/",
+    "summary": "Notre approche de l’alimentation a évolué en fonction des découvertes, des tentatives culinaires et des prises de consciences environnementales.",
+    "published": "2026-11-04T09:26:00+00:00",
+    "authors": [
+      "Aurore Coulaud"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/a-chaque-epoque-son-bien-manger-20261104_KS2SG6SOH5CUHIHCDRFAUKCTLM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761154+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Groland » s’arrête en décembre après trente-quatre ans d’humour satirique sur Canal+",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/04/groland-s-arrete-en-decembre-apres-trente-quatre-ans-d-humour-satirique-sur-canal_6806136_3246.html",
+    "summary": "Après avoir incarné l’esprit Canal, l’émission satirique s’apprête à tirer sa révérence lors d’une ultime soirée événement le 12 décembre.",
+    "published": "2026-11-04T09:06:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/11/04/groland-s-arrete-en-decembre-apres-trente-quatre-ans-d-humour-satirique-sur-canal_6806136_3246.html",
+    "image": "https://img.lemde.fr/2026/11/04/359/0/3668/1834/644/322/60/0/7674f3b_upload-1-z41wjrd2frn5-000-par1479983.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652199+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Guillaume Cerutti choisi par Emmanuel Macron pour présider le château de Versailles",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/04/guillaume-cerutti-devrait-etre-nomme-president-du-chateau-de-versailles_6806135_3246.html",
+    "summary": "La nomination de cet énarque, passé depuis vingt ans dans le privé, doit être annoncée mercredi en conseil des ministres. Il remplacera Christophe Leribault, nommé en février à la tête du Louvre.",
+    "published": "2026-11-04T09:03:48+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/11/04/guillaume-cerutti-devrait-etre-nomme-president-du-chateau-de-versailles_6806135_3246.html",
+    "image": "https://img.lemde.fr/2026/11/04/184/0/2999/1499/644/322/60/0/bf20e44_upload-1-ggbkmggnv8rd-gettyimages-2149041537.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652033+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Présidentielle 2027 : David Lisnard prend l’avantage sur Bruno Retailleau à droite, Édouard Philippe s’effondre, selon un sondage",
+    "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-david-lisnard-prend-lavantage-sur-bruno-retailleau-a-droite-edouard-philippe-seffondre-selon-un-sondage",
+    "summary": "À la tête des Républicains, Bruno Retailleau dispose du parti, de ses élus et de son implantation. Mais dans le dernier sondage Ifop pour LCI, publié le 3 novembre, c’est... L’article Présidentielle 2027 : David Lisnard prend l’avantage sur Bruno Retailleau à droite, Édouard Philippe s’effondre, selon un sondage est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-04T09:03:01+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "Bruno Retailleau",
+      "david lisnard",
+      "Présidentielle 2027",
+      "second tour",
+      "sondage"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-david-lisnard-prend-lavantage-sur-bruno-retailleau-a-droite-edouard-philippe-seffondre-selon-un-sondage",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.554155+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au cœur d’un automne social, syndicats et patronat entament des négociations sur l’emploi des jeunes",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/04/au-c-ur-d-un-automne-social-syndicats-et-patronat-entament-des-negociations-sur-l-emploi-des-jeunes_6806134_823448.html",
+    "summary": "Le taux de chômage des 15-24 ans atteint 21,6 % au deuxième trimestre, en hausse de 2,5 points sur un an. Si les gouvernements successifs d’Emmanuel Macron ont multiplié les dispositifs pour y remédier, la France reste très en retard par rapport à plusieurs de ses partenaires européens.",
+    "published": "2026-11-04T09:00:08+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/04/au-c-ur-d-un-automne-social-syndicats-et-patronat-entament-des-negociations-sur-l-emploi-des-jeunes_6806134_823448.html",
+    "image": "https://img.lemde.fr/2026/11/03/256/0/3071/1535/644/322/60/0/99f0100_upload-1-znwpyxjm9gah-017-millerand-5h9a6233.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652063+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "L’ultradroite, cette mouvance qui utilise la violence pour défendre une idéologie d’extrême droite",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/04/l-ultradroite-cette-mouvance-qui-utilise-la-violence-pour-defendre-une-ideologie-d-extreme-droite_6806133_3232.html",
+    "summary": "Le profil de Kevin T., l’auteur de l’attentat raciste de Trappes (Yvelines), relève de « l’ultradroite radicale violente », a confirmé le parquet, mardi 3 novembre. Un phénomène en croissance : 23 procédures liées à l’ultradroite ont été recensées depuis 2019.",
+    "published": "2026-11-04T09:00:03+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/11/04/l-ultradroite-cette-mouvance-qui-utilise-la-violence-pour-defendre-une-ideologie-d-extreme-droite_6806133_3232.html",
+    "image": "https://img.lemde.fr/2026/11/03/304/0/5856/2928/644/322/60/0/1682415_upload-1-kgeohvxsdajb-000-467m8bq.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.651973+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Le Monde » répond à vos questions sur sa ligne éditoriale, sa gouvernance et la vie de sa rédaction",
+    "link": "https://www.lemonde.fr/le-monde-et-vous/live/2026/11/04/le-monde-repond-a-vos-questions-sur-sa-ligne-editoriale-sa-gouvernance-et-la-vie-de-sa-redaction_6806132_6065879.html",
+    "summary": "Comme chaque mois, Gilles van Kote, directeur délégué aux relations avec les lecteurs, répond en direct aux questions des internautes concernant la couverture de l’actualité et la vie du journal.",
+    "published": "2026-11-04T09:00:03+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/le-monde-et-vous/live/2026/11/04/le-monde-repond-a-vos-questions-sur-sa-ligne-editoriale-sa-gouvernance-et-la-vie-de-sa-redaction_6806132_6065879.html",
+    "image": "https://img.lemde.fr/2026/01/05/668/0/5328/2664/644/322/60/0/7a959d0_upload-1-dagd02fqulce-l1100763-modifier.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652176+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Je ne pensais jamais voir ce jour arriver» : le Texas bascule chez les démocrates",
+    "link": "https://www.liberation.fr/international/amerique/je-ne-pensais-jamais-voir-ce-jour-arriver-le-texas-bascule-chez-les-democrates-20261104_BX4RA736DVBSXMWZQVTRR7TEOE/",
+    "summary": "Historiquement conservateur, cet Etat du sud vient d’élire un sénateur et une gouverneure démocrates. Symboles de la vague bleue qui a déferlé sur le pays.",
+    "published": "2026-11-04T08:59:52+00:00",
+    "authors": [
+      "Benjamin Delille"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/je-ne-pensais-jamais-voir-ce-jour-arriver-le-texas-bascule-chez-les-democrates-20261104_BX4RA736DVBSXMWZQVTRR7TEOE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761181+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Midterms 2026 : Donald Trump subit une défaite historique, du Texas au Michigan",
+    "link": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-donald-trump-subit-un-revers-historique_6806131_3210.html",
+    "summary": "La défaite brutale des républicains est d’abord liée au rejet du président américain, de son administration, de sa guerre en Iran avec Israël ou de la corruption institutionnalisée. Il n’a pas tenu compte des préoccupations des électeurs, qui s’inquiètent avant tout du coût de la vie.",
+    "published": "2026-11-04T08:58:33+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-donald-trump-subit-un-revers-historique_6806131_3210.html",
+    "image": "https://img.lemde.fr/2026/11/04/213/0/2560/1280/644/322/60/0/3394109_upload-1-qhlx3iwl9ltb-11-3-2026-tova-katzman-austin-election-41.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.651871+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Midterms 2026 : le démocrate Abdul El-Sayed remporte la sénatoriale dans le Michigan et devient le premier sénateur musulman des États-Unis",
+    "link": "https://www.lefigaro.fr/international/midterms-2026-le-democrate-abdul-el-sayed-remporte-la-senatoriale-dans-le-michigan-et-devient-le-premier-senateur-musulman-des-etats-unis-20261104",
+    "summary": "Le médecin Abdul El-Sayed, figure de la gauche démocrate, a battu le républicain Mike Rogers dans le Michigan, selon plusieurs médias américains. Il deviendra le premier musulman à siéger au Sénat des États-Unis.",
+    "published": "2026-11-04T08:55:08+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/midterms-2026-le-democrate-abdul-el-sayed-remporte-la-senatoriale-dans-le-michigan-et-devient-le-premier-senateur-musulman-des-etats-unis-20261104",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/6e5efaaf7d4696ca0703d90d918acdbd974964c60a2b6169556f57c8313024ec.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705485+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Législatives en Israël : le président, Isaac Herzog, lance les consultations pour la formation du gouvernement",
+    "link": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-le-president-isaac-herzog-lance-les-consultations-pour-la-formation-du-gouvernement-20261104_UUALVHTG7FEB5ATVRHV2TW7HSQ/",
+    "summary": "Une semaine après un scrutin qui n’a donné de majorité ni à Benyamin Nétanyahou ni à son adversaire Gadi Eisenkot, le président israélien commence ce mercredi 4 novembre à recevoir les chefs de partis. Il a jusqu’au 11 novembre pour nommer un chef de gouvernement.",
+    "published": "2026-11-04T08:55:06+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/legislatives-en-israel-le-president-isaac-herzog-lance-les-consultations-pour-la-formation-du-gouvernement-20261104_UUALVHTG7FEB5ATVRHV2TW7HSQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761213+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Grève du 5 novembre : manifestations, dispositif policier, transports, écoles… A quoi s’attendre jeudi ?",
+    "link": "https://www.liberation.fr/economie/transports/greve-du-jeudi-5-novembre-la-sncf-prevoit-des-perturbations-sur-la-plupart-des-lignes-la-ratp-sattend-a-un-trafic-relativement-normal-20261103_MWI3KYD3LJBQTJIBS4K256SVYY/",
+    "summary": "Les syndicats seront à la manœuvre jeudi pour tenter d’obtenir des réponses à leurs revendications sur les salaires. La coordination des «gilets jaunes» et les mouvements lycéens et étudiants appellent eux aussi à descendre dans la rue.",
+    "published": "2026-11-04T08:51:13+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/transports/greve-du-jeudi-5-novembre-la-sncf-prevoit-des-perturbations-sur-la-plupart-des-lignes-la-ratp-sattend-a-un-trafic-relativement-normal-20261103_MWI3KYD3LJBQTJIBS4K256SVYY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761243+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Route du rhum : Armel Le Cléac’h a chaviré mais est en «sécurité»",
+    "link": "https://www.liberation.fr/sports/route-du-rhum-armel-le-cleach-a-chavire-mais-est-en-securite-20261104_FI3PTQAH7JAJ3ND2LITAPPBV74/",
+    "summary": "Selon l’organisation de la course, le Breton a chaviré ce mercredi vers «5 h 30 du matin, alors qu’il naviguait à 550 milles nautiques dans le nord-ouest des Açores».",
+    "published": "2026-11-04T08:38:23+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/route-du-rhum-armel-le-cleach-a-chavire-mais-est-en-securite-20261104_FI3PTQAH7JAJ3ND2LITAPPBV74/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761269+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Gina Hinojosa, Keisha Lance Bottoms, Deb Haaland, Abdul El-Sayed : les nouveaux visages démocrates des midterms",
+    "link": "https://www.liberation.fr/international/amerique/gina-hinojosa-keisha-lance-bottoms-deb-haaland-abdul-el-sayed-les-nouveaux-visages-democrates-des-midterms-20261104_TONPGZXYNBACLNNNDJBZDQP6LE/",
+    "summary": "Première femme noire gouverneure d’un Etat, première gouverneure latino-américaine du Texas, premier sénateur musulman… «Libération» fait le tour des démocrates qui ont percé lors de ces élections de mi-mandat.",
+    "published": "2026-11-04T08:36:05+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/gina-hinojosa-keisha-lance-bottoms-deb-haaland-abdul-el-sayed-les-nouveaux-visages-democrates-des-midterms-20261104_TONPGZXYNBACLNNNDJBZDQP6LE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761297+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN CARTES - Résultats des midterms 2026 aux Etats-Unis : vague démocrate au Sénat et à la Chambre des représentants",
+    "link": "https://www.liberation.fr/international/amerique/en-cartes-resultats-des-midterms-2026-aux-etats-unis-vague-democrate-au-senat-et-a-la-chambre-des-representants-20261104_CNYRR5OKNBD2JD7ZPVSFYINQLY/",
+    "summary": "Les élections de mi-mandat aux Etats-Unis sont marquées par une reprise des deux chambres par les démocrates, signant une défaite majeure pour le camp de Donald Trump.",
+    "published": "2026-11-04T08:34:52+00:00",
+    "authors": [
+      "Libération ., Savinien de Rivet"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/en-cartes-resultats-des-midterms-2026-aux-etats-unis-vague-democrate-au-senat-et-a-la-chambre-des-representants-20261104_CNYRR5OKNBD2JD7ZPVSFYINQLY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761324+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "On a testé le combo sushi-sauce algérienne, qui fait un tabac au Japon",
+    "link": "https://www.liberation.fr/lifestyle/gastronomie/on-a-teste-le-combo-sushi-sauce-algerienne-qui-fait-un-tabac-au-japon-20261104_YSWSQVWEK5DRHBMBHTQPDBHUQY/",
+    "summary": "Un tweet suggérant cette audacieuse association a suscité une vague de curiosité dans l’archipel nippon. «Libé» s’est laissé tenter.",
+    "published": "2026-11-04T08:15:00+00:00",
+    "authors": [
+      "Maud Mathias"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/gastronomie/on-a-teste-le-combo-sushi-sauce-algerienne-qui-fait-un-tabac-au-japon-20261104_YSWSQVWEK5DRHBMBHTQPDBHUQY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761348+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Midterms 2026 : Donald Trump félicite les démocrates pour leur «bon boulot», se déclarant «tout à fait disposé à accepter ces résultats»",
+    "link": "https://www.lefigaro.fr/international/midterms-2026-face-a-la-vague-democrate-trump-se-dit-tout-a-fait-dispose-a-accepter-ces-resultats-20261104",
+    "summary": "Le président américain refuse toutefois d’assumer la responsabilité du revers de son camp, arguant qu’il «n’était pas sur le bulletin».",
+    "published": "2026-11-04T08:04:53+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/midterms-2026-face-a-la-vague-democrate-trump-se-dit-tout-a-fait-dispose-a-accepter-ces-resultats-20261104",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/63e578f5ccaf3b66963c82d16184f29dba8af5c52e2e8a1d288c421400aaa7e3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705511+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Victimes du communisme » : à Agde, le RN provoque la colère de la gauche",
+    "link": "https://www.valeursactuelles.com/societe/victimes-du-communisme-a-agde-le-rn-provoque-la-colere-de-la-gauche",
+    "summary": "À l’occasion de l’anniversaire de la chute du mur de Berlin, le maire d’Agde (Hérault) et premier vice-président de l’Agglomération Hérault Méditerranée, Aurélien Lopez-Liguori, a annoncé samedi 31 octobre l’organisation... L’article « Victimes du communisme » : à Agde, le RN provoque la colère de la gauche est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-04T08:00:15+00:00",
+    "authors": [
+      "Guillaume Giffo"
+    ],
+    "categories": [
+      "Non classé",
+      "communisme",
+      "crime",
+      "crime contre l'humanité",
+      "devoir de mémoire",
+      "mémoire"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/victimes-du-communisme-a-agde-le-rn-provoque-la-colere-de-la-gauche",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.554205+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Midterms 2026 : James Talarico, le démocrate chrétien qui déclenche un séisme politique au Texas",
+    "link": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-james-talarico-le-democrate-chretien-qui-declenche-un-seisme-politique-au-texas_6806123_3210.html",
+    "summary": "Ce séminariste de 37 ans a mis en avant sa foi pour séduire les électeurs modérés et remporter la bataille du Sénat, dans un Etat acquis aux républicains depuis des décennies. Les attaques contre son physique ou ses propos passés en faveur des minorités ne lui ont finalement pas porté tort.",
+    "published": "2026-11-04T07:59:28+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/04/midterms-2026-james-talarico-le-democrate-chretien-qui-declenche-un-seisme-politique-au-texas_6806123_3210.html",
+    "image": "https://img.lemde.fr/2026/11/04/558/0/5500/2750/644/322/60/0/4a885ba_ftp-1-b1iz8tanov76-2026-11-04t055603z-1986280576-rc2sgoahtjd1-rtrmadp-3-usa-election-texas.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.651908+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Midterms 2026 : sale nuit électorale à la Maison Blanche",
+    "link": "https://www.liberation.fr/international/amerique/midterms-2026-sale-nuit-electorale-a-la-maison-blanche-20261104_IGRTWERL2NHWZA5WS47YJEKDNM/",
+    "summary": "La victoire éclatante des démocrates, désormais majoritaires à la Chambre des représentants et au Sénat, a inspiré d’inhabituels commentaires magnanimes au président américain.",
+    "published": "2026-11-04T07:56:43+00:00",
+    "authors": [
+      "Laure Bretton, Philippe Coste"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/midterms-2026-sale-nuit-electorale-a-la-maison-blanche-20261104_IGRTWERL2NHWZA5WS47YJEKDNM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761374+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Election à la présidence des maires de France : le sortant David Lisnard sous pression",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/04/election-a-la-presidence-des-maires-de-france-le-sortant-david-lisnard-sous-pression_6806122_823448.html",
+    "summary": "Le maire de Cannes, qui se représente à la tête de l’association fin novembre, tout en ayant aussi déclaré sa candidature à l’élection présidentielle, fait l’objet de nombreuses critiques face à ce qui est considéré par certains comme un « mélange des genres ».",
+    "published": "2026-11-04T07:52:57+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/04/election-a-la-presidence-des-maires-de-france-le-sortant-david-lisnard-sous-pression_6806122_823448.html",
+    "image": "https://img.lemde.fr/2026/11/03/230/0/2760/1380/644/322/60/0/cb58b7d_upload-1-yygbdguz1ajx-000-c6wn7jw.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652308+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Midterms 2026 : un sénateur musulman, des gouverneurs noirs, un sénateur ouvertement gay… Les premières historiques du scrutin",
+    "link": "https://www.lefigaro.fr/international/midterms-2026-une-gouverneure-noire-un-senateur-ouvertement-gay-les-premieres-historiques-du-scrutin-20261104",
+    "summary": "Au-delà de la bataille entre démocrates et républicains, les élections de mi-mandat ont été marquées par plusieurs victoires historiques. Du Congrès aux postes de gouverneurs, plusieurs candidats issus de minorités ont brisé des barrières politiques et symboliques.",
+    "published": "2026-11-04T07:49:39+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/midterms-2026-une-gouverneure-noire-un-senateur-ouvertement-gay-les-premieres-historiques-du-scrutin-20261104",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/90f3369cba7720c7e1b10b71088c5da1abb1d03c6c33fd7e1bd128cf479cb383.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705455+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Midterms 2026 : l’Amérique inflige une répudiation à Donald Trump, les démocrates s’offrent une vaste victoire",
+    "link": "https://www.lefigaro.fr/international/midterms-2026-l-amerique-inflige-une-repudiation-a-donald-trump-les-democrates-s-offrent-une-vaste-victoire-20261104",
+    "summary": "DÉCRYPTAGE - Les premiers résultats des élections de mi-mandat ont confirmé les projections des sondages, et indiquent une double majorité pour les démocrates à la Chambre et au Sénat.",
+    "published": "2026-11-04T07:49:36+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/midterms-2026-l-amerique-inflige-une-repudiation-a-donald-trump-les-democrates-s-offrent-une-vaste-victoire-20261104",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/04/335b69e1e746c939207be99819627d649760370b64110505766b4d9213da0021.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705933+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Raz-de-marée démocrate aux Midterms 2026 : retrouvez tous les résultats, État par État",
+    "link": "https://www.lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104",
+    "summary": "CARTE – Le Parti démocrate prend le contrôle du Sénat et s’empare aussi de la Chambre des représentants dans ce qui ressemble à une vague bleue déferlant sur le pays.",
+    "published": "2026-11-04T07:49:32+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/03/4fa0ff3635fc2575aac5f8b1455ba4350130fead937eb1ea7c37f4982b7c4f02.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705560+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Emmanuel Macron estime que tout le monde est vraiment beaucoup trop «injuste» et «dur» avec lui",
+    "link": "https://www.liberation.fr/politique/emmanuel-macron-estime-que-tout-le-monde-est-vraiment-beaucoup-trop-injuste-et-dur-avec-lui-20261104_66AAOJKAKNHOXP33C7WUBPBKWA/",
+    "summary": "La journaliste Françoise Degois publie deux ans d’échanges de textos avec le président de la République, dans un livre publié jeudi «Vous êtes tous trop durs avec moi» (Robert Laffont). Florilège.",
+    "published": "2026-11-04T07:48:05+00:00",
+    "authors": [
+      "Etienne Baldit, Chez Pol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/emmanuel-macron-estime-que-tout-le-monde-est-vraiment-beaucoup-trop-injuste-et-dur-avec-lui-20261104_66AAOJKAKNHOXP33C7WUBPBKWA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761402+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Midterms 2026 : entre naufrage de Trump et vague démocrate, revivez la nuit électorale américaine",
     "link": "https://www.liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA/",
-    "summary": "Près de 250 millions d’Américains sont appelés aux urnes ce mardi 3 novembre, afin de renouveler l’ensemble de la Chambre des représentants et un tiers du Sénat dans des élections de mi-mandat qui pourraient tourner à la déroute pour le camp républicain.",
-    "published": "2026-11-04T00:53:44+00:00",
+    "summary": "Les Américains ont vivement sanctionné le Parti républicain lors des élections de mi-mandat mardi 3 novembre, permettant aux démocrates de prendre le contrôle de la Chambre des représentants et du Sénat.",
+    "published": "2026-11-04T07:27:13+00:00",
     "authors": [
       "Frédéric Autran, Jérôme Balazard, Benjamin Delille, Sascha Garcia, Apolline Le Romanser, Camille Paix, Camélia Paugam, AFP ., Reuters ., Service Photo"
     ],
@@ -27,7 +809,466 @@
     "guid": "https://www.liberation.fr/international/amerique/resultats-des-midterms-2026-suivez-notre-direct-20261103_23VUN6EUORF3TBSCD6TRDVJFKA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422458+00:00"
+    "fetched_at": "2026-11-04T10:32:05.761428+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "À Bruxelles, les pompiers de toute l’Europe réunis pour dénoncer le manque de moyens",
+    "link": "https://www.mediapart.fr/journal/international/041126/bruxelles-les-pompiers-de-toute-l-europe-reunis-pour-denoncer-le-manque-de-moyens",
+    "summary": "Des syndicats de pompiers venus de dix-huit pays européens ont exprimé leur colère mardi lors d’une manifestation inédite. Ils dénoncent l’impréparation face aux crises climatiques et l’état inquiétant de la protection civile dans leurs pays, conséquence de politiques aveugles d’austérité.",
+    "published": "2026-11-04T07:18:58+00:00",
+    "authors": [
+      "Élina Barbereau"
+    ],
+    "categories": [
+      "International",
+      "Pompiers, Sécurité civile, syndicats, Travail, Union européenne"
+    ],
+    "guid": "1357717 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/20261104-img-manifestation-pompiers-bruxelles.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.661959+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Primaire à droite et au centre : Bruno Retailleau remet la pression sur Edouard Philippe, «il sera contraint à un moment ou un autre de l’accepter»",
+    "link": "https://www.liberation.fr/politique/elections/primaire-a-droite-et-au-centre-bruno-retailleau-remet-la-pression-sur-edouard-philippe-il-sera-contraint-a-un-moment-ou-un-autre-de-laccepter-20261104_C3XFQIVOOVBATCVCSJ4SVJVFIY/",
+    "summary": "Invité sur BFMTV mardi 3 novembre, le candidat LR à la présidentielle a affirmé qu’il «faudra une primaire sans doute en début d’année», se ralliant à l’appel lancé par David Lisnard au printemps et repris par Gabriel Attal dimanche.",
+    "published": "2026-11-04T07:17:28+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/primaire-a-droite-et-au-centre-bruno-retailleau-remet-la-pression-sur-edouard-philippe-il-sera-contraint-a-un-moment-ou-un-autre-de-laccepter-20261104_C3XFQIVOOVBATCVCSJ4SVJVFIY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761460+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Midterms: le camp démocrate inflige une défaite massive à Donald Trump",
+    "link": "https://www.mediapart.fr/journal/international/041126/midterms-le-camp-democrate-inflige-une-defaite-massive-donald-trump",
+    "summary": "Mardi 3 novembre, le Parti démocrate a pris le contrôle de la Chambre des représentants et du Sénat. Le locataire de la Maison-Blanche a reconnu la défaite tout en renvoyant la faute sur le Parti républicain, et s’est dit prêt à travailler avec les vainqueurs du jour.",
+    "published": "2026-11-04T07:09:34+00:00",
+    "authors": [
+      "François Bougon, Alexis Buisson, Patricia Neves"
+    ],
+    "categories": [
+      "International",
+      "A la Une, Donald Trump, Élections aux États-Unis, États-Unis, Midterms, Amériques"
+    ],
+    "guid": "1357755 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-une-vague-democrate-aux-midterms-fait-boire-la-tasse-donald-trump-et-aux-republicains-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.661991+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Déroute pour Donald Trump aux midterms, consultations post-électorales en Israël, parcours de la manif jeudi… L’actu de ce mercredi 4 novembre au matin",
+    "link": "https://www.liberation.fr/international/europe/deroute-pour-donald-trump-aux-midterms-consultations-post-electorales-en-israel-mouvement-social-en-france-lactu-de-ce-mercredi-4-novembre-au-matin-20261104_EOTKQYVQWBCIBFK725IV7TE3NQ/",
+    "summary": "La rédaction de «Libération» compile les principales infos de ce mercredi 4 novembre.",
+    "published": "2026-11-04T07:04:18+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/deroute-pour-donald-trump-aux-midterms-consultations-post-electorales-en-israel-mouvement-social-en-france-lactu-de-ce-mercredi-4-novembre-au-matin-20261104_EOTKQYVQWBCIBFK725IV7TE3NQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761484+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Il n’a pas à risquer 30 ans de prison » : une cagnotte lancée pour soutenir un homme qui a tiré sur un cambrioleur",
+    "link": "https://www.valeursactuelles.com/societe/il-na-pas-a-risquer-30-ans-de-prison-une-cagnotte-lancee-pour-soutenir-un-homme-qui-a-tire-sur-un-cambrioleur",
+    "summary": "Dans l’après-midi du vendredi 28 août, Maxime, habitant de Cormeilles (Oise), profite d’un jour de congé à son domicile lorsqu’il entend du bruit provenant du pavillon de ses voisins, qu’il... L’article « Il n’a pas à risquer 30 ans de prison » : une cagnotte lancée pour soutenir un homme qui a tiré sur un cambrioleur est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-04T07:01:30+00:00",
+    "authors": [
+      "Alix Cagnard"
+    ],
+    "categories": [
+      "Non classé",
+      "cambriolage",
+      "hauts-de-france",
+      "Justice",
+      "légitime défense",
+      "tentative d'homicide"
+    ],
+    "guid": "https://www.valeursactuelles.com/societe/il-na-pas-a-risquer-30-ans-de-prison-une-cagnotte-lancee-pour-soutenir-un-homme-qui-a-tire-sur-un-cambrioleur",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.554258+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Dans « Gouverner », Jordan Bardella creuse le sillon libéral-sécuritaire du RN, sans propositions nouvelles",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html",
+    "summary": "Dans son troisième livre en trois ans, le président du Rassemblement national, aspirant premier ministre de Marine Le Pen, multiplie les promesses de dérégulation et de baisses d’impôts aux milieux patronaux avant de se lancer dans une critique nourrie de l’Etat social.",
+    "published": "2026-11-04T07:00:09+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/04/dans-gouverner-jordan-bardella-creuse-le-sillon-liberal-securitaire-du-rn-sans-propositions-nouvelles_6806117_823448.html",
+    "image": "https://img.lemde.fr/2026/10/06/474/0/6720/3360/644/322/60/0/453b99b_upload-1-iceihj862xrg-cbi1340023.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652150+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "On a lu pour vous «Gouverner» : entre non-dits et banalités, Jordan Bardella et son livre impossible",
+    "link": "https://www.liberation.fr/politique/elections/gouverner-entre-non-dits-et-banalites-jordan-bardella-et-son-livre-impossible-20261104_IAREP66LRFGNJHFAQLWLVNRIXM/",
+    "summary": "Dans son troisième livre pensé à la base pour le cas de figure où il aurait été candidat à la présidentielle, Jordan Bardella peine à masquer derrière des lieux communs son absence d’autonomie politique et son rôle de simple porte-parole de la campagne de Marine Le Pen.",
+    "published": "2026-11-04T07:00:00+00:00",
+    "authors": [
+      "Nicolas Massol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/gouverner-entre-non-dits-et-banalites-jordan-bardella-et-son-livre-impossible-20261104_IAREP66LRFGNJHFAQLWLVNRIXM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761516+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Un rapport décortique le système Frontex, bras armé de l’UE contre les exilés",
+    "link": "https://www.mediapart.fr/journal/international/041126/un-rapport-decortique-le-systeme-frontex-bras-arme-de-l-ue-contre-les-exiles",
+    "summary": "Le laboratoire Liminal, un collectif de recherche qui documente les violences aux frontières et les effets des politiques migratoires, arrive à la conclusion que l’agence européenne joue un rôle crucial dans l’interception et le refoulement illégal des personnes migrantes en Méditerranée.",
+    "published": "2026-11-04T06:47:57+00:00",
+    "authors": [
+      "Nejma Brahim"
+    ],
+    "categories": [
+      "International",
+      "Frontex, Méditerranée, Migrations, Union européenne"
+    ],
+    "guid": "1357653 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/03/261103-img-frontex-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.662019+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Commission d’enquête sur le 17 octobre: pour sa première audition, Nuñez noie le poisson",
+    "link": "https://www.mediapart.fr/journal/politique/041126/commission-d-enquete-sur-le-17-octobre-pour-sa-premiere-audition-nunez-noie-le-poisson",
+    "summary": "Mardi, le ministre de l’intérieur s’est montré flou, voire approximatif, devant les députés qui l’interrogeaient sur le fiasco de sa gestion du maintien de l’ordre. Mais à droite et à l’extrême droite, on s’emploie surtout à jeter le discrédit sur les conclusions à venir.",
+    "published": "2026-11-04T06:45:40+00:00",
+    "authors": [
+      "Pauline Graulle"
+    ],
+    "categories": [
+      "Politique",
+      "Assemblée nationale, Laurent Nuñez, ministre de l'Intérieur, Mouvement du 17 octobre"
+    ],
+    "guid": "1357695 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/03/261103-img-nunez.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.662049+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Le graffeur Nacle attaque le maire de Besançon, qui a fait effacer sa fresque",
+    "link": "https://www.mediapart.fr/journal/france/041126/le-graffeur-nacle-attaque-le-maire-de-besancon-qui-fait-effacer-sa-fresque",
+    "summary": "Le 20 septembre, l’artiste bisontin avait peint une fresque dénonçant les violences policières et la loi dite «permis de tuer», effacée en quelques heures par la mairie. Visé depuis par une plainte pour outrage, il contre-attaque et a déposé plainte pour dégradation et entrave à la liberté artistique.",
+    "published": "2026-11-04T06:45:36+00:00",
+    "authors": [
+      "Jérôme Hourdeaux"
+    ],
+    "categories": [
+      "France",
+      "Besançon, Liberté d'expression, liberté de création, Libertés publiques"
+    ],
+    "guid": "1357594 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/03/261103-img-le-graffeur-nacle.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.662079+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Sa démission, CNews, les riches et sa vie d’après… Des messages chocs d’Emmanuel Macron révélés dans un livre",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
+    "summary": "INFO LE FIGARO - Dans Vous êtes tous trop durs avec moi, l’éditorialiste Françoise Degois révèle ses échanges avec le président pendant deux ans. Y apparaît un Emmanuel Macron qui défend pied à pied ses choix, s’indigne contre les « mabouls » ou les « salopards », et redoute entre les lignes l’arrivée du RN au pouvoir en 2027.",
+    "published": "2026-11-04T06:43:55+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
+    "image": "https://i.f1g.fr/media/cms/2981x1677_crop/2026/11/03/09a70a9371cfbde90257b6a8930b10984e74b9785b2336f40ae1677b7c0785eb.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705719+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mère fichée pour radicalisation, arme non chargée, accusations d’agressions sexuelles… Ce que l’on sait de l’agression de deux enseignantes dans une école maternelle à Nice lundi",
+    "link": "https://www.liberation.fr/societe/police-justice/agression-dans-une-ecole-a-nice-la-mere-etait-fichee-pour-radicalisation-islamiste-20261103_B4VHSJAQHZHSJJ3WRML2WVOFRI/",
+    "summary": "La femme placée en garde à vue lundi après avoir séquestré une directrice et frappé une institutrice doit être déférée devant un juge ce mercredi 4 novembre. «Libération» fait le point sur ce que l’on sait de cette séquence.",
+    "published": "2026-11-04T06:35:16+00:00",
+    "authors": [
+      "Charles Delouche-Bertolasi, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/agression-dans-une-ecole-a-nice-la-mere-etait-fichee-pour-radicalisation-islamiste-20261103_B4VHSJAQHZHSJJ3WRML2WVOFRI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761548+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : Bruno Retailleau juge qu’il faudra une primaire en début d’année",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-bruno-retailleau-juge-qu-il-faudra-une-primaire-en-debut-d-annee_6806114_823448.html",
+    "summary": "Le candidat Les Républicains disait, jusqu’à présent, ne pas s’opposer à une primaire, mais jugeait qu’elle ne pouvait avoir lieu en raison de la fin de non-recevoir d’Edouard Philippe, le mieux placé dans les sondages.",
+    "published": "2026-11-04T06:31:23+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-bruno-retailleau-juge-qu-il-faudra-une-primaire-en-debut-d-annee_6806114_823448.html",
+    "image": "https://img.lemde.fr/2026/10/21/560/0/6720/3360/644/322/60/0/9559ee1_upload-1-9tkzjij2qzfa-cbi1349030.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652122+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Syndicats et patronat démarrent ce mercredi des négociations sur l’emploi des jeunes",
+    "link": "https://www.liberation.fr/economie/social/syndicats-et-patronat-demarrent-ce-mercredi-des-negociations-sur-lemploi-des-jeunes-20261104_GMRGHIBPFVA6VF6AK2KJMVRJ3M/",
+    "summary": "Cinq organisations syndicales et trois patronales doivent plancher sur «l’accès au travail de qualité» des 15-24 ans, dont le taux de chômage, à 21,6 % au deuxième trimestre, est deux fois plus important que le taux général.",
+    "published": "2026-11-04T06:25:50+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/social/syndicats-et-patronat-demarrent-ce-mercredi-des-negociations-sur-lemploi-des-jeunes-20261104_GMRGHIBPFVA6VF6AK2KJMVRJ3M/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761576+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Midterms 2026 : tsunami démocrate et crépuscule de Donald Trump",
+    "link": "https://www.liberation.fr/international/amerique/midterms-2026-tsunami-democrate-et-crepuscule-de-donald-trump-20261104_DNZLKIB4CVGNTJMC76ZRQVF6UQ/",
+    "summary": "Les élections de mi-mandat sont marquées par une déferlante démocrate qui fait basculer les deux chambres du Congrès et tomber plusieurs bastions républicains. Pour Donald Trump, c’est un désaveu historique et son emprise sur le Parti républicain vacille enfin.",
+    "published": "2026-11-04T06:17:02+00:00",
+    "authors": [
+      "Frédéric Autran"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/midterms-2026-tsunami-democrate-et-crepuscule-de-donald-trump-20261104_DNZLKIB4CVGNTJMC76ZRQVF6UQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761604+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pourquoi l’imminence de la présidentielle ne calme pas les manifestants, par Rémi Lefebvre",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-limminence-de-la-presidentielle-ne-calme-pas-les-manifestants-par-remi-lefebvre-20261104_SWG6PGPIFNHZTKV4SF6YSHBDQQ/",
+    "summary": "Le 18 octobre, Emmanuel Macron avait appelé à la retenue à six mois de l’élection préférée des Français mais ce ressort ne marche plus, pointe le politologue. Car les citoyens ont perdu confiance dans la démocratie électorale.",
+    "published": "2026-11-04T06:15:00+00:00",
+    "authors": [
+      "Rémi Lefebvre"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/pourquoi-limminence-de-la-presidentielle-ne-calme-pas-les-manifestants-par-remi-lefebvre-20261104_SWG6PGPIFNHZTKV4SF6YSHBDQQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761639+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Arrêts maladie : «Pousser les personnes à reprendre le travail trop tôt peut avoir des conséquences catastrophiques sur leur santé»",
+    "link": "https://www.liberation.fr/societe/sante/arrets-maladies-pousser-les-personnes-a-reprendre-le-travail-trop-tot-peut-avoir-des-consequences-catastrophiques-sur-leur-sante-20261104_EYM466FGKFEBNFEW2IVJUIJEHE/",
+    "summary": "Entendue ce mercredi 3 novembre dans le cadre d’un projet de réforme du système des arrêts maladie, la psychologue du travail Dominique Lhuilier dénonce une approche trop «court-termiste» du gouvernement, uniquement préoccupé par les économies budgétaires.",
+    "published": "2026-11-04T06:03:00+00:00",
+    "authors": [
+      "Anaïs Moran"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/arrets-maladies-pousser-les-personnes-a-reprendre-le-travail-trop-tot-peut-avoir-des-consequences-catastrophiques-sur-leur-sante-20261104_EYM466FGKFEBNFEW2IVJUIJEHE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761670+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Saint Carlo Acutis, « geek de Dieu » : les confidences poignantes de sa mère",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/saint-carlo-acutis-geek-de-dieu-les-confidences-poignantes-de-sa-mere",
+    "summary": "Valeurs actuelles. Vous êtes venue en France pour la diffusion du documentaire consacré à votre fils, « Carlo Acutis, un saint pour notre temps ». Comment décririez-vous ce garçon à... L’article Saint Carlo Acutis, « geek de Dieu » : les confidences poignantes de sa mère est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-04T06:01:48+00:00",
+    "authors": [
+      "Bertille Vaur"
+    ],
+    "categories": [
+      "Non classé",
+      "canonisation",
+      "catholique",
+      "film",
+      "Léon XIV",
+      "saint"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/saint-carlo-acutis-geek-de-dieu-les-confidences-poignantes-de-sa-mere",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.554305+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Nos critiques des sorties de la semaine : «l’Affaire Marie-Claire», «Wild Horse Nine», «Club Kid»…",
+    "link": "https://www.liberation.fr/culture/cinema/nos-critiques-des-sorties-de-la-semaine-laffaire-marie-claire-wild-horse-nine-club-kid-20261104_ZMZVURNQVJG6PFHMROO5PN2GCM/",
+    "summary": "«Libé» vous guide dans les sorties cinéma de ce mercredi 4 novembre avec aussi «Godzilla Minus Zero» ou «l’Arabe». Bandes-annonces à l’appui.",
+    "published": "2026-11-04T06:00:00+00:00",
+    "authors": [
+      "Service Culture"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/cinema/nos-critiques-des-sorties-de-la-semaine-laffaire-marie-claire-wild-horse-nine-club-kid-20261104_ZMZVURNQVJG6PFHMROO5PN2GCM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761696+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Midterms 2026 : la Chambre des représentants passe démocrate, quels changements pour les Etats-Unis ?",
+    "link": "https://www.liberation.fr/international/amerique/midterms-2026-la-chambre-des-representants-passe-democrate-quels-changements-pour-les-etats-unis-20261104_O3OUFCVL6ZFBJDK6BDM4YTBWHQ/",
+    "summary": "Comme les sondages le laissaient penser, le Parti démocrate a reconquis la Chambre basse du Congrès. Ajoutée au Sénat, cette victoire lui donne un relatif pouvoir de nuisance face à Donald Trump.",
+    "published": "2026-11-04T05:54:30+00:00",
+    "authors": [
+      "Gabriel Pornet"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/midterms-2026-la-chambre-des-representants-passe-democrate-quels-changements-pour-les-etats-unis-20261104_O3OUFCVL6ZFBJDK6BDM4YTBWHQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761722+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Midterms 2026 : le Sénat passé démocrate, quels changements pour les Etats-Unis ?",
+    "link": "https://www.liberation.fr/international/amerique/midterms-2026-le-senat-passe-democrate-quels-changements-pour-les-etats-unis-20261104_ZCH7W2JP2VD45JWISPX365NGBQ/",
+    "summary": "Les démocrates ont réussi l’exploit de reprendre la Chambre haute le 3 novembre, concrétisant les scénarios les plus optimistes des analystes politiques.",
+    "published": "2026-11-04T05:49:21+00:00",
+    "authors": [
+      "Gabriel Pornet"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/amerique/midterms-2026-le-senat-passe-democrate-quels-changements-pour-les-etats-unis-20261104_ZCH7W2JP2VD45JWISPX365NGBQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761747+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Se sentir parent : «Je dois protéger cet enfant coûte que coûte même s’il n’est pas encore né»",
+    "link": "https://www.liberation.fr/lifestyle/parentalites/se-sentir-parent-je-dois-proteger-cet-enfant-coute-que-coute-meme-sil-nest-pas-encore-ne-20261104_LX3VIKN3CFBQLAIDE7EKO5RZKA/",
+    "summary": "Avoir un enfant, c’est aussi naître parent. Dans le troisième épisode de notre série, Julia raconte pourquoi elle s’est sentie parente avant même la naissance de sa fille.",
+    "published": "2026-11-04T05:44:00+00:00",
+    "authors": [
+      "Rita Seitz"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/parentalites/se-sentir-parent-je-dois-proteger-cet-enfant-coute-que-coute-meme-sil-nest-pas-encore-ne-20261104_LX3VIKN3CFBQLAIDE7EKO5RZKA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761808+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«L’Affaire Marie-Claire» avec Charlotte Gainsbourg : le biopic sur Gisèle Halimi renié par les féministes intersectionnelles",
+    "link": "https://www.liberation.fr/culture/cinema/laffaire-marie-claire-avec-charlotte-gainsbourg-le-biopic-sur-gisele-halimi-renie-par-les-feministes-intersectionnelles-20261104_TDZXIACINVCIZJOWYOTM3T5NYY/",
+    "summary": "Plusieurs associations, à l’instar de Choisir la cause des femmes, cofondé par l’avocate, ont refusé de soutenir le film, dénonçant notamment l’invisibilisation de l’engagement décolonial de Gisèle Halimi.",
+    "published": "2026-11-04T05:37:00+00:00",
+    "authors": [
+      "Sandra Onana"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/cinema/laffaire-marie-claire-avec-charlotte-gainsbourg-le-biopic-sur-gisele-halimi-renie-par-les-feministes-intersectionnelles-20261104_TDZXIACINVCIZJOWYOTM3T5NYY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761846+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "LFI, parti léniniste 2.0, par l’historien Sylvain Boulouque",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/lfi-parti-leniniste-20-par-lhistorien-sylvain-boulouque-20261104_TXS7RZCUSBAQZN7EXRDDFSL4GQ/",
+    "summary": "Depuis plusieurs mois, les dirigeants de LFI multiplient les références implicites au léninisme. Loin d’être anecdotiques, elles traduisent des inspirations et des pratiques communes, analyse Sylvain Boulouque, historien des radicalités politiques et des mouvements sociaux.",
+    "published": "2026-11-04T05:20:00+00:00",
+    "authors": [
+      "Sylvain Boulouque"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/lfi-parti-leniniste-20-par-lhistorien-sylvain-boulouque-20261104_TXS7RZCUSBAQZN7EXRDDFSL4GQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761874+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Midterms: les cartes des résultats",
+    "link": "https://www.mediapart.fr/journal/international/041126/midterms-les-cartes-des-resultats",
+    "summary": "Les États-Uniens et États-Uniennes ont voté mardi 3 novembre pour renouveler les 435 sièges de la Chambre des représentants, un tiers du Sénat et 36 postes de gouverneur. Dans ce qui constitue le premier grand test national du second mandat de Donald Trump, les républicains ont perdu le contrôle du Congrès. Les résultats en direct, État par État.",
+    "published": "2026-11-04T05:09:35+00:00",
+    "authors": [
+      "Noé Sotto"
+    ],
+    "categories": [
+      "International",
+      "A la Une, Chambre des représentants, Donald Trump, Élections aux États-Unis, États-Unis, Midterms, Parti démocrate, Parti républicain, Sénat, Amériques"
+    ],
+    "guid": "1357759 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-midterms-2026-les-cartes-des-resultats.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.662109+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Afrique du Sud, la déconfiture annoncée de l’ANC, en perte de vitesse dans les grandes villes du pays",
+    "link": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html",
+    "summary": "Chômage, criminalité, déliquescence des infrastructures, corruption… Le pays, dirigé depuis 1994 par le Congrès national africain, est rongé par de multiples crises. Le parti est annoncé au coude-à-coude avec l’Alliance démocratique lors du scrutin municipal de mercredi 4 novembre.",
+    "published": "2026-11-04T05:00:25+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/11/04/en-afrique-du-sud-la-deconfiture-annoncee-de-l-anc-en-perte-de-vitesse-dans-les-grandes-villes-du-pays_6806072_3212.html",
+    "image": "https://img.lemde.fr/2026/10/29/0/0/6000/3000/644/322/60/0/ba0bc22_ftp-1-oo9fvqde75ws-2026-10-29t140629z-1679833974-rc2ycoaopg9z-rtrmadp-3-safrica-election.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.652096+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Prothèse anti-hernie : peu de plaintes mais pas forcément peu d’effets indésirables",
+    "link": "https://www.liberation.fr/societe/sante/prothese-anti-hernie-peu-de-plaintes-mais-pas-forcement-peu-deffets-indesirables-20261104_3L2OLDZAJNFWRPSSMNXSO42QWQ/",
+    "summary": "Christian Lehmann est médecin et écrivain. A ses yeux, les réactions de nombreux chirurgiens au calvaire du comédien Arnaud Denis, mort en septembre, en disent long sur leur déni des souffrances de patients après la pose d’implants, et des risques de l’opération.",
+    "published": "2026-11-04T04:40:00+00:00",
+    "authors": [
+      "Christian Lehmann"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/prothese-anti-hernie-peu-de-plaintes-mais-pas-forcement-peu-deffets-indesirables-20261104_3L2OLDZAJNFWRPSSMNXSO42QWQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761904+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«L’Arabe» de Malek Bensmaïl se brise en Meursault",
+    "link": "https://www.liberation.fr/culture/cinema/larabe-de-malek-bensmail-se-brise-en-meursault-20261104_6B5D6R4CLVF5ZGACDPIW72SQVM/",
+    "summary": "Libre adaptation de la «contre-enquête» de Kamel Daoud, le long métrage de Malek Bensmaïl brasse trop large et y perd la force de son propos.",
+    "published": "2026-11-04T04:39:00+00:00",
+    "authors": [
+      "Laura Tuillier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/cinema/larabe-de-malek-bensmail-se-brise-en-meursault-20261104_6B5D6R4CLVF5ZGACDPIW72SQVM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.761929+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Budget 2027 : devant l’impasse des débats, Sébastien Lecornu explore la voie des ordonnances",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-devant-l-impasse-des-debats-sebastien-lecornu-explore-la-voie-des-ordonnances_6805969_823448.html",
+    "summary": "Alors que l’Assemblée nationale s’apprête à rejeter la partie recettes du projet de loi de finances, le gouvernement est soupçonné de laisser filer la discussion pour mettre en œuvre son texte initial par ordonnances, une solution jugée plus sûre que le recours au 49.3 par des membres du camp présidentiel, mais aussi de l’opposition.",
+    "published": "2026-11-04T04:30:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2027-devant-l-impasse-des-debats-sebastien-lecornu-explore-la-voie-des-ordonnances_6805969_823448.html",
+    "image": "https://img.lemde.fr/2026/11/03/417/0/2500/1250/644/322/60/0/df6a245_upload-1-aqzhte7x2ec0-jmug261103006.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.651943+00:00"
   },
   {
     "source": "Le Monde",
@@ -71,21 +1312,6 @@
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/04/20ade6fbff5dad8b5647fa4a462873c134d8c6eee25fc5c1094b511794548caf.jpg",
     "full_text": null,
     "fetched_at": "2026-11-04T01:03:30.355756+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Midterms 2026 : Donald Trump va-t-il conserver sa majorité au Congrès ? Suivez les résultats et la carte en direct",
-    "link": "https://www.lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104",
-    "summary": "CARTE – Les électeurs doivent renouveler l’intégralité de la Chambre des représentants, un tiers du Sénat et de nombreux postes de gouverneurs. Un scrutin décisif pour l’avenir de Donald Trump jusqu’en 2028.",
-    "published": "2026-11-03T23:10:34+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/midterms-2026-donald-trump-va-t-il-conserver-sa-majorite-au-congres-suivez-les-resultats-et-la-carte-en-direct-20261104",
-    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/03/4fa0ff3635fc2575aac5f8b1455ba4350130fead937eb1ea7c37f4982b7c4f02.jpg",
-    "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.355532+00:00"
   },
   {
     "source": "Le Monde",
@@ -156,7 +1382,7 @@
     "guid": "https://www.liberation.fr/international/amerique/donald-trump-cree-la-surprise-en-annoncant-mettre-fin-a-des-milliards-daide-a-israel-20261103_CHE4J66QGJGV5DGYY2VOYXW2IY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422502+00:00"
+    "fetched_at": "2026-11-04T10:32:05.761964+00:00"
   },
   {
     "source": "Le Monde",
@@ -199,7 +1425,7 @@
     "guid": "https://www.liberation.fr/international/europe/catastrophe-ferroviaire-en-espagne-le-ministre-des-transports-a-presente-sa-demission-20261103_S7MS43Y43NA45F7LKXINPZAXC4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422540+00:00"
+    "fetched_at": "2026-11-04T10:32:05.761996+00:00"
   },
   {
     "source": "Le Figaro",
@@ -242,7 +1468,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/attentat-des-yvelines-kevin-t-le-tireur-presume-a-fait-une-tentative-de-suicide-en-detention-20261103_IVWJZXNQTZC2REQS2OIDPKNJKE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422574+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762026+00:00"
   },
   {
     "source": "Mediapart",
@@ -255,12 +1481,12 @@
     ],
     "categories": [
       "International",
-      "A la Une, Donald Trump, élections de mi-mandat, États-Unis, Midterms, Parti démocrate, Parti républicain, Amériques"
+      "A la Une, Donald Trump, Élections aux États-Unis, élections de mi-mandat, États-Unis, Midterms, Parti démocrate, Parti républicain, Amériques"
     ],
     "guid": "1357342 at https://www.mediapart.fr/",
-    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-midterms-11.jpg",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-midterms-aux-etats-unis-la-nuit-electorale-en-direct-17.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.285903+00:00"
+    "fetched_at": "2026-11-04T10:32:05.662137+00:00"
   },
   {
     "source": "Le Monde",
@@ -391,11 +1617,11 @@
     "guid": "https://www.liberation.fr/societe/police-justice/quand-la-police-intervient-un-eleve-finit-aux-urgences-a-paris-lyceens-et-professeurs-denoncent-une-intervention-policiere-violente-20261103_3F26UHE345CJ5CL7G5R2A52JMA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422610+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762058+00:00"
   },
   {
     "source": "Libération",
-    "title": "Route du Rhum : le tenant du titre Charles Caudrelier abandonne après seulement deux jours de course",
+    "title": "Route du rhum : le tenant du titre Charles Caudrelier abandonne après seulement deux jours de course",
     "link": "https://www.liberation.fr/sports/route-du-rhum-le-tenant-du-titre-charles-caudrelier-abandonne-apres-seulement-deux-jours-de-course-20261103_W73NH2S5H5GANBKOCJKW7GKPGA/",
     "summary": "Le vainqueur de l’édition 2022 a alerté son équipe ce mardi 3 novembre après avoir découvert une avarie sur le foil bâbord de son navire.",
     "published": "2026-11-03T20:17:33+00:00",
@@ -406,7 +1632,7 @@
     "guid": "https://www.liberation.fr/sports/route-du-rhum-le-tenant-du-titre-charles-caudrelier-abandonne-apres-seulement-deux-jours-de-course-20261103_W73NH2S5H5GANBKOCJKW7GKPGA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422640+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762084+00:00"
   },
   {
     "source": "Le Figaro",
@@ -441,7 +1667,7 @@
     "guid": "https://www.valeursactuelles.com/politique/robespierre-oui-ca-me-va-bien-le-maire-lfi-de-saint-denis-bally-bagayoko-assume-la-reference-a-la-figure-emblematique-de-la-terreur",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:31.678911+00:00"
+    "fetched_at": "2026-11-04T10:32:05.554353+00:00"
   },
   {
     "source": "Libération",
@@ -456,7 +1682,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/commission-denquete-sur-le-17-octobre-laurent-nunez-un-ministre-face-a-lechec-du-maintien-de-lordre-20261103_7UI2GQ6ZGRHX5BUN4CTNJYQW7Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422670+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762115+00:00"
   },
   {
     "source": "Libération",
@@ -471,7 +1697,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/au-proces-de-linconnue-de-la10-les-images-de-lenfant-dans-la-couverture-bleue-et-lenquete-impossible-20261103_5N2T3FV6URC4NMCBI2X2EXOHRQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422701+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762145+00:00"
   },
   {
     "source": "Libération",
@@ -486,7 +1712,7 @@
     "guid": "https://www.liberation.fr/economie/medias/apres-34-ans-de-delire-groland-tire-sa-reverence-20261103_WQDNVEKPAVBQZKWDVOKLCZ5DBY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422730+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762171+00:00"
   },
   {
     "source": "Le Monde",
@@ -514,7 +1740,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/laurent-nunez-de-good-cop-a-bad-cop-20261103_KQUJVPGVOZCXTNC4EK23VDFQ7U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422759+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762193+00:00"
   },
   {
     "source": "Le Figaro",
@@ -575,7 +1801,7 @@
     "guid": "1357617 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/03/261103-img-gaz.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.285948+00:00"
+    "fetched_at": "2026-11-04T10:32:05.662165+00:00"
   },
   {
     "source": "Libération",
@@ -590,7 +1816,7 @@
     "guid": "https://www.liberation.fr/societe/education/en-direct-mobilisation-dans-les-lycees-et-les-universites-nouvel-appel-aux-blocages-ce-mardi-la-greve-de-jeudi-en-ligne-de-mire-20261103_RO4BAQZVTNDKBP7IFM6T2Y6RAI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422788+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762219+00:00"
   },
   {
     "source": "Le Figaro",
@@ -620,22 +1846,7 @@
     "guid": "https://www.liberation.fr/international/europe/en-pologne-donald-tusk-peine-a-depolitiser-le-systeme-judiciaire-20261103_3Y526UTVCZEMTER5LLAPQH2GJQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422816+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Mère fichée, arme non-chargée, accusations d’agressions sexuelles… Ce que l’on sait de la séquestration qui a eu lieu dans une école à Nice lundi",
-    "link": "https://www.liberation.fr/societe/police-justice/agression-dans-une-ecole-a-nice-la-mere-etait-fichee-pour-radicalisation-islamiste-20261103_B4VHSJAQHZHSJJ3WRML2WVOFRI/",
-    "summary": "Une femme a été arrêtée et placée en garde à vue lundi 2 novembre après s’en être prise à une directrice et une institutrice dans une école maternelle de Nice. «Libération» fait le point sur ce que l’on sait de cette agression.",
-    "published": "2026-11-03T19:16:32+00:00",
-    "authors": [
-      "Charles Delouche-Bertolasi, AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/agression-dans-une-ecole-a-nice-la-mere-etait-fichee-pour-radicalisation-islamiste-20261103_B4VHSJAQHZHSJJ3WRML2WVOFRI/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422851+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762247+00:00"
   },
   {
     "source": "Mediapart",
@@ -692,7 +1903,7 @@
     "guid": "https://www.valeursactuelles.com/faits-divers/propos-reactionnaires-et-racistes-plus-de-160-salaries-de-bfmtv-denoncent-un-glissement-de-la-chaine-a-lextreme-droite",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:31.678977+00:00"
+    "fetched_at": "2026-11-04T10:32:05.554403+00:00"
   },
   {
     "source": "Le Monde",
@@ -733,7 +1944,7 @@
     "guid": "https://www.liberation.fr/economie/medias/droits-tele-de-la-ligue-1-le-foot-francais-suspendu-a-un-nouvel-appel-doffres-20261103_FGRRY7YEK5BXPL2G4JUYLVPPWY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422882+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762276+00:00"
   },
   {
     "source": "Le Monde",
@@ -789,7 +2000,7 @@
     "guid": "https://www.liberation.fr/economie/conso/prix-des-carburants-le-remue-meninges-des-deputes-pour-reduire-la-facture-a-la-pompe-20261103_WHU2O52B5BGC7DPNJGIXXRFZSI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422913+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762305+00:00"
   },
   {
     "source": "Libération",
@@ -804,7 +2015,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/ils-sacharnaient-et-prenaient-du-plaisir-un-manifestant-defigure-le-31-octobre-a-marseille-ligpn-saisie-20261103_MJGG7R4LQRDIJDC3MOU3KDIZJU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.422947+00:00"
+    "fetched_at": "2026-11-04T10:32:05.762338+00:00"
   },
   {
     "source": "Mediapart",
@@ -840,21 +2051,6 @@
     "fetched_at": "2026-11-04T01:03:30.422976+00:00"
   },
   {
-    "source": "Le Figaro",
-    "title": "Sa démission, CNews, les riches et sa vie d’après… Des messages chocs d’Emmanuel Macron révélés dans un livre",
-    "link": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
-    "summary": "INFO LE FIGARO - Dans Vous êtes tous trop durs avec moi, l’éditorialiste Françoise Degois révèle ses échanges avec le président pendant deux ans. Y apparaît un Emmanuel Macron qui défend pied à pied ses choix, s’indigne contre les «mabouls» ou les «salopards», et redoute entre les lignes l’arrivée du RN au pouvoir en 2027.",
-    "published": "2026-11-03T18:04:39+00:00",
-    "authors": [],
-    "categories": [
-      "Présidentielle"
-    ],
-    "guid": "https://www.lefigaro.fr/elections/presidentielles/sa-demission-cnews-les-riches-et-sa-vie-d-apres-des-messages-chocs-d-emmanuel-macron-reveles-dans-un-livre-20261103",
-    "image": "https://i.f1g.fr/media/cms/2981x1677_crop/2026/11/03/09a70a9371cfbde90257b6a8930b10984e74b9785b2336f40ae1677b7c0785eb.jpg",
-    "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.355638+00:00"
-  },
-  {
     "source": "Valeurs actuelles",
     "title": "« Offre exceptionnelle de fin d’année » : une agence de GPA propose sur Facebook des promotions de Noël aux futurs parents",
     "link": "https://www.valeursactuelles.com/societe/offre-exceptionnelle-de-fin-dannee-une-agence-de-gpa-propose-sur-facebook-des-promotions-de-noel-aux-futurs-parents",
@@ -874,7 +2070,7 @@
     "guid": "https://www.valeursactuelles.com/societe/offre-exceptionnelle-de-fin-dannee-une-agence-de-gpa-propose-sur-facebook-des-promotions-de-noel-aux-futurs-parents",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:31.679040+00:00"
+    "fetched_at": "2026-11-04T10:32:05.554464+00:00"
   },
   {
     "source": "Mediapart",
@@ -1146,21 +2342,6 @@
     "fetched_at": "2026-11-04T01:03:30.423208+00:00"
   },
   {
-    "source": "Libération",
-    "title": "Grève du jeudi 5 novembre : la SNCF prévoit des perturbations sur la plupart des lignes, la RATP s’attend à un trafic relativement normal",
-    "link": "https://www.liberation.fr/economie/transports/greve-du-jeudi-5-novembre-la-sncf-prevoit-des-perturbations-sur-la-plupart-des-lignes-la-ratp-sattend-a-un-trafic-relativement-normal-20261103_MWI3KYD3LJBQTJIBS4K256SVYY/",
-    "summary": "Les quatre principaux syndicats de la SNCF s’associent au mot d’ordre de grève nationale du jeudi 5 novembre pour défendre les salaires et l’emploi.",
-    "published": "2026-11-03T17:00:56+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/economie/transports/greve-du-jeudi-5-novembre-la-sncf-prevoit-des-perturbations-sur-la-plupart-des-lignes-la-ratp-sattend-a-un-trafic-relativement-normal-20261103_MWI3KYD3LJBQTJIBS4K256SVYY/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-04T01:03:30.423237+00:00"
-  },
-  {
     "source": "Valeurs actuelles",
     "title": "Taxe à Go-go, Docteur Jean-Luc et Mister Mélenchon… Les coulisses politiques de la semaine",
     "link": "https://www.valeursactuelles.com/clubvaleurs/politique/taxe-a-go-go-docteur-jean-luc-et-mister-melenchon-les-coulisses-politiques-de-la-semaine",
@@ -1178,7 +2359,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/taxe-a-go-go-docteur-jean-luc-et-mister-melenchon-les-coulisses-politiques-de-la-semaine",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:31.679088+00:00"
+    "fetched_at": "2026-11-04T10:32:05.554511+00:00"
   },
   {
     "source": "Le Monde",
@@ -1398,6 +2579,21 @@
     "fetched_at": "2026-11-04T01:03:30.423604+00:00"
   },
   {
+    "source": "Le Figaro",
+    "title": "Grève du 5 novembre : TGV, TER, RER… À quoi faut-il s’attendre dans les transports ?",
+    "link": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+    "summary": "Après trois journées de mobilisation les 17, 24 et 31 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une nouvelle journée de grève et de manifestations jeudi 5 novembre. Les transports seront notamment perturbés.",
+    "published": "2026-11-03T16:06:10+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/03/1863b06b0e8d48cb3c8e024837ec3f023d40070e9de742e45d33f1ca4615cc4d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705800+00:00"
+  },
+  {
     "source": "Valeurs actuelles",
     "title": "Présidentielle 2027 : la jeunesse emmerde de moins en moins le RN",
     "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-la-jeunesse-emmerde-de-moins-en-moins-le-rn",
@@ -1416,7 +2612,7 @@
     "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-la-jeunesse-emmerde-de-moins-en-moins-le-rn",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-04T01:03:31.679132+00:00"
+    "fetched_at": "2026-11-04T10:32:05.554554+00:00"
   },
   {
     "source": "Le Monde",
@@ -3673,6 +4869,21 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-11-03T05:38:12.397475+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Nouvelles cyberattaques contre des supermarchés : ces inquiétantes vulnérabilités sur les réseaux numériques européens",
+    "link": "https://www.lefigaro.fr/international/nouvelles-cyberattaques-contre-des-supermarches-ces-inquietantes-vulnerabilites-sur-les-reseaux-numeriques-europeens-20261102",
+    "summary": "DÉCRYPTAGE - Comme en France il y a trois semaines, des attaquants ont saboté lundi les systèmes de réfrigération. La recrudescence des actes de piratage inquiète les autorités, qui n’ont pas désigné de responsables.",
+    "published": "2026-11-02T19:49:50+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/nouvelles-cyberattaques-contre-des-supermarches-ces-inquietantes-vulnerabilites-sur-les-reseaux-numeriques-europeens-20261102",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/02/19813e67ecc2e33727f326b8ed8a11b8885bbfa2020279484839f365754ccf49.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-04T10:32:05.705634+00:00"
   },
   {
     "source": "Le Monde",
@@ -27904,21 +29115,6 @@
     "image": "https://img.lemde.fr/2023/04/06/632/0/8640/4320/644/322/60/0/0e558c4_1680800891300-350022.jpg",
     "full_text": null,
     "fetched_at": "2026-10-25T15:39:31.686619+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Grève intersyndicale du 5 novembre : transports, éducation, santé... Quels sont les secteurs mobilisés ?",
-    "link": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
-    "summary": "Après les deux journées de mobilisation sociale des 17 et 24 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une journée de grève et de manifestations le jeudi 5 novembre «pour les salaires, les services publics, l’emploi et l’industrie».",
-    "published": "2026-10-25T12:21:10+00:00",
-    "authors": [],
-    "categories": [
-      "Social"
-    ],
-    "guid": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
-    "image": "https://i.f1g.fr/media/cms/orig/2026/10/25/f0e4fe3dfd18947bfa331a6d1e09ef574292dee8db3e9f9c9e8e95feab33e0c5.JPG",
-    "full_text": null,
-    "fetched_at": "2026-10-25T15:39:31.827450+00:00"
   },
   {
     "source": "Le Figaro",
