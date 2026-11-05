@@ -1,6 +1,966 @@
 [
   {
     "source": "Le Figaro",
+    "title": "EN DIRECT - Grève du 5 novembre : début des départs des cortèges, seulement 81 établissements bloqués selon Matignon, 1000 «à l’arrêt» selon un syndicat lycéen",
+    "link": "https://www.lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105",
+    "summary": "Environ 2,2% des établissements scolaires étaient «bloqués» jeudi matin, soit 81 lycées sur 3700, dans le cadre de la journée de mobilisation à l’appel des syndicats, selon Matignon, tandis que l’Union syndicale lycéenne (USL) faisait état de 1000 lycées «à l’arrêt», soit à la fois ceux bloqués et ceux fermés administrativement.",
+    "published": "2026-11-05T10:19:03+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/en-direct-greve-du-5-novembre-la-grogne-sociale-monte-d-un-cran-jusqu-a-700-000-manifestants-attendus-dans-les-rues-20261105",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/05/f3b253c4d15f0cc699e0c762a9d3c6ad81456fda5033df652160be7ea608a316.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481256+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«J’ai perdu les économies de toute ma vie» : au Paraguay, colère et inquiétude des clients d’une banque en faillite",
+    "link": "https://www.lefigaro.fr/international/j-ai-perdu-les-economies-de-toute-ma-vie-au-paraguay-colere-et-inquietude-des-clients-d-une-banque-en-faillite-20261105",
+    "summary": "Mercredi, des manifestants sont descendus dans les rues d’Asunción au Paraguay pour réclamer la démission du président Santiago Peña, après la fermeture soudaine de la banque Ueno, qui a privé ses clients de l’accès à leurs fonds.",
+    "published": "2026-11-05T10:17:48+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/j-ai-perdu-les-economies-de-toute-ma-vie-au-paraguay-colere-et-inquietude-des-clients-d-une-banque-en-faillite-20261105",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/05/e9b0022d7ecc2454cfa1c32f7b5ad633dbe7302cf94020bee1d30feb355717d6.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481838+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Un A320 reliant Dublin à Rome s’est « posé en sécurité » à Evreux après une alerte à la bombe, des incidents similaires se succèdent en Europe",
+    "link": "https://www.lemonde.fr/international/article/2026/11/05/alertes-a-la-bombe-un-a320-reliant-dublin-a-rome-s-est-pose-en-securite-a-evreux-des-incidents-similaires-se-succedent-en-europe_6806848_3210.html",
+    "summary": "Deux alertes à la bombe ont visé jeudi deux autres vols différents, le premier de Finnair reliant Helsinki à Rome et le second de Wizz Air reliant Milan à Varsovie, et dérouté sur Vienne, a annoncé l’agence de presse italienne Ansa.",
+    "published": "2026-11-05T10:17:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/05/alertes-a-la-bombe-un-a320-reliant-dublin-a-rome-s-est-pose-en-securite-a-evreux-des-incidents-similaires-se-succedent-en-europe_6806848_3210.html",
+    "image": "https://img.lemde.fr/2026/11/05/500/0/6000/3000/644/322/60/0/122c55e_upload-1-wfnnenxqgf1u-2023-07-30t202104z-737710034-rc2sd2a5pi79-rtrmadp-3-ireland-air-show.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.475944+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT – Grève du 5 novembre : à Lyon et Nice, les premiers cortèges s’élancent en musique",
+    "link": "https://www.liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I/",
+    "summary": "A l’appel des syndicats, travailleurs du public et du privé se mobilisent ce jeudi pour le pouvoir d’achat, lycéens, étudiants et gilets jaunes à leurs côtés. Le ministère de l’Intérieur reconduit son dispositif de 70 000 policiers et gendarmes.",
+    "published": "2026-11-05T10:15:41+00:00",
+    "authors": [
+      "Gilles Dhers, Léonard Cassette, Service Photo, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/en-direct-greve-du-5-novembre-entre-500-000-et-700-000-manifestants-attendus-en-france-ce-jeudi-hors-paris-20261105_AWBY5H2M7RH6ZK55KSXPMVIZ2I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561522+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Présidentielle 2027 : Marine Tondelier présentera «le résultat [des] négociations» avec la gauche à ses adhérents «fin novembre, début décembre»",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-bruno-retailleau-marine-tondelier-et-laure-lavalette-principaux-invites-des-matinales-20261105",
+    "summary": "À moins de six mois de l’élection présidentielle, Les Écologistes cherchent toujours leur stratégie, tiraillés entre une candidature autonome et un ralliement. «Aujourd’hui, personne n’est capable de gagner seul, Jean-Luc Mélenchon et Raphaël Glucksmann ne gagneront pas seuls», a déclaré sur Public sénat Marine Tondelier.",
+    "published": "2026-11-05T10:14:03+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-bruno-retailleau-marine-tondelier-et-laure-lavalette-principaux-invites-des-matinales-20261105",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/05/3ce90d35fb204ae472ebf34ea180349d6afcb7ffd19f6d35cc5ea61bacc15940.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481677+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "De nouvelles alertes à la bombe sur un vol pour Rome et un vol au départ de Milan",
+    "link": "https://www.lefigaro.fr/international/de-nouvelles-alertes-a-la-bombe-sur-un-vol-pour-rome-et-un-vol-au-depart-de-milan-20261105",
+    "summary": "Un Airbus A320 assurant la liaison Dublin-Rome avait déjà été dérouté plus tôt dans la matinée ce jeudi 5 novembre vers la base aérienne d’Évreux, dans l’Eure, après une alerte à la bombe, a indiqué Matignon.",
+    "published": "2026-11-05T10:13:24+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/de-nouvelles-alertes-a-la-bombe-sur-un-vol-pour-rome-et-un-vol-au-depart-de-milan-20261105",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/05/9c8c3058a1fec79bf48a79fa3920dd8c67df504b52af12bca7ef91e8e9ffe611.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481590+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Visualisez en carte la trajectoire du vol Aer Lingus EI402 qui s’est posé en France après une alerte à la bombe",
+    "link": "https://www.lefigaro.fr/actualite-france/visualisez-en-carte-la-trajectoire-du-vol-aer-lingus-ei402-qui-s-est-pose-en-france-apres-une-alerte-a-la-bombe-20261105",
+    "summary": "CARTE – Un Airbus A320 reliant Dublin à Rome a été dérouté vers la base aérienne d’Évreux suite à une alerte à la bombe.",
+    "published": "2026-11-05T10:12:50+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/visualisez-en-carte-la-trajectoire-du-vol-aer-lingus-ei402-qui-s-est-pose-en-france-apres-une-alerte-a-la-bombe-20261105",
+    "image": "https://i.f1g.fr/media/cms/1900x1287_crop/2026/11/05/fe2df6336ea85239d68d14106a1f7adf77cc14b171da4e35bf16d7f75cedf6eb.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481534+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Après l’attentat de Trappes, les colporteurs du «grand remplacement» refusent tout examen de conscience",
+    "link": "https://www.mediapart.fr/journal/politique/051126/apres-l-attentat-de-trappes-les-colporteurs-du-grand-remplacement-refusent-tout-examen-de-conscience",
+    "summary": "La tuerie raciste commise dans les Yvelines par Kevin Tessier, obsédé par l’immigration, met en lumière la responsabilité de celles et ceux qui ont diffusé la théorie complotiste du «grand remplacement». Une proposition de loi vise à en pénaliser l’usage.",
+    "published": "2026-11-05T10:11:28+00:00",
+    "authors": [
+      "Alexandre Berteau, Mathieu Dejean"
+    ],
+    "categories": [
+      "Le « grand remplacement », idéologie meurtrière",
+      "attentat de trappes, Eric Zemmour, Extrême droite, grand remplacement, Rassemblement national, Renaud Camus"
+    ],
+    "guid": "1357646 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-apres-l-attentat-de-trappes-les-colporteurs-du-grand-remplacement-refusent-tout-examen-de-conscience-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.970389+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Alertes à la bombe : sept avions déroutés en France et dans plusieurs pays d’Europe",
+    "link": "https://www.liberation.fr/societe/un-vol-dublin-rome-deroute-vers-evreux-en-raison-dune-alerte-a-la-bombe-selon-matignon-20261105_HHBM4QKLLZHTLMNIDSPFIUDRFE/",
+    "summary": "Matignon a affirmé ce jeudi qu’un appareil s’est posé sans encombre à Evreux et que les 157 personnes à bord ont été mises en sécurité. Des avions ont aussi atterri en urgence en Belgique, en Italie, en Bulgarie et en Autriche.",
+    "published": "2026-11-05T10:08:18+00:00",
+    "authors": [
+      "Libération ., AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/un-vol-dublin-rome-deroute-vers-evreux-en-raison-dune-alerte-a-la-bombe-selon-matignon-20261105_HHBM4QKLLZHTLMNIDSPFIUDRFE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561563+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Philippe s’enfonce et s’enferme»: Villepin dénonce le «naufrage moral et politique» du candidat Horizons sur l’immigration",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/philippe-s-enfonce-et-s-enferme-villepin-denonce-le-naufrage-moral-et-politique-du-candidat-horizons-sur-l-immigration-20261105",
+    "summary": "L’ancien premier ministre de Jacques Chirac accuse Édouard Philippe de «courir après le RN». quand il affirme que lors des violences du 17 octobre, «la surreprésentation de jeunes issus de l’immigration était patente».",
+    "published": "2026-11-05T10:06:06+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/philippe-s-enfonce-et-s-enferme-villepin-denonce-le-naufrage-moral-et-politique-du-candidat-horizons-sur-l-immigration-20261105",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/05/142a80345f5183b3dae427d88737798125d921a81f26ba04b8d3b83b4635ceca.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481705+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Maltraitances en cuisine : «Pour les jeunes, la violence reste encore un peu le prix à payer»",
+    "link": "https://www.liberation.fr/lifestyle/gastronomie/maltraitances-en-cuisine-pour-les-jeunes-la-violence-reste-encore-un-peu-le-prix-a-payer-20261105_DFILHS23NNFWRJ56E4XYCPNIYA/",
+    "summary": "La chercheuse en psychologie du travail Elsa Laneyrie a travaillé avec l’association Bondir·e sur des témoignages d’étudiants se destinant aux métiers de la restauration. Ils confirment que les insultes et les agressions sont toujours prégnantes dans le milieu, dès la formation.",
+    "published": "2026-11-05T10:06:00+00:00",
+    "authors": [
+      "Kim Hullot-Guiot"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/gastronomie/maltraitances-en-cuisine-pour-les-jeunes-la-violence-reste-encore-un-peu-le-prix-a-payer-20261105_DFILHS23NNFWRJ56E4XYCPNIYA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561600+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« S’il est très bien réélu, ça les met encore plus en danger pour la présidentielle » : à l’AMF, David Lisnard peut-il encore compter sur les Républicains ?",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/politique/sil-est-tres-bien-reelu-ca-les-met-encore-plus-en-danger-pour-la-presidentielle-a-lamf-david-lisnard-peut-il-encore-compter-sur-les-republicains",
+    "summary": "« Même chez certains LR, ça prend aussi. » Philippe Laurent avait glissé la confidence à Public Sénat, le 2 novembre. Auprès de Valeurs actuelles, le maire UDI de Sceaux... L’article « S’il est très bien réélu, ça les met encore plus en danger pour la présidentielle » : à l’AMF, David Lisnard peut-il encore compter sur les Républicains ? est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-05T09:58:21+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "association des maires de france",
+      "Bruno Retailleau",
+      "david lisnard",
+      "Présidentielle 2027"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/sil-est-tres-bien-reelu-ca-les-met-encore-plus-en-danger-pour-la-presidentielle-a-lamf-david-lisnard-peut-il-encore-compter-sur-les-republicains",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:52.017564+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Incendie de la mairie de Limoges : le premier suspect reste en détention provisoire, le second placé sous contrôle judiciaire",
+    "link": "https://www.liberation.fr/societe/police-justice/incendie-de-la-mairie-de-limoges-le-premier-suspect-reste-en-detention-provisoire-le-second-place-sous-controle-judiciaire-20261105_4LHHIDBB75FTLPQXMKTJMVPK3A/",
+    "summary": "Les deux hommes sont mis en examen dans le cadre de l’enquête sur ce sinistre d’origine criminelle, devenu l’un des symboles des violences du 17 octobre.",
+    "published": "2026-11-05T09:58:10+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/incendie-de-la-mairie-de-limoges-le-premier-suspect-reste-en-detention-provisoire-le-second-place-sous-controle-judiciaire-20261105_4LHHIDBB75FTLPQXMKTJMVPK3A/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561631+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le pape de la protest song Bob Dylan rencontre son homologue au Vatican",
+    "link": "https://www.liberation.fr/international/europe/le-pape-de-la-protest-song-bob-dylan-rencontre-lautre-pape-au-vatican-20261105_KSLJSG52SNEH3NJISRYSHUZUCI/",
+    "summary": "Léon XIV a accueilli le chanteur dans son palais, mercredi 4 novembre. Le prix Nobel de la paix 2016 avait été cité par le souverain pontife dans un livre publié cet été.",
+    "published": "2026-11-05T09:50:36+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/le-pape-de-la-protest-song-bob-dylan-rencontre-lautre-pape-au-vatican-20261105_KSLJSG52SNEH3NJISRYSHUZUCI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561660+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Jacques Rupnik : la Pologne a basculé dans une « guerre civile constitutionnelle »",
+    "link": "https://www.lefigaro.fr/vox/monde/jacques-rupnik-pourquoi-la-pologne-a-bascule-dans-une-guerre-civile-constitutionnelle-20261105",
+    "summary": "ENTRETIEN - La confrontation entre le gouvernement de Donald Tusk et le président Karol Nawrocki a plongé la Pologne dans une profonde crise institutionnelle, analyse le spécialiste de l’Europe de l’Est. Selon lui, le pays est dans une impasse dont il ne devrait pas sortir avant les élections de 2027.",
+    "published": "2026-11-05T09:43:46+00:00",
+    "authors": [],
+    "categories": [
+      "Vox Monde"
+    ],
+    "guid": "https://www.lefigaro.fr/vox/monde/jacques-rupnik-pourquoi-la-pologne-a-bascule-dans-une-guerre-civile-constitutionnelle-20261105",
+    "image": "https://i.f1g.fr/media/cms/2107x1185_crop/2026/11/04/005158aec1f952ddc96ed415824623bce21d827fc491f5ff6353dd4126c1a711.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481808+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Tensions à Lyon entre les syndicats et la préfecture autour du parcours de la manifestation",
+    "link": "https://www.lefigaro.fr/lyon/tensions-entre-les-syndicats-et-la-prefecture-autour-du-parcours-de-la-manifestation-lyonnaise-20261105",
+    "summary": "Après discussions avec les services de l’état, l’intersyndicale à l’origine de la manifestation de ce jeudi avait déposé un recours contre l’arrêté préfectoral d’interdiction de manifester dans le centre-ville de Lyon, empêchant une arrivée du cortège place Bellecour. Il a été rejeté.",
+    "published": "2026-11-05T09:32:35+00:00",
+    "authors": [],
+    "categories": [
+      "Lyon"
+    ],
+    "guid": "https://www.lefigaro.fr/lyon/tensions-entre-les-syndicats-et-la-prefecture-autour-du-parcours-de-la-manifestation-lyonnaise-20261105",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/05/93e1bb24501b4d88668bf379d41eaf3491487a0f69b332c77147d1dfa15d12ba.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481380+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Apolline matin» : la matinale de RMC perturbée par la grève",
+    "link": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/apolline-matin-la-matinale-de-rmc-perturbee-par-la-greve-20261105",
+    "summary": "Ce jeudi 5 novembre, l’émission présentée par Apolline de Malherbe n’a pas été diffusée sur RMC Story mais uniquement sur la station de radio.",
+    "published": "2026-11-05T09:26:40+00:00",
+    "authors": [],
+    "categories": [
+      "Actu télé"
+    ],
+    "guid": "https://tvmag.lefigaro.fr/programme-tv/actu-tele/apolline-matin-la-matinale-de-rmc-perturbee-par-la-greve-20261105",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/05/99297d21ddbb337702b30e30d823aa7ece94f944c182ae875b734b841ce3bb93.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481287+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Alerte à la bombe : l’Airbus A320 reliant Dublin à Rome avec 151 passagers à bord s’est posé à l’aéroport d’Évreux",
+    "link": "https://www.lefigaro.fr/international/alerte-a-la-bombe-un-airbus-a320-reliant-dublin-a-rome-deroute-vers-evreux-20261105",
+    "summary": "Un vol entre l’Irlande et l’Italie a dû modifier sa trajectoire jeudi 5 novembre pour rejoindre une base militaire française. Les équipes de déminage sont en train d’intervenir sur l’Airbus.",
+    "published": "2026-11-05T09:25:24+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/alerte-a-la-bombe-un-airbus-a320-reliant-dublin-a-rome-deroute-vers-evreux-20261105",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/05/8ce1e4929c8c838a9adcbefa7dc2833677a76b731174ea28d552594ab6f8ed93.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481510+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Alerte à la bombe, avion dérouté : qui doit prendre en charge les passagers et les conduire à destination ?",
+    "link": "https://www.lefigaro.fr/voyages/conseils/alerte-a-la-bombe-avion-deroute-qui-doit-prendre-en-charge-les-passagers-et-les-conduire-a-destination-20261105",
+    "summary": "Après l’alerte à la bombe qui a contraint un avion Dublin-Rome à se dérouter vers Évreux, une question se pose : que deviennent les passagers ? Transport, hôtel, remboursement… Ce que les compagnies aériennes doivent prendre en charge.",
+    "published": "2026-11-05T09:19:32+00:00",
+    "authors": [],
+    "categories": [
+      "Conseils"
+    ],
+    "guid": "https://www.lefigaro.fr/voyages/conseils/alerte-a-la-bombe-avion-deroute-qui-doit-prendre-en-charge-les-passagers-et-les-conduire-a-destination-20261105",
+    "image": "https://i.f1g.fr/media/cms/2880x1920_crop/2026/11/05/14b26fc7a90db9775e155d3888a30be31ce63d3191ca6b7e810785a3689e4e47.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481563+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Ses organes vitaux ont lâché les uns après les autres» : une jeune femme meurt d’une intoxication aux champignons à Montpellier",
+    "link": "https://www.liberation.fr/societe/police-justice/ses-organes-vitaux-ont-lache-les-uns-apres-les-autres-une-jeune-femme-meurt-dune-intoxication-aux-champignons-a-montpellier-20261105_EKTMETFMNNCPLLRCHVOXCISWJ4/",
+    "summary": "Marie-Lou a consommé des morilles avant d’être transférée au CHU quelques heures plus tard. Une référence de la marque ChampiBon fait l’objet d’un rappel national.",
+    "published": "2026-11-05T09:18:16+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/ses-organes-vitaux-ont-lache-les-uns-apres-les-autres-une-jeune-femme-meurt-dune-intoxication-aux-champignons-a-montpellier-20261105_EKTMETFMNNCPLLRCHVOXCISWJ4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561691+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Glucksmann en visite chez Bouamrane : «On se complète totalement»",
+    "link": "https://www.liberation.fr/politique/elections/glucksmann-en-visite-chez-bouamrane-on-se-complete-totalement-20261105_XFQGYUO3TJE2DI2OVMDOV6GYOU/",
+    "summary": "Le candidat socialiste à la présidentielle était mercredi soir à Saint-Ouen pour la soirée de lancement de celui qui laisse entendre qu’il sera candidat mais qui, déjà, fait comprendre qu’il se rangera derrière l’eurodéputé.",
+    "published": "2026-11-05T09:18:09+00:00",
+    "authors": [
+      "Arthur Louis, Chez Pol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/glucksmann-en-visite-chez-bouamrane-on-se-complete-totalement-20261105_XFQGYUO3TJE2DI2OVMDOV6GYOU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561720+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Épargne : comment éviter les pièges du « private equity » ?",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/bourse/epargne-comment-eviter-les-pieges-du-private-equity",
+    "summary": "Longtemps réservé aux investisseurs institutionnels et aux grandes fortunes, le private equity (ou capital-investissement), qui consiste à investir dans le capital d’entreprises qui ne sont pas cotées en Bourse, s’invite... L’article Épargne : comment éviter les pièges du « private equity » ? est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-05T09:01:34+00:00",
+    "authors": [
+      "Pierre Victor"
+    ],
+    "categories": [
+      "Non classé",
+      "Bourse",
+      "épargne",
+      "investissements"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/bourse/epargne-comment-eviter-les-pieges-du-private-equity",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:52.017615+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Ma plus belle grève : «On arrive avec nos sacs de couchage en cours de grec, la prof nous accueille avec des chouquettes»",
+    "link": "https://www.liberation.fr/lifestyle/argent-boulot/ma-plus-belle-greve-on-arrive-avec-nos-sacs-de-couchage-en-cours-de-grec-la-prof-nous-accueille-avec-des-chouquettes-20261105_CMHRMUYJ6JD3NJNUBALWHA5PKQ/",
+    "summary": "Vive la grève ! Dans le huitième épisode de notre série sur les protestations heureuses, Samuel, prof en Seine-Saint-Denis, se souvient de l’occupation de son lycée en 2004.",
+    "published": "2026-11-05T09:00:43+00:00",
+    "authors": [
+      "Juliette Deborde"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/lifestyle/argent-boulot/ma-plus-belle-greve-on-arrive-avec-nos-sacs-de-couchage-en-cours-de-grec-la-prof-nous-accueille-avec-des-chouquettes-20261105_CMHRMUYJ6JD3NJNUBALWHA5PKQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561750+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : Melania Trump doit réunir jeudi Russes et Ukrainiens avant les pourparlers d’Abou Dhabi",
+    "link": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-melania-trump-doit-reunir-jeudi-russes-et-ukrainiens-avant-les-pourparlers-d-abou-dhabi_6803934_3210.html",
+    "summary": "Volodymyr Zelensky, en visite à Madrid, s’est entretenu mercredi avec les émissaires américains Steve Witkoff et Jared Kushner. Un échange téléphonique avant plusieurs rencontres entre représentants de Kiev et Moscou, à commencer par une réunion, jeudi à la Maison Blanche, avec la première dame des Etats-Unis.",
+    "published": "2026-11-05T08:52:15+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/11/05/en-direct-guerre-en-ukraine-melania-trump-doit-reunir-jeudi-russes-et-ukrainiens-avant-les-pourparlers-d-abou-dhabi_6803934_3210.html",
+    "image": "https://img.lemde.fr/2026/10/29/54/0/5120/2560/644/322/60/0/0fefad0_ftp-1-knxuk4efoyq9-afp-d4ve7jy.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476159+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Addictions France s’inquiète des pubs d’alcool décomplexées sur les réseaux sociaux",
+    "link": "https://www.liberation.fr/economie/addiction-france-sinquiete-des-pubs-dalcool-decomplexees-sur-les-reseaux-sociaux-20261105_H4ESGSVEH5H3RE5TMIUZPRAXFI/",
+    "summary": "L’association alerte ce jeudi 5 novembre sur l’accumulation de «recettes de mixologie, quizz, jeux-concours viraux» qui «maximisent l’engagement sans éveiller les soupçons». Elle réclame une interdiction de la publicité des liqueurs sur Internet.",
+    "published": "2026-11-05T08:26:42+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/addiction-france-sinquiete-des-pubs-dalcool-decomplexees-sur-les-reseaux-sociaux-20261105_H4ESGSVEH5H3RE5TMIUZPRAXFI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561802+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Victor Wembanyama porte les San Antonio Spurs avec 52 points marqués, un nouveau record personnel",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/05/victor-wembanyama-porte-les-san-antonio-spurs-avec-52-points-marques-un-nouveau-record-personnel_6806837_3242.html",
+    "summary": "Le basketteur français a inscrit près de la moitié des points de son équipe, mercredi, lui permettant de s’offrir la victoire face aux Dallas Maverick (112-111). Il termine aussi la rencontre avec 24 rebonds et 8 contres.",
+    "published": "2026-11-05T08:08:04+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/article/2026/11/05/victor-wembanyama-porte-les-san-antonio-spurs-avec-52-points-marques-un-nouveau-record-personnel_6806837_3242.html",
+    "image": "https://img.lemde.fr/2026/11/05/610/0/5000/2500/644/322/60/0/5dab7b3_ftp-1-hnveu970quwp-2303119217.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476350+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au procès de la rue de Trévise, une bataille d’experts pour remonter le fil des causes de l’explosion",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/05/au-proces-de-la-rue-de-trevise-une-bataille-d-experts-pour-remonter-le-fil-des-causes-de-l-explosion_6806836_3224.html",
+    "summary": "Plombier, égoutier, géotechnicien, experts en incendie explosion et en mécanique de la rupture… Chacun y est allé plus ou moins prudemment de son hypothèse, entre le lundi 2 et le mercredi 4 novembre, mais à l’issue des audiences, aucune évidence ne s’impose.",
+    "published": "2026-11-05T08:06:56+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/05/au-proces-de-la-rue-de-trevise-une-bataille-d-experts-pour-remonter-le-fil-des-causes-de-l-explosion_6806836_3224.html",
+    "image": "https://img.lemde.fr/2026/11/04/580/0/4869/2434/644/322/60/0/60c1ee0_upload-1-opun732gbaem-000-1ih857.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476059+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Agression à Rouen : « Il existe une difficulté à considérer les chrétiens comme des victimes de discriminations ou de violences religieuses »",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/agression-a-rouen-il-existe-une-difficulte-a-considerer-les-chretiens-comme-des-victimes-de-discriminations-ou-de-violences-religieuses",
+    "summary": "Valeurs actuelles. Comment expliquer les violences subies par des jeunes catholiques qui chantaient des chants religieux à Rouen ? Peut-on parler d’une manifestation de haine antichrétienne ?Laurent de Béchade. Selon... L’article Agression à Rouen : « Il existe une difficulté à considérer les chrétiens comme des victimes de discriminations ou de violences religieuses » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-05T08:01:46+00:00",
+    "authors": [
+      "Pauline Condomines"
+    ],
+    "categories": [
+      "Non classé",
+      "agression",
+      "antiracisme",
+      "catholicisme",
+      "racisme anti-blanc",
+      "violences"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/agression-a-rouen-il-existe-une-difficulte-a-considerer-les-chretiens-comme-des-victimes-de-discriminations-ou-de-violences-religieuses",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:52.017668+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "L’Hérault et le Gard rejoignent la Corse dans une vigilance orange pluie-inondation étendue durant la journée de jeudi",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/05/l-herault-et-le-gard-rejoignent-la-corse-dans-une-vigilance-orange-pluie-inondation-etendue-durant-la-journee-de-jeudi_6806834_3244.html",
+    "summary": "Des pluies torrentielles ont déjà provoqué des inondations, des sauvetages et la fermeture de routes en Corse, tandis que l’Hérault et le Gard se préparent jeudi à l’arrivée de l’épisode.",
+    "published": "2026-11-05T08:01:18+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/11/05/l-herault-et-le-gard-rejoignent-la-corse-dans-une-vigilance-orange-pluie-inondation-etendue-durant-la-journee-de-jeudi_6806834_3244.html",
+    "image": "https://img.lemde.fr/2025/06/26/250/0/3000/1500/644/322/60/0/84bfe61_upload-1-dzb9ln5kxh5k-modei-le.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476223+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Grève interprofessionnelle du 5 novembre: suivez la journée en direct",
+    "link": "https://www.mediapart.fr/journal/economie-et-social/051126/greve-interprofessionnelle-du-5-novembre-suivez-la-journee-en-direct",
+    "summary": "L’intersyndicale appelle à une journée de grève interprofessionnelle pour obtenir des réponses à ses revendications sur les salaires, le budget 2027 et les services publics. La coordination des Gilets jaunes et les mouvements lycéens et étudiants appellent eux aussi à descendre dans la rue. Suivez la journée en direct.",
+    "published": "2026-11-05T08:00:36+00:00",
+    "authors": [
+      "La rédaction de Mediapart"
+    ],
+    "categories": [
+      "Économie et social",
+      "A la Une, Éducation et enseignement supérieur, grève, syndicats, Travail"
+    ],
+    "guid": "1357818 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/05/261105-img-greve-interprofessionnelle-du-5-novembre-suivez-la-journee-en-direct-01.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.970431+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Ligue des champions : après le fiasco historique lensois, les clubs français dans la nuit",
+    "link": "https://www.liberation.fr/sports/football/ligue-des-champions-apres-le-fiasco-historique-lensois-les-clubs-francais-dans-la-nuit-20261105_33COSM2NKBAWLPSZDDQGZE4ZCY/",
+    "summary": "1-9. Lens a pris, mercredi soir, la pire raclée à domicile en Ligue des champions depuis la refonte de la compétition en 1992. Si la défaite était dans l’air, les proportions étaient, elles, inimaginables. Les Lillois, eux, sont au bord de l’élimination, et le PSG déroule.",
+    "published": "2026-11-05T07:56:49+00:00",
+    "authors": [
+      "Grégory Schneider"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/sports/football/ligue-des-champions-apres-le-fiasco-historique-lensois-les-clubs-francais-dans-la-nuit-20261105_33COSM2NKBAWLPSZDDQGZE4ZCY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561835+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Roxanne Bouchard : quand l’enquêteur se triture les méninges",
+    "link": "https://www.liberation.fr/culture/livres/roxanne-bouchard-quand-lenqueteur-se-triture-les-meninges-20261105_X6ZCU4TGYNGGJODT52O326DMDU/",
+    "summary": "Dans «A la grâce des fous», l’autrice québécoise retrouve son enquêteur fétiche, Joaquin Moralès, qui met à jour un vaste scandale d’expropriations forcées dans l’arrière-pays gaspésien",
+    "published": "2026-11-05T07:55:00+00:00",
+    "authors": [
+      "Alexandra Schwartzbrod"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/roxanne-bouchard-quand-lenqueteur-se-triture-les-meninges-20261105_X6ZCU4TGYNGGJODT52O326DMDU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561862+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "L’Hérault, le Gard et la Corse en vigilance orange pluie-inondation",
+    "link": "https://www.liberation.fr/environnement/climat/lherault-le-gard-et-la-corse-en-vigilance-orange-pluie-inondation-20261105_KDSKIO5WGFASNOLSRHU7OA3MTE/",
+    "summary": "Sur l’île de Beauté, les pompiers ont sauvé une personne dont le véhicule a été emporté par les eaux et le télétravail est recommandé. La vigilance devrait être levée vendredi.",
+    "published": "2026-11-05T07:51:59+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/climat/lherault-le-gard-et-la-corse-en-vigilance-orange-pluie-inondation-20261105_KDSKIO5WGFASNOLSRHU7OA3MTE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561908+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Grève du 5 novembre : TGV, TER, RER… À quoi faut-il s’attendre dans les transports ?",
+    "link": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+    "summary": "Après trois journées de mobilisation les 17, 24 et 31 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une nouvelle journée de grève et de manifestations jeudi 5 novembre. Les transports seront notamment perturbés, notamment en Île-de-France.",
+    "published": "2026-11-05T07:31:50+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/03/1863b06b0e8d48cb3c8e024837ec3f023d40070e9de742e45d33f1ca4615cc4d.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481320+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Comment la pauvreté progresse dans la population française",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/05/comment-la-pauvrete-progresse-dans-la-population-francaise_6806829_4355770.html",
+    "summary": "Le taux de pauvreté n’a jamais été aussi haut depuis au moins trente ans. Cette situation, qui touche particulièrement certaines catégories de la population, s’accompagne souvent de privations matérielles et sociales.",
+    "published": "2026-11-05T07:30:08+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/les-decodeurs/article/2026/11/05/comment-la-pauvrete-progresse-dans-la-population-francaise_6806829_4355770.html",
+    "image": "https://img.lemde.fr/2026/11/04/945/0/8276/4138/644/322/60/0/d260e7d_upload-1-yv4mw3bfgsch-000-d3l47t3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.475898+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestations du 5 novembre : la justice valide le parcours République-Nation proposé par la préfecture de police de Paris",
+    "link": "https://www.lefigaro.fr/actualite-france/greve-du-5-novembre-la-justice-valide-le-parcours-republique-nation-propose-par-la-prefecture-de-police-de-paris-20261105",
+    "summary": "L’intersyndicale et les organisations lycéennes et étudiantes avaient initialement proposé un parcours allant de la place de la Bastille jusqu’à la place de la Concorde, non loin de l’Assemblée nationale.",
+    "published": "2026-11-05T07:26:53+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/greve-du-5-novembre-la-justice-valide-le-parcours-republique-nation-propose-par-la-prefecture-de-police-de-paris-20261105",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/05/134772c362b17cb5781584e81524eb827e09cbe55098ee6cc0c1e8089ec4aefa.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481349+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Salaires : la baisse du pouvoir d’achat touche aussi les cadres",
+    "link": "https://www.liberation.fr/economie/salaires-la-baisse-du-pouvoir-dachat-touche-aussi-les-cadres-20261105_TO524EWCR5EZ5HO4DJLV56UUKU/",
+    "summary": "Leur rémunération médiane annuelle brute «baisse légèrement» pour la première fois depuis 2010, selon l’Apec.",
+    "published": "2026-11-05T07:25:19+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/salaires-la-baisse-du-pouvoir-dachat-touche-aussi-les-cadres-20261105_TO524EWCR5EZ5HO4DJLV56UUKU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561934+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Union européenne : le report de Euro 7 est un recul de trop pour la santé et l’industrie",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/union-europeenne-le-report-de-euro-7-est-un-recul-de-trop-pour-la-sante-et-lindustrie-20261105_P2J3YXFQE5B4RFUTCFHFYTE4SU/",
+    "summary": "Le renvoi aux calendes grecques de la réglementation visant à réduire les émissions polluantes des véhicules neufs est un mauvais signal pour la lutte contre les particules fines et les entreprises qui ont fait le choix de se conformer aux nouvelles exigences environnementales, dénonce la présidente de l’association Respire et ex-eurodéputée.",
+    "published": "2026-11-05T07:06:00+00:00",
+    "authors": [
+      "Karima Delli"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/union-europeenne-le-report-de-euro-7-est-un-recul-de-trop-pour-la-sante-et-lindustrie-20261105_P2J3YXFQE5B4RFUTCFHFYTE4SU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561970+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Un cordon sanitaire contre l’extrême droite » : la Belgique, laboratoire de la censure médiatique dont rêve la gauche française",
+    "link": "https://www.valeursactuelles.com/monde/un-cordon-sanitaire-contre-lextreme-droite-la-belgique-laboratoire-de-la-censure-mediatique-dont-reve-la-gauche-francaise",
+    "summary": "« Je signale qu’en Belgique, par exemple, il y a ce qu’on appelle le cordon sanitaire médiatique contre les forces d’extrême droite. Et pardon, mais en Belgique, il y a... L’article « Un cordon sanitaire contre l’extrême droite » : la Belgique, laboratoire de la censure médiatique dont rêve la gauche française est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-05T07:01:35+00:00",
+    "authors": [
+      "Alexandre Bertolini"
+    ],
+    "categories": [
+      "Non classé",
+      "Belgique",
+      "censure",
+      "médias"
+    ],
+    "guid": "https://www.valeursactuelles.com/monde/un-cordon-sanitaire-contre-lextreme-droite-la-belgique-laboratoire-de-la-censure-mediatique-dont-reve-la-gauche-francaise",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:52.017731+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Hongkong : la peine de Joshua Wong, l’un des principaux opposants, alourdie de dix ans",
+    "link": "https://www.liberation.fr/international/asie-pacifique/hongkong-la-peine-de-joshua-wong-lun-des-principaux-opposants-alourdie-de-dix-ans-20261105_T3JKF22LMNCPXKKKGT5DGFLPCM/",
+    "summary": "A 30 ans, il a déjà passé six ans de sa vie derrière les barreaux. Détenu pour subversion, il devait être libéré en janvier, avant cette nouvelle condamnation pour collusion avec l’étranger.",
+    "published": "2026-11-05T06:59:48+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/asie-pacifique/hongkong-la-peine-de-joshua-wong-lun-des-principaux-opposants-alourdie-de-dix-ans-20261105_T3JKF22LMNCPXKKKGT5DGFLPCM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.561999+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Jordan Bardella rattrapé par ses propos antisémites à l’occasion du lancement de son nouveau livre",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/05/jordan-bardella-rattrape-par-ses-propos-antisemites-au-lancement-de-son-nouveau-livre_6806827_823448.html",
+    "summary": "Le président du Rassemblement national voit sa promotion perturbée par le rappel de ses anciens propos antisémites dont il dément être l’auteur. La soirée de lancement organisée par son éditeur, Fayard, mercredi, a été perturbée par des militants de la lutte contre l’antisémitisme et marquée par le refus de laisser entrer « Mediapart ».",
+    "published": "2026-11-05T06:51:34+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/05/jordan-bardella-rattrape-par-ses-propos-antisemites-au-lancement-de-son-nouveau-livre_6806827_823448.html",
+    "image": "https://img.lemde.fr/2026/10/26/250/0/3000/1500/644/322/60/0/3a86e4c_upload-1-tcltovuhcqfd-meetingrn-orleans-asurp-102739.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476022+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Manifestations partout en France, budget rejeté à l’Assemblée et déculottée du RC Lens en Ligue des champions… L’actu de ce jeudi 5 novembre au matin",
+    "link": "https://www.liberation.fr/international/europe/manifestations-partout-en-france-budget-rejete-a-lassemblee-et-deculottee-du-rc-lens-en-ligue-des-champions-lactu-de-ce-jeudi-5-novembre-au-matin-20261105_OTS7BXVRF5BWRBNY7FNMD3VBEY/",
+    "summary": "La rédaction de «Libération» compile les principales infos du jour.",
+    "published": "2026-11-05T06:39:12+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/manifestations-partout-en-france-budget-rejete-a-lassemblee-et-deculottee-du-rc-lens-en-ligue-des-champions-lactu-de-ce-jeudi-5-novembre-au-matin-20261105_OTS7BXVRF5BWRBNY7FNMD3VBEY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562024+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "À Marseille, une fête d’Halloween hantée par les violences policières",
+    "link": "https://www.mediapart.fr/journal/france/051126/marseille-une-fete-d-halloween-hantee-par-les-violences-policieres",
+    "summary": "Samedi 31 octobre, la manifestation contre la vie chère s’est terminée sous les gaz lacrymogènes et les charges de CRS dans le quartier de la Plaine. Depuis, les témoignages de violences policières se multiplient. Au moins quatre personnes ont porté plainte ou s’apprêtent à le faire, et l’IGPN a été saisie dans un dossier.",
+    "published": "2026-11-05T06:36:39+00:00",
+    "authors": [
+      "Violette Artaud , Jean-François Poupelin (Marsactu)"
+    ],
+    "categories": [
+      "France",
+      "Marsactu, Marseille, Police, Violences policières"
+    ],
+    "guid": "1357954 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/montage-blessures-ok-scaled-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.970467+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Enzo Traverso: «La révolte de la jeunesse possède une dimension politique évidente»",
+    "link": "https://www.mediapart.fr/journal/france/051126/enzo-traverso-la-revolte-de-la-jeunesse-possede-une-dimension-politique-evidente",
+    "summary": "Dans «Survivances de la révolte», l’historien met en lumière la «vie posthume» des expériences émancipatrices, à contre-courant des romans nationaux. Dans un entretien, il décrypte les liens souterrains qui unissent cette mémoire rebelle et le mouvement social actuel.",
+    "published": "2026-11-05T06:31:18+00:00",
+    "authors": [
+      "Mathieu Dejean"
+    ],
+    "categories": [
+      "France",
+      "Enzo Traverso, Idées, Mouvement du 17 octobre, révolution"
+    ],
+    "guid": "1357880 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/05/261105-img-enzo-traverso-cette-revolte-possede-une-dimension-politique-evidente-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.970499+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Communiqué des syndicats et de salariés du Groupe Le Monde et du « Nouvel Obs »",
+    "link": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/05/communique-des-syndicats-et-de-salaries-du-groupe-le-monde-et-du-nouvel-obs_6806826_6065879.html",
+    "summary": "A l’appel des syndicats, des salariés du Groupe Le Monde et du « Nouvel Obs » sont en grève jeudi 5 novembre. Voici leur texte.",
+    "published": "2026-11-05T06:30:06+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/le-monde-et-vous/article/2026/11/05/communique-des-syndicats-et-de-salaries-du-groupe-le-monde-et-du-nouvel-obs_6806826_6065879.html",
+    "image": "https://img.lemde.fr/2025/02/05/282/0/2812/1406/644/322/60/0/4412257_sirius-fs-upload-1-dotedyzgvynp-1738777344632-capture-da-ei-cran-2025-02-05-ai-18-40-37.png",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476324+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Au procès de l’assassinat du frère d’Amine Kessaci : «J’ai toujours eu ma bouche fermée mais aujourd’hui je vais l’ouvrir»",
+    "link": "https://www.liberation.fr/societe/police-justice/au-proces-de-lassassinat-du-frere-damine-kessaci-jai-toujours-eu-ma-bouche-fermee-mais-aujourdhui-je-vais-louvrir-20261105_FOFNDGVQ3NFVJEYUUGKU7GLQCY/",
+    "summary": "Appelés successivement à s’expliquer sur les faits mercredi devant la cour d’assises d’Aix-en-Provence, Amine Oualane et Ahmed Zakaria Bensaci se sont mutuellement accusés d’être les auteurs du triple narchomicide survenu la nuit du 28 au 29 décembre 2020. Le tout dans une ambiance très tendue.",
+    "published": "2026-11-05T06:29:09+00:00",
+    "authors": [
+      "Stéphanie Harounyan"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/au-proces-de-lassassinat-du-frere-damine-kessaci-jai-toujours-eu-ma-bouche-fermee-mais-aujourdhui-je-vais-louvrir-20261105_FOFNDGVQ3NFVJEYUUGKU7GLQCY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562058+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Une baisse inédite en un an : comment la rémunération des cadres a diminué en 2026",
+    "link": "https://www.lefigaro.fr/social/une-baisse-inedite-de-1-8-en-un-an-comment-la-remuneration-des-cadres-a-diminue-en-2026-20261105",
+    "summary": "Selon un rapport de l’Association pour l’emploi des cadres publié ce jeudi 5 novembre, leur salaire médian a diminué cette année. Une première fois depuis plus de quinze ans.",
+    "published": "2026-11-05T06:21:23+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/une-baisse-inedite-de-1-8-en-un-an-comment-la-remuneration-des-cadres-a-diminue-en-2026-20261105",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/04/fa7b2ac22a73a11d68d4f7f4a0b9ccbe9dd2e4bb2e8692b1bb9637f42dc6ffb2.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481614+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Trump, Macron, Musk… Sur scène, satire de tous les côtés",
+    "link": "https://www.liberation.fr/culture/scenes/trump-macron-musk-sur-scene-satire-de-tous-les-cotes-20261105_RW2UU4CCBJC6HCOB4FFAZUHEEQ/",
+    "summary": "Les élites aussi ont aussi leur place sur les planches sans avoir forcément le beau rôle. Alors que des élections américaines viennent d’avoir lieu et à six mois de la présidentielle en France, «Libé» a fait le tour des pièces qui auscultent les puissants.",
+    "published": "2026-11-05T06:12:00+00:00",
+    "authors": [
+      "Victor Inisan"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/scenes/trump-macron-musk-sur-scene-satire-de-tous-les-cotes-20261105_RW2UU4CCBJC6HCOB4FFAZUHEEQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562089+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La peur du «youhua» : en Chine, les travailleurs à l’épreuve de l’intelligence artificielle",
+    "link": "https://www.liberation.fr/economie/economie-numerique/la-peur-du-youhua-en-chine-les-travailleurs-a-lepreuve-de-lintelligence-artificielle-20261105_X7ZNCY2PQZH73IRL4JLZSSQIGM/",
+    "summary": "Pendant deux semaines, «Libération» a sillonné la Chine pour raconter la place de l’IA dans ce pays pionnier. Dans le troisième épisode de notre série, entre angoisse, fièvre entrepreneuriale, chômage de la jeunesse et automatisation, comment l’intelligence artificielle percute un marché du travail chinois déjà ébranlé.",
+    "published": "2026-11-05T06:06:00+00:00",
+    "authors": [
+      "Quentin Le Van"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/economie-numerique/la-peur-du-youhua-en-chine-les-travailleurs-a-lepreuve-de-lintelligence-artificielle-20261105_X7ZNCY2PQZH73IRL4JLZSSQIGM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562122+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "IA : le français Arthur Mensch et son entreprise Mistral peuvent-ils gagner la bataille de la souveraineté ?",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/economie/ia-le-francais-arthur-mensch-et-son-entreprise-mistral-peuvent-ils-gagner-la-bataille-de-la-souverainete",
+    "summary": "« Un turbo ! Tout est allé très vite », sourit Isabelle Rauch. La vice-présidente (Horizons) de la commission d’enquête sur les vulnérabilités numériques garde un souvenir précis de l’audition... L’article IA : le français Arthur Mensch et son entreprise Mistral peuvent-ils gagner la bataille de la souveraineté ? est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-05T06:03:24+00:00",
+    "authors": [
+      "Joffrey Marain-Joris"
+    ],
+    "categories": [
+      "Non classé",
+      "intelligence artificielle"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/ia-le-francais-arthur-mensch-et-son-entreprise-mistral-peuvent-ils-gagner-la-bataille-de-la-souverainete",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:52.017799+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Affaire Hermès : les derniers jours du sulfureux financier Eric Freymond",
+    "link": "https://www.liberation.fr/societe/police-justice/affaire-hermes-les-derniers-jours-du-sulfureux-financier-eric-freymond-20261105_4D5HD4KSGZDTVLM6PXB5MCGZ5E/",
+    "summary": "Poursuivi en France et en Suisse, l’homme d’affaires au cœur de la disparition de millions d’actions de la maison de luxe n’était plus dans son état normal avant son suicide en juillet 2025, selon ses proches. Il faisait l’objet de demandes d’argent pressantes.",
+    "published": "2026-11-05T06:03:00+00:00",
+    "authors": [
+      "Laurent Léger"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/affaire-hermes-les-derniers-jours-du-sulfureux-financier-eric-freymond-20261105_4D5HD4KSGZDTVLM6PXB5MCGZ5E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562152+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Solution des jeux du 5 novembre",
+    "link": "https://www.valeursactuelles.com/art-de-vivre/solution-des-jeux-du-5-novembre-2",
+    "summary": "L’article Solution des jeux du 5 novembre est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-05T05:55:55+00:00",
+    "authors": [
+      "tmorel"
+    ],
+    "categories": [
+      "Non classé",
+      "solution-des-jeux"
+    ],
+    "guid": "https://www.valeursactuelles.com/art-de-vivre/solution-des-jeux-du-5-novembre-2",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:52.017827+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Rimbaud, l’odyssée silencieuse» d’Hervé Mazurel, entre frictions et fiction",
+    "link": "https://www.liberation.fr/culture/livres/rimbaud-lodyssee-silencieuse-dherve-mazurel-entre-frictions-et-fiction-20261105_KON5UYRHS5AXRO5DKSXM3A37TU/",
+    "summary": "Dans un ouvrage d’«histoire expérimentale», Hervé Mazurel enquête sur la trajectoire du poète antimilitariste devenu mercenaire, puis déserteur, de l’armée coloniale néerlandaise.",
+    "published": "2026-11-05T05:35:00+00:00",
+    "authors": [
+      "Sylvain Venayre"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/rimbaud-lodyssee-silencieuse-dherve-mazurel-entre-frictions-et-fiction-20261105_KON5UYRHS5AXRO5DKSXM3A37TU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562177+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "C’est le bon moment pour augmenter les salaires",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/cest-le-bon-moment-pour-augmenter-les-salaires-20261105_6JVT3I4GUFEWRMUZB5UCCAN5C4/",
+    "summary": "Meilleure réponse à la demande de pouvoir d’achat exprimée dans les manifs, cette hausse soutiendrait l’activité, bénéficierait aux finances publiques et il y a de la marge dans les caisses des entreprises, fait valoir l’économiste Mickaël Zemmour.",
+    "published": "2026-11-05T05:25:00+00:00",
+    "authors": [
+      "Michaël Zemmour"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/cest-le-bon-moment-pour-augmenter-les-salaires-20261105_6JVT3I4GUFEWRMUZB5UCCAN5C4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562204+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pacôme Thiellement, exégète du grotesque de l’histoire de France",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/pacome-thiellement-exegete-du-grotesque-de-lhistoire-de-france-20261105_7D5ZUIDHOJCBXFIWTAKMI3J6F4/",
+    "summary": "Alors que sort l’ultime tome de «L’Empire n’a jamais pris fin», version papier de sa série à succès sur YouTube, rencontre avec l’intellectuel foisonnant dont l’antiroman national n’évacue pas les petitesses des grands hommes et les injustices faites aux foules.",
+    "published": "2026-11-05T05:13:00+00:00",
+    "authors": [
+      "Olivier Lamm"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/editorial/pacome-thiellement-exegete-du-grotesque-de-lhistoire-de-france-20261105_7D5ZUIDHOJCBXFIWTAKMI3J6F4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562233+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Outils d’IA en médecine : «Il y a le fantasme de remplir des objectifs jusque-là hors de portée»",
+    "link": "https://www.liberation.fr/societe/sante/outils-dia-en-medecine-il-y-a-le-fantasme-de-remplir-des-objectifs-jusque-la-hors-de-portee-20261105_PYJGRVHRWJCBDJY3HY3M2HOJNE/",
+    "summary": "Les performances de l’IA pour évaluer l’espérance de survie à un cancer et pour aider les praticiens au diagnostic sont saluées par la presse scientifique. Le philosophe Eric Pardoux, spécialiste de l’éthique de l’IA en santé, analyse les enjeux du déploiement de cette technologie en médecine.",
+    "published": "2026-11-05T05:06:00+00:00",
+    "authors": [
+      "Rémi Ducasse"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/outils-dia-en-medecine-il-y-a-le-fantasme-de-remplir-des-objectifs-jusque-la-hors-de-portee-20261105_PYJGRVHRWJCBDJY3HY3M2HOJNE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562265+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Mariage sous le régime de la communauté : les loyers du bien propre d’un époux sont communs aux deux",
+    "link": "https://www.lemonde.fr/argent/article/2026/11/05/mariage-sous-le-regime-de-la-communaute-les-loyers-du-bien-propre-d-un-epoux-sont-communs-aux-deux_6806818_1657007.html",
+    "summary": "Lors du divorce, le conjoint qui a remboursé le crédit de son logement avec les revenus tirés de sa location doit une « récompense » tenant compte de la plus-value gagnée.",
+    "published": "2026-11-05T05:01:00+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/argent/article/2026/11/05/mariage-sous-le-regime-de-la-communaute-les-loyers-du-bien-propre-d-un-epoux-sont-communs-aux-deux_6806818_1657007.html",
+    "image": "https://img.lemde.fr/2025/08/06/125/0/1500/750/644/322/60/0/08c1982_upload-1-lwc9d7aof2ex-lmargent152.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476301+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Faut-il vraiment se lancer dans des battles d’aura au travail ?",
+    "link": "https://www.lemonde.fr/m-perso/article/2026/11/05/faut-il-vraiment-se-lancer-dans-des-battles-d-aura-au-travail_6806817_4497916.html",
+    "summary": "« Work in progress ». Ces combats très en vogue sur les réseaux sociaux – et lors de la mobilisation lycéenne – font leur chemin en milieu professionnel, où certains tentent de cultiver leur charisme pour se mettre en valeur.",
+    "published": "2026-11-05T05:00:41+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/m-perso/article/2026/11/05/faut-il-vraiment-se-lancer-dans-des-battles-d-aura-au-travail_6806817_4497916.html",
+    "image": "https://img.lemde.fr/2024/05/22/46/0/780/390/644/322/60/0/4e19664_1716382609145-d34ad89-1705494183336-1c4289c-1704279693589-travail-lucas-burtin-1-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476252+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Actions Hermès, compte «Bibendum» et accords secrets : les révélations de l’enquête pénale qui menacent Bernard Arnault et LVMH",
+    "link": "https://www.liberation.fr/societe/police-justice/actions-hermes-compte-bibendum-et-accords-secrets-les-revelations-de-lenquete-penale-qui-menacent-bernard-arnault-et-lvmh-20261105_O5DX4JD7GZHW3MBTO3VBD44ADY/",
+    "summary": "L’empereur du luxe savait-il que des millions d’actions Hermès achetées dans les années 2000 pour tenter de prendre le contrôle du maroquinier avaient été subtilisées à leur propriétaire ? Au vu de nouveaux éléments que «Libération» a pu consulter, sa convocation par les juges d’instruction semble inéluctable.",
+    "published": "2026-11-05T05:00:00+00:00",
+    "authors": [
+      "Laurent Léger"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/actions-hermes-compte-bibendum-et-accords-secrets-les-revelations-de-lenquete-penale-qui-menacent-bernard-arnault-et-lvmh-20261105_O5DX4JD7GZHW3MBTO3VBD44ADY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562298+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Des classes de seconde limitées à 28 élèves : un vrai problème de maths",
+    "link": "https://www.liberation.fr/societe/education/des-classes-de-seconde-limitees-a-28-eleves-un-vrai-probleme-de-maths-20261105_UK463IOYS5HR3GAOAXUSQWBJII/",
+    "summary": "Dix jours après les annonces du ministre de l’Education dont le plafonnement des effectifs, les lycéens se mobilisent de nouveau jeudi 5 novembre aux côtés des salariés du public et du privé. Le financement et les modalités d’application de cette mesure restent flous.",
+    "published": "2026-11-05T04:45:00+00:00",
+    "authors": [
+      "Cécile Bourgneuf"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/education/des-classes-de-seconde-limitees-a-28-eleves-un-vrai-probleme-de-maths-20261105_UK463IOYS5HR3GAOAXUSQWBJII/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.562329+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Midterms 2026 : comment la base électorale qui avait porté Trump au pouvoir en 2024 s’est écroulée",
+    "link": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-comment-la-coalition-d-electorats-qui-avait-permis-la-victoire-de-donald-trump-en-2024-s-est-delitee_6806708_3210.html",
+    "summary": "La déroute des républicains, mardi, s’explique par leur recul spectaculaire au sein de catégories de votants que le président américain avait su rallier il y a deux ans, comme les jeunes hommes ou les latinos.",
+    "published": "2026-11-05T04:30:06+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/05/midterms-2026-comment-la-coalition-d-electorats-qui-avait-permis-la-victoire-de-donald-trump-en-2024-s-est-delitee_6806708_3210.html",
+    "image": "https://img.lemde.fr/2026/11/04/591/0/6281/3140/644/322/60/0/80cfbd4_ftp-1-39tef4ozrj4j-2303433711.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.475861+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Grève du 5 novembre : entre lycéens, étudiants, syndicats de salariés et « gilets jaunes », le pari d’une convergence des mobilisations",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html",
+    "summary": "Alors que les mouvements de jeunes ont demandé un relais du monde du travail, les organisations syndicales ont appelé à défiler et à cesser le travail, jeudi, dans toute la France. Parmi les revendications : la revalorisation des salaires, la sauvegarde des services publics et la défense du droit de manifester.",
+    "published": "2026-11-05T04:28:58+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/05/greve-du-5-novembre-entre-lyceens-etudiants-syndicats-de-salaries-et-gilets-jaunes-le-pari-d-une-convergence-des-mobilisations_6806706_823448.html",
+    "image": "https://img.lemde.fr/2026/11/05/239/0/2400/1200/644/322/60/0/e700573_upload-1-elqlqg3tzrth-image0.jpeg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.475805+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La rémunération des cadres décline pour la première fois depuis 2010",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/05/la-remuneration-des-cadres-decline-pour-la-premiere-fois-depuis-2010_6806671_3234.html",
+    "summary": "Avec des salaires qui augmentent moins que l’inflation, les cadres subissent une baisse de leur pouvoir d’achat, selon le baromètre de l’APEC publié jeudi.",
+    "published": "2026-11-05T04:00:20+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/11/05/la-remuneration-des-cadres-decline-pour-la-premiere-fois-depuis-2010_6806671_3234.html",
+    "image": "https://img.lemde.fr/2026/11/04/1000/0/6000/3000/644/322/60/0/c886a21_upload-1-w3qz7dyvl8k0-000-36lx66n.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.476275+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "Budget 2027 : après le rejet du projet de loi de finances à l’Assemblée, quelles sont les prochaines étapes ?",
     "link": "https://www.lefigaro.fr/politique/budget-2027-apres-le-rejet-du-projet-de-loi-de-finances-a-l-assemblee-quelles-sont-les-prochaines-etapes-20261105",
     "summary": "Après le rejet du budget de l’État à l’Assemblée, les débats se poursuivent au Sénat. Faute de compromis, le gouvernement pourrait recourir au 49.3 ou aux ordonnances.",
@@ -29,16 +989,16 @@
   },
   {
     "source": "Le Monde",
-    "title": "Présidentielle 2027 : Emmanuel Macron préconise une coalition de Glucksmann à Lisnard",
+    "title": "Présidentielle 2027 : pour battre Marine Le Pen et Jean-Luc Mélenchon, Emmanuel Macron préconise une large alliance au sein de l’espace central",
     "link": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
-    "summary": "Le chef de l’Etat estime que seule une large alliance au sein de l’espace central permettra d’éviter le duel Le Pen-Mélenchon au second tour de l’élection présidentielle.",
-    "published": "2026-11-04T22:58:35+00:00",
+    "summary": "Le chef de l’Etat estime que seule une coalition allant de Raphaël Glucksmann à David Lisnard permettra de déjouer le duel Le Pen-Mélenchon au second tour de l’élection présidentielle.",
+    "published": "2026-11-04T22:58:31+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/11/04/presidentielle-2027-emmanuel-macron-preconise-une-coalition-de-glucksmann-a-lisnard_6806470_823448.html",
     "image": "https://img.lemde.fr/2026/11/03/368/0/5869/2934/644/322/60/0/67fe7d1_upload-1-du8jkadpssxt-000-d4fn4qn.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.852923+00:00"
+    "fetched_at": "2026-11-05T10:25:50.475981+00:00"
   },
   {
     "source": "Le Figaro",
@@ -94,7 +1054,7 @@
     "guid": "https://www.liberation.fr/economie/budget-2027-a-lassemblee-nationale-le-rejet-attendu-dune-copie-budgetaire-distordue-et-perimee-20261104_D42ACMWWHBBZ5C45PUSPCKO6LI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023328+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562360+00:00"
   },
   {
     "source": "Le Figaro",
@@ -110,6 +1070,21 @@
     "image": "https://i.f1g.fr/media/cms/2997x1686_crop/2026/11/04/2e72f6cfbc2de776cec5f3b6e36a3cf1c348e64441f459ae38aab97379c30faa.jpg",
     "full_text": null,
     "fetched_at": "2026-11-05T01:18:44.864866+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Je suis convaincu qu’on va faire campagne ensemble» : à Saint-Ouen, Glucksmann tend la main à Bouamrane",
+    "link": "https://www.lefigaro.fr/politique/je-suis-convaincu-qu-on-va-faire-campagne-ensemble-a-saint-ouen-glucksmann-tend-la-main-a-bouamrane-20261104",
+    "summary": "Le social-démocrate s’est rendu ce mercredi soir au lancement du livre du maire socialiste de la ville, lui aussi candidat déclaré à l’élection présidentielle.",
+    "published": "2026-11-04T21:49:38+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/je-suis-convaincu-qu-on-va-faire-campagne-ensemble-a-saint-ouen-glucksmann-tend-la-main-a-bouamrane-20261104",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/04/f4684fe94671fca9ef6d70ecd0728b63c76445c9404e0290ded34c902e723758.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481774+00:00"
   },
   {
     "source": "Le Figaro",
@@ -152,7 +1127,7 @@
     "guid": "https://www.liberation.fr/culture/livres/no-pogrom-last-night-de-yolande-zauberman-une-vie-a-cent-allures-20261104_RK5JFNENDVDMPMGETGIAV67EP4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023353+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562385+00:00"
   },
   {
     "source": "Libération",
@@ -167,7 +1142,7 @@
     "guid": "https://www.liberation.fr/societe/greve-du-5-novembre-a-paris-la-prefecture-interdit-le-parcours-bastille-concorde-et-propose-une-manifestation-entre-republique-nation-20261104_4QVUVK3CCNG5HK6LLIHLR76T5M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023378+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562415+00:00"
   },
   {
     "source": "Libération",
@@ -182,7 +1157,7 @@
     "guid": "https://www.liberation.fr/societe/proces-de-la-petite-inconnue-de-la10-dans-la-cour-dassises-du-loir-et-cher-au-bout-des-images-le-vertige-20261104_5SX5A65MCFDVRHVF6R2IZYGDMQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023404+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562447+00:00"
   },
   {
     "source": "Le Figaro",
@@ -243,7 +1218,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/60-ans-de-valeurs-actuelles-eric-zemmour-sylvain-tesson-marion-marechal-il-se-souviennent-du-jour-ou-ils-ont-fait-la-une-du-journal",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.907015+00:00"
+    "fetched_at": "2026-11-05T10:25:52.017880+00:00"
   },
   {
     "source": "Libération",
@@ -258,7 +1233,7 @@
     "guid": "https://www.liberation.fr/international/amerique/en-direct-resultats-des-midterms-2026-aux-etats-unis-les-democrates-remportent-le-senat-et-la-chambre-des-representants-20261104_7VW63XWLYRBBDC7VH46XLUAMG4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023426+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562475+00:00"
   },
   {
     "source": "Libération",
@@ -273,7 +1248,7 @@
     "guid": "https://www.liberation.fr/societe/education/la-premiere-reunion-de-travail-pour-reformer-parcoursup-aura-lieu-lundi-annonce-sebastien-lecornu-20261104_YUOGCRTJFFFAVANWJ2X5JAQKCU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023448+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562503+00:00"
   },
   {
     "source": "Libération",
@@ -288,7 +1263,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/agression-dans-une-ecole-a-nice-la-mere-etait-fichee-pour-radicalisation-islamiste-20261103_B4VHSJAQHZHSJJ3WRML2WVOFRI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023473+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562534+00:00"
   },
   {
     "source": "Le Monde",
@@ -331,7 +1306,7 @@
     "guid": "https://www.liberation.fr/economie/social/mouvement-social-ce-5-novembre-un-reve-de-greve-generale-20261104_KS5D463DKFBP3HOUNIYDMB5YTI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023495+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562569+00:00"
   },
   {
     "source": "Le Monde",
@@ -362,7 +1337,7 @@
     "guid": "1357948 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-trappes-silence-gouvernement.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.937045+00:00"
+    "fetched_at": "2026-11-05T10:25:50.970531+00:00"
   },
   {
     "source": "Libération",
@@ -377,7 +1352,7 @@
     "guid": "https://www.liberation.fr/societe/sante/fievre-jaune-dengue-la-vaccination-des-voyageurs-pourrait-bientot-etre-elargie-aux-pharmaciens-infirmiers-et-sages-femmes-20261104_3PXELWKYG5B73CLS6SYCB3WOMY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023517+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562599+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -399,7 +1374,7 @@
     "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-gouvernement-commando-200-milliards-deconomies-david-lisnard-detaille-sa-methode",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.907055+00:00"
+    "fetched_at": "2026-11-05T10:25:52.017925+00:00"
   },
   {
     "source": "Libération",
@@ -414,22 +1389,7 @@
     "guid": "https://www.liberation.fr/international/amerique/midterms-trump-premier-artisan-de-sa-deroute-electorale-20261104_EKRXRJRBTVFZZJOD3WP3ENTGWQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023539+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Grève du 5 novembre : TGV, TER, RER… À quoi faut-il s’attendre dans les transports ?",
-    "link": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
-    "summary": "Après trois journées de mobilisation les 17, 24 et 31 octobre, les syndicats veulent accentuer la pression sur le gouvernement. Ils appellent à une nouvelle journée de grève et de manifestations jeudi 5 novembre. Les transports seront notamment perturbés, notamment en Île-de-France.",
-    "published": "2026-11-04T19:47:35+00:00",
-    "authors": [],
-    "categories": [
-      "Social"
-    ],
-    "guid": "https://www.lefigaro.fr/social/greve-intersyndicale-du-5-novembre-transports-education-sante-quels-sont-les-secteurs-mobilises-20261025",
-    "image": "https://i.f1g.fr/media/cms/orig/2026/11/03/1863b06b0e8d48cb3c8e024837ec3f023d40070e9de742e45d33f1ca4615cc4d.jpg",
-    "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.865036+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562625+00:00"
   },
   {
     "source": "Libération",
@@ -444,7 +1404,7 @@
     "guid": "https://www.liberation.fr/international/amerique/midterms-de-conquetes-en-symboles-la-gauche-americaine-reprend-le-controle-20261104_BKQAHDG3YRDWFEWUZXUEO6BR5U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023558+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562652+00:00"
   },
   {
     "source": "Le Figaro",
@@ -474,7 +1434,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/manifestation-a-tours-un-jeune-homme-porte-plainte-contre-la-police-pour-une-blessure-a-un-oeil-une-enquete-ouverte-20261104_MYKQYQRKUBFFROCA4EZIIGCORY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023581+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562683+00:00"
   },
   {
     "source": "Libération",
@@ -489,7 +1449,7 @@
     "guid": "https://www.liberation.fr/economie/transports/les-deputes-europeens-mettent-la-marche-arriere-sur-la-fin-des-vehicules-thermiques-en-2035-20261104_FRJ2VEM2HVHTJG3ZKLXY7YMT4A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023607+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562715+00:00"
   },
   {
     "source": "Libération",
@@ -504,7 +1464,7 @@
     "guid": "https://www.liberation.fr/societe/face-a-un-tournant-autoritaire-inedit-la-ldh-et-dix-autres-organisations-deposent-une-requete-devant-le-conseil-detat-20261104_2N37LBS2SNCGJAQMEZVKBBGNMM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023630+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562748+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -526,7 +1486,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/des-avocats-obtiennent-le-renvoi-dun-proces-pour-terrorisme-pour-pouvoir-aller-manifester-le-5-novembre",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.907089+00:00"
+    "fetched_at": "2026-11-05T10:25:52.017969+00:00"
   },
   {
     "source": "Le Figaro",
@@ -559,7 +1519,7 @@
     "guid": "1357926 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-prix-litte-raires-hommes-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.937068+00:00"
+    "fetched_at": "2026-11-05T10:25:50.970557+00:00"
   },
   {
     "source": "Le Figaro",
@@ -589,7 +1549,7 @@
     "guid": "https://www.liberation.fr/politique/pierre-coppey-ancien-patron-de-vinci-autoroutes-devient-officiellement-le-nouveau-controleur-des-prisons-20261104_UMSV66LH4VEIPNZPQBGEM3MDJ4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023652+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562798+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -611,7 +1571,7 @@
     "guid": "https://www.valeursactuelles.com/societe/une-campagne-militante-financee-par-les-impots-des-parisiens-la-ville-de-paris-condamnee-pour-sa-campagne-promouvant-leuthanasie",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.907147+00:00"
+    "fetched_at": "2026-11-05T10:25:52.018026+00:00"
   },
   {
     "source": "Libération",
@@ -626,7 +1586,7 @@
     "guid": "https://www.liberation.fr/politique/elections/soirees-pizza-2027-la-jeunesse-daujourdhui-est-une-locomotive-et-cest-une-vraie-bouffee-doxygene-20261104_6L6KN5NLDBEL3IBJJQBULHEGEI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023676+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562837+00:00"
   },
   {
     "source": "Le Figaro",
@@ -656,7 +1616,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/opinions/les-manifs-halloween-et-michael-jackson-comme-une-fausse-note-par-giulia-fois-20261104_R3CPG27MFFC5PDNW2OYUPENZDE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023695+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562862+00:00"
   },
   {
     "source": "Mediapart",
@@ -674,7 +1634,7 @@
     "guid": "1357897 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-trump-regime-change.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.937091+00:00"
+    "fetched_at": "2026-11-05T10:25:50.970587+00:00"
   },
   {
     "source": "Le Figaro",
@@ -707,7 +1667,7 @@
     "guid": "1357886 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-liberte-manifester.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.937128+00:00"
+    "fetched_at": "2026-11-05T10:25:50.970619+00:00"
   },
   {
     "source": "Le Figaro",
@@ -722,7 +1682,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/qui-sont-vraiment-les-chefs-de-file-etudiants-qui-appellent-a-poursuivre-les-blocus-20261104",
     "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/04/662723d9361834461d636a361113081e1bcf84edf9d58b4bf71339925f3b4ffa.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.865055+00:00"
+    "fetched_at": "2026-11-05T10:25:50.481462+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -771,7 +1731,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/incendie-volontaire-du-lycee-nelson-mandela-de-nantes-deux-eleves-suspects-bientot-presentes-a-un-juge-dinstruction-20261104_TMK7VJE26ZCT3CMOQKOM4AVCVM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023714+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562888+00:00"
   },
   {
     "source": "Le Monde",
@@ -825,11 +1785,11 @@
     "guid": "https://www.liberation.fr/culture/livres/les-hommes-ne-lisent-plus-mais-ils-raflent-les-grands-prix-litteraires-20261104_PKPTFRPRWFCG7HQASZ3NESRO44/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023735+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562917+00:00"
   },
   {
     "source": "Libération",
-    "title": "Grève du 5 novembre : manifestations, dispositif policier, transports, écoles… A quoi s’attendre jeudi ?",
+    "title": "Grève du 5 novembre : manifestations, dispositif policier, transports, écoles… A quoi s’attendre ?",
     "link": "https://www.liberation.fr/economie/transports/greve-du-jeudi-5-novembre-la-sncf-prevoit-des-perturbations-sur-la-plupart-des-lignes-la-ratp-sattend-a-un-trafic-relativement-normal-20261103_MWI3KYD3LJBQTJIBS4K256SVYY/",
     "summary": "Les syndicats seront à la manœuvre jeudi pour tenter d’obtenir des réponses à leurs revendications sur les salaires. La coordination des «gilets jaunes» et les mouvements lycéens et étudiants appellent eux aussi à descendre dans la rue.",
     "published": "2026-11-04T18:15:29+00:00",
@@ -840,7 +1800,7 @@
     "guid": "https://www.liberation.fr/economie/transports/greve-du-jeudi-5-novembre-la-sncf-prevoit-des-perturbations-sur-la-plupart-des-lignes-la-ratp-sattend-a-un-trafic-relativement-normal-20261103_MWI3KYD3LJBQTJIBS4K256SVYY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023757+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562946+00:00"
   },
   {
     "source": "Le Figaro",
@@ -883,7 +1843,7 @@
     "guid": "https://www.liberation.fr/culture/livres/prix-femina-decerne-a-yannick-haenel-plongee-dans-une-ecole-en-crise-20261104_SGL7622ZM5BGVPJE4Y52PFUV5Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023779+00:00"
+    "fetched_at": "2026-11-05T10:25:50.562977+00:00"
   },
   {
     "source": "Le Monde",
@@ -911,7 +1871,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/emeutiers-d-ultragauche-troubles-graves-et-degradations-previsibles-les-autorites-se-preparent-a-un-jeudi-noir-emaille-de-violences-20261104",
     "image": "https://i.f1g.fr/media/cms/1890x1063_crop/2026/11/04/57a1b8a5d53be069233e63877efcc4b31b45ea6c264bf421daa677317ad8c3a5.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.864843+00:00"
+    "fetched_at": "2026-11-05T10:25:50.481436+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -947,7 +1907,7 @@
     "guid": "https://www.liberation.fr/culture/arts/art-contemporain/biennale-de-venise-premiere-economie-mondiale-les-etats-unis-lancent-un-appel-aux-dons-pour-rapatrier-leurs-oeuvres-20261104_XCGEVGE63BF6RF3WOEUAGH44KE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023802+00:00"
+    "fetched_at": "2026-11-05T10:25:50.563011+00:00"
   },
   {
     "source": "Libération",
@@ -962,7 +1922,7 @@
     "guid": "https://www.liberation.fr/culture/cinema/mort-du-cineaste-italien-tinto-brass-specialiste-du-film-a-scandale-20261104_EI6QOUD72FF4TFEDGA45IG2SSQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023822+00:00"
+    "fetched_at": "2026-11-05T10:25:50.563038+00:00"
   },
   {
     "source": "Le Monde",
@@ -981,7 +1941,7 @@
     "source": "Mediapart",
     "title": "Pollution, climat, jeunesse: «Leur mépris déborde»",
     "link": "https://www.mediapart.fr/journal/ecologie/041126/pollution-climat-jeunesse-leur-mepris-deborde",
-    "summary": "Jeudi, blocages lycéens et manifestations contre la vie chère sont appelés à se muer en grève générale. La militante écologiste Camille Étienne livre à «Mediapart» son regard sur une mobilisation sociale dont les revendications rejoignent son combat contre l’inaction climatique et pour l’interdiction des PFAS.",
+    "summary": "Jeudi, blocages lycéens et manifestations contre la vie chère sont appelés à converger avec les salarié·es du public et du privé. La militante écologiste Camille Étienne livre à «Mediapart» son regard sur une mobilisation sociale dont les revendications rejoignent son combat contre l’inaction climatique et pour l’interdiction des PFAS.",
     "published": "2026-11-04T17:57:46+00:00",
     "authors": [
       "À l’air libre"
@@ -993,7 +1953,7 @@
     "guid": "1357659 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/yt-vignette-camille-etienne-03.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.937151+00:00"
+    "fetched_at": "2026-11-05T10:25:50.970651+00:00"
   },
   {
     "source": "Libération",
@@ -1008,7 +1968,7 @@
     "guid": "https://www.liberation.fr/politique/greve-du-5-novembre-des-syndicats-renforcent-leurs-services-dordre-apres-les-attaques-de-militants-dextreme-droite-20261104_YYN3OUVF6NGVNC4AZJMD337HLQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:45.023845+00:00"
+    "fetched_at": "2026-11-05T10:25:50.563068+00:00"
   },
   {
     "source": "Libération",
@@ -1066,7 +2026,7 @@
     "guid": "https://www.lemonde.fr/politique/article/2026/11/04/budget-2026-le-gouvernement-tente-un-ultime-tour-de-vis-pour-eviter-un-derapage-xxl_6806410_823448.html",
     "image": "https://img.lemde.fr/2026/10/21/0/0/5418/2709/644/322/60/0/e53e754_upload-1-ooomsxxlp5ey-cbi1348022.JPG",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.852838+00:00"
+    "fetched_at": "2026-11-05T10:25:50.476110+00:00"
   },
   {
     "source": "Libération",
@@ -1111,7 +2071,7 @@
     "guid": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-plutot-qu-une-primaire-macron-veut-une-coalition-allant-de-glucksmann-a-lisnard-pour-dejouer-le-duel-le-pen-melenchon-20261104",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/04/200874a37ae3a9694965d3d9c47537d123cb72cd419195af57acc794c37c4a3f.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.865224+00:00"
+    "fetched_at": "2026-11-05T10:25:50.481732+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1301,7 +2261,7 @@
     "guid": "1357859 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/04/261104-img-la-crise-europeenne-du-logement-cristallise-la-colere-de-la-jeunesse-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.937170+00:00"
+    "fetched_at": "2026-11-05T10:25:50.970678+00:00"
   },
   {
     "source": "Le Monde",
@@ -1314,7 +2274,7 @@
     "guid": "https://www.lemonde.fr/economie/article/2026/11/04/avec-la-cyberattaque-au-credit-mutuel-arkea-les-banques-europeennes-prennent-conscience-de-l-ampleur-de-leur-vulnerabilite_6806367_3234.html",
     "image": "https://img.lemde.fr/2026/11/04/58/0/5568/2784/644/322/60/0/ebcfa70_upload-1-erloatocttx1-000-1dz52y.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-05T01:18:44.853054+00:00"
+    "fetched_at": "2026-11-05T10:25:50.476190+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1492,6 +2452,21 @@
     "image": "https://i.f1g.fr/media/cms/orig/2026/11/04/7d349e20afc6fb41a251b9d412c732ed1698f811e2b14fda369bbfc0d94f509f.JPG",
     "full_text": null,
     "fetched_at": "2026-11-04T19:26:43.559302+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Manifestations du 5 novembre : comment les syndicats veulent reprendre la main",
+    "link": "https://www.lefigaro.fr/social/manifestations-du-5-novembre-comment-les-syndicats-veulent-reprendre-la-main-20261104",
+    "summary": "DÉCRYPTAGE - Les organisations de salariés espèrent faire entendre leur voix ce jeudi alors que plusieurs d’entre elles - CFDT et FO en particulier - se sont tenues à l’écart des mobilisations du mois d’octobre.",
+    "published": "2026-11-04T15:57:50+00:00",
+    "authors": [],
+    "categories": [
+      "Social"
+    ],
+    "guid": "https://www.lefigaro.fr/social/manifestations-du-5-novembre-comment-les-syndicats-veulent-reprendre-la-main-20261104",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/04/02603f6496065c129859bc4b6c8cecca1f3b33daac238456b50d4d60400100f4.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481407+00:00"
   },
   {
     "source": "Libération",
@@ -37825,6 +38800,21 @@
     "image": "https://img.lemde.fr/2025/07/17/338/0/3000/1500/644/322/60/0/8617cfc_upload-1-is1ae86ytzxj-frame-441.jpg",
     "full_text": null,
     "fetched_at": "2026-10-23T11:07:39.095401+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Jérôme Fourquet : «Devenir manager après son bac+5, seul horizon d’une Gen Z surdiplômée ?»",
+    "link": "https://www.lefigaro.fr/vie-professionnelle/jerome-fourquet-devenir-manager-apres-son-bac-5-seul-horizon-d-une-gen-z-surdiplomee-20261022",
+    "summary": "Avec 87% d’une classe d’âge au niveau bac, des écoles de commerce multipliées par onze en 40 ans et un tiers - plus que d’ouvriers - des salariés français disposant désormais du statut de cadre, assiste-t-on au chant du cygne des «jeunes cadres dynamiques» ?",
+    "published": "2026-10-23T06:20:37+00:00",
+    "authors": [],
+    "categories": [
+      "Vie professionnelle"
+    ],
+    "guid": "https://www.lefigaro.fr/vie-professionnelle/jerome-fourquet-devenir-manager-apres-son-bac-5-seul-horizon-d-une-gen-z-surdiplomee-20261022",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/10/22/bc12547ca4f7927dbf7a611a55fff6184f0c7c0874140ea741ff07ca39b6a277.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-05T10:25:50.481643+00:00"
   },
   {
     "source": "Mediapart",
