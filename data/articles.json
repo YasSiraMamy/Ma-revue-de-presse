@@ -1,25 +1,98 @@
 [
   {
     "source": "Le Figaro",
-    "title": "EN DIRECT - Meeting LFI au Bourget : «À bas la résignation des battus d’avance !» scande Jean-Luc Mélenchon",
+    "title": "EN DIRECT - France-Fidji : Dupont et les Bleus en maîtrise malgré la blessure de Ntamack",
+    "link": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949584/france-fidji",
+    "summary": "Le XV de France accueille les Fidji, ce samedi, à l’occasion du retour du Championnat des nations.",
+    "published": "2026-11-07T21:28:18+00:00",
+    "authors": [],
+    "categories": [
+      "XV de France"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/rugby/live/championnat-des-nations/2026/949584/france-fidji",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/07/6dbf9bbf1cc27b857ffa0e27d286d052dc938c5c5887812e3e47a741ccffe49c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287799+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Fusillade en Pologne : 3 corps supplémentaires retrouvés au domicile du tireur",
+    "link": "https://www.lefigaro.fr/international/fusillade-en-pologne-3-corps-supplementaires-retrouves-au-domicile-du-tireur-20261107",
+    "summary": "Il pourrait s’agir des corps de la famille du tireur, selon le premier ministre Donald Tusk. Cet homme a abattu 6 personnes et en a blessé une quinzaine d’autres ce samedi à Cracovie.",
+    "published": "2026-11-07T21:23:06+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/fusillade-en-pologne-3-corps-supplementaires-retrouves-au-domicile-du-tireur-20261107",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/07/9fdaf5137115361b351d98c17cb52f2d5f2fd73a46ea301841471ebeaf47e97c.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287913+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Aux obsèques de Pengo Bossio Wangi, à Guyancourt : « Mon fils n’est pas une couleur de peau, mon fils est un être humain »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-a-guyancourt-mon-fils-n-est-pas-une-couleur-de-peau-mon-fils-est-un-etre-humain_6808317_3224.html",
+    "summary": "Des centaines de personnes, proches et anonymes, sont venues rendre un dernier hommage au jeune homme de 26 ans, tué lors d’un attentat raciste à Trappes, le 23 octobre.",
+    "published": "2026-11-07T21:09:53+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/07/aux-obseques-de-pengo-bossio-wangi-a-guyancourt-mon-fils-n-est-pas-une-couleur-de-peau-mon-fils-est-un-etre-humain_6808317_3224.html",
+    "image": "https://img.lemde.fr/2026/10/31/389/0/4673/2336/644/322/60/0/6967cb3_upload-1-vmmqrhvh8xnk-3-rassemblement-trappes-hleuqeux-dsc0230.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294535+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "France-Fidji : les Bleus perdent Romain Ntamack sur blessure",
+    "link": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-le-xv-de-france-perd-romain-ntamack-sur-blessure-20261107",
+    "summary": "Le Toulousain s’est blessé ce samedi, à Lyon, lors de la rencontre de Championnat des nations contre les Fidji.",
+    "published": "2026-11-07T21:07:11+00:00",
+    "authors": [],
+    "categories": [
+      "XV de France"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/rugby/xv-de-france/france-fidji-le-xv-de-france-perd-romain-ntamack-sur-blessure-20261107",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/07/3548eaf20f137d844a5883beaad29adbef2658ca297aedd00f12f5cb980f5cb8.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.288070+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Raphaël Glucksmann estime que la large coalition suggérée par Emmanuel Macron «décrédibilise la politique»",
     "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-melenchon-lfi-la-france-insoumise-presidentielle-2027-campagne-edouard-philippe-gabriel-attal-rn-marine-le-pen-20261107",
-    "summary": "La France insoumise est en meeting au Parc des expositions du Bourget, en Seine-Saint-Denis, ce samedi après-midi. 17.000 à 20.000 militants sont présents.",
-    "published": "2026-11-07T17:28:03+00:00",
+    "summary": "Le président de la République «aurait mieux fait d’organiser un grand moment d’unité nationale après l’attentat raciste de Trappes plutôt que d’imaginer de telles combines politiques», grince Raphaël Glucksmann.",
+    "published": "2026-11-07T21:07:03+00:00",
     "authors": [],
     "categories": [
       "Présidentielle"
     ],
     "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-melenchon-lfi-la-france-insoumise-presidentielle-2027-campagne-edouard-philippe-gabriel-attal-rn-marine-le-pen-20261107",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/07/aeb3cc4f9299fa68bcd39381983113ae8164df1c00392265170decfaf8fe2d19.jpg",
+    "image": "https://i.f1g.fr/media/cms/2407x1354_crop/2026/11/07/65867d8ccee43904d80e4f73513ee5b4a332315ce79edfe9fc6c641496301f14.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.382892+00:00"
+    "fetched_at": "2026-11-07T21:30:13.287992+00:00"
   },
   {
     "source": "Le Figaro",
-    "title": "Pologne : une fusillade à Cracovie fait au moins 5 morts et une quinzaine de blessés, le tireur neutralisé",
+    "title": "EN DIRECT - Colère sociale : 360 personnes interpellées en France",
+    "link": "https://www.lefigaro.fr/actualite-france/en-direct-acte-iv-des-gilets-jaunes-syndicats-mouvement-social-contre-la-vie-chere-casseurs-blacks-blocs-crs-manifestation-paris-place-de-la-concorde-20261107",
+    "summary": "70.000 policiers et gendarmes étaient mobilisés ce samedi 7 novembre et espèrent contenir de nouveaux débordements.",
+    "published": "2026-11-07T21:07:02+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/en-direct-acte-iv-des-gilets-jaunes-syndicats-mouvement-social-contre-la-vie-chere-casseurs-blacks-blocs-crs-manifestation-paris-place-de-la-concorde-20261107",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/07/46ef2f2ab1a85d06d6ba0c5e80b3d8193196e356a8413eade05ddaa88c69b575.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287718+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Pologne: une fusillade à Cracovie fait au moins 6 morts et une quinzaine de blessés, le tireur neutralisé",
     "link": "https://www.lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
-    "summary": "Un tireur à bord d’une voiture a ouvert le feu sur des piétons au hasard à proximité de la place du marché principal de Cracovie, faisant plusieurs morts et une quinzaine de blessés, dont deux policiers. Il a été blessé au moment de son interpellation.",
-    "published": "2026-11-07T17:23:53+00:00",
+    "summary": "Un tireur à bord d’une voiture a ouvert le feu sur des piétons au hasard à proximité de la place du marché principal de Cracovie, faisant six morts et une quinzaine de blessés, dont deux policiers. Le ministre de l’Intérieur a évoqué une possible fascination de l’auteur des tirs pour «les idéologies d’extrême droite».",
+    "published": "2026-11-07T21:03:47+00:00",
     "authors": [],
     "categories": [
       "International"
@@ -27,22 +100,488 @@
     "guid": "https://www.lefigaro.fr/international/pologne-2-morts-et-10-blesses-a-cracovie-donald-tusk-evoque-une-fusillade-tragique-le-tireur-a-ete-interpelle-20261107",
     "image": "https://i.f1g.fr/media/cms/orig/2026/11/07/c1d32b3ba7607095adca1d003559aa5d62400a3522c2963909919951f4bedad4.JPG",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.382876+00:00"
+    "fetched_at": "2026-11-07T21:30:13.287892+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Israël : le président charge Gadi Eisenkot, principal opposant de Benyamin Netanyahou, de former un gouvernement de coalition",
+    "link": "https://www.lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107",
+    "summary": "Le premier ministre sortant a jugé dans une allocution vidéo qu’un tel gouvernement entre le bloc d’opposition et les partis arabes «démantèlerait» l’État d’Israël.",
+    "published": "2026-11-07T20:55:09+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/israel-benyamin-netanyahou-affirme-qu-un-gouvernement-avec-les-partis-arabes-demantelerait-l-etat-hebreu-20261107",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/07/d2b80964015d8e036faa85fa0a89a63add371ec55f4686d8ed1f2677db31b960.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287820+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Israël : Gadi Eisenkot, l’« anti-Bibi » appelé au pouvoir",
+    "link": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
+    "summary": "PORTRAIT - Après des législatives serrées, le principal opposant à Benyamin Netanyahou a été appelé à former un gouvernement de coalition. Moins charismatique que le chef du Likoud, il a pour lui sa réputation d’intégrité et son image d’homme à poigne.",
+    "published": "2026-11-07T20:53:35+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
+    "image": "https://i.f1g.fr/media/cms/2723x1532_crop/2026/11/07/31dc6b8e356de48f823dcf1b69f0fc0d89750c479994d212faf2e4237a62ccdc.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287841+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Dana White, le patron de l’UFC et proche de Donald Trump, sollicité pour devenir porte-parole de la Maison Blanche",
+    "link": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+    "summary": "Le président américain a exhorté le dirigeant de la plus grande organisation mondiale d’arts martiaux mixtes à accepter ce poste vacant depuis le 16 octobre, lui suggérant de s’entourer de combattants pour affronter « la gauche cinglée ».",
+    "published": "2026-11-07T20:53:11+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/07/dana-white-le-patron-de-l-ufc-sollicite-par-donald-trump-au-poste-de-porte-parole-de-la-maison-blanche_6808316_3210.html",
+    "image": "https://img.lemde.fr/2026/11/07/0/0/3693/1846/644/322/60/0/8b6cca9_ftp-1-bf08yftherqq-6a0d8a35d88e44a4b6b49bc133975e45-0-02e93aa800534f0e8cbfde9e8b9290a6.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294619+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Formule 1 : entre les gouttes, la pole position pour Lando Norris au Brésil",
+    "link": "https://www.lefigaro.fr/sports/formule-1/formule-1-entre-les-gouttes-la-pole-position-pour-lando-norris-au-bresil-20261107",
+    "summary": "Le pilote McLaren a signé la pole position ce samedi, lors des qualifications du Grand Prix du Brésil. Une séance largement perturbée par la pluie à São Paulo.",
+    "published": "2026-11-07T20:51:44+00:00",
+    "authors": [],
+    "categories": [
+      "Formule 1"
+    ],
+    "guid": "https://www.lefigaro.fr/sports/formule-1/formule-1-entre-les-gouttes-la-pole-position-pour-lando-norris-au-bresil-20261107",
+    "image": "https://i.f1g.fr/media/cms/3000x1846_crop/2026/11/07/2dbbd33ca1d90bc664f69b0ba828831cca797027891c8653eb36833860cec263.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.288087+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Gadi Eisenkot, opposant à Nétanyahou, chargé de trouver un gouvernement à Israël",
+    "link": "https://www.mediapart.fr/journal/international/071126/gadi-eisenkot-opposant-netanyahou-charge-de-trouver-un-gouvernement-israel",
+    "summary": "Le chef du bloc de l'opposition au Premier ministre sortant Benjamin Nétanyahou, Gadi Eisenkot, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a indiqué samedi soir la présidence d'Israël.",
+    "published": "2026-11-07T20:45:32+00:00",
+    "authors": [
+      "La rédaction de Mediapart, Agence France-Presse"
+    ],
+    "categories": [
+      "International",
+      "élections, gouvernement, Israël, Proche et Moyen-Orient"
+    ],
+    "guid": "1358671 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/07/20261028-gadi-eisenkot-le-gislatives-israe-l.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.293391+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Pologne: un tireur abat six personnes dans le centre touristique de Cracovie",
+    "link": "https://www.mediapart.fr/journal/international/071126/pologne-un-tireur-abat-six-personnes-dans-le-centre-touristique-de-cracovie",
+    "summary": "Un homme a ouvert le feu sur des passants samedi à Cracovie, en Pologne, faisant six morts d’après le dernier bilan et une dizaine de blessés. Selon le ministre de l'intérieur, il était «fasciné par les idéologies d'extrême droite».",
+    "published": "2026-11-07T20:22:44+00:00",
+    "authors": [
+      "La rédaction de Mediapart, Agence France-Presse"
+    ],
+    "categories": [
+      "International",
+      "Cracovie, Europe, fusillade, Pologne"
+    ],
+    "guid": "1358632 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/07/afp-20261107-d6rg2nq-v1-highres-polandshootingpoliceemergency.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.293419+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Au Bourget, Mélenchon revendique la radicalité comme condition de la victoire",
+    "link": "https://www.mediapart.fr/journal/politique/071126/au-bourget-melenchon-revendique-la-radicalite-comme-condition-de-la-victoire",
+    "summary": "Quatre mois après son meeting de lancement à Saint-Denis, le candidat insoumis à l’élection présidentielle a de nouveau réuni 20 000 personnes, samedi au Bourget. S’appuyant sur les récents exemples au Brésil ou aux États-Unis, il a appelé la gauche à se rassembler autour de lui pour battre l’extrême droite, sans rien céder sur la radicalité de son programme.",
+    "published": "2026-11-07T20:01:46+00:00",
+    "authors": [
+      "Sarah Benhaïda, Ilyes Ramdani"
+    ],
+    "categories": [
+      "Politique",
+      "A la Une, Élection présidentielle 2027, Gauche(s), Jean-Luc Mélenchon, La France insoumise"
+    ],
+    "guid": "1358657 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/07/afp-20261107-d6rh268-v1-highres-france2027politicselection.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.293448+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Israël : Gadi Eisenkot, principal opposant de Benyamin Nétanyahou, va être chargé de former un gouvernement",
+    "link": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+    "summary": "L’ancien chef d’état-major israélien, aujourd’hui à la tête du parti Yashar !, sera officiellement chargé dimanche de former le prochain gouvernement israélien, a annoncé samedi soir la présidence.",
+    "published": "2026-11-07T19:51:02+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/07/israel-gadi-eisenkot-le-principal-opposant-de-benyamin-netanyahou-va-etre-charge-de-former-un-gouvernement_6808313_3210.html",
+    "image": "https://img.lemde.fr/2026/10/28/586/0/3416/1708/644/322/60/0/e5462d5_ftp-1-f7onczycej9p-2026-10-28t032117z-1949345560-rc2zboakgvrk-rtrmadp-3-israel-election.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294497+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Vision communautariste », « police de la pensée » : la semaine où Édouard Philippe a ciblé Jean-Luc Mélenchon pour unir son camp",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/vision-communautariste-police-de-la-pensee-la-semaine-ou-edouard-philippe-a-cible-jean-luc-melenchon-pour-unir-son-camp-20261107",
+    "summary": "REPORTAGE - Dans les Bouches-du-Rhône, samedi, Édouard Philippe a dénoncé le projet de l’Insoumis, après plusieurs jours d’affrontements à distance sur l’immigration. Une manière pour le candidat d’Horizons, en baisse dans les sondages, de mobiliser son électorat pour s’imposer sans primaire.",
+    "published": "2026-11-07T19:45:34+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/vision-communautariste-police-de-la-pensee-la-semaine-ou-edouard-philippe-a-cible-jean-luc-melenchon-pour-unir-son-camp-20261107",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/07/671a6c083a8b5ff0593c1546c547356b355507dae510ad01802c472f81052250.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.288015+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Au Bourget, Jean-Luc Mélenchon refuse l’ouverture au reste de la gauche, un pari à haut risque",
+    "link": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/",
+    "summary": "Lors de son meeting ce samedi, le candidat insoumis à la présidentielle a assumé ne pas vouloir s’ouvrir aux forces politiques idéologiquement voisines. Stratégie par étapes ou sectarisme suicidaire ?",
+    "published": "2026-11-07T19:35:59+00:00",
+    "authors": [
+      "Thomas Legrand, Coco  ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/au-bourget-jean-luc-melenchon-refuse-louverture-au-reste-de-la-gauche-un-pari-a-haut-risque-20261107_HLVHHJCBYVAJNPEAGSYMY7MYSU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.345591+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Mobilisation sociale : malgré une affluence en baisse, les manifestants veulent « maintenir la pression » avant la conférence sociale de lundi à Matignon",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html",
+    "summary": "Entre 146 000 et 250 000 personnes ont défilé, le plus souvent dans le calme. C’était le quatrième samedi de mobilisation de rang et la deuxième journée de cortèges de la semaine, après des manifestations de grande ampleur, jeudi, à l’appel des organisations syndicales.",
+    "published": "2026-11-07T19:25:00+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/07/mobilisation-sociale-malgre-une-affluence-en-baisse-les-manifestants-veulent-maintenir-le-pression-avant-la-conference-sociale-de-lundi-a-matignon_6808311_823448.html",
+    "image": "https://img.lemde.fr/2026/11/07/247/0/6000/3000/644/322/60/0/5c9a9a6_ftp-1-kxp2fvj8axqs-2026-11-07t151455z-100900085-rc23joapd1o1-rtrmadp-3-france-protest.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294451+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Solidarité avec la jeunesse broyée par le système » : à Paris, l’acte IV de la colère sociale marqué par une baisse de la mobilisation",
+    "link": "https://www.lefigaro.fr/actualite-france/solidarite-avec-la-jeunesse-broyee-par-le-systeme-a-paris-l-acte-iv-de-la-colere-sociale-marque-par-une-baisse-de-la-mobilisation-20261107",
+    "summary": "RÉCIT - Le cortège parisien a rassemblé 46 000 personnes selon la police, 76 000 selon les organisateurs. La foule a défilé dans le calme, avant quelques incidents entre manifestants et forces de l’ordre en fin de journée.",
+    "published": "2026-11-07T19:15:01+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/solidarite-avec-la-jeunesse-broyee-par-le-systeme-a-paris-l-acte-iv-de-la-colere-sociale-marque-par-une-baisse-de-la-mobilisation-20261107",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/07/3d977839abe65fa6b08d38cdeb347628dd99bd2eedbdb27564ac724f79f16f07.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287688+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon les syndicats, 146 000 selon Beauvau, une mobilisation en recul",
+    "link": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/",
+    "summary": "Samedi, pour le quatrième week-end consécutif, de nouvelles manifestations se sont déroulées sous haute sécurité policière et dans le calme, avec pour épicentre Paris, où des gilets jaunes se sont rassemblés à Concorde malgré l’interdiction de la préfecture de police.",
+    "published": "2026-11-07T19:12:33+00:00",
+    "authors": [
+      "Libération ., Service Photo, AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.345624+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Luc Julia : « L’apport de l’IA est absolument fabuleux, le vrai danger, c’est nous ! »",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/economie/luc-julia-la-tendance-est-aux-ia-petites-frugales-et-locales",
+    "summary": "Franco-américain, âgé de 60 ans, Luc Julia a mené une carrière dans l’innovation et l’intelligence artificielle, comme vice-président de Samsung chargé de l’innovation, basé en Californie, directeur scientifique chez Renault,... L’article Luc Julia : « L’apport de l’IA est absolument fabuleux, le vrai danger, c’est nous ! » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-07T19:02:50+00:00",
+    "authors": [
+      "Bertille Vaur"
+    ],
+    "categories": [
+      "Non classé",
+      "elon musk",
+      "intelligence artificielle",
+      "interview",
+      "Silicon Valley",
+      "souveraineté"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/economie/luc-julia-la-tendance-est-aux-ia-petites-frugales-et-locales",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.739265+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Jean-Christian Petitfils : « La Révolution a ressenti le besoin de créer un “homme nouveau” »",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/histoire/jean-christian-petitfils-la-revolution-a-ressenti-le-besoin-de-creer-un-homme-nouveau",
+    "summary": "Valeurs actuelles. Vous êtes l’historien des rois Bourbons, d’Henri IV à Louis XVI. Pourquoi avoir choisi de vous intéresser à la Révolution française ?Jean-Christian Petitfils. Après avoir consacré de nombreux... L’article Jean-Christian Petitfils : « La Révolution a ressenti le besoin de créer un “homme nouveau” » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-07T19:01:21+00:00",
+    "authors": [
+      "Valentin Gaure"
+    ],
+    "categories": [
+      "Histoire",
+      "France",
+      "gauche",
+      "histoire",
+      "Jean-Christian Petitfils",
+      "Louis XVI",
+      "révolution française"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/jean-christian-petitfils-la-revolution-a-ressenti-le-besoin-de-creer-un-homme-nouveau",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.739306+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«On est épuisés émotionnellement, mais il y a des choses qui nous font tenir» : à Paris, les jeunes manifestants restent mobilisés",
+    "link": "https://www.liberation.fr/societe/on-est-epuises-emotionnellement-mais-il-y-a-des-choses-qui-nous-font-tenir-a-paris-les-jeunes-manifestants-restent-mobilises-20261107_YNKADUBQ7RGRDGA2IDM4FOIZNM/",
+    "summary": "Si le quatrième samedi du mouvement social a affiché une participation en baisse, étudiants et lycéens ont continué de défiler joyeusement à Paris.",
+    "published": "2026-11-07T18:57:58+00:00",
+    "authors": [
+      "Emilia Spada"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/on-est-epuises-emotionnellement-mais-il-y-a-des-choses-qui-nous-font-tenir-a-paris-les-jeunes-manifestants-restent-mobilises-20261107_YNKADUBQ7RGRDGA2IDM4FOIZNM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.345647+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«A bas la résignation des battus d’avance» : en meeting au Bourget, Jean-Luc Mélenchon signe une inflexible démonstration de force",
+    "link": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/",
+    "summary": "Le candidat insoumis a rassemblé plus de 20 000 personnes au Parc des expositions en Seine-Saint-Denis, selon les chiffres des organisateurs, lors d’une convention de présentation de son programme, ce samedi 7 novembre.",
+    "published": "2026-11-07T18:49:39+00:00",
+    "authors": [
+      "Lucie Alexandre, Arthur Louis, photo Stéphane Lagoutte"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/a-bas-la-resignation-des-battus-davance-en-meeting-au-bourget-jean-luc-melenchon-signe-une-inflexible-demonstration-de-force-20261107_RVPT73ESOFCSTM7TH7R3YMG2SE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.345671+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Mobilisation sociale: à Paris, un cortège encore assez fourni pour maintenir la pression",
+    "link": "https://www.mediapart.fr/journal/france/071126/mobilisation-sociale-paris-un-cortege-encore-assez-fourni-pour-maintenir-la-pression",
+    "summary": "L’acte 4 du mouvement social a réuni au moins 46 000 personnes dans la capitale, à deux jours de la conférence sociale organisée à Matignon. Les participants rencontrés sur le boulevard Voltaire, qui aspirent à des réformes ambitieuses et des changements de fond, n’en attendent pas grand-chose.",
+    "published": "2026-11-07T18:29:38+00:00",
+    "authors": [
+      "Camille Polloni"
+    ],
+    "categories": [
+      "Du mouvement lycéen à l’explosion sociale",
+      "Éducation et enseignement supérieur, manifestations, Mouvement du 17 octobre, Paris"
+    ],
+    "guid": "1358626 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/07/afp-20261107-d6r334m-v2-midres-topshotfrancesocialpoliticsdemo.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.293472+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, guerre en Ukraine : les dernières informations",
+    "link": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+    "summary": "L’armée russe a lancé plusieurs attaques contre des infrastructures énergétiques ukrainiennes, cette nuit, selon le ministère de l’énergie ukrainien, qui signale des coupures d’électricité dans les oblasts de Dnipropetrovsk, Donetsk, Kiev, Jytomyr et Kharkiv.",
+    "published": "2026-11-07T18:24:37+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/live/2026/11/07/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
+    "image": "https://img.lemde.fr/2026/11/07/492/0/4481/2240/644/322/60/0/86edc57_ftp-1-zgpwizdyiwnr-2026-11-07t042532z-60077909-rc2oioa63stu-rtrmadp-3-ukraine-crisis-attack-kyiv.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294708+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Il faut tout changer » : au Bourget, Jean-Luc Mélenchon assume sa radicalité et s’offre une démonstration de force",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/il-faut-tout-changer-au-bourget-jean-luc-melenchon-assume-sa-radicalite-et-s-offre-une-demonstration-de-force-20261107",
+    "summary": "RÉCIT - Devant plus de 20 000 personnes, réunies pour célébrer le nouveau programme de La France Insoumise, le quadruple candidat a fait savoir ce samedi qu’il refusait de se montrer « moins clivant » et de mettre de « l’eau dans son vin ».",
+    "published": "2026-11-07T18:20:33+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/il-faut-tout-changer-au-bourget-jean-luc-melenchon-assume-sa-radicalite-et-s-offre-une-demonstration-de-force-20261107",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/07/c5f0c3da6d6a8fb0ce48542532dcc08051f0e069dca986e6bd604b3954be1f24.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287936+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "[TRIBUNE] Serge Papin, le pouvoir d’achat et les illusions du macronisme",
+    "link": "https://www.valeursactuelles.com/economie/tribune-serge-papin-le-pouvoir-dachat-et-les-illusions-du-macronisme",
+    "summary": "Mai 68 fut une révolte de printemps, une révolte de l’abondance. Le mouvement était résolument optimiste et les Français espéraient voir des lendemains qui chantent. Octobre 2026 fut au contraire... L’article [TRIBUNE] Serge Papin, le pouvoir d’achat et les illusions du macronisme est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-07T18:17:34+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "Gilets jaunes",
+      "macronisme",
+      "pouvoir d'achat"
+    ],
+    "guid": "https://www.valeursactuelles.com/economie/tribune-serge-papin-le-pouvoir-dachat-et-les-illusions-du-macronisme",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.739344+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«C’est une tragédie pour Cracovie, on n’a jamais connu une chose pareille» : 6 morts et une dizaine de blessés dans une fusillade",
+    "link": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
+    "summary": "En milieu d’après-midi ce samedi, un homme a fait irruption en voiture dans le centre la deuxième ville de Pologne et ouvert le feu au hasard. Le tireur a été blessé, neutralisé et transféré à l’hôpital.",
+    "published": "2026-11-07T18:12:18+00:00",
+    "authors": [
+      "AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.345696+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "EN DIRECT, France-Fidji : les Bleus dominent les Fidjiens mais perdent Romain Ntamack sur blessure",
+    "link": "https://www.lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
+    "summary": "Après deux victoires et une défaite en juillet dans l’hémisphère Sud, les Bleus continuent leur parcours dans le Championnat des nations de rugby, samedi, avec un match contre les Fidji.",
+    "published": "2026-11-07T18:10:03+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/live/2026/11/07/en-direct-france-fidji-suivez-le-match-de-championnat-des-nations-de-rugby-2026_6808309_3242.html",
+    "image": "https://img.lemde.fr/2026/11/07/0/0/3906/1953/644/322/60/0/388f3de_ftp-1-knuw8zq4wndx-afp-d6t3686.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294515+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Noëlle Lenoir : « Le projet Nuñez ou la liberté d’expression sous surveillance »",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/noelle-lenoir-le-projet-nunez-ou-la-liberte-dexpression-sous-surveillance",
+    "summary": "À six mois d’élections présidentielles qui marqueront un tournant dans une vie politique de plus en plus erratique, faite de violences verbales et physiques, de manifestations à répétition qui dégénèrent,... L’article Noëlle Lenoir : « Le projet Nuñez ou la liberté d’expression sous surveillance » est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-07T18:02:48+00:00",
+    "authors": [
+      "Wandrille De Guerpel"
+    ],
+    "categories": [
+      "Non classé",
+      "Arcom",
+      "ingérence étrangère",
+      "Laurent Nunez",
+      "liberté d'expression"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/noelle-lenoir-le-projet-nunez-ou-la-liberte-dexpression-sous-surveillance",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.739377+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Moi qui pensais vivre dans le pays des droits de l’homme» : à Nantes, recherche manif désespérément",
+    "link": "https://www.liberation.fr/societe/moi-qui-pensais-vivre-dans-le-pays-des-droits-de-lhomme-a-nantes-recherche-manif-desesperement-20261107_W3KQ42IC7JBMTOKFRXGBHIBTDI/",
+    "summary": "Dans la ville, où le rassemblement était interdit, les manifestants ont été rapidement dispersés par les forces de l’ordre, entre colère et confusion.",
+    "published": "2026-11-07T18:02:06+00:00",
+    "authors": [
+      "Marine Dumeurger, photo Théophile Trossat"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/moi-qui-pensais-vivre-dans-le-pays-des-droits-de-lhomme-a-nantes-recherche-manif-desesperement-20261107_W3KQ42IC7JBMTOKFRXGBHIBTDI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.345717+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Armée de Terre : les parachutistes de la 11e BP à l’épreuve de la haute intensité",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/societe/armee-de-terre-les-parachutistes-de-la-11e-bp-a-lepreuve-de-la-haute-intensite",
+    "summary": "Il est des alliances qui se forgent moins dans les chancelleries que sur les théâtres d’opérations. Cet adage n’a pas échappé à la 11e brigade parachutiste (BP). Nos bérets rouges... L’article Armée de Terre : les parachutistes de la 11e BP à l’épreuve de la haute intensité est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-07T18:01:20+00:00",
+    "authors": [
+      "Maxime Coupeau"
+    ],
+    "categories": [
+      "Non classé",
+      "armée de terre",
+      "Commando parachutiste",
+      "commandos",
+      "Forces spéciales",
+      "parachutistes"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/societe/armee-de-terre-les-parachutistes-de-la-11e-bp-a-lepreuve-de-la-haute-intensite",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.739410+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le soignant qui a changé ma vie : « J’étais sa patiente pour Covid long, je suis devenue sa collègue »",
+    "link": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
+    "summary": "Chaque mois, « Le Monde » part à la rencontre d’un soignant et d’un soigné qui, ensemble et au-delà du soin, ont su nouer un lien. Etonnante trajectoire que celle du duo formé par Valérie Triponez, infirmière atteinte d’un Covid long, et Mathieu Saubade, spécialiste de cette maladie complexe, devenus collaborateurs.",
+    "published": "2026-11-07T18:00:05+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/intimites/article/2026/11/07/le-soignant-qui-a-change-ma-vie-j-etais-sa-patiente-pour-covid-long-je-suis-devenue-sa-collegue_6808308_6190330.html",
+    "image": "https://img.lemde.fr/2026/11/05/611/0/4000/2000/644/322/60/0/243ab41_upload-1-ie4fkgbq1nvh-26-10-05-vale-rie-triponez-mathieu-saubade-04-marie-pierre-cravedi.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294642+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«On est là pour se montrer unis, ce que les politiques n’ont pas su faire» : aux obsèques de Pengo Bossio Wangi, un «dernier au revoir du peuple»",
+    "link": "https://www.liberation.fr/societe/on-est-la-pour-se-montrer-unis-ce-que-les-politiques-nont-pas-su-faire-aux-obseques-de-pengo-bossio-wangi-un-dernier-au-revoir-du-peuple-20261107_43ULTCFVEZH2PFXNS2EXIFG26E/",
+    "summary": "Ce samedi 7 novembre, plusieurs centaines de personnes se sont rassemblées au cimetière de Guyancourt, dans les Yvelines, pour un dernier hommage public au jeune homme de 26 ans tué dans l’attentat de Trappes.",
+    "published": "2026-11-07T17:58:09+00:00",
+    "authors": [
+      "Coppélia Piccolo"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/on-est-la-pour-se-montrer-unis-ce-que-les-politiques-nont-pas-su-faire-aux-obseques-de-pengo-bossio-wangi-un-dernier-au-revoir-du-peuple-20261107_43ULTCFVEZH2PFXNS2EXIFG26E/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.345741+00:00"
   },
   {
     "source": "Le Figaro",
     "title": "Du changement au gouvernement : Mathieu Lefèvre remplace Maud Bregeon, Arnaud Viala nommé ministre de la Ruralité",
     "link": "https://www.lefigaro.fr/politique/du-changement-au-gouvernement-mathieu-lefevre-remplace-maud-bregeon-arnaud-viala-nomme-ministre-de-la-ruralite-20261107",
     "summary": "L’actuelle porte-parole part en congé maternité. Le président Horizons du département de l’Aveyron, Arnaud Viala, va être nommé ministre de la Ruralité en remplacement de Michel Fournier.",
-    "published": "2026-11-07T17:23:06+00:00",
+    "published": "2026-11-07T17:36:30+00:00",
     "authors": [],
     "categories": [
       "Politique"
     ],
     "guid": "https://www.lefigaro.fr/politique/du-changement-au-gouvernement-mathieu-lefevre-remplace-maud-bregeon-arnaud-viala-nomme-ministre-de-la-ruralite-20261107",
-    "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/11/07/4d298e716792145962b0cd7b0183fef594bfc8dd32fc1c7efb66cd5ebe23d2d1.jpg",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/07/c24c5b20097eddd480aed505855690d80eb9e60e0c1a0cadb0cc9179bde0fb13.JPG",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.382965+00:00"
+    "fetched_at": "2026-11-07T21:30:13.288033+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Pologne, au moins six morts dans une attaque par arme à feu à Cracovie, le tireur interpellé",
+    "link": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
+    "summary": "Selon un porte-parole de la police, un homme a foncé en voiture sur la grande place de la vieille ville et a tiré « au hasard » sur des passants. L’auteur des faits était « fasciné par les idéologies d’extrême droite », a affirmé le ministre de l’intérieur.",
+    "published": "2026-11-07T17:34:57+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/07/en-pologne-au-moins-six-morts-dans-une-attaque-par-arme-a-feu-a-cracovie-le-tireur-interpelle_6808293_3211.html",
+    "image": "https://img.lemde.fr/2026/11/07/388/0/4656/2328/644/322/60/0/c2dc238_ftp-1-i35pu46rtpe3-2026-11-07t152544z-807251327-up1emb716qzie-rtrmadp-3-poland-shooting.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294580+00:00"
   },
   {
     "source": "Libération",
@@ -57,22 +596,7 @@
     "guid": "https://www.liberation.fr/societe/la-musique-est-un-dialogue-plus-fort-que-les-mots-a-nice-lorchestre-du-nouveau-monde-fait-des-petits-20261107_YIWY4TLCHJHORBYN7BBVB72SUE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501184+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Colère sociale : 250.000 manifestants selon les syndicats, 146.000 selon l’Intérieur, des tensions place de la Nation",
-    "link": "https://www.lefigaro.fr/actualite-france/en-direct-acte-iv-des-gilets-jaunes-syndicats-mouvement-social-contre-la-vie-chere-casseurs-blacks-blocs-crs-manifestation-paris-place-de-la-concorde-20261107",
-    "summary": "70.000 policiers et gendarmes étaient mobilisés ce samedi 7 novembre et espèrent contenir de nouveaux débordements.",
-    "published": "2026-11-07T17:13:03+00:00",
-    "authors": [],
-    "categories": [
-      "Société"
-    ],
-    "guid": "https://www.lefigaro.fr/actualite-france/en-direct-acte-iv-des-gilets-jaunes-syndicats-mouvement-social-contre-la-vie-chere-casseurs-blacks-blocs-crs-manifestation-paris-place-de-la-concorde-20261107",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/07/03ee77eebe4079d7a1e23e9de4a3e9e67e3c403c97ed41c1f5fcd083b1f65ad4.jpg",
-    "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.382817+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345776+00:00"
   },
   {
     "source": "Libération",
@@ -87,7 +611,7 @@
     "guid": "https://www.liberation.fr/checknews/ce-film-de-sylvain-chomet-pour-dior-a-t-il-ete-realise-avec-lia-20261107_QURVF5TQIJC7LCFJ6JA2TS5WFQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501206+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345797+00:00"
   },
   {
     "source": "Le Monde",
@@ -116,21 +640,6 @@
     "fetched_at": "2026-11-07T17:29:59.303778+00:00"
   },
   {
-    "source": "Libération",
-    "title": "EN DIRECT – Manifestations du 7 novembre : 250 000 personnes ont défilé dans toute la France, selon l’intersyndicale de la jeunesse",
-    "link": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/",
-    "summary": "Samedi, pour le quatrième week-end consécutif, de nouvelles manifestations se sont déroulées sous haute sécurité, avec pour épicentre Paris, où des gilets jaunes se sont rassemblés à Concorde malgré l’interdiction de la préfecture de police.",
-    "published": "2026-11-07T17:07:21+00:00",
-    "authors": [
-      "Libération ., Service Photo, AFP ., Reuters ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/economie/social/en-direct-colere-sociale-nouvelle-journee-de-mobilisation-ce-samedi-deux-jours-avant-une-conference-sociale-a-matignon-20261107_MUMGM32WH5DODF76RBQEND6HPM/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501227+00:00"
-  },
-  {
     "source": "Valeurs actuelles",
     "title": "Art de vivre : une balade en Champagne entre bulles et mémoire de la Première guerre mondiale",
     "link": "https://www.valeursactuelles.com/clubvaleurs/art-de-vivre/art-de-vivre-une-balade-en-champagne-entre-bulles-et-memoire-de-la-premiere-guerre-mondiale",
@@ -149,7 +658,59 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/art-de-vivre/art-de-vivre-une-balade-en-champagne-entre-bulles-et-memoire-de-la-premiere-guerre-mondiale",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:30:00.188214+00:00"
+    "fetched_at": "2026-11-07T21:30:13.739441+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Hervé Le Bras, historien : « Une France de technocrates est en train d’être remplacée par une France de tribuns »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html",
+    "summary": "Dans un entretien au « Monde », Hervé Le Bras explique comment une partie de la population française en perte de repères traditionnels et se sentant exclue pourrait écarter les élites actuelles au profit d’un gouvernement autoritaire qui redonnerait au peuple une place centrale.",
+    "published": "2026-11-07T17:00:33+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/07/herve-le-bras-historien-une-france-de-technocrates-est-en-train-d-etre-remplacee-par-une-france-de-tribuns_6808301_3224.html",
+    "image": "https://img.lemde.fr/2026/08/28/525/0/6299/3149/644/322/60/0/66ad219_ftp-1-aqrewqewnizp-f6dfef47c17d44658c04fa7c9571d1d2-0-361dd698895446feb56f865ede59b58b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294558+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Carla Shatz, neuroscientifique : « La notion que le cerveau est déjà plastique in utero, bien avant la naissance, a été déterminante »",
+    "link": "https://www.lemonde.fr/sciences/article/2026/11/07/carla-shatz-neuroscientifique-la-notion-que-le-cerveau-est-deja-plastique-in-utero-bien-avant-la-naissance-a-ete-determinante_6808300_1650684.html",
+    "summary": "La chercheuse américaine a reçu le 3 novembre la Grande Médaille de l’Académie des sciences, une récompense qui met en valeur ses découvertes sur le développement du cerveau. Elle raconte dans un entretien au « Monde » cette aventure, qui a permis d’influencer les politiques éducatives.",
+    "published": "2026-11-07T17:00:18+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sciences/article/2026/11/07/carla-shatz-neuroscientifique-la-notion-que-le-cerveau-est-deja-plastique-in-utero-bien-avant-la-naissance-a-ete-determinante_6808300_1650684.html",
+    "image": "https://img.lemde.fr/2026/11/05/276/0/3307/1653/644/322/60/0/5d49741_upload-1-pivqjda08u2o-adsiences-grande-medaille-20261e4a9295mdme-carla-shatz.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294690+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Dans les cabinets d’affaires, l’inquiétude des jeunes avocats : « D’ici à cinq ans, l’IA sera capable d’exécuter la quasi-totalité des tâches aujourd’hui confiées à un stagiaire ou à un jeune collaborateur »",
+    "link": "https://www.lemonde.fr/campus/article/2026/11/07/dans-les-cabinets-d-affaires-l-inquietude-des-jeunes-avocats-d-ici-a-cinq-ans-l-ia-sera-capable-d-executer-la-quasi-totalite-des-taches-aujourd-hui-confiees-a-un-stagiaire-ou-a-un-jeune-collaborateur_6808299_4401467.html",
+    "summary": "Alors que l’intelligence artificielle générative déferle dans le monde du droit, une partie de la jeune génération d’avocats s’interroge sur ses perspectives de carrière.",
+    "published": "2026-11-07T17:00:14+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/campus/article/2026/11/07/dans-les-cabinets-d-affaires-l-inquietude-des-jeunes-avocats-d-ici-a-cinq-ans-l-ia-sera-capable-d-executer-la-quasi-totalite-des-taches-aujourd-hui-confiees-a-un-stagiaire-ou-a-un-jeune-collaborateur_6808299_4401467.html",
+    "image": "https://img.lemde.fr/2026/10/29/14/0/1790/895/644/322/60/0/37505a0_upload-1-2yc3vvht2jaw-def-web-2.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294600+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« L’Europe et le Canada se sont mis d’accord pour essayer de vivre dans un monde post-Trump avant même qu’il ait quitté la Maison Blanche »",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/07/l-europe-et-le-canada-se-sont-mis-d-accord-pour-essayer-de-vivre-dans-un-monde-post-trump-avant-meme-qu-il-ait-quitte-la-maison-blanche_6808298_3232.html",
+    "summary": "L’Union européenne et Ottawa s’inspirent de la stratégie de la « révolution autolimitée », pensée par les dissidents d’Europe de l’Est dans les années 1970 pour bâtir une société parallèle à côté de la société officielle, sans chercher à la réformer, note le politiste bulgare Ivan Krastev, dans une tribune au « Monde ».",
+    "published": "2026-11-07T17:00:13+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/11/07/l-europe-et-le-canada-se-sont-mis-d-accord-pour-essayer-de-vivre-dans-un-monde-post-trump-avant-meme-qu-il-ait-quitte-la-maison-blanche_6808298_3232.html",
+    "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/74736ce_upload-1-1q1lcx7t5zad-frame-1190.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294667+00:00"
   },
   {
     "source": "Libération",
@@ -164,7 +725,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/au-yemen-22-morts-dans-des-bombardements-saoudiens-autour-de-sanaa-annoncent-les-houthis-20261107_3LFMWR22AJDNLJ3LILURQLOTAE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501246+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345817+00:00"
   },
   {
     "source": "Le Figaro",
@@ -183,6 +744,19 @@
   },
   {
     "source": "Le Monde",
+    "title": "« Super-rafales, un phénomène sous surveillance », sur Arte : voyage au centre des mégatempêtes",
+    "link": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
+    "summary": "A l’occasion de la COP31 sur le climat, des scientifiques passionnés décryptent ces phénomènes météorologiques récents et violents dans un documentaire spectaculaire.",
+    "published": "2026-11-07T16:30:10+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/culture/article/2026/11/07/super-rafales-un-phenomene-sous-surveillance-sur-arte-voyage-au-centre-des-megatempetes_6808297_3246.html",
+    "image": "https://img.lemde.fr/2026/11/02/1040/0/7677/3838/644/322/60/0/c6c713f_upload-1-k0wgoymiftxo-super-rafales2c-un-phc3a9nomc3a8ne-sous-surveillance-quadruple-columns-of-calamity.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294762+00:00"
+  },
+  {
+    "source": "Le Monde",
     "title": "Présidentielle 2027 : « Je n’ai qu’une chose raisonnable à vous proposer : il faut tout changer », lance Jean-Luc Mélenchon lors de son meeting au Bourget",
     "link": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html",
     "summary": "« Nous sommes en train d’ouvrir le chemin d’un grand changement politique en France », a affirmé le candidat « insoumis » samedi, lors d’un meeting de campagne pour la présentation du programme présidentiel de La France insoumise.",
@@ -190,9 +764,9 @@
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/11/07/presidentielle-2027-je-n-ai-qu-une-chose-raisonnable-a-vous-proposer-il-faut-tout-changer-lance-jean-luc-melenchon-en-introduction-de-son-meeting-au-bourget_6808296_823448.html",
-    "image": "https://img.lemde.fr/2026/11/07/332/0/4004/2002/644/322/60/0/2242ace_upload-1-7a3x5cs3xenb-l1013259.JPG",
+    "image": "https://img.lemde.fr/2026/11/07/878/0/1756/878/644/322/60/0/43e9e8e_upload-1-c80x90yrqhdm-l1180040.JPG",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.303835+00:00"
+    "fetched_at": "2026-11-07T21:30:13.294477+00:00"
   },
   {
     "source": "Le Figaro",
@@ -210,21 +784,6 @@
     "fetched_at": "2026-11-07T17:29:59.382908+00:00"
   },
   {
-    "source": "Libération",
-    "title": "«C’est une tragédie pour Cracovie, on n’a jamais connu une chose pareille» : 5 morts et une dizaine de blessés dans une fusillade",
-    "link": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
-    "summary": "En milieu d’après-midi ce samedi, un homme a fait irruption en voiture dans le centre la deuxième ville de Pologne et ouvert le feu au hasard. Le tireur a été blessé, neutralisé et transféré à l’hôpital.",
-    "published": "2026-11-07T16:05:14+00:00",
-    "authors": [
-      "AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/international/europe/pologne-5-morts-et-une-dizaine-de-blesses-dans-une-fusillade-a-cracovie-20261107_SOXK4M35TFC5HCTPTS3UN5KWBM/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501266+00:00"
-  },
-  {
     "source": "Le Figaro",
     "title": "Présidentielle 2027 : quelles sont les véritables chances de victoire de Jean-Luc Mélenchon ?",
     "link": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20261107",
@@ -237,7 +796,7 @@
     "guid": "https://www.lefigaro.fr/politique/presidentielle-quelles-sont-les-chances-de-jean-luc-melenchon-de-se-qualifier-au-second-tour-20261107",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/10/09/20d83f82cd8cb1e410d152c063b507539b52a4533d886a76b45c81f57b8c4dbc.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.382923+00:00"
+    "fetched_at": "2026-11-07T21:30:13.287955+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -257,7 +816,20 @@
     "guid": "https://www.valeursactuelles.com/societe/on-veut-du-bio-pas-du-mcdo-la-france-contre-les-fast-food",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:30:00.188245+00:00"
+    "fetched_at": "2026-11-07T21:30:13.739472+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Edwin Pindi, président du club de football de Troyes : « Même sous pavillon étranger, il y a un vrai respect de l’identité locale »",
+    "link": "https://www.lemonde.fr/sport/article/2026/11/07/edwin-pindi-president-du-club-de-football-de-troyes-meme-sous-pavillon-etranger-il-y-a-un-vrai-respect-de-l-identite-locale_6808295_3242.html",
+    "summary": "Alors que la formation auboise affronte le PSG au Parc des Princes, samedi, en Ligue 1, son dirigeant revient, dans un entretien au « Monde », sur les relations avec son puissant propriétaire, le City Football Group, également à la tête des Skyblues outre-Manche.",
+    "published": "2026-11-07T16:00:11+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/sport/article/2026/11/07/edwin-pindi-president-du-club-de-football-de-troyes-meme-sous-pavillon-etranger-il-y-a-un-vrai-respect-de-l-identite-locale_6808295_3242.html",
+    "image": "https://img.lemde.fr/2026/11/06/483/0/6000/3000/644/322/60/0/e0179e7_upload-1-8tx01odplhce-maxnewsspecialtwo355546.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294788+00:00"
   },
   {
     "source": "Le Monde",
@@ -286,6 +858,21 @@
     "fetched_at": "2026-11-07T17:29:59.303903+00:00"
   },
   {
+    "source": "Le Figaro",
+    "title": "À Gaza, des dizaines de milliers de réfugiés privés d’abris après des pluies diluviennes",
+    "link": "https://www.lefigaro.fr/international/a-gaza-des-dizaines-de-milliers-de-refugies-prives-d-abris-apres-des-pluies-diluviennes-20261107",
+    "summary": "Environ 70.000 tentes ont été inondées, indiquent les autorités civiles placées sous le contrôle du Hamas.",
+    "published": "2026-11-07T15:28:23+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/a-gaza-des-dizaines-de-milliers-de-refugies-prives-d-abris-apres-des-pluies-diluviennes-20261107",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/07/547708e75eb8096172229feb6b50828d25d64ce85cb970ae857b1c41aa616aaa.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.287865+00:00"
+  },
+  {
     "source": "Libération",
     "title": "Les groupes de parole de Terreur Graphique : «Bonjour… vous savez très bien qui je suis»",
     "link": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-vous-savez-tres-bien-qui-je-suis-20261107_JQHJNMLLZVHLPPMNTXUKZTGDCY/",
@@ -298,7 +885,7 @@
     "guid": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-vous-savez-tres-bien-qui-je-suis-20261107_JQHJNMLLZVHLPPMNTXUKZTGDCY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501280+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345835+00:00"
   },
   {
     "source": "Le Monde",
@@ -341,7 +928,7 @@
     "guid": "https://www.liberation.fr/international/amerique/une-avancee-considerable-aux-etats-unis-la-vague-democrate-aux-midterms-porte-aussi-les-femmes-20261107_6RGVHTOLARAKRIXIJ37PDL7NJI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501297+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345861+00:00"
   },
   {
     "source": "Le Figaro",
@@ -378,7 +965,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-communistes-ecologistes-anciens-insoumis-le-trou-noir-melenchon",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:30:00.188275+00:00"
+    "fetched_at": "2026-11-07T21:30:13.739506+00:00"
   },
   {
     "source": "Libération",
@@ -393,12 +980,12 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/a-gaza-des-pluies-diluviennes-privent-dabri-des-dizaines-de-milliers-de-deplaces-20261107_WIXB3O3KX5BDXAYZ74KMU5DHPE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501313+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345884+00:00"
   },
   {
     "source": "Mediapart",
-    "title": "«On a été arrêtés au hasard»: témoignages de manifestants embarqués dans un bus de la ville",
-    "link": "https://www.mediapart.fr/journal/france/071126/ete-arretes-au-hasard-temoignages-de-manifestants-embarques-dans-un-bus-de-la-ville",
+    "title": "«On a été arrêtés au hasard»: des manifestants embarqués dans un bus de la ville de Strasbourg",
+    "link": "https://www.mediapart.fr/journal/france/071126/ete-arretes-au-hasard-des-manifestants-embarques-dans-un-bus-de-la-ville-de-strasbourg",
     "summary": "Jeudi 5 novembre, 62 manifestants qui s’étaient mis à l’abri des gaz lacrymogènes dans un restaurant ont été embarqués dans un bus réquisitionné par la police. Dans la soirée, 60 ont été relâchés et 2 ont été placés en garde à vue, d’après le parquet.",
     "published": "2026-11-07T14:44:35+00:00",
     "authors": [
@@ -411,7 +998,7 @@
     "guid": "1358599 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/07/55636349501-609b748ad5-k-1.png",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.761994+00:00"
+    "fetched_at": "2026-11-07T21:30:13.293496+00:00"
   },
   {
     "source": "Le Figaro",
@@ -474,7 +1061,7 @@
     "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-marine-le-pen-bruno-retailleau-david-lisnard-les-francais-font-plus-confiance-a-des-candidats-de-droite-selon-un-sondage",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:30:00.188303+00:00"
+    "fetched_at": "2026-11-07T21:30:13.739543+00:00"
   },
   {
     "source": "Le Monde",
@@ -491,6 +1078,21 @@
   },
   {
     "source": "Le Figaro",
+    "title": "«Il s’est replié sur lui-même» : une députée de Seine-Saint-Denis quitte le Parti socialiste, qu’elle accuse d’abandonner les «classes populaires»",
+    "link": "https://www.lefigaro.fr/politique/il-s-est-replie-sur-lui-meme-une-deputee-de-seine-saint-denis-quitte-le-parti-socialiste-qu-elle-accuse-d-abandonner-les-classes-populaires-20261107",
+    "summary": "Fatiha Keloua Hachi, élue en 2022 et ancienne présidente de la commission des affaires culturelles et de l’éducation à l’Assemblée nationale, déplore notamment l’organisation d’une primaire payante dans un pays qui compte «neuf millions de pauvres».",
+    "published": "2026-11-07T13:58:58+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/il-s-est-replie-sur-lui-meme-une-deputee-de-seine-saint-denis-quitte-le-parti-socialiste-qu-elle-accuse-d-abandonner-les-classes-populaires-20261107",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/07/14b8ba2dcac16350563d9170c3aadf31c60fd6701318a86a571311f0d362edc1.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.288055+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "« Le gouvernement commence à reculer » : nouvel appel à la grève dans l'éducation et l'enseignement supérieur le 10 novembre",
     "link": "https://www.lefigaro.fr/actualite-france/le-gouvernement-commence-a-reculer-nouvel-appel-a-la-greve-dans-l-education-et-l-enseignement-superieur-le-10-novembre-20261107",
     "summary": "Dans un communiqué, l’intersyndicale rassemblant organisations lycéennes, étudiantes et d’enseignants estime que «c’est le moment d’amplifier la mobilisation».",
@@ -502,7 +1104,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/le-gouvernement-commence-a-reculer-nouvel-appel-a-la-greve-dans-l-education-et-l-enseignement-superieur-le-10-novembre-20261107",
     "image": "https://i.f1g.fr/media/cms/orig/2026/11/07/b5d8264e22757c86f63dafc5d70813009b37b12ec804b7d0e57315d5a5011b13.JPG",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.383045+00:00"
+    "fetched_at": "2026-11-07T21:30:13.287780+00:00"
   },
   {
     "source": "Libération",
@@ -517,7 +1119,7 @@
     "guid": "https://www.liberation.fr/culture/livres/chacun-de-jean-paul-dubois-ceux-qui-manquent-a-la-peine-20261107_ZM6DHIUIUFH23JNYLSGS3T5RCQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501326+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345900+00:00"
   },
   {
     "source": "Libération",
@@ -532,7 +1134,7 @@
     "guid": "https://www.liberation.fr/culture/musique/doveland-de-django-django-le-spleen-leur-va-si-bien-20261107_XFYC4QH5ZBGIBJGSHW3SVK45TU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501339+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345916+00:00"
   },
   {
     "source": "Le Monde",
@@ -563,7 +1165,7 @@
     "guid": "1358236 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/06/261106-img-un-policier-condamne-dix-ans-de-prison-joue-sa-derniere-chance-en-appel.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.762017+00:00"
+    "fetched_at": "2026-11-07T21:30:13.293519+00:00"
   },
   {
     "source": "Mediapart",
@@ -581,7 +1183,7 @@
     "guid": "1358110 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/05/261105-img-fontes-des-glaces-2.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.762035+00:00"
+    "fetched_at": "2026-11-07T21:30:13.293539+00:00"
   },
   {
     "source": "Mediapart",
@@ -594,12 +1196,12 @@
     ],
     "categories": [
       "International",
-      "A la Une, Arabie Saoudite, houthistes, Proche et Moyen-Orient, Yémen"
+      "Arabie Saoudite, houthistes, Proche et Moyen-Orient, Yémen"
     ],
     "guid": "1357626 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/05/261105-img-dans-la-peninsule-arabique-le-yemen-se-distingue-de-ses-riches-voisins-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.762054+00:00"
+    "fetched_at": "2026-11-07T21:30:13.293563+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -620,7 +1222,7 @@
     "guid": "https://www.valeursactuelles.com/politique/et-bally-bagayoko-rit-et-danse-en-celebrant-la-mort-dinnocents-passe-darmes-entre-marion-marechal-et-le-maire-lfi-qui-celebre-linsurrection-de-1954",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:30:00.188332+00:00"
+    "fetched_at": "2026-11-07T21:30:13.739581+00:00"
   },
   {
     "source": "Le Monde",
@@ -648,7 +1250,7 @@
     "guid": "https://www.liberation.fr/politique/elections/presidentielle-les-deputes-qui-soutiennent-jean-luc-melenchon-se-sont-mis-en-dehors-du-parti-reagit-le-pcf-20261107_WTSZWGQPBVCPBJTMAUO5WZCEFE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501358+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345940+00:00"
   },
   {
     "source": "Libération",
@@ -663,7 +1265,7 @@
     "guid": "https://www.liberation.fr/lifestyle/intimites/des-nus-hantes-par-eugen-sandow-nous-voulions-faire-du-mapping-mais-en-version-porno-20261107_BY4QFBH4XFH5DJWIM753L3GW7E/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501380+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345967+00:00"
   },
   {
     "source": "Libération",
@@ -678,7 +1280,7 @@
     "guid": "https://www.liberation.fr/sports/tennis/tennis-gael-monfils-nomme-capitaine-de-lequipe-de-france-pour-la-coupe-davis-20261107_JUQ6XLVGOBADXKLWP3VON6SQBU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501396+00:00"
+    "fetched_at": "2026-11-07T21:30:13.345989+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -711,12 +1313,12 @@
     ],
     "categories": [
       "Politique",
-      "Élection présidentielle 2027, Gauche(s), Jean-Luc Mélenchon"
+      "A la Une, Élection présidentielle 2027, Gauche(s), Jean-Luc Mélenchon"
     ],
     "guid": "1358555 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/07/afp-20261011-d2wt2xv-v1-highres-france2027politicselectionmeeting.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.762072+00:00"
+    "fetched_at": "2026-11-07T21:30:13.293584+00:00"
   },
   {
     "source": "Libération",
@@ -731,7 +1333,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/incendie-mortel-du-gite-de-wintzenheim-la-proprietaire-sera-jugee-debut-2027-20261107_EA6QRUYRDJHMPJN43LVZIBRIRU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501413+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346011+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -767,7 +1369,7 @@
     "guid": "https://www.liberation.fr/international/europe/lukraine-frappee-par-des-bombardements-nocturnes-russes-massives-contre-ses-infrastructures-energetiques-20261107_XUOSMUOROVBORMAZZESV3UUISQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501429+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346032+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -818,7 +1420,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/la-semaine-vue-par-coco-trump-face-au-blunami-democrate-20261107_QPDZ2YMJNVE7TIPB7N6E56FJM4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501441+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346047+00:00"
   },
   {
     "source": "Libération",
@@ -833,7 +1435,7 @@
     "guid": "https://www.liberation.fr/checknews/les-produits-vegetaux-ultratransformes-sont-ils-par-definition-mauvais-pour-la-sante-20261107_ZWIDVHEJ7VEVZH55JZSCAJYBNU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501458+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346069+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -870,7 +1472,7 @@
     "guid": "https://www.liberation.fr/lifestyle/hightech/joutes-a-velo-duels-a-lepee-a-londres-et-new-york-le-carton-des-combats-medievaux-revisites-20261107_3EOATNI3OVEKZPNOAVF4ENYJDM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501475+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346090+00:00"
   },
   {
     "source": "Libération",
@@ -885,7 +1487,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/opinions/affaire-sonia-mabrouk-a-bfm-tv-letincelle-igor-sahiri-par-daniel-schneidermann-20261107_4FEK6VJXJNC3XMAE3232HNGRIA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501492+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346112+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -936,7 +1538,7 @@
     "guid": "https://www.liberation.fr/international/en-images-en-afrique-du-sud-les-mythes-de-mpumalanga-20261107_TIRJ23ZXQVHCDDGDFCP63EOIPU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501505+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346129+00:00"
   },
   {
     "source": "Libération",
@@ -951,7 +1553,7 @@
     "guid": "https://www.liberation.fr/international/amerique/immigration-au-texas-democrate-la-ville-de-houston-annonce-desormais-limiter-le-recours-a-lice-20261107_CFHUV7XZLBHBBHSZY7MRYHJJTQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501522+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346151+00:00"
   },
   {
     "source": "Libération",
@@ -966,7 +1568,7 @@
     "guid": "https://www.liberation.fr/culture/livres/via-veneto-de-colette-fellous-la-memoire-ne-tient-qua-un-film-20261107_3UAA6SHWONH5FPN6IWPHTH5G7Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501538+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346173+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1024,7 +1626,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/commissariats-fantomes-la-chine-continue-detendre-ses-tentacules-a-letranger-20261107_JRWMDMV5MBF7XP7Y7LP2NMNFXY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501557+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346197+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1074,7 +1676,7 @@
     "guid": "https://www.liberation.fr/culture/livres/top-des-ventes-de-livres-nouveau-numero-un-philippe-jaenada-nous-prend-de-goncourt-20261107_27MZHLOXW5CCDE6TSOAZP4G4DU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501572+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346217+00:00"
   },
   {
     "source": "Libération",
@@ -1089,7 +1691,7 @@
     "guid": "https://www.liberation.fr/economie/medias/metoomedia-recompense-liberation-mediapart-et-la-serie-laffaire-laura-stern-20261107_EOVPYUFG2JE53LYBBXQG7K57QQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501590+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346240+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1122,7 +1724,7 @@
     "guid": "1357803 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/05/261105-img-grenoble.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.762091+00:00"
+    "fetched_at": "2026-11-07T21:30:13.293608+00:00"
   },
   {
     "source": "Le Monde",
@@ -1180,7 +1782,7 @@
     "guid": "https://www.liberation.fr/politique/apres-le-moment-bardella-laura-faiblissante-du-rn-chez-la-jeunesse-20261107_7GTSRYMPOJEBDN3GTFF2AQ5KME/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501608+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346262+00:00"
   },
   {
     "source": "Le Monde",
@@ -1208,7 +1810,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/benjamin-ball-david-libeskind-azelma-sigaux-qui-sont-les-visages-de-la-nouvelle-generation-des-gilets-jaunes-20261107",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/06/675fa77c30aa8cd93782bd21e0b711d2496d67277dd6373ad984f570f0460113.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.383080+00:00"
+    "fetched_at": "2026-11-07T21:30:13.287756+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1251,7 +1853,7 @@
     "guid": "https://www.liberation.fr/culture/jeux-video/virtue-and-a-sledgehammer-tout-casser-pour-se-reconstruire-20261107_4GPPWRUQ2VBANLVL4LOT3GB3S4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501624+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346282+00:00"
   },
   {
     "source": "Mediapart",
@@ -1284,7 +1886,7 @@
     "guid": "https://www.liberation.fr/environnement/climat/vagues-de-froid-une-perturbation-du-vortex-polaire-observee-par-les-scientifiques-et-une-baisse-des-temperatures-attendue-20261107_X3G4S3M265CJZAUORCD7WFWBS4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501640+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346303+00:00"
   },
   {
     "source": "Mediapart",
@@ -1317,7 +1919,7 @@
     "guid": "https://www.liberation.fr/politique/face-a-lattraction-insoumise-les-tiraillements-ecolos-et-communistes-20261107_DLJKFCEYDVFXPESESJBASR7IEA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501657+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346331+00:00"
   },
   {
     "source": "Libération",
@@ -1332,7 +1934,7 @@
     "guid": "https://www.liberation.fr/societe/familles/tocophobie-milk-blues-syndrome-du-nid-encombre-dix-epreuves-meconnues-de-la-vie-dun-parent-20261107_DIWVRP6UQ5DBDCU6V3U3VKSYQ4/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501676+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346357+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1362,7 +1964,7 @@
     "guid": "https://www.liberation.fr/culture/livres/en-librairies-ante-tomic-rumena-buzarovska-ubah-cristina-ali-farah-20261107_HQ7LJ32T2FC3VC4RLE3L3GLVZY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501690+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346375+00:00"
   },
   {
     "source": "Libération",
@@ -1377,7 +1979,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/midterms-apres-leur-ecrasante-victoire-les-democrates-au-defi-de-la-regulation-de-lia-20261107_CI4RFE7UPRBIHKGUAVE7R6S3OQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501709+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346398+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1430,7 +2032,7 @@
     "guid": "https://www.liberation.fr/international/amerique/paraguay-apres-la-destitution-de-santiago-pena-pedro-alliana-investi-president-20261107_6D7BD6K2JFGYPGOZUWHPETBACU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501726+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346420+00:00"
   },
   {
     "source": "Libération",
@@ -1445,7 +2047,7 @@
     "guid": "https://www.liberation.fr/culture/musique/louison-il-va-falloir-du-temps-pour-se-remettre-de-la-mort-de-catherine-ringer-20261107_IF4EXGJ4WBBOLORBVM7HQZMBWM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501738+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346438+00:00"
   },
   {
     "source": "Libération",
@@ -1460,7 +2062,7 @@
     "guid": "https://www.liberation.fr/international/amerique/douglas-kennedy-les-resultats-des-midterms-traduisent-enfin-la-diversite-des-etats-unis-20261107_S6CDBBPBBRDLBKABEWE4THB2OA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501759+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346458+00:00"
   },
   {
     "source": "Libération",
@@ -1475,7 +2077,7 @@
     "guid": "https://www.liberation.fr/sports/rugby/au-championnat-des-nations-le-xv-de-france-clopin-clopant-20261107_KUWW2DTUY5H4PGSJQ23R5BGEPU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501773+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346477+00:00"
   },
   {
     "source": "Libération",
@@ -1490,7 +2092,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/la-litterature-est-un-bien-precieux-aussi-attirant-que-des-balenciaga-par-esther-teillard-20261107_XNNZS2NOQ5GSLH3KHCEHO5H3BI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501790+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346498+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1555,7 +2157,7 @@
     "guid": "https://www.liberation.fr/politique/il-ne-faut-pas-exagerer-les-consequences-de-ce-moment-avant-le-meeting-de-jean-luc-melenchon-lindifference-regne-chez-raphael-glucksmann-20261107_2TMWMY2LGNHUDFIP23K6SATJQU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501811+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346526+00:00"
   },
   {
     "source": "Libération",
@@ -1570,7 +2172,7 @@
     "guid": "https://www.liberation.fr/societe/17-octobre-la-phrase-raciste-dedouard-philippe-qui-me-tord-le-bide-20261107_C7WMFWUILNBGJJT6FAQG6XS56I/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501838+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346548+00:00"
   },
   {
     "source": "Libération",
@@ -1585,7 +2187,7 @@
     "guid": "https://www.liberation.fr/societe/sante/deserts-medicaux-il-nest-pas-question-de-livrer-les-docteurs-juniors-en-pature-20261107_IPKP4UGH65CYPC4J4ESO4CMN2M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501856+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346571+00:00"
   },
   {
     "source": "Le Monde",
@@ -1613,7 +2215,7 @@
     "guid": "https://www.liberation.fr/culture/photographie/le-festival-mirar-distinto-au-mexique-photographier-malgre-la-violence-les-cartels-et-les-regimes-autoritaires-20261107_E2KPLNMGFFGCDO76TKAG2ZFRAU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501875+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346594+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1721,7 +2323,20 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/mes-eleves-sont-incapables-de-citer-un-seul-nom-de-romanciere-comme-les-jures-des-prix-litteraires-finalement-20261107_VJZVN3IOBFGXBGB4GV526BMXAE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501891+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346615+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le néolibéralisme est-il mort ? Vie et métamorphoses de la doctrine qui a façonné le monde contemporain",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+    "summary": "L’élection de Donald Trump et le Brexit, en 2016, marquent-ils la fin de quatre décennies d’hégémonie du néolibéralisme ? Le débat anime des intellectuels à travers le monde, qui s’interrogent sur les mutations d’une doctrine ayant refondé le libéralisme moderne en donnant un rôle nouveau à l’Etat.",
+    "published": "2026-11-07T04:55:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/11/07/le-neoliberalisme-est-il-mort-vie-et-metamorphoses-de-la-doctrine-qui-a-faconne-le-monde-contemporain_6808201_3232.html",
+    "image": "https://img.lemde.fr/2026/11/06/740/0/2433/1216/644/322/60/0/202c0b3_upload-1-khu4se4ac0wv-neoliberalisme.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-07T21:30:13.294730+00:00"
   },
   {
     "source": "Libération",
@@ -1736,7 +2351,7 @@
     "guid": "https://www.liberation.fr/international/amerique/en-argentine-ce-que-les-pretres-des-bidonvilles-attendent-du-pape-20261107_KWVKRTRA4NCTPDA6UYVNGUAG2U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501909+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346637+00:00"
   },
   {
     "source": "Le Monde",
@@ -1790,7 +2405,7 @@
     "guid": "https://www.liberation.fr/international/amerique/contestation-des-resultats-des-midterms-trump-est-un-despote-fragile-20261107_J4NICKA2GRC5BCYVSP66KAVX5Q/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501923+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346655+00:00"
   },
   {
     "source": "Libération",
@@ -1805,7 +2420,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/apres-la-deferlante-democrate-israel-redoute-la-fin-dun-soutien-inconditionnel-20261107_66ZT5FEHKNHIZE4O2WS6QVIC74/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.501941+00:00"
+    "fetched_at": "2026-11-07T21:30:13.346678+00:00"
   },
   {
     "source": "Le Monde",
@@ -2260,7 +2875,7 @@
     "guid": "https://www.lefigaro.fr/elections/presidentielles/programmes/choc-fiscal-massif-envolee-des-depenses-publiques-la-dangereuse-experience-collectiviste-proposee-par-melenchon-pour-la-presidentielle-20261106",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/06/996f4b75236d11dbce10feaeae29eb20d94823b29625d541c06b3377e66ce929.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-07T17:29:59.382937+00:00"
+    "fetched_at": "2026-11-07T21:30:13.287973+00:00"
   },
   {
     "source": "Le Monde",
@@ -34003,21 +34618,6 @@
     "image": "https://i.f1g.fr/media/cms/1280x720_crop/2026/10/27/ce07fc44abb8853a84dfdf77d1da66cea5223bceef5b9ba1c96eb66b23bb887d.jpg",
     "full_text": null,
     "fetched_at": "2026-10-27T08:42:06.830658+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Législatives en Israël : Gadi Eisenkot, l’«anti-Bibi» qui pourrait prendre le pouvoir",
-    "link": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
-    "summary": "PORTRAIT - Le parti de l’ex-chef d’état-major de l’armée israélienne est donné par les sondages comme le principal adversaire de Benyamin Netanyahou. Moins charismatique que le chef du Likoud, il compte sur sa réputation d’intégrité et son image d’homme à poigne pour tenter de convaincre.",
-    "published": "2026-10-27T08:18:55+00:00",
-    "authors": [],
-    "categories": [
-      "International"
-    ],
-    "guid": "https://www.lefigaro.fr/international/legislatives-en-israel-gadi-eisenkot-l-anti-bibi-qui-pourrait-prendre-le-pouvoir-20261026",
-    "image": "https://i.f1g.fr/media/cms/2722x1531_crop/2026/10/26/f1247080ac080539fbed015fd319c3e086acbf5c9590c00e769a0ee649a0c82d.jpg",
-    "full_text": null,
-    "fetched_at": "2026-10-27T15:09:33.016459+00:00"
   },
   {
     "source": "Le Figaro",
