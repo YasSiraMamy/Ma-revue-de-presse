@@ -1,6 +1,1633 @@
 [
   {
     "source": "Le Figaro",
+    "title": "Artex, Cairn, PentAGI : ces hordes d’IA «offensives» qui font trembler la Commission européenne, le FBI et l’économie mondiale",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/artex-cairn-pentagi-ces-hordes-d-ia-offensives-qui-font-trembler-la-commission-europeenne-le-fbi-et-l-economie-mondiale-20261120",
+    "summary": "DÉCRYPTAGE - Plusieurs rapports chocs issus de Microsoft, Google, du FBI et de nombreuses sociétés de cybersécurité avertissent que ces nouveaux outils d’IA pourraient mener d’ici six mois des cyberattaques d’ampleur, sans que l’humain n’intervienne.",
+    "published": "2026-11-20T19:35:15+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/artex-cairn-pentagi-ces-hordes-d-ia-offensives-qui-font-trembler-la-commission-europeenne-le-fbi-et-l-economie-mondiale-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/3a2df8931642d9336a021c82b394325e674912442b2ae5b180c4c3093092195f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800431+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Ukraine : Trump s’étonne du «niveau de haine» entre Zelensky et Poutine, mais affirme que le président russe veut une issue «diplomatique» à la guerre",
+    "link": "https://www.lefigaro.fr/international/ukraine-trump-s-etonne-du-niveau-de-haine-entre-zelensky-et-poutine-mais-affirme-que-le-president-russe-veut-une-issue-diplomatique-a-la-guerre-20261120",
+    "summary": "De retour d’une tournée asiatique de quatre jours, le président américain s’est exprimé devant la presse à la Maison-Blanche vendredi, peu après midi (heure locale).",
+    "published": "2026-11-20T19:34:49+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/ukraine-trump-s-etonne-du-niveau-de-haine-entre-zelensky-et-poutine-mais-affirme-que-le-president-russe-veut-une-issue-diplomatique-a-la-guerre-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/719c9a36c72f02dfcc101a5ad54d3510e6d821c111290d4bf895e5dbcceed1df.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800219+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Bulle IA : «Il ne faut pas perdre de vue que les investisseurs ne sont pas forcément rationnels»",
+    "link": "https://www.liberation.fr/economie/economie-numerique/bulle-ia-il-ne-faut-pas-perdre-de-vue-que-les-investisseurs-ne-sont-pas-forcement-rationnels-20261120_3ZMQUIX55RA7LEOQHQPVQSISXQ/",
+    "summary": "Après l’entrée en Bourse de la société américaine Anthropic le 19 novembre, Denis Desclos, enseignant et directeur du Pôle Trading-Finance de marché à l’ESLSCA, estime que le secteur de l’IA est entré dans sa phase de «surinvestissement». A la clé, le risque d’un retournement de tendance.",
+    "published": "2026-11-20T19:32:09+00:00",
+    "authors": [
+      "Séverine Cazes"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/economie-numerique/bulle-ia-il-ne-faut-pas-perdre-de-vue-que-les-investisseurs-ne-sont-pas-forcement-rationnels-20261120_3ZMQUIX55RA7LEOQHQPVQSISXQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960319+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La présomption d’usage légal des armes par les forces de l’ordre définitivement adoptée au Parlement",
+    "link": "https://www.lefigaro.fr/actualite-france/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-20261120",
+    "summary": "Le ministre de l’Intérieur Laurent Nuñez a salué ce vote, qui permet d’adresser «une marque de confiance vis-à-vis des policiers et des gendarmes», très sollicités ces derniers mois face à la colère sociale.",
+    "published": "2026-11-20T19:31:01+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/906305af2fa97d2bc4865be825ab2d3ef5c780afd937b330db0cbce57c452df7.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800365+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Du «jamais vu, une scène de film» : une tempête détruit des milliers d'habitations au Brésil",
+    "link": "https://www.lefigaro.fr/flash-actu/du-jamais-vu-une-scene-de-film-une-tempete-detruit-des-milliers-d-habitations-au-bresil-20261120",
+    "summary": "La tempête a également détruit le toit d’un hôpital et 11 patients ont dû être transférés vers des communes voisines.",
+    "published": "2026-11-20T19:28:05+00:00",
+    "authors": [],
+    "categories": [
+      "Flash Actu"
+    ],
+    "guid": "https://www.lefigaro.fr/flash-actu/du-jamais-vu-une-scene-de-film-une-tempete-detruit-des-milliers-d-habitations-au-bresil-20261120",
+    "image": "https://i.f1g.fr/media/cms/1449x1084_crop/2026/11/20/517abb28f5a542b70c1c4b507eb8ebbf8713422e82a643c8fc5f951929947a33.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800449+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Une information judiciaire ouverte contre Gérard Depardieu et Michel Houellebecq, accusés de viol en réunion et d’agressions sexuelles lors d’un tournage",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/20/une-information-judiciaire-ouverte-contre-gerard-depardieu-et-michel-houellebecq-accuses-de-viol-en-reunion-et-d-agressions-sexuelles-lors-d-un-tournage_6813698_3224.html",
+    "summary": "L’ouverture d’une « information judiciaire sur plainte » d’une comédienne ayant tourné dans un film en 2018 avec l’acteur et l’écrivain, a été confirmée par le parquet, vendredi.",
+    "published": "2026-11-20T19:24:41+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/20/une-information-judiciaire-ouverte-contre-gerard-depardieu-et-michel-houellebecq-accuses-de-viol-en-reunion-et-d-agressions-sexuelles-lors-d-un-tournage_6813698_3224.html",
+    "image": "https://img.lemde.fr/2026/11/20/0/97/1006/503/644/322/60/0/3449d3c_upload-1-fobb0c8ctxha-1217824.png",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782974+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Gironde : l'adolescent retrouvé poignardé lundi s'est «infligé le coup lui-même»",
+    "link": "https://www.lefigaro.fr/faits-divers/gironde-l-adolescent-retrouve-poignarde-lundi-s-est-inflige-le-coup-lui-meme-20261120",
+    "summary": "La gendarmerie avait dans un premier temps évoqué une altercation à l’arme blanche entre deux personnes, dans la ville de La Réole.",
+    "published": "2026-11-20T19:22:57+00:00",
+    "authors": [],
+    "categories": [
+      "Bordeaux"
+    ],
+    "guid": "https://www.lefigaro.fr/faits-divers/gironde-l-adolescent-retrouve-poignarde-lundi-s-est-inflige-le-coup-lui-meme-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/2acb05dc559d410233281788fdcec24aac8162dfa698cedcaf5baee0f9f06e63.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800465+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Le Parlement adopte la loi «permis de tuer» en pleine série de procès pour violences policières",
+    "link": "https://www.mediapart.fr/journal/france/201126/le-parlement-adopte-la-loi-permis-de-tuer-en-pleine-serie-de-proces-pour-violences-policieres",
+    "summary": "Après l’Assemblée nationale, le Sénat a voté à son tour, vendredi 20 novembre, le texte instaurant «une présomption de légitime défense pour les forces de l’ordre». La gauche compte désormais sur le dernier rempart du Conseil constitutionnel.",
+    "published": "2026-11-20T19:20:52+00:00",
+    "authors": [
+      "Pauline Graulle, Camille Polloni"
+    ],
+    "categories": [
+      "Légitime défense des policiers : une loi « permis de tuer »",
+      "A la Une, Gendarmerie, légitime défense, Police, Sénat"
+    ],
+    "guid": "1361559 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-la-loi-permis.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892799+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le Danemark accuse la Russie d’avoir commandité le meurtre d’un rappeur ukrainien",
+    "link": "https://www.liberation.fr/international/europe/au-danemark-les-autorites-accusent-la-russie-davoir-commandite-le-meurtre-dun-rappeur-ukrainien-20261120_IHVAG2EHGBDZTPAZP3AK7NU43A/",
+    "summary": "Après la mise en examen ce vendredi 20 novembre de deux Danois soupçonnés d’avoir voulu assassiner sur son territoire le chanteur Kyivstoner en septembre, Copenhague a annoncé l’expulsion d’un diplomate de Moscou.",
+    "published": "2026-11-20T19:20:26+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/au-danemark-les-autorites-accusent-la-russie-davoir-commandite-le-meurtre-dun-rappeur-ukrainien-20261120_IHVAG2EHGBDZTPAZP3AK7NU43A/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960360+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "David Lisnard, le regard à l’extrême droite",
+    "link": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/",
+    "summary": "Le candidat ultralibéral au succès sondagier surprise ne cache pas sa proximité avec Eric Ciotti ou Sarah Knafo. Jusqu’où ?",
+    "published": "2026-11-20T19:14:48+00:00",
+    "authors": [
+      "Paul Quinio"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960379+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Guillaume Tabard : « Le rêve élyséen des anciens de Matignon »",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-le-reve-elyseen-des-anciens-de-matignon-20261120",
+    "summary": "CONTRE-POINT - Les anciens chefs de gouvernement aspirant à devenir chef de l’État sont confrontés à la même équation délicate : comment faire de cette fonction passée un gage de stature, donc de crédibilité, sans être renvoyé à son bilan.",
+    "published": "2026-11-20T19:10:00+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-le-reve-elyseen-des-anciens-de-matignon-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/20/3def76e0c47572322d4d2674ee01fdbe34b378729780d2d90c4499a5fcdb2ab5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800531+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "MeToo stand-up : classement sans suite en faveur de Seb Mellia, la plaignante, Tania Dutel, annonce un recours",
+    "link": "https://www.liberation.fr/societe/police-justice/metoo-stand-up-classement-sans-suite-en-faveur-de-seb-mellia-la-plaignante-tania-dutel-annonce-un-recours-20261120_2GPX2C6YGVGTVKNN3QAOMEXIVE/",
+    "summary": "L’enquête pour viol visant l’humoriste, a été classée sans suite en octobre pour infraction insuffisamment caractérisée, a appris ce vendredi 20 novembre l’AFP de sources proches du dossier.",
+    "published": "2026-11-20T19:10:00+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/metoo-stand-up-classement-sans-suite-en-faveur-de-seb-mellia-la-plaignante-tania-dutel-annonce-un-recours-20261120_2GPX2C6YGVGTVKNN3QAOMEXIVE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960401+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Ce n’est pas tous les jours qu’un navire s’échoue» : sur les côtes landaises, un cargo sous l’œil des badauds et la surveillance des secours",
+    "link": "https://www.liberation.fr/societe/ce-nest-pas-tous-les-jours-quun-navire-sechoue-sur-les-cotes-landaises-un-cargo-sous-loeil-des-badauds-et-la-surveillance-des-secours-20261120_TBAHKDLFIZEVZLBS3ZCVVWPKQQ/",
+    "summary": "Un cargo battant pavillon maltais s’est échoué sur la plage de Lit-et-Mixe durant la nuit du 19 au 20 novembre. Son destin est suspendu à la possibilité – ou non – de le remorquer vers le large.",
+    "published": "2026-11-20T19:04:51+00:00",
+    "authors": [
+      "Chloé Rébillard"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/ce-nest-pas-tous-les-jours-quun-navire-sechoue-sur-les-cotes-landaises-un-cargo-sous-loeil-des-badauds-et-la-surveillance-des-secours-20261120_TBAHKDLFIZEVZLBS3ZCVVWPKQQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960425+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Le Danemark accuse la Russie d’avoir commandité la tentative d’assassinat d’un rappeur ukrainien sur son territoire",
+    "link": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
+    "summary": "Selon Copenhague, les services de renseignements russes avaient planifié le meurtre d’Albert Vasiliev, alias Kyivstoner, en s’appuyant sur la participation du gang danois Loyal to Familia. Le chef de la diplomatie a annoncé ce 20 novembre l’expulsion de l’attaché militaire russe en poste au Danemark.",
+    "published": "2026-11-20T19:00:13+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
+    "image": "https://img.lemde.fr/2026/11/20/217/0/5232/2616/644/322/60/0/80ea034_ftp-1-d4lnbmnpqrlm-afp-d86h8hj.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782854+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le gouvernement s’en remet au RN pour éviter la crise financière... Les indiscrets du Figaro",
+    "link": "https://www.lefigaro.fr/politique/le-gouvernement-s-en-remet-au-rn-pour-eviter-la-crise-financiere-les-indiscrets-du-figaro-20261120",
+    "summary": "CONFIDENTIELS - Chaque semaine, la rédaction emmène ses lecteurs dans les coulisses de la vie politique.",
+    "published": "2026-11-20T19:00:00+00:00",
+    "authors": [],
+    "categories": [
+      "Politique"
+    ],
+    "guid": "https://www.lefigaro.fr/politique/le-gouvernement-s-en-remet-au-rn-pour-eviter-la-crise-financiere-les-indiscrets-du-figaro-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/20/f9a4bd42816d730c84aec9937ffe1f5108036306e4d51647450446e32ce1363a.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800409+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Histoire de France : Comment l’État a petit à petit désarmé les Français",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/histoire/histoire-de-france-comment-letat-a-petit-a-petit-desarme-les-francais",
+    "summary": "« Le droit de porter les armes, de suivre le chef de guerre, représentait le critère essentiel de la liberté. » ​​​​​Chez les Francs, décrits ici par Georges Duby dans Guerriers... L’article Histoire de France : Comment l’État a petit à petit désarmé les Français est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T18:59:38+00:00",
+    "authors": [
+      "Guillaume Giffo"
+    ],
+    "categories": [
+      "Non classé",
+      "arme",
+      "arme à feu",
+      "arme blanche",
+      "guerre civile",
+      "légalisation",
+      "liberté"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/histoire-de-france-comment-letat-a-petit-a-petit-desarme-les-francais",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899563+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Pourquoi l’islam pourrait devenir la religion la plus pratiquée au monde d’ici à 2035",
+    "link": "https://www.lefigaro.fr/international/pourquoi-l-islam-pourrait-devenir-la-religion-la-plus-pratiquee-au-monde-d-ici-a-2035-20261120",
+    "summary": "Le christianisme pourrait perdre son rang de première religion mondiale dans moins de dix ans, selon une étude du Pew Research Center publiée ce mercredi 18 novembre. Plusieurs facteurs expliquent ce changement.",
+    "published": "2026-11-20T18:54:47+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/pourquoi-l-islam-pourrait-devenir-la-religion-la-plus-pratiquee-au-monde-d-ici-a-2035-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/49a56b29582dc83a9f7b026ffd08b3de463543399b7a5f3b0227545d59971a45.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800641+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«J’adorerais le voir revenir» : Donald Trump incite Nvidia à donner une deuxième chance à son ex-patron, Jensen Huang",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/j-adorerais-le-voir-revenir-donald-trump-incite-nvidia-a-donner-une-deuxieme-chance-a-son-ex-patron-jensen-huang-20261120",
+    "summary": "«C’est l’un des esprits les plus brillants au monde», soutient le président américain, qui affirme que les États-Unis sont «un pays où l’on accorde une deuxième chance».",
+    "published": "2026-11-20T18:50:55+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/j-adorerais-le-voir-revenir-donald-trump-incite-nvidia-a-donner-une-deuxieme-chance-a-son-ex-patron-jensen-huang-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/66cd0bdb8eb7b1d9bd0cce2b9c31c19834b239e238bb07ec000e97001a3b7092.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800599+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La présomption d’usage légal des armes par les forces de l’ordre définitivement adoptée au Parlement",
+    "link": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
+    "summary": "Le Sénat, comme l’Assemblée nationale en juillet dernier, a validé ce vendredi 20 novembre, ce texte décrit par plusieurs groupes de gauche comme un «permis de tuer».",
+    "published": "2026-11-20T18:47:00+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960445+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "La loi sur la présomption de légitime défense pour les forces de l’ordre définitivement adoptée par le Parlement, ayant été approuvée au Sénat",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
+    "summary": "La gauche sénatoriale a d’ores et déjà annoncé qu’elle saisirait en commun le Conseil constitutionnel pour faire barrage à la promulgation de ce qu’elle considère comme l’instauration d’un « permis de tuer » pour les policiers.",
+    "published": "2026-11-20T18:46:18+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
+    "image": "https://img.lemde.fr/2026/10/27/194/0/5490/2745/644/322/60/0/cf69f72_ftp-1-dz3pfzmhehhq-afp-d4la7pd.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782793+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Contenus IA : Google supprime de son moteur de recherche plusieurs sites d’actu (dont «Marie France»)",
+    "link": "https://www.liberation.fr/checknews/contenus-ia-google-supprime-de-son-moteur-de-recherche-plusieurs-sites-dactu-dont-marie-france-20261120_DBIDSLMBOZHRZBZV4YCAZWWKGI/",
+    "summary": "Des sites comme «Pleine Vie», «Modes et Travaux» ou des sous-domaines de «Ouest-France» sont concernés par un vigoureux coup de balai effectué début novembre par le géant californien.",
+    "published": "2026-11-20T18:42:57+00:00",
+    "authors": [
+      "Florian Gouthière"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/checknews/contenus-ia-google-supprime-de-son-moteur-de-recherche-plusieurs-sites-dactu-dont-marie-france-20261120_DBIDSLMBOZHRZBZV4YCAZWWKGI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960465+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Hugues Moutouh, De Villepin à l’Elysée, grève le 1er décembre… L’actu de ce vendredi 20 novembre",
+    "link": "https://www.liberation.fr/international/europe/hugues-moutouh-de-villepin-a-lelysee-greve-le-1er-decembre-lactu-de-ce-vendredi-20-novembre-20261120_BAC2ZYPB55HQ7KITQBAKH7DLTA/",
+    "summary": "La rédaction de «Libération» récapitule les principales actualités de ce vendredi.",
+    "published": "2026-11-20T18:34:35+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/hugues-moutouh-de-villepin-a-lelysee-greve-le-1er-decembre-lactu-de-ce-vendredi-20-novembre-20261120_BAC2ZYPB55HQ7KITQBAKH7DLTA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960482+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "«Il faut que cette décision serve de modèle»: au procès de l’affaire Zecler, un public venu faire bloc contre le racisme",
+    "link": "https://www.mediapart.fr/journal/france/201126/il-faut-que-cette-decision-serve-de-modele-au-proces-de-l-affaire-zecler-un-public-venu-faire-bloc-contre",
+    "summary": "La salle d’audience n’a pas désempli lors du procès des policiers accusés d’avoir tabassé le producteur Michel Zecler. Alors que le caractère raciste de l’agression a traversé les débats, de nombreuses personnes racisées sont venues les suivre, avec l’espoir que justice soit enfin rendue.",
+    "published": "2026-11-20T18:33:34+00:00",
+    "authors": [
+      "Sabrina Kassa"
+    ],
+    "categories": [
+      "France",
+      "A la Une, Justice, Michel Zecler, Racisme, Violences policières"
+    ],
+    "guid": "1361541 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-il-faut-que-cette-decision.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892834+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Présidentielle 2027 : meetings, déplacements… Le plan de Raphaël Glucksmann pour tenter de se relancer",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-meetings-deplacements-le-plan-de-raphael-glucksmann-pour-tenter-de-se-relancer-20261120",
+    "summary": "DÉCRYPTAGE - En perte de vitesse dans les sondages, le candidat social-démocrate a prévu deux à trois déplacements par semaine jusqu’à l’hiver, avant un premier grand meeting crucial le 6 décembre.",
+    "published": "2026-11-20T18:30:00+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-meetings-deplacements-le-plan-de-raphael-glucksmann-pour-tenter-de-se-relancer-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/20/743298e3a6c9244c4ef0369d3af0321ad921da45bd42a3023387f87b58663c68.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800509+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Donald Trump menace de «sanctions énormes» les géants de la tech s’ils construisent des centres de données à l’étranger",
+    "link": "https://www.lefigaro.fr/international/donald-trump-menace-de-sanctions-enormes-les-geants-de-la-tech-s-ils-construisent-des-centres-de-donnees-a-l-etranger-20261120",
+    "summary": "«Nous n’allons pas permettre à nos entreprises de construire des centres de données en dehors de notre pays», a déclaré le président américain, qui évoquait l’intelligence artificielle lors d’une conférence de presse à la Maison-Blanche.",
+    "published": "2026-11-20T18:25:14+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/donald-trump-menace-de-sanctions-enormes-les-geants-de-la-tech-s-ils-construisent-des-centres-de-donnees-a-l-etranger-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/cde347ba05a49c94c0b916bca2a244d178c704310526357b290b49e4b674ac3f.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800621+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Budget : députés et sénateurs s’entendent sur un premier texte malgré l’enlisement politique",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/20/budget-deputes-et-senateurs-s-entendent-sur-un-premier-texte-malgre-l-enlisement-politique_6813691_823448.html",
+    "summary": "La commission mixte paritaire réunie vendredi 19 novembre a trouvé un accord sur le projet de loi de fin de gestion pour 2026. Trouver un compromis sur le budget 2027, rejeté à l’Assemblée et jugé « suicidaire » au Sénat, s’annonce plus ardu.",
+    "published": "2026-11-20T18:24:13+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/20/budget-deputes-et-senateurs-s-entendent-sur-un-premier-texte-malgre-l-enlisement-politique_6813691_823448.html",
+    "image": "https://img.lemde.fr/2026/11/17/2016/0/3448/1724/644/322/60/0/2234b41_upload-1-kbpuluaioqx7-cbi1348122.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782999+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Présidentielle 2027 : Mélenchon ne peut pas rester «dans son couloir de natation» s’il veut avoir une chance au second tour, estime Tondelier",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
+    "summary": "La secrétaire nationale des Écologistes a rappelé que sa main tendue à LFI ne présageait en rien du vote des militants, qui diront s’ils préfèrent qu’elle reste candidate, ou que le parti se rallie à Jean-Luc Mélenchon ou à Raphaël Glucksmann.",
+    "published": "2026-11-20T18:24:02+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/20/d7bf7fc5f187b40319db70e4d663f465a04d60ade0e65a8a91a47db02fe5c633.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800490+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au terme de longues négociations, le Royaume-Uni et l’Union européenne font un pas l’un vers l’autre",
+    "link": "https://www.lemonde.fr/international/article/2026/11/20/au-terme-de-longues-negociations-le-royaume-uni-et-l-union-europeenne-font-un-pas-l-un-vers-l-autre_6813690_3210.html",
+    "summary": "Londres et Bruxelles ont conclu des accords sur la taxe carbone, la mobilité des jeunes et le rétablissement d’un espace sanitaire et phytosanitaire commun. Mais ceux-ci restent conditionnés à une autre négociation, encore en cours, sur l’allègement des frais de scolarité dans les universités britanniques pour les étudiants européens.",
+    "published": "2026-11-20T18:15:15+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/20/au-terme-de-longues-negociations-le-royaume-uni-et-l-union-europeenne-font-un-pas-l-un-vers-l-autre_6813690_3210.html",
+    "image": "https://img.lemde.fr/2026/11/20/155/0/4432/2216/644/322/60/0/28cf159_ftp-1-em1yiplzdogw-8834e5c74af641c0bc368e48f43e41df-0-b5d3c646aa0e4fee8172ac5fa9b72fb3.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.783161+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour convaincre, lui promet de «surprendre»",
+    "link": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqua-fevrier-pour-convaincre-lui-promet-de-surprendre-20261120_V6TAIK6H7NGWFCXCCZQ24HWBLA/",
+    "summary": "L’ancien président socialiste, qui avait renoncé à se représenter en 2017 au vu de sa très forte impopularité, continue d’entretenir le doute sur ses intentions et sur une éventuelle candidature.",
+    "published": "2026-11-20T18:12:01+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqua-fevrier-pour-convaincre-lui-promet-de-surprendre-20261120_V6TAIK6H7NGWFCXCCZQ24HWBLA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960504+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Tu ne t’engages même pas contre Hitler ? » : le chanteur Vianney violemment insulté sur Radio Nova",
+    "link": "https://www.valeursactuelles.com/politique/tu-ne-tengages-meme-pas-contre-hitler-le-chanteur-vianney-violemment-insulte-sur-radio-nova",
+    "summary": "Il y a un milieu, dans lequel même un refus de prise de position vaut complicité avec l’extrême-droite : le milieu de la culture. Et le chanteur Vianney vient d’en... L’article « Tu ne t’engages même pas contre Hitler ? » : le chanteur Vianney violemment insulté sur Radio Nova est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T18:01:50+00:00",
+    "authors": [
+      "Alix Cagnard"
+    ],
+    "categories": [
+      "Non classé",
+      "artiste",
+      "chanteur",
+      "élection présidentielle",
+      "extrême gauche",
+      "politique"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/tu-ne-tengages-meme-pas-contre-hitler-le-chanteur-vianney-violemment-insulte-sur-radio-nova",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899608+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Comprendre le féminicide par vicariance, une manière de faire souffrir les femmes à vie en détruisant leurs proches",
+    "link": "https://www.lemonde.fr/idees/article/2026/11/20/comprendre-le-feminicide-par-vicariance-une-maniere-de-faire-souffrir-les-femmes-a-vie-en-detruisant-leurs-proches_6813687_3232.html",
+    "summary": "Parente de l’amant d’une femme tué par un conjoint éconduit, Barbara Métais-Chastanier s’attache, dans son essai « Elles ne mouraient pas toutes », à regarder le fait social derrière le fait divers. Elle analyse cette façon de maximiser la douleur des femmes « à travers le meurtre de leurs enfants, parents, conjoints, amis ».",
+    "published": "2026-11-20T18:00:11+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/idees/article/2026/11/20/comprendre-le-feminicide-par-vicariance-une-maniere-de-faire-souffrir-les-femmes-a-vie-en-detruisant-leurs-proches_6813687_3232.html",
+    "image": "https://img.lemde.fr/2026/11/05/160/0/1920/960/644/322/60/0/b00be62_upload-1-h2mhhgygzbrz-violences-conjugales.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.783138+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "L’alliance des Ecologistes et de LFI serait un contresens majeur pour les verts",
+    "link": "https://www.liberation.fr/idees-et-debats/tribunes/lalliance-des-ecologistes-et-de-lfi-serait-un-contresens-majeur-pour-les-verts-20261120_MLCSPJ7MCFFWJB5D6PIEVTYJMY/",
+    "summary": "Pour l’écrivain Philippe Mouche, le rapprochement de Marine Tondelier et Jean-Luc Mélenchon entre en contradiction avec les valeurs du mouvement écologiste sur la démocratie interne, les relations internationales et l’Europe.",
+    "published": "2026-11-20T18:00:00+00:00",
+    "authors": [
+      "Philippe Mouche"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/idees-et-debats/tribunes/lalliance-des-ecologistes-et-de-lfi-serait-un-contresens-majeur-pour-les-verts-20261120_MLCSPJ7MCFFWJB5D6PIEVTYJMY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960524+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Enchères à New York : les dessous d’une folle semaine de ventes à plus de deux milliards de dollars",
+    "link": "https://www.lefigaro.fr/culture/encheres/encheres-a-new-york-les-dessous-d-une-semaine-de-ventes-a-plus-de-deux-milliards-de-dollars-20261120",
+    "summary": "ANALYSE - Sotheby’s et Christie’s ont cumulé les records, notamment avec le Van Gogh à 190 millions de dollars ou le Kandinsky à 85,8 millions de dollars. Mais ils masquent une autre réalité, celle d’un marché artificiellement gonflé par les garanties où les enchérisseurs, très prudents, ne sont pas toujours au rendez-vous.",
+    "published": "2026-11-20T17:57:34+00:00",
+    "authors": [],
+    "categories": [
+      "Enchères"
+    ],
+    "guid": "https://www.lefigaro.fr/culture/encheres/encheres-a-new-york-les-dessous-d-une-semaine-de-ventes-a-plus-de-deux-milliards-de-dollars-20261120",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/20/c56c05b6c3052053f9df7407954a93b48c7fce6632702da5a386966e9d60756f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800391+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au Mali, une nouvelle société militaire turque épaule secrètement la junte d’Assimi Goïta",
+    "link": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
+    "summary": "Des instructeurs d’Equipped Tactical Academy ont formé des éléments des forces spéciales maliennes, fin 2025. Si la Russie reste, avec environ 2 000 militaires d’Africa Corps, le premier partenaire du Mali dans le secteur de la défense, la Turquie est également un allié sûr du pouvoir d’Assimi Goïta.",
+    "published": "2026-11-20T17:56:59+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
+    "image": "https://img.lemde.fr/2026/11/20/60/0/1920/960/644/322/60/0/7b2cb67_upload-1-hrg6fr5ju6vr-image-satok.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782927+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "L’hypothèse de Riemann, plus célèbre problème de mathématiques au monde, aurait été résolue par Claude, l’IA d’Anthropic",
+    "link": "https://www.lefigaro.fr/sciences/l-hypothese-de-riemann-plus-celebre-probleme-de-mathematiques-au-monde-aurait-ete-resolue-par-claude-l-ia-d-anthropic-20261120",
+    "summary": "L’annonce a été faite en toute discrétion par le mathématicien américain Levent Alpöge sur son site internet, produisant une effervescence considérable dans la communauté. La résolution de cette conjecture serait un événement majeur dans l’histoire des mathématiques.",
+    "published": "2026-11-20T17:56:30+00:00",
+    "authors": [],
+    "categories": [
+      "Sciences & Environnement"
+    ],
+    "guid": "https://www.lefigaro.fr/sciences/l-hypothese-de-riemann-plus-celebre-probleme-de-mathematiques-au-monde-aurait-ete-resolue-par-claude-l-ia-d-anthropic-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x2007_crop/2026/11/20/f12d429d9bd2a8f1c2a942755686ffe08557be760b1e83e78b7546bf38154433.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800312+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "« Kiev risque de se voir coupée en deux îles » : les ponts de la capitale ukrainienne, nouvelles cibles de la Russie",
+    "link": "https://www.lefigaro.fr/international/kiev-risque-de-se-voir-coupee-en-deux-iles-les-ponts-de-la-capitale-ukrainienne-nouvelles-cibles-de-la-russie-20261120",
+    "summary": "RÉCIT - Vladimir Poutine avait promis des « représailles encore plus douloureuses » après l’attaque du pont de Crimée. Dans la nuit de jeudi à vendredi, une attaque balistique massive a engendré de forts embouteillages dans la capitale. Deux ambassades européennes ont également été touchées.",
+    "published": "2026-11-20T17:55:11+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/kiev-risque-de-se-voir-coupee-en-deux-iles-les-ponts-de-la-capitale-ukrainienne-nouvelles-cibles-de-la-russie-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/20/21d82fef97c531c72da8c9d5199a5cb7c149d26e793c963925a540bb7d32699e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800262+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Montpellier : un directeur d’école maternelle mis en examen pour viol et agression sexuelle",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/20/montpellier-un-directeur-d-ecole-maternelle-mis-en-examen-pour-viol-et-agression-sexuelle_6813683_3224.html",
+    "summary": "L’homme est placé sous contrôle judiciaire et n’a pas le droit d’exercer une fonction au contact d’enfants.",
+    "published": "2026-11-20T17:45:34+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/20/montpellier-un-directeur-d-ecole-maternelle-mis-en-examen-pour-viol-et-agression-sexuelle_6813683_3224.html",
+    "image": "https://img.lemde.fr/2026/07/28/250/0/3000/1500/644/322/60/0/cc91c7c_upload-1-d9e5kbxfmzr2-frame-1184.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782944+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Malgré l’arrêt historique de la Cour internationale de justice, les Rohingya ne sont pas près de rentrer en Birmanie",
+    "link": "https://www.lemonde.fr/international/article/2026/11/20/malgre-l-arret-historique-de-la-cour-internationale-de-justice-les-rohingya-ne-sont-pas-pres-de-rentrer-en-birmanie_6813682_3210.html",
+    "summary": "En dépit des preuves d’un génocide contre cette minorité à majorité musulmane, la Birmanie juge « injuste » l’arrêt de la CIJ et considère qu’elle « outrepasse ses compétences ».",
+    "published": "2026-11-20T17:41:10+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/20/malgre-l-arret-historique-de-la-cour-internationale-de-justice-les-rohingya-ne-sont-pas-pres-de-rentrer-en-birmanie_6813682_3210.html",
+    "image": "https://img.lemde.fr/2026/11/18/1193/0/8256/4128/644/322/60/0/e11d33f_ftp-1-a0fepietezoj-afp-d7u2469.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.783042+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Dominique de Villepin, le candidat d’un monde disparu",
+    "link": "https://www.mediapart.fr/journal/politique/201126/dominique-de-villepin-le-candidat-d-un-monde-disparu",
+    "summary": "L’ancien ministre de Jacques Chirac a déclaré officiellement sa candidature à la présidentielle. Autour de lui, des profils de droite et de gauche se disent «orphelins», admirent l’homme du «non» en 2003 et pensent qu’il peut profiter de la déshérence du camp des modérés.",
+    "published": "2026-11-20T17:40:57+00:00",
+    "authors": [
+      "Mathieu Dejean"
+    ],
+    "categories": [
+      "Politique",
+      "Dominique de Villepin, Droite, Élection présidentielle 2027"
+    ],
+    "guid": "1361506 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-dominique-de-villepin-candidat.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892859+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Seul, en pleurs dans un lit» : dans une crèche privée de l’Oise, un bébé oublié plusieurs heures en fin de journée",
+    "link": "https://www.liberation.fr/societe/police-justice/seul-en-pleurs-dans-un-lit-dans-une-creche-privee-de-loise-un-bebe-oublie-plusieurs-heures-en-fin-de-journee-20261120_QNP526GMDRHPXIELZECIJ3BHOI/",
+    "summary": "Des habitants de Montataire ont porté plainte après que leur enfant de 14 mois a été oublié jeudi 19 novembre au soir dans l’établissement que le personnel avait déserté. Il a finalement été retrouvé aux alentours de 20 h 30.",
+    "published": "2026-11-20T17:40:26+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/seul-en-pleurs-dans-un-lit-dans-une-creche-privee-de-loise-un-bebe-oublie-plusieurs-heures-en-fin-de-journee-20261120_QNP526GMDRHPXIELZECIJ3BHOI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960547+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "A Paris, un centre inédit pour les familles confrontées aux violences sexuelles dans le périscolaire",
+    "link": "https://www.liberation.fr/societe/education/a-paris-un-centre-inedit-pour-les-familles-confrontees-aux-violences-sexuelles-dans-le-periscolaire-20261120_YUGYIOB4VZGOLBRVF6KJDGHX2Y/",
+    "summary": "L’établissement baptisé Boris Cyrulnik a été inauguré ce vendredi 20 novembre dans le XIIe arrondissement. Il vise «le parent qui a entendu parler d’un “truc” dans l’école» à celui qui, plus directement touché, est «complètement bouleversé par des révélations».",
+    "published": "2026-11-20T17:36:41+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/education/a-paris-un-centre-inedit-pour-les-familles-confrontees-aux-violences-sexuelles-dans-le-periscolaire-20261120_YUGYIOB4VZGOLBRVF6KJDGHX2Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960569+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Je suis candidat à l’élection présidentielle de 2027», annonce Dominique de Villepin",
+    "link": "https://www.liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI/",
+    "summary": "L’ex-Premier ministre de Jacques Chirac, promoteur d’un rassemblement dépassant le clivage droite-gauche, a tenu une conférence de presse ce vendredi 20 novembre à la Maison de l’Amérique latine à Paris pour officialiser sa candidature.",
+    "published": "2026-11-20T17:35:51+00:00",
+    "authors": [
+      "Dominique Albertini, Victor Boiteau"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960590+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Roger Boulanger, dernier survivant du camp de concentration français du Struthof, est mort",
+    "link": "https://www.liberation.fr/societe/roger-boulanger-dernier-survivant-du-camp-de-concentration-francais-du-struthof-est-mort-20261120_AE2B4NDAQREJBIEMVPH2JMCO74/",
+    "summary": "En 1942, à 17 ans, il avait refusé d’être incorporé à l’armée allemande. Emprisonné puis déporté, il s’était échappé en avril 1945 du seul camp nazi en France. Après avoir longtemps gardé le silence, cet enseignant avait fini par parler de son passé pour sensibiliser les jeunes.",
+    "published": "2026-11-20T17:29:47+00:00",
+    "authors": [
+      "Alice Jacquet, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/roger-boulanger-dernier-survivant-du-camp-de-concentration-francais-du-struthof-est-mort-20261120_AE2B4NDAQREJBIEMVPH2JMCO74/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960613+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Présidentielle 2027 : « Ils ne sont pas tous passés du côté du RN », assure Jean-Luc Mélenchon après sa rencontre avec les grands patrons",
+    "link": "https://www.valeursactuelles.com/politique/presidentielle-2027-ils-ne-sont-pas-tous-passes-du-cote-du-rn-assure-jean-luc-melenchon-apres-sa-rencontre-avec-les-grands-patrons",
+    "summary": "En marge de son cercle de réflexion, ce jeudi 19 novembre, Jean-Luc Mélenchon s’est exprimé à propos de son dîner avec des grands patrons. Pour le chef de file insoumis,... L’article Présidentielle 2027 : « Ils ne sont pas tous passés du côté du RN », assure Jean-Luc Mélenchon après sa rencontre avec les grands patrons est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T17:29:02+00:00",
+    "authors": [
+      "Guillaume Giffo"
+    ],
+    "categories": [
+      "Non classé",
+      "économie",
+      "Entreprises",
+      "finances publiques",
+      "Jean-Luc Mélenchon",
+      "patron",
+      "réactions"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-ils-ne-sont-pas-tous-passes-du-cote-du-rn-assure-jean-luc-melenchon-apres-sa-rencontre-avec-les-grands-patrons",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899660+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Et si Einstein s’était trompé ? L’astrophysicien David Elbaz répond",
+    "link": "https://www.lefigaro.fr/sciences/et-si-einstein-s-etait-trompe-l-astrophysicien-david-elbaz-repond-20261120",
+    "summary": "«Le jour d’après Einstein est peut-être arrivé», affirme l’astrophysicien David Elbaz qui consacre son livre Le syndrome de la tache rose (Robert Laffont) aux toutes dernières observations récentes de l’Univers. Il est l’invité du podcast vidéo Planétarium.",
+    "published": "2026-11-20T17:24:12+00:00",
+    "authors": [],
+    "categories": [
+      "Sciences & Environnement"
+    ],
+    "guid": "https://www.lefigaro.fr/sciences/et-si-einstein-s-etait-trompe-l-astrophysicien-david-elbaz-repond-20261120",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/20/8ab7bc7b2db7a60e13869cd8ed02a8bb3f1242f09f743e69900032cfdb5138e4.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800343+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "EN DIRECT – Affaire des fuites d’infos de l’Intérieur vers le RN : le préfet mis en cause convoqué à Beauvau par Laurent Nuñez",
+    "link": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
+    "summary": "Des perquisitions ont eu lieu ces dernières semaines au siège du parti de Marine Le Pen et à Beauvau, dans le cadre d’une enquête judiciaire pour des soupçons de transmissions d’informations confidentielles au profit du parti d’extrême droite.",
+    "published": "2026-11-20T17:17:52+00:00",
+    "authors": [
+      "Emilia Spada, Léonard Cassette, Lucas Biosca, Service Photo, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960636+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«On ne sauvera pas la biodiversité sans éducation à l’environnement» : sortir de sa réserve pour préserver le vivant",
+    "link": "https://www.liberation.fr/forums/on-ne-sauvera-pas-la-biodiversite-sans-education-a-lenvironnement-sortir-de-sa-reserve-pour-preserver-le-vivant-20261120_AF5JJI3DSZC73B7N4WKKMSPB2A/",
+    "summary": "Susciter l’émotion et toucher du doigt le vivant pour marquer durablement les mémoires… Plutôt que d’asséner des discours, l’expérience et le partage de savoirs jouent un rôle clé dans la protection de notre écosystème. Démonstrations.",
+    "published": "2026-11-20T17:16:32+00:00",
+    "authors": [
+      "Christelle Granja"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/on-ne-sauvera-pas-la-biodiversite-sans-education-a-lenvironnement-sortir-de-sa-reserve-pour-preserver-le-vivant-20261120_AF5JJI3DSZC73B7N4WKKMSPB2A/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960660+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Momoko Seto, réalisatrice : «Mon film, est un peu à la façon d’un Indiana Jones végétal»",
+    "link": "https://www.liberation.fr/forums/momoko-seto-realisatrice-cest-un-peu-un-indiana-jones-vegetal-20261120_VDMQJCZV2JF3JOSW7HI3JLOFGY/",
+    "summary": "La réalisatrice japonaise et chercheuse au CNRS revient sur son film d’animation «Planètes» et sur son rapport à la biodiversité.",
+    "published": "2026-11-20T17:09:12+00:00",
+    "authors": [
+      "Marine Dumeurger"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/momoko-seto-realisatrice-cest-un-peu-un-indiana-jones-vegetal-20261120_VDMQJCZV2JF3JOSW7HI3JLOFGY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960678+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Affaires et couacs, tout semble glisser sur Marine Le Pen… Jusqu’à quand ?",
+    "link": "https://www.liberation.fr/politique/affaires-et-couacs-tout-semble-glisser-sur-marine-le-pen-jusqua-quand-20261120_WH4B75J2EZGYRH6NVYTZ7SV2JQ/",
+    "summary": "A chaque semaine ou presque sa polémique infamante pour le RN. Mais à l’image de Trump, sa candidate semble peu pénalisée par ses boulets judiciaires et moraux.",
+    "published": "2026-11-20T17:04:50+00:00",
+    "authors": [
+      "Jonathan Bouchet-Petersen"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/affaires-et-couacs-tout-semble-glisser-sur-marine-le-pen-jusqua-quand-20261120_WH4B75J2EZGYRH6NVYTZ7SV2JQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960696+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : pourquoi un maire sur deux ne souhaite pas parrainer de candidat à l’Elysée",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-pourquoi-un-maire-sur-deux-ne-souhaite-pas-parrainer-de-candidat-a-l-elysee_6813675_823448.html",
+    "summary": "Les édiles représentent 79 % des élus habilités à soutenir un candidat. Une vaste enquête du Cevipof réalisée pour le compte de l’Association des maires de France montre chez eux « une forme de retrait vis-à-vis de la vie politique nationale ».",
+    "published": "2026-11-20T17:00:20+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-pourquoi-un-maire-sur-deux-ne-souhaite-pas-parrainer-de-candidat-a-l-elysee_6813675_823448.html",
+    "image": "https://img.lemde.fr/2026/10/21/2000/0/4000/2000/644/322/60/0/c93083e_upload-1-74shmm6zpjmt-cbi1349100.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782880+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Chez Accor, le premier actionnaire exige le départ du PDG Sébastien Bazin",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/20/chez-accor-le-premier-actionnaire-exige-le-depart-du-pdg_6813670_3234.html",
+    "summary": "Le fonds britannique Parvus, qui possède 14,1 % du géant français de l’hôtellerie, réclame l’éviction de Sébastien Bazin, menaçant de demander sa révocation lors de la prochaine assemblée générale.",
+    "published": "2026-11-20T17:00:02+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/11/20/chez-accor-le-premier-actionnaire-exige-le-depart-du-pdg_6813670_3234.html",
+    "image": "https://img.lemde.fr/2026/11/20/315/0/5041/2520/644/322/60/0/eafdd87_upload-1-7fnyjusefjic-000-a99j9xx.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782828+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Il y a une volonté de détruire et de salir» : une maison d’édition accusée d’avoir envoyé des images volées de Gisèle Pelicot dénudée pour promouvoir un livre",
+    "link": "https://www.liberation.fr/societe/police-justice/il-y-a-une-volonte-de-detruire-et-de-salir-une-maison-dedition-accusee-davoir-envoye-des-images-volees-de-gisele-pelicot-denudee-pour-promouvoir-un-livre-20261120_IDJVGH72FBHBFCGFVA247PWX64/",
+    "summary": "La maison d’édition Tinbad aurait partagé à plusieurs médias des photos et des vidéos de Gisèle Pélicot prises à son insu, dans le cadre de la stratégie marketing d’un ouvrage antiféministe, qui la dépeint comme «une exhibitionniste». Ses avocats étudient «la réponse judiciaire adaptée».",
+    "published": "2026-11-20T16:56:41+00:00",
+    "authors": [
+      "Emilia Spada"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/il-y-a-une-volonte-de-detruire-et-de-salir-une-maison-dedition-accusee-davoir-envoye-des-images-volees-de-gisele-pelicot-denudee-pour-promouvoir-un-livre-20261120_IDJVGH72FBHBFCGFVA247PWX64/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960726+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Rapprochement écolos-LFI : «Je veux que ce soient nos adhérents qui décident», dit Amine Kessaci",
+    "link": "https://www.liberation.fr/politique/rapprochement-ecolos-lfi-je-veux-que-ce-soient-nos-adherents-qui-decident-dit-amine-kessaci-20261120_WXDBO7JV3BEZLP5XMH4JENVQUY/",
+    "summary": "Alors que Marine Tondelier a fait un pas de plus en direction des insoumis, mercredi 18 novembre, le membre de la direction des verts appelle à maintenir le débat jusqu’au vote du 13 décembre et à dialoguer avec Raphaël Glucksmann.",
+    "published": "2026-11-20T16:55:30+00:00",
+    "authors": [
+      "Arthur Louis"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/rapprochement-ecolos-lfi-je-veux-que-ce-soient-nos-adherents-qui-decident-dit-amine-kessaci-20261120_WXDBO7JV3BEZLP5XMH4JENVQUY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960748+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Le Cinéma selon Cunk» sur Netflix : Diane Morgan bête et géniale",
+    "link": "https://www.liberation.fr/culture/series/le-cinema-selon-cunk-sur-netflix-diane-morgan-bete-et-geniale-20261120_OMVHUZ7LJFAPXCYW2SL4EXEWIA/",
+    "summary": "La vulgarisatrice la moins bien renseignée du monde, créée par l’humoriste britannique, revient toujours aussi inspirée dans une nouvelle saison dédiée au cinéma.",
+    "published": "2026-11-20T16:54:00+00:00",
+    "authors": [
+      "Théo  Ribeton"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/series/le-cinema-selon-cunk-sur-netflix-diane-morgan-bete-et-geniale-20261120_OMVHUZ7LJFAPXCYW2SL4EXEWIA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960766+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Le bilan économique d’Emmanuel Macron : anatomie d’un désastre",
+    "link": "https://www.valeursactuelles.com/economie/le-bilan-economique-demmanuel-macron-anatomie-dun-desastre",
+    "summary": "Déficit public, croissance, chômage, salaire : le verdict est sans appel, les résultats du « Mozart de la finance » sont accablants. Dans une nouvelle étude à paraître, l’observatoire Hexagone... L’article Le bilan économique d’Emmanuel Macron : anatomie d’un désastre est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T16:49:35+00:00",
+    "authors": [
+      "Sixtine Dupont"
+    ],
+    "categories": [
+      "Non classé",
+      "chômage",
+      "crise",
+      "crise économique",
+      "déficit",
+      "déficit public",
+      "dette",
+      "Emmanuel Macron",
+      "macronisme"
+    ],
+    "guid": "https://www.valeursactuelles.com/economie/le-bilan-economique-demmanuel-macron-anatomie-dun-desastre",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899700+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Mathieu Souquière : «Face à l’extrême droite, il faut des politiques visant à renforcer nos liens, faire régresser la solitude et consolider notre “souveraineté individuelle”»",
+    "link": "https://www.liberation.fr/politique/mathieu-souquiere-face-a-lextreme-droite-il-faut-des-politiques-visant-a-renforcer-nos-liens-faire-regresser-la-solitude-et-consolider-notre-souverainete-individuelle-20261121_TURRMXEAHRBAVNDNEOVBZ534HE/",
+    "summary": "La défiance et la déshumanisation sont les principaux carburants du vote RN, analyse dans son dernier ouvrage Mathieu Souquière, expert associé à Terra Nova. Il propose plusieurs pistes pour faire reculer le «populisme d’atmosphère» sur lequel surfe l’extrême droite.",
+    "published": "2026-11-20T16:46:18+00:00",
+    "authors": [
+      "Thomas Legrand"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/mathieu-souquiere-face-a-lextreme-droite-il-faut-des-politiques-visant-a-renforcer-nos-liens-faire-regresser-la-solitude-et-consolider-notre-souverainete-individuelle-20261121_TURRMXEAHRBAVNDNEOVBZ534HE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960790+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : la bataille délétère du « vote utile »",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-la-bataille-deletere-du-vote-utile_6813664_823448.html",
+    "summary": "La notion de vote utile, qui alimente les débats de l’automne et s’impose dans le champ politique, nie le débat d’idées en se concentrant exclusivement sur les sondages, estime Matthieu Goar, l’un des chefs du service Politique du « Monde ».",
+    "published": "2026-11-20T16:30:03+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-la-bataille-deletere-du-vote-utile_6813664_823448.html",
+    "image": "https://img.lemde.fr/2026/10/26/0/0/3000/1500/644/322/60/0/fe2f89a_upload-1-w09x1lko4ld2-meetingrn-orleans-asurp-103048.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.782903+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "COP31 : dans la dernière ligne droite des négociations, les énergies fossiles et les financements au centre du jeu",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/20/cop31-dans-la-derniere-ligne-droite-des-negociations-les-energies-fossiles-et-les-financements-au-centre-du-jeu_6813663_3244.html",
+    "summary": "Les pourparlers de la 31ᵉ conférence mondiale sur le climat, à Antalya, en Turquie, étaient censés s’achever vendredi 20 novembre. Ils jouaient les prolongations faute d’accord sur des sujets-clés, comme les énergies fossiles et les financements.",
+    "published": "2026-11-20T16:28:48+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/11/20/cop31-dans-la-derniere-ligne-droite-des-negociations-les-energies-fossiles-et-les-financements-au-centre-du-jeu_6813663_3244.html",
+    "image": "https://img.lemde.fr/2026/11/20/747/0/5500/2750/644/322/60/0/f139425_ftp-1-wxzg7eoixyhz-2026-11-20t143649z-1236454159-rc2proagsqo7-rtrmadp-3-climate-cop31.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.783113+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Nader, on va venir te buter » : un élu RN menacé de mort et agressé par des militants antifas lors d’un tractage",
+    "link": "https://www.valeursactuelles.com/politique/nader-on-va-venir-te-buter-un-elu-rn-menace-de-mort-et-agresse-par-des-militants-antifas-lors-dun-tractage",
+    "summary": "« On sait où tu habites, on va venir chez toi, on va venir te buter, on va venir te découper en morceaux », a hurlé un groupe de militants... L’article « Nader, on va venir te buter » : un élu RN menacé de mort et agressé par des militants antifas lors d’un tractage est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T16:15:01+00:00",
+    "authors": [
+      "Alix Cagnard"
+    ],
+    "categories": [
+      "Non classé",
+      "agression",
+      "antifascisme",
+      "cgt",
+      "extrême gauche",
+      "militant",
+      "Rassemblement national"
+    ],
+    "guid": "https://www.valeursactuelles.com/politique/nader-on-va-venir-te-buter-un-elu-rn-menace-de-mort-et-agresse-par-des-militants-antifas-lors-dun-tractage",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899739+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Hollywood : le crash-test à 100 milliards de David Ellison, patron de Skydance",
+    "link": "https://www.liberation.fr/culture/cinema/hollywood-le-crash-test-a-100-milliards-de-david-ellison-patron-de-skydance-20261120_QEJT5ZTWFZDTHOEEGNUWWHD4HQ/",
+    "summary": "Après avoir fusionné avec Paramount en 2024 et racheté Warner, le fantasque PDG, proche de Trump et Musk, se retrouve à la tête d’une entité gigantesque et ruineuse qu’il faut désormais rentabiliser. Récit d’une ascension aussi fulgurante que risquée.",
+    "published": "2026-11-20T16:11:33+00:00",
+    "authors": [
+      "Arthur Cerf"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/cinema/hollywood-le-crash-test-a-100-milliards-de-david-ellison-patron-de-skydance-20261120_QEJT5ZTWFZDTHOEEGNUWWHD4HQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960812+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "La justice administrative retoque le «bouclier de sécurité» de Valérie Pécresse",
+    "link": "https://www.mediapart.fr/journal/france/201126/la-justice-administrative-retoque-le-bouclier-de-securite-de-valerie-pecresse",
+    "summary": "Le tribunal de Montreuil a annulé une série de délibérations du conseil régional d’Île-de-France autorisant le financement d’équipements de sécurité des communes, notamment des armes létales ou des caméras de vidéosurveillance. Ces dépenses ne relèvent pas de la compétence de la région, estime-t-il.",
+    "published": "2026-11-20T16:07:28+00:00",
+    "authors": [
+      "Jérôme Hourdeaux"
+    ],
+    "categories": [
+      "France",
+      "Libertés publiques, Valérie Pécresse, vidéosurveillance"
+    ],
+    "guid": "1361496 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-valerie-pecresse.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892885+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Les activistes de Cancer colère déversent des cendres sur le commissaire européen à la santé",
+    "link": "https://www.mediapart.fr/journal/ecologie/201126/les-activistes-de-cancer-colere-deversent-des-cendres-sur-le-commissaire-europeen-la-sante",
+    "summary": "Quatre militants de Cancer colère ont été placés en garde à vue pendant 24 heures à Bruxelles, à la suite d’une action coup-de-poing. Ils alertent sur les conséquences pour la santé du texte européen omnibus X, qui dérégule le contrôle des pesticides.",
+    "published": "2026-11-20T16:07:12+00:00",
+    "authors": [
+      "Caroline Coq-Chodorge"
+    ],
+    "categories": [
+      "Écologie",
+      "Pesticides, Santé, Union européenne"
+    ],
+    "guid": "1361489 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-cancer-colere-bruxelles-1.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892909+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Une anomalie qui dure depuis longtemps» : Jean-Pierre Farandou finalement favorable à la suppression de l’avantage fiscal des retraités",
+    "link": "https://www.liberation.fr/economie/social/une-anomalie-qui-dure-depuis-longtemps-jean-pierre-farandou-finalement-favorable-a-la-suppression-de-lavantage-fiscal-des-retraites-20261120_A2RBPCODXNED7O67DXEKOFUL3U/",
+    "summary": "Sur LCI ce vendredi 20 novembre, le ministre du Travail s’est dit favorable à la suppression de l’abattement de 10 % appliqué aux pensions de retraite. Une façon de compenser le vote des sénateurs en faveur de l’indexation de l’ensemble des pensions sur l’inflation en 2027.",
+    "published": "2026-11-20T16:06:20+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/social/une-anomalie-qui-dure-depuis-longtemps-jean-pierre-farandou-finalement-favorable-a-la-suppression-de-lavantage-fiscal-des-retraites-20261120_A2RBPCODXNED7O67DXEKOFUL3U/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960836+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Maylis Adhémar, écrivaine : confessions d’une ex-fasciste",
+    "link": "https://www.liberation.fr/portraits/maylis-adhemar-ecrivaine-confessions-dune-ex-fasciste-20261120_TO3X677RTVD5VLJ4WVVOVVDJUY/",
+    "summary": "La romancière, élevée dans une communauté catholique intégriste, raconte son émancipation et s’inquiète des régressions identitaires actuelles.",
+    "published": "2026-11-20T16:05:50+00:00",
+    "authors": [
+      "Justine Wasson"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/portraits/maylis-adhemar-ecrivaine-confessions-dune-ex-fasciste-20261120_TO3X677RTVD5VLJ4WVVOVVDJUY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960853+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« Inside Deutsche Bank » : le gouvernement allemand réclame de la « transparence » sur les révélations de l’enquête journalistique",
+    "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
+    "summary": "Ebranlée par les articles du consortium de plus de 50 médias, dont « Le Monde », l’institution allemande minimise des faits jugés anciens. Mais la chute en Bourse et l’indignation politique internationale maintiennent la pression sur l’établissement bancaire.",
+    "published": "2026-11-20T16:00:32+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
+    "image": "https://img.lemde.fr/2026/11/20/683/0/8196/4098/644/322/60/0/b28ab03_ftp-1-wrxvhkvkwdhe-afp-d83z946.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.783065+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "En Israël, la percée historique des partis arabes ravive les discours racistes",
+    "link": "https://www.liberation.fr/international/moyen-orient/en-israel-la-percee-historique-des-partis-arabes-ravive-les-discours-racistes-20261120_LO5FQX7OAZHDNAQCLNT4COPKOA/",
+    "summary": "Avec 19 sièges décrochés à la Knesset lors des législatives, le poids politique inédit des partis arabes s’accompagne d’une multiplication des attaques et dérapages racistes. Leur potentielle participation au gouvernement divise profondément les Israéliens.",
+    "published": "2026-11-20T15:53:34+00:00",
+    "authors": [
+      "Eléonore Weil"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/moyen-orient/en-israel-la-percee-historique-des-partis-arabes-ravive-les-discours-racistes-20261120_LO5FQX7OAZHDNAQCLNT4COPKOA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960875+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Présidentielle 2027 : Dominique de Villepin ou le chiraquisme vain",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-dominique-de-villepin-ou-le-chiraquisme-vain",
+    "summary": "Le bureau est immense et vide. Il réussit à faire paraître Dominique de Villepin plus petit, ce qui est un exploit. Lors d’une conférence de presse, ce vendredi matin à... L’article Présidentielle 2027 : Dominique de Villepin ou le chiraquisme vain est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T15:46:42+00:00",
+    "authors": [
+      "Marc Eynaud"
+    ],
+    "categories": [
+      "Non classé",
+      "campagne présidentielle",
+      "dominique de villepin",
+      "Présidentielle 2027"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-dominique-de-villepin-ou-le-chiraquisme-vain",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899768+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "La bataille culturelle pour taxer les ultrariches veut se réimposer à Paris",
+    "link": "https://www.mediapart.fr/journal/economie-et-social/201126/la-bataille-culturelle-pour-taxer-les-ultrariches-veut-se-reimposer-paris",
+    "summary": "Après avoir subi des défaites en Californie et en France, le mouvement pour taxer les ultrariches, dont Gabriel Zucman est l’une des figures de proue, organise un sommet «contre l’oligarchie internationale», dans l’espoir de remettre le sujet au centre des débats.",
+    "published": "2026-11-20T15:46:28+00:00",
+    "authors": [
+      "Mathias Thépot"
+    ],
+    "categories": [
+      "Économie et social",
+      "Budget 2027, Politique économique, Taxe Zucman"
+    ],
+    "guid": "1361428 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-la-bataille-culturelle-pour-taxer-les-ultrariches-s-invite-paris.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892932+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Salaires : l’intersyndicale de la fonction publique appelle à une nouvelle journée de grève le 1er décembre, la CFDT mobilise aussi le privé",
+    "link": "https://www.liberation.fr/economie/social/hausse-des-salaires-un-nouvel-appel-a-la-greve-dans-la-fonction-publique-le-1er-decembre-20261120_ABDFFBKH45DIREAFQFOU3NCZME/",
+    "summary": "Dans le public, l’intersyndicale regroupant CGT, FO, CFDT, Unsa, FSU, Solidaires, CFE-CGC et FAF dénonce ce vendredi 20 novembre «la gravité de leur situation salariale». Dans le privé, la CFDT dénonce les lenteurs du patronat.",
+    "published": "2026-11-20T15:40:54+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/social/hausse-des-salaires-un-nouvel-appel-a-la-greve-dans-la-fonction-publique-le-1er-decembre-20261120_ABDFFBKH45DIREAFQFOU3NCZME/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960899+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "COP31: «La transition énergétique peut reproduire les logiques destructrices de l’extractivisme»",
+    "link": "https://www.mediapart.fr/journal/ecologie/201126/cop31-la-transition-energetique-peut-reproduire-les-logiques-destructrices-de-l-extractivisme",
+    "summary": "Alors que le sommet climat d’Antalya planche sur les manières de décarboner l’économie mondiale, le géographe Jérémy Bourgoin a piloté une étude internationale inédite qui montre que les projets énergétiques renouvelables ont une lourde empreinte écologique.",
+    "published": "2026-11-20T15:38:33+00:00",
+    "authors": [
+      "Mickaël Correia"
+    ],
+    "categories": [
+      "Écologie",
+      "Changement climatique, Climat, extractivisme, Transition énergétique"
+    ],
+    "guid": "1361463 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-cop-31.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892954+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Nous exhortons les visiteurs à mettre leurs affaires en sécurité» : Fiona, hippopotame star du zoo de Cincinnati, est morte après avoir avalé un bonnet",
+    "link": "https://www.liberation.fr/environnement/animaux/nous-exhortons-les-visiteurs-a-mettre-ses-affaires-en-securite-fiona-hippopotame-star-du-zoo-de-cincinnati-est-morte-apres-avoir-avale-un-bonnet-20261120_Q6NZERBQ45ELHNLDOFLONJMENY/",
+    "summary": "Le mammifère, qui devait fêter ses 10 ans en janvier, n’a pas réussi à digérer le couvre-chef en laine lancé par un visiteur, a annoncé jeudi 19 novembre le parc animalier américain, qui assure avoir tout tenté pour la sauver.",
+    "published": "2026-11-20T15:37:56+00:00",
+    "authors": [
+      "Sascha Garcia, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/environnement/animaux/nous-exhortons-les-visiteurs-a-mettre-ses-affaires-en-securite-fiona-hippopotame-star-du-zoo-de-cincinnati-est-morte-apres-avoir-avale-un-bonnet-20261120_Q6NZERBQ45ELHNLDOFLONJMENY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960923+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "La Pologne et ses alliés accusent la Russie après une chute de missiles près de la frontière avec l’Ukraine",
+    "link": "https://www.liberation.fr/international/europe/la-pologne-et-ses-allies-accusent-la-russie-apres-une-chute-de-missiles-pres-de-la-frontiere-avec-lukraine-20261120_E7B54NML35A47LFVWRXB4EVCMU/",
+    "summary": "Deux missiles russes et «probablement» un drone sont tombés ce vendredi 20 novembre le sud-est de la Pologne, selon Varsovie, qui dénonce une «provocation». Il n’y a pas de blessé à déplorer.",
+    "published": "2026-11-20T15:34:35+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/la-pologne-et-ses-allies-accusent-la-russie-apres-une-chute-de-missiles-pres-de-la-frontiere-avec-lukraine-20261120_E7B54NML35A47LFVWRXB4EVCMU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960946+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Cinéma, publicité, télévision... L’avenir incertain des musiciens à l’image",
+    "link": "https://www.liberation.fr/culture/musique/cinema-publicite-television-lavenir-incertain-des-musiciens-a-limage-20261120_2KALFMOIBJF6VMCWZGYGUMOGVQ/",
+    "summary": "Composer pour le cinéma mais aussi pour la pub, les documentaires ou les émissions télé est un métier ancien, important et méconnu du grand public. A la découverte de celles et ceux qui accompagnent l’image sous toutes ses formes et dont la profession est désormais affectée par l’IA.",
+    "published": "2026-11-20T15:23:00+00:00",
+    "authors": [
+      "Brice  Miclet"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/musique/cinema-publicite-television-lavenir-incertain-des-musiciens-a-limage-20261120_2KALFMOIBJF6VMCWZGYGUMOGVQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960969+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Guerre en Ukraine : les Européens iront à Moscou s’ils ont «bien désormais» toute leur place dans les négociations, indique l’Élysée",
+    "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-europeens-iront-a-moscou-s-ils-ont-bien-desormais-toute-leur-place-dans-les-negociations-indique-l-elysee-20261120",
+    "summary": "Fournir à l’Ukraine une protection «de type article 5» du traité de l’Alliance atlantique, comme l’ont envisagé les États-Unis, équivaut à faire entrer Kiev dans l’Otan, comme le plaide la France, a estimé vendredi la présidence française.",
+    "published": "2026-11-20T15:18:42+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/guerre-en-ukraine-les-europeens-iront-a-moscou-s-ils-ont-bien-desormais-toute-leur-place-dans-les-negociations-indique-l-elysee-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/6aaba2d66ddb32316293d468050bca08039b935ed6b323079206fd0a6a2276db.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800288+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Déraillement du TER en Normandie : une collision entre des passagers et un autre train évitée de justesse",
+    "link": "https://www.liberation.fr/economie/transports/deraillement-du-ter-en-normandie-une-collision-entre-des-passagers-et-un-autre-train-evitee-de-justesse-20261120_S2DGB2DRZNGILHLNHJ2XVLTZWQ/",
+    "summary": "Selon un rapport rendu public ce vendredi 20 novembre, des voyageurs évacués du TER le 13 septembre auraient pu être percutés sur la voie opposée. La rame a été arrêtée «à seulement 2 000 m de la zone de danger».",
+    "published": "2026-11-20T15:10:32+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/transports/deraillement-du-ter-en-normandie-une-collision-entre-des-passagers-et-un-autre-train-evitee-de-justesse-20261120_S2DGB2DRZNGILHLNHJ2XVLTZWQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.960991+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Génocide des Rohingyas : après la décision historique de la CIJ, les réactions internationales s’enchaînent",
+    "link": "https://www.liberation.fr/international/asie-pacifique/genocide-des-rohingyas-apres-la-decision-historique-de-la-cij-les-reactions-internationales-senchainent-20261120_T6GQJ2LXAJGFJOENXUVFY55D6M/",
+    "summary": "L’organe judiciaire des Nations unies a jugé jeudi 19 novembre que la Birmanie avait bien commis un génocide contre la minorité musulmane en 2017. Tandis que l’ONU appelle Naypyidaw à permettre le retour des réfugiés, l’UE s’est contentée de «prendre note» de la décision.",
+    "published": "2026-11-20T15:07:58+00:00",
+    "authors": [
+      "Victor Sardjeveladze"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/asie-pacifique/genocide-des-rohingyas-apres-la-decision-historique-de-la-cij-les-reactions-internationales-senchainent-20261120_T6GQJ2LXAJGFJOENXUVFY55D6M/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961015+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Les délices du Palais du Luxembourg",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/politique/les-delices-du-palais-du-luxembourg",
+    "summary": "Mon cousin, Paris brûle encore mais cela n’éteint pas, loin de là, les ambitions les plus folles et pour tout dire les plus ridicules. Chacun s’imagine en sauveur, se rêve... L’article Les délices du Palais du Luxembourg est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T15:00:28+00:00",
+    "authors": [
+      "Adrien Renouard"
+    ],
+    "categories": [
+      "Non classé",
+      "gérard larcher",
+      "la lettre de M. de Rastignac"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/les-delices-du-palais-du-luxembourg",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899796+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Les affaires marocaines de Teddy Riner, « ami personnel » du roi Mohammed VI",
+    "link": "https://www.lemonde.fr/afrique/article/2026/11/20/les-affaires-marocaines-de-teddy-riner-ami-personnel-du-roi-mohammed-vi_6813652_3212.html",
+    "summary": "Un article de « Mediapart », publié jeudi 19 novembre, affirme qu’une société du judoka, candidat à la présidentielle, a bénéficié de commandes du souverain marocain « pour des millions d’euros ». Une enquête qui illustre les liens étroits qu’entretiennent les deux hommes.",
+    "published": "2026-11-20T15:00:02+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/afrique/article/2026/11/20/les-affaires-marocaines-de-teddy-riner-ami-personnel-du-roi-mohammed-vi_6813652_3212.html",
+    "image": "https://img.lemde.fr/2026/11/20/368/0/7328/3664/644/322/60/0/33f8347_upload-1-j9emvkofx5qw-000-36l73zn.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.783022+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Affaire Barbara Butch : Allan Brunon, responsable LFI à Grenoble jugé le 15 février, se dit «très tranquille»",
+    "link": "https://www.liberation.fr/societe/police-justice/affaire-barbara-butch-allan-brunon-responsable-lfi-a-grenoble-appele-a-comparaitre-le-15-fevrier-20261120_R7U6RWVAJNBZTFEVVTH6VZ7OUE/",
+    "summary": "Le parquet annonce ce vendredi 20 novembre la convocation de l’élu insoumis «pour complicité d’entrave concertée à la liberté artistique» après l’interruption du concert de la DJ en juillet par une action militante.",
+    "published": "2026-11-20T14:57:58+00:00",
+    "authors": [
+      "François Carrel"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/affaire-barbara-butch-allan-brunon-responsable-lfi-a-grenoble-appele-a-comparaitre-le-15-fevrier-20261120_R7U6RWVAJNBZTFEVVTH6VZ7OUE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961041+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Des risques pour «gagner deux ou trois secondes» : le jeune motard qui a tué Kamilya, 7 ans, présente ses excuses lors de son procès",
+    "link": "https://www.liberation.fr/societe/police-justice/des-risques-pour-gagner-deux-ou-trois-secondes-le-jeune-motard-qui-a-tue-kamilya-7-ans-presente-ses-excuses-lors-de-son-proces-20261120_XQLISND47RF43E2HTKXRHTJWCE/",
+    "summary": "La fillette avait été percutée le 29 août 2024 par un homme qui effectuait une roue arrière en roulant à contresens. «J’aurais dû attendre, je le sais. Je suis tellement désolé», a-t-il assuré au tribunal de Grasse ce vendredi 20 novembre.",
+    "published": "2026-11-20T14:39:44+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/des-risques-pour-gagner-deux-ou-trois-secondes-le-jeune-motard-qui-a-tue-kamilya-7-ans-presente-ses-excuses-lors-de-son-proces-20261120_XQLISND47RF43E2HTKXRHTJWCE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961066+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Comment cela peut-il fonctionner ?» : Sibyle Veil sceptique sur la privatisation de l’audiovisuel public portée par le RN",
+    "link": "https://www.liberation.fr/economie/medias/comment-cela-peut-il-fonctionner-sibyle-veil-sceptique-sur-la-privatisation-de-laudiovisuel-public-portee-par-le-rn-20261120_SBQCTF76DZFUZHRWKWLF5G5PTE/",
+    "summary": "La présidente de Radio France a mis en doute ce vendredi 20 novembre la faisabilité du projet du parti de Marine Le Pen qui consiste à ne garder qu’une partie des radios et télés publiques dont France Info, Arte, un réseau local et international.",
+    "published": "2026-11-20T14:39:38+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/medias/comment-cela-peut-il-fonctionner-sibyle-veil-sceptique-sur-la-privatisation-de-laudiovisuel-public-portee-par-le-rn-20261120_SBQCTF76DZFUZHRWKWLF5G5PTE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961090+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Présidentielle 2027 : Édouard Philippe devance Jean-Luc Mélenchon, s'il devient candidat unique du centre et de la droite, selon un sondage",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-devance-jean-luc-melenchon-s-il-devient-candidat-unique-du-centre-et-de-la-droite-selon-un-sondage-20261120",
+    "summary": "Édouard Philippe, qui refuse toujours l’idée d’une primaire, s’est dit prêt dimanche à participer à une réunion permettant aux quatre candidats déclarés de trouver une «méthode de départage».",
+    "published": "2026-11-20T14:37:46+00:00",
+    "authors": [],
+    "categories": [
+      "Les sondages de l'élection présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-edouard-philippe-devance-jean-luc-melenchon-s-il-devient-candidat-unique-du-centre-et-de-la-droite-selon-un-sondage-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/dcbcd66d2dadb1c72799a9b26af46f3ae963defadabfea930abfd34e5857b9c6.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800556+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le statut de favori du RN à l’épreuve de l’avalanche des affaires",
+    "link": "https://www.liberation.fr/politique/le-statut-de-favori-du-rn-a-lepreuve-de-lavalanche-des-affaires-20261120_4QE66TMBRNCKFPSTKZ7QH3F34M/",
+    "summary": "Soupçonné d’avoir bénéficié de fuites illégales du ministère de l’Intérieur via le préfet Hugues Moutouh, le parti fait le dos rond. L’accumulation des controverses n’a pour l’instant pas nui à son potentiel électoral.",
+    "published": "2026-11-20T14:32:25+00:00",
+    "authors": [
+      "Charlotte Belaïch"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/le-statut-de-favori-du-rn-a-lepreuve-de-lavalanche-des-affaires-20261120_4QE66TMBRNCKFPSTKZ7QH3F34M/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961111+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Une membre fidèle» du parti nazi : à 112 ans, la doyenne du Danemark rattrapée par son passé",
+    "link": "https://www.liberation.fr/international/europe/une-membre-fidele-du-parti-nazi-a-112-ans-la-doyenne-du-danemark-rattrapee-par-son-passe-20261120_UFNPZG4CZRC6BGG3WWPDHGSYQM/",
+    "summary": "Après des révélations dans la presse sur les activités de Kirsten Schwalbe pendant la Seconde Guerre mondiale, la maison d’édition qui avait publié sa biographie début octobre a décidé de retirer l’ouvrage des ventes. Le tournage d’une émission de télé-réalité a également été interrompu.",
+    "published": "2026-11-20T14:30:45+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/une-membre-fidele-du-parti-nazi-a-112-ans-la-doyenne-du-danemark-rattrapee-par-son-passe-20261120_UFNPZG4CZRC6BGG3WWPDHGSYQM/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961136+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "« Il n’a aucun affect, aucune émotion » : 24 mois de prison pour avoir dépecé un chat, dans le Var",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/regions/provence-alpes-cote-dazur/var/toulon/societe/il-na-aucun-affect-aucune-emotion-24-mois-de-prison-pour-avoir-depece-un-chat-dans-le-var",
+    "summary": "En août dernier, aux abords du collège Reynier, à Six-Fours-les-Plages, des passants découvrent une scène particulièrement macabre. Le corps d’une chatte avait été empalé sur un poteau de clôture, tandis... L’article « Il n’a aucun affect, aucune émotion » : 24 mois de prison pour avoir dépecé un chat, dans le Var est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T14:29:45+00:00",
+    "authors": [
+      "VA Regions"
+    ],
+    "categories": [
+      "Non classé",
+      "bien-être animal",
+      "chat",
+      "Fondation Brigitte Bardot",
+      "maltraitance animale",
+      "toulon",
+      "tribunal correctionnel"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/provence-alpes-cote-dazur/var/toulon/societe/il-na-aucun-affect-aucune-emotion-24-mois-de-prison-pour-avoir-depece-un-chat-dans-le-var",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899835+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Fuites au ministère de l’Intérieur : Hugues Moutouh, le «préfet bulldozer» soupçonné d’avoir tuyauté le RN",
+    "link": "https://www.liberation.fr/politique/fuites-au-ministere-de-linterieur-hugues-moutouh-le-prefet-bulldozer-soupconne-davoir-tuyaute-le-rn-20261120_NDYQ4YL7YZHQHPDPPOMUSUTLMY/",
+    "summary": "L’ancien secrétaire général de Beauvau, qui s’est illustré par ses déclarations et ses méthodes brutales dans ses fonctions préfectorales, est accusé d’avoir transmis des informations confidentielles du ministère au profit du parti d’extrême droite.",
+    "published": "2026-11-20T14:27:05+00:00",
+    "authors": [
+      "Emilia Spada"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/fuites-au-ministere-de-linterieur-hugues-moutouh-le-prefet-bulldozer-soupconne-davoir-tuyaute-le-rn-20261120_NDYQ4YL7YZHQHPDPPOMUSUTLMY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961161+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Le palmarès des 70 meilleures séries TV du 21e siècle, selon les experts du petit écran",
+    "link": "https://tvmag.lefigaro.fr/programme-tv/series/le-palmares-des-70-meilleures-series-tv-du-21e-siecle-selon-les-experts-du-petit-ecran-20261120",
+    "summary": "EXCLUSIF - Nous avons demandé à des scénaristes, réalisateurs, producteurs, comédiens, chefs monteurs ou encore preneurs de son de nous dire quelles sont les séries majoritairement diffusées après l’an 2000 qu’ils estiment incontournables. Découvrez ce classement inédit.",
+    "published": "2026-11-20T14:16:42+00:00",
+    "authors": [],
+    "categories": [
+      "Séries"
+    ],
+    "guid": "https://tvmag.lefigaro.fr/programme-tv/series/le-palmares-des-70-meilleures-series-tv-du-21e-siecle-selon-les-experts-du-petit-ecran-20261120",
+    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/12/0eebe169f13ef83fe1c6bc6ab27aa9fc8bb6e2619ef9c2e9c1af41aa0908971e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.800578+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Challenge physique», «tourbillon permanent», «fierté»… Danser «Dance» de Lucinda Childs, intense expérience",
+    "link": "https://www.liberation.fr/culture/scenes/challenge-physique-tourbillon-permanent-fierte-danser-dance-de-lucinda-childs-intense-experience-20261120_JC5UINP5DFDOJFLRGNLPYOVATE/",
+    "summary": "Si limpide et fluide qu’il puisse apparaître pour le spectateur néophyte, ce monument de la danse contemporaine, créé en 1979, est en réalité redoutablement précis et complexe à exécuter. Alors que la pièce est reprise à la Villette à Paris en cette fin novembre, trois danseurs du ballet de l’Opéra de Lyon confient leur attachement à la pièce.",
+    "published": "2026-11-20T14:12:00+00:00",
+    "authors": [
+      "Elisabeth Franck-Dumas"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/scenes/challenge-physique-tourbillon-permanent-fierte-danser-dance-de-lucinda-childs-intense-experience-20261120_JC5UINP5DFDOJFLRGNLPYOVATE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961187+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Sylvain Tesson à Toulon, le Beaujolais nouveau, ostension de l’anneau de Jeanne d’Arc… des idées de sortie le week-end du 21 et 22 novembre dans vos régions",
+    "link": "https://www.valeursactuelles.com/art-de-vivre/sylvain-tesson-a-toulon-le-beaujolais-nouveau-ostension-de-lanneau-de-jeanne-darc-des-idees-de-sortie-le-week-end-du-21-et-22-novembre-dans-vos-regions",
+    "summary": "En Île-de-France, un week-end impérial fait renaître l’époque napoléonienne à FontainebleauLes Impériales de Fontainebleau reviennent pour une cinquième édition, les samedi 21 et dimanche 22 novembre. Cette année, la manifestation,... L’article Sylvain Tesson à Toulon, le Beaujolais nouveau, ostension de l’anneau de Jeanne d’Arc… des idées de sortie le week-end du 21 et 22 novembre dans vos régions est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T14:00:13+00:00",
+    "authors": [
+      "France Goutierre"
+    ],
+    "categories": [
+      "Non classé",
+      "cognac",
+      "fête",
+      "gastronomie",
+      "jeanne d'arc",
+      "Sylvain Tesson"
+    ],
+    "guid": "https://www.valeursactuelles.com/art-de-vivre/sylvain-tesson-a-toulon-le-beaujolais-nouveau-ostension-de-lanneau-de-jeanne-darc-des-idees-de-sortie-le-week-end-du-21-et-22-novembre-dans-vos-regions",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899881+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Présidentielle : depuis Lyon, Marine Tondelier attend «les pas» de Jean-Luc Mélenchon en direction des écologistes",
+    "link": "https://www.liberation.fr/politique/elections/presidentielle-depuis-lyon-marine-tondelier-attend-les-pas-de-jean-luc-melenchon-en-direction-des-ecologistes-20261120_RWMA5LDG25HUJCM5Q4RBDIC2S4/",
+    "summary": "Mercredi, la secrétaire nationale des Ecologistes s’est dite «prête» à travailler à une «coalition autour de la candidature» de Jean-Luc Mélenchon. Elle reste pour l’heure candidate à la présidentielle, a-t-elle annoncé vendredi 20 novembre à Lyon.",
+    "published": "2026-11-20T13:56:00+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/elections/presidentielle-depuis-lyon-marine-tondelier-attend-les-pas-de-jean-luc-melenchon-en-direction-des-ecologistes-20261120_RWMA5LDG25HUJCM5Q4RBDIC2S4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961210+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Cinquantenaire de la mort d’André Malraux : correspondances et rééditions pour discourir le monde",
+    "link": "https://www.liberation.fr/culture/livres/cinquantenaire-de-la-mort-dandre-malraux-correspondances-et-reeditions-pour-discourir-le-monde-20261120_AK7SQHGPKNHATOP5DD3QFRTWZ4/",
+    "summary": "A l’occasion des cinquante ans de la mort de l’écrivain et mythique ministre de la Culture paraissent ses «Correspondances» avec Roger Martin du Gard et Gaëtan Picon. Son mémorable discours lors de l’entrée de Jean Moulin au Panthéon est réédité.",
+    "published": "2026-11-20T13:47:00+00:00",
+    "authors": [
+      "Mathieu Lindon"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/livres/cinquantenaire-de-la-mort-dandre-malraux-correspondances-et-reeditions-pour-discourir-le-monde-20261120_AK7SQHGPKNHATOP5DD3QFRTWZ4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961233+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Un «accord historique» : l’Union européenne et le Royaume-Uni célèbrent un «tournant» dans leurs relations",
+    "link": "https://www.liberation.fr/international/europe/un-accord-historique-lunion-europeenne-et-le-royaume-uni-celebrent-un-tournant-dans-leurs-relations-20261120_KMJBULSCMJH6FA4OCPBATZV3VI/",
+    "summary": "Dix ans après le référendum sur le Brexit, les deux parties sont parvenues à un deal ce vendredi 20 novembre lors d’un sommet à Bruxelles, sur de premières mesures concrètes, actant une alliance plus étroite.",
+    "published": "2026-11-20T13:45:42+00:00",
+    "authors": [
+      "Libération ., AFP ., Reuters ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/europe/un-accord-historique-lunion-europeenne-et-le-royaume-uni-celebrent-un-tournant-dans-leurs-relations-20261120_KMJBULSCMJH6FA4OCPBATZV3VI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961255+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Gérard Depardieu et Michel Houellebecq visés par une plainte pour violences sexuelles lors du tournage du film «Thalasso»",
+    "link": "https://www.liberation.fr/societe/police-justice/gerard-depardieu-et-michel-houellebecq-vises-par-une-plainte-pour-violences-sexuelles-lors-du-tournage-du-film-thalasso-20261119_67UMH62RI5CQJGY3QBYSLIY5OI/",
+    "summary": "«Mediapart» révèle que l’acteur et l’écrivain sont mis en cause depuis 2025 par «Alexandra», une actrice qui les accuse d’avoir abusé d’elle lors du tournage d’une scène du film de Guillaume Nicloux, en 2018. Des investigations sont en cours, a affirmé une source proche du dossier ce vendredi.",
+    "published": "2026-11-20T13:44:26+00:00",
+    "authors": [
+      "Libération ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/gerard-depardieu-et-michel-houellebecq-vises-par-une-plainte-pour-violences-sexuelles-lors-du-tournage-du-film-thalasso-20261119_67UMH62RI5CQJGY3QBYSLIY5OI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961283+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Recomposer la ville en respectant le vivant",
+    "link": "https://www.liberation.fr/forums/recomposer-la-ville-en-respectant-le-vivant-20261120_XZPEUXFEGRAADHCJSMF5R5SIDQ/",
+    "summary": "Le changement climatique et l’impact des canicules contraignent les métropoles à l’action, soutient Nicolas Mayer-Rossignol, maire de Rouen et président de la Métropole Rouen Normandie.",
+    "published": "2026-11-20T13:40:36+00:00",
+    "authors": [
+      "Nicolas Mayer-Rossignol"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/recomposer-la-ville-en-respectant-le-vivant-20261120_XZPEUXFEGRAADHCJSMF5R5SIDQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961302+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Un exploit technologique» : une peau artificielle créée en laboratoire par des acteurs français",
+    "link": "https://www.liberation.fr/societe/sante/un-exploit-technologique-une-peau-artificielle-creee-en-laboratoire-par-des-acteurs-francais-20261120_NQWA3SKIB5ASLENZBKZB2WNDI4/",
+    "summary": "L’innovation médicale 100 % française doit encore faire ses preuves en essais cliniques mais pourrait, à terme, soigner des patients aux plaies sévères, comme les grands brûlés.",
+    "published": "2026-11-20T13:37:58+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/sante/un-exploit-technologique-une-peau-artificielle-creee-en-laboratoire-par-des-acteurs-francais-20261120_NQWA3SKIB5ASLENZBKZB2WNDI4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961321+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "Grenoble : un responsable de LFI poursuivi après l’interruption du concert de Barbara Butch",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/regions/auvergne-rhone-alpes/isere/grenoble/faits-divers/grenoble-un-responsable-de-lfi-poursuivi-apres-linterruption-du-concert-de-barbara-butch",
+    "summary": "L’affaire politique prend désormais une tournure judiciaire. Le conseiller municipal LFI à Grenoble, Allan Brunon, est convoqué devant le tribunal correctionnel, le 15 février prochain, annonce le procureur de la... L’article Grenoble : un responsable de LFI poursuivi après l’interruption du concert de Barbara Butch est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T13:30:20+00:00",
+    "authors": [
+      "Nicolas Boutin"
+    ],
+    "categories": [
+      "Non classé"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/auvergne-rhone-alpes/isere/grenoble/faits-divers/grenoble-un-responsable-de-lfi-poursuivi-apres-linterruption-du-concert-de-barbara-butch",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:15.899915+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Espagne: Feijóo à l’offensive dans le seul face-à-face télévisé de la campagne",
+    "link": "https://www.mediapart.fr/journal/international/201126/espagne-feijoo-l-offensive-dans-le-seul-face-face-televise-de-la-campagne",
+    "summary": "Le candidat conservateur a mis en avant sa capacité de «gestion», éreintant le bilan des gauches au pouvoir depuis huit ans, de la crise de Ceuta aux catastrophes ferroviaires. Le chef du gouvernement, Pedro Sánchez, a renvoyé la droite à l’alliance qu’elle prépare avec l’extrême droite.",
+    "published": "2026-11-20T13:08:16+00:00",
+    "authors": [
+      "Ludovic Lamant"
+    ],
+    "categories": [
+      "Élections en Espagne : la gauche joue son va-tout",
+      "Alberto Nuñez Feijoo, Élections en Espagne, Espagne, Europe, Pedro Sanchez"
+    ],
+    "guid": "1361411 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-espagne-le-conservateur-feijoo-l-offensive-lors-du-seul-face-face-televise-de-la-campagne.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892977+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "115 morts en neuf mois: l’Espagne découvre les failles de son TGV",
+    "link": "https://www.mediapart.fr/journal/international/201126/115-morts-en-neuf-mois-l-espagne-decouvre-les-failles-de-son-tgv",
+    "summary": "Le syndicat des conducteurs de train appelle à une journée de mobilisation lundi 23 novembre. Joyau industriel de l’Espagne, le deuxième réseau à grande vitesse du monde peine à absorber l’explosion du nombre de voyageurs, qui a presque doublé en quatre ans.",
+    "published": "2026-11-20T13:08:11+00:00",
+    "authors": [
+      "Alban Elkaïm"
+    ],
+    "categories": [
+      "International",
+      "Accidents de train, Espagne, Europe"
+    ],
+    "guid": "1361037 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/19/261119-img-tragedies-ferroviaires-l-espagne-doute-de-son-reseau-grande-vitesse-liberalise-trop-vite.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.892999+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Moteurs électriques : l’Europe en hausse de régime",
+    "link": "https://www.liberation.fr/forums/moteurs-electriques-leurope-en-hausse-de-regime-20261118_BCXABBIO75D2BIQPKZLTDLLSNA/",
+    "summary": "Recherche collaborative, nouveaux métiers, coopérations universitaires... L’enjeu en matière de véhicules électriques fait naître des passerelles au niveau européen.",
+    "published": "2026-11-20T13:04:58+00:00",
+    "authors": [
+      "Delphine Bernard-Bruls"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/moteurs-electriques-leurope-en-hausse-de-regime-20261118_BCXABBIO75D2BIQPKZLTDLLSNA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961348+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "17 octobre : comment Youcef A. a passé trois semaines en prison pour des ballons d’eau lancés sur la police",
+    "link": "https://www.liberation.fr/societe/police-justice/17-octobre-comment-youcef-a-a-passe-trois-semaines-en-prison-pour-des-ballons-deau-lances-sur-la-police-20261120_N5JJ2QMU7NHPTPDJLYUDYWJSZY/",
+    "summary": "A l’issue de vingt-cinq jours de détention préventive, ce jeune étudiant tunisien a été condamné par le tribunal correctionnel de Paris à huit mois de prison avec sursis, dans la nuit de jeudi 19 à vendredi 20 novembre.",
+    "published": "2026-11-20T13:04:55+00:00",
+    "authors": [
+      "Anaïs Condomines"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/17-octobre-comment-youcef-a-a-passe-trois-semaines-en-prison-pour-des-ballons-deau-lances-sur-la-police-20261120_N5JJ2QMU7NHPTPDJLYUDYWJSZY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961371+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Manifestant mort d’un malaise le 17 octobre à Paris : les analyses de sang n’ont pas permis de trouver de gaz lacrymogène",
+    "link": "https://www.liberation.fr/societe/police-justice/manifestant-mort-dun-malaise-le-17-octobre-a-paris-les-analyses-nont-pas-permis-de-trouver-de-gaz-lacrymogene-20261120_YSJMAKZGWVCONM66VTZ36AKSSQ/",
+    "summary": "Les analyses sanguines de Christophe M., âgé de 59 ans, révélées par la presse ce vendredi 20 novembre, ont en revanche mis au jour des traces d’alcool, de cocaïne, de cannabis et de méthadone.",
+    "published": "2026-11-20T13:04:36+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/manifestant-mort-dun-malaise-le-17-octobre-a-paris-les-analyses-nont-pas-permis-de-trouver-de-gaz-lacrymogene-20261120_YSJMAKZGWVCONM66VTZ36AKSSQ/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961392+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Dans le bassin minier, un bus gratuit pour tous",
+    "link": "https://www.liberation.fr/forums/dans-le-bassin-minier-un-bus-gratuit-pour-tous-20261117_FRBU2QFDCFAZHANQ656AL2YDMI/",
+    "summary": "Depuis le 1er janvier, le réseau de transports en commun Tadao est gratuit pour les habitants et les visiteurs. Un soulagement une population touchée par la précarité.",
+    "published": "2026-11-20T13:04:09+00:00",
+    "authors": [
+      "Clémence  de Blasi"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/dans-le-bassin-minier-un-bus-gratuit-pour-tous-20261117_FRBU2QFDCFAZHANQ656AL2YDMI/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961409+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Pistes cyclables : dans les Hauts-de-France, une signalisation pour ne pas perdre le Nord",
+    "link": "https://www.liberation.fr/forums/pistes-cyclables-dans-les-hauts-de-france-une-signalisation-pour-ne-pas-perdre-le-nord-20261117_H3ISV2TTWNAWZO4N3JZXPYXDOU/",
+    "summary": "Venu de Belgique et des Pays-Bas, le réseau points-nœuds s’étend dans le nord de la France et maille les petites routes avec repérage des meilleures routes cyclables.",
+    "published": "2026-11-20T13:03:49+00:00",
+    "authors": [
+      "Stéphanie Maurice"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/pistes-cyclables-dans-les-hauts-de-france-une-signalisation-pour-ne-pas-perdre-le-nord-20261117_H3ISV2TTWNAWZO4N3JZXPYXDOU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.961428+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Au PS, la greffe Glucksmann peine à prendre",
+    "link": "https://www.mediapart.fr/journal/politique/201126/au-ps-la-greffe-glucksmann-peine-prendre",
+    "summary": "Si les cadres socialistes se sont résolus, bon an mal an, à soutenir leur candidat sorti vainqueur de la primaire, l’enthousiasme militant est mitigé. Certains rendent leur carte, d’autres feront le service minimum… Et des jeunes adhérents sont tentés de rejoindre les rivages mélenchonistes.",
+    "published": "2026-11-20T12:29:26+00:00",
+    "authors": [
+      "Pauline Graulle, Sarah Benhaïda"
+    ],
+    "categories": [
+      "Politique",
+      "Élection présidentielle 2027, Gauche(s), Parti socialiste, Place publique"
+    ],
+    "guid": "1361373 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-apres-l-investiture-de-raphael-glucksmann-la-laborieuse-greffe-entre-le-ps-et-son-candidat.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.893021+00:00"
+  },
+  {
+    "source": "Le Figaro",
     "title": "Déraillement d’un TER en Normandie : l’enquête technique révèle qu’une collision a été évitée de peu",
     "link": "https://www.lefigaro.fr/conjoncture/deraillement-d-un-ter-en-normandie-l-enquete-technique-revele-qu-une-collision-a-ete-evitee-de-peu-20261120",
     "summary": "Le 11 septembre dernier, un TER Rouen-Caen a déraillé, blessant 44 personnes, dont une grièvement. Le bilan aurait toutefois pu être beaucoup plus grave, révèle ce vendredi l’enquête technique.",
@@ -88,21 +1715,6 @@
     "fetched_at": "2026-11-20T10:58:31.249901+00:00"
   },
   {
-    "source": "Libération",
-    "title": "EN DIRECT – Affaire des fuites d’infos de l’Intérieur vers le RN : le préfet mis en cause convoqué à Beauvau par Laurent Nuñez",
-    "link": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
-    "summary": "Des perquisitions ont eu lieu ces dernières semaines au siège du parti de Marine Le Pen et à Beauvau, dans le cadre d’une enquête judiciaire pour des soupçons de transmissions d’informations confidentielles au profit du parti d’extrême droite.",
-    "published": "2026-11-20T10:43:39+00:00",
-    "authors": [
-      "Emilia Spada, Léonard Cassette, Lucas Biosca, Service Photo, AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-20T10:58:31.386973+00:00"
-  },
-  {
     "source": "Le Monde",
     "title": "Pluie-inondation : dans le Pas-de-Calais, toujours placé en vigilance orange, des routes et maisons sous les eaux",
     "link": "https://www.lemonde.fr/planete/article/2026/11/20/pluie-inondation-dans-le-pas-de-calais-toujours-place-en-vigilance-orange-des-routes-et-maisons-sous-les-eaux_6813624_3244.html",
@@ -131,36 +1743,6 @@
     "fetched_at": "2026-11-20T10:58:31.386999+00:00"
   },
   {
-    "source": "Libération",
-    "title": "«Je suis candidat à l’élection présidentielle de 2027», annonce Dominique de Villepin",
-    "link": "https://www.liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI/",
-    "summary": "L’ex-Premier ministre de Jacques Chirac, promoteur d’un rassemblement dépassant le clivage droite-gauche, a tenu une conférence de presse ce vendredi 20 novembre à la Maison de l’Amérique latine à Paris pour officialiser sa candidature.",
-    "published": "2026-11-20T10:41:14+00:00",
-    "authors": [
-      "Dominique Albertini"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-20T10:58:31.387020+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Présidentielle 2027 : «Je suis candidat», annonce Dominique de Villepin",
-    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
-    "summary": "«Ce pourrissement de la France, cet instinct de défaite, cet esprit de mort qui nous gagne, voilà autant de raisons qui me conduisent aujourd’hui à dire devant vous, je suis candidat à l’élection présidentielle de 2027», a déclaré Dominique de Villepin devant la presse.",
-    "published": "2026-11-20T10:40:45+00:00",
-    "authors": [],
-    "categories": [
-      "Présidentielle"
-    ],
-    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
-    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/a89c8662a3ca3cbe610e23159a03b56cc9260484d514960a400302a624267a11.jpg",
-    "full_text": null,
-    "fetched_at": "2026-11-20T10:58:31.288668+00:00"
-  },
-  {
     "source": "Le Monde",
     "title": "Dominique de Villepin annonce sa candidature à l’élection présidentielle de 2027",
     "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027_6813622_6205049.html",
@@ -187,21 +1769,6 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-11-20T10:58:31.288687+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "Le palmarès des 70 meilleures séries TV du 21e siècle, selon les experts du petit écran",
-    "link": "https://tvmag.lefigaro.fr/programme-tv/series/le-palmares-des-70-meilleures-series-tv-du-21e-siecle-selon-les-experts-du-petit-ecran-20261120",
-    "summary": "EXCLUSIF - Nous avons demandé à des scénaristes, réalisateurs, producteurs, comédiens, chefs monteurs ou encore preneurs de son de nous dire quelles sont les séries majoritairement diffusées après l’an 2000 qu’ils estiment incontournables. Découvrez ce classement inédit.",
-    "published": "2026-11-20T10:30:07+00:00",
-    "authors": [],
-    "categories": [
-      "Séries"
-    ],
-    "guid": "https://tvmag.lefigaro.fr/programme-tv/series/le-palmares-des-70-meilleures-series-tv-du-21e-siecle-selon-les-experts-du-petit-ecran-20261120",
-    "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/12/0eebe169f13ef83fe1c6bc6ab27aa9fc8bb6e2619ef9c2e9c1af41aa0908971e.jpg",
-    "full_text": null,
-    "fetched_at": "2026-11-20T10:58:31.288841+00:00"
   },
   {
     "source": "Libération",
@@ -656,21 +2223,6 @@
     "image": "https://img.lemde.fr/2026/11/06/322/0/3870/1935/644/322/60/0/526152c_ftp-1-vco24adnfdtr-afp-d6mt2we.jpg",
     "full_text": null,
     "fetched_at": "2026-11-20T10:58:31.249779+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Le Sénat se fracture sur la présomption de légitime défense pour les forces de l’ordre",
-    "link": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
-    "summary": "Le vote du texte, initialement prévu jeudi à la Chambre haute, a été reporté à ce vendredi 20 novembre.",
-    "published": "2026-11-20T08:43:42+00:00",
-    "authors": [
-      "Libération ., AFP ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-20T10:58:31.387345+00:00"
   },
   {
     "source": "Libération",
@@ -1267,6 +2819,19 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-11-20T10:58:31.387794+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« A l’évidence, ce projet est un échec » : à Paris, l’agonie du quartier Rosa-Parks miné par le crack, dix ans après sa réhabilitation",
+    "link": "https://www.lemonde.fr/politique/article/2026/11/20/a-l-evidence-ce-projet-est-un-echec-dix-ans-apres-sa-rehabilitation-l-agonie-du-quartier-rosa-parks-mine-par-le-crack_6813549_823448.html",
+    "summary": "Rénovée en 2016, la zone entourant la gare de RER et le canal Saint-Denis dans le 19ᵉ arrondissement à Paris connaît une lente dévitalisation, gangrenée par la drogue dérivée de la cocaïne. Subissant vols et dégradations, les riverains assistent, impuissants, aux violences terribles que les toxicomanes endurent et s’infligent.",
+    "published": "2026-11-20T04:00:07+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/politique/article/2026/11/20/a-l-evidence-ce-projet-est-un-echec-dix-ans-apres-sa-rehabilitation-l-agonie-du-quartier-rosa-parks-mine-par-le-crack_6813549_823448.html",
+    "image": "https://img.lemde.fr/2026/11/16/691/682/4996/2498/644/322/60/0/ccb2e73_upload-1-3aw6srrny1g0-camillegharbi-le-monde-rosa-parks-7338.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-20T19:40:14.783091+00:00"
   },
   {
     "source": "Le Monde",
@@ -2496,21 +4061,6 @@
     "image": "https://i.f1g.fr/media/cms/orig/2026/11/19/54aaa49da5357cb5ca1c75b8f687b43801f1a8b4418e9115f3b334e44a29cb1b.jpg",
     "full_text": null,
     "fetched_at": "2026-11-20T02:01:43.895669+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Gérard Depardieu et Michel Houellebecq visés par une plainte pour violences sexuelles lors du tournage du film «Thalasso»",
-    "link": "https://www.liberation.fr/societe/police-justice/gerard-depardieu-et-michel-houellebecq-vises-par-une-plainte-pour-violences-sexuelles-lors-du-tournage-du-film-thalasso-20261119_67UMH62RI5CQJGY3QBYSLIY5OI/",
-    "summary": "«Mediapart» révèle que l’acteur et l’écrivain sont mis en cause depuis 2025 par «Alexandra», une actrice qui les accuse d’avoir abusé d’elle lors du tournage d’une scène du film de Guillaume Nicloux, en 2018.",
-    "published": "2026-11-19T16:45:15+00:00",
-    "authors": [
-      "Libération ."
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/gerard-depardieu-et-michel-houellebecq-vises-par-une-plainte-pour-violences-sexuelles-lors-du-tournage-du-film-thalasso-20261119_67UMH62RI5CQJGY3QBYSLIY5OI/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-20T02:01:44.071161+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -7610,21 +9160,6 @@
     "fetched_at": "2026-11-18T11:13:22.020673+00:00"
   },
   {
-    "source": "Libération",
-    "title": "Moteurs électriques : l’Europe en hausse de régime",
-    "link": "https://www.liberation.fr/forums/moteurs-electriques-leurope-en-hausse-de-regime-20261118_BCXABBIO75D2BIQPKZLTDLLSNA/",
-    "summary": "Recherche collaborative, nouveaux métiers, coopérations universitaires... L’enjeu en matière de véhicules électriques fait naître des passerelles au niveau européen.",
-    "published": "2026-11-18T05:03:00+00:00",
-    "authors": [
-      "Delphine Bernard-Bruls"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/forums/moteurs-electriques-leurope-en-hausse-de-regime-20261118_BCXABBIO75D2BIQPKZLTDLLSNA/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-18T11:13:22.020693+00:00"
-  },
-  {
     "source": "Le Monde",
     "title": "Faut-il encore réformer les retraites ? Les faits à connaître pour comprendre le débat",
     "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/18/faut-il-encore-reformer-les-retraites-les-faits-a-connaitre-pour-comprendre-le-debat_6813070_4355770.html",
@@ -8256,21 +9791,6 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-11-18T02:45:03.030808+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Dans le bassin minier, un bus gratuit pour tous",
-    "link": "https://www.liberation.fr/forums/dans-le-bassin-minier-un-bus-gratuit-pour-tous-20261117_FRBU2QFDCFAZHANQ656AL2YDMI/",
-    "summary": "Depuis le 1er janvier, le réseau de transports en commun Tadao est gratuit pour les habitants et les visiteurs. Un soulagement une population touchée par la précarité.",
-    "published": "2026-11-17T19:05:00+00:00",
-    "authors": [
-      "Clémence  de Blasi"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/forums/dans-le-bassin-minier-un-bus-gratuit-pour-tous-20261117_FRBU2QFDCFAZHANQ656AL2YDMI/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-18T02:45:03.030832+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -9431,21 +10951,6 @@
     "image": null,
     "full_text": null,
     "fetched_at": "2026-11-18T02:45:03.031906+00:00"
-  },
-  {
-    "source": "Libération",
-    "title": "Pistes cyclables : dans les Hauts-de-France, une signalisation pour ne pas perdre le Nord",
-    "link": "https://www.liberation.fr/forums/pistes-cyclables-dans-les-hauts-de-france-une-signalisation-pour-ne-pas-perdre-le-nord-20261117_H3ISV2TTWNAWZO4N3JZXPYXDOU/",
-    "summary": "Venu de Belgique et des Pays-Bas, le réseau points-nœuds s’étend dans le nord de la France et maille les petites routes avec repérage des meilleures routes cyclables.",
-    "published": "2026-11-17T14:39:36+00:00",
-    "authors": [
-      "Stéphanie Maurice"
-    ],
-    "categories": [],
-    "guid": "https://www.liberation.fr/forums/pistes-cyclables-dans-les-hauts-de-france-une-signalisation-pour-ne-pas-perdre-le-nord-20261117_H3ISV2TTWNAWZO4N3JZXPYXDOU/",
-    "image": null,
-    "full_text": null,
-    "fetched_at": "2026-11-18T02:45:03.031934+00:00"
   },
   {
     "source": "Le Figaro",
