@@ -1,5 +1,502 @@
 [
   {
+    "source": "Le Monde",
+    "title": "Incendies de Los Angeles : un suspect reconnu coupable, après un deuxième procès",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
+    "summary": "Jonathan Rinderknecht était accusé d’être à l’origine d’un feu que les pompiers pensaient initialement avoir éteint mais qui a finalement repris, le 7 janvier 2025, et a ravagé le quartier huppé de Pacific Palisades.",
+    "published": "2026-11-21T01:35:32+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/11/21/incendies-de-los-angeles-un-suspect-reconnu-coupable-apres-un-deuxieme-proces_6813844_3244.html",
+    "image": "https://img.lemde.fr/2025/01/28/419/0/5012/2506/644/322/60/0/808575d_ftp-import-images-1-gkgor4t7ipjj-5869023-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.290258+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Un Américain reconnu coupable d’avoir déclenché un des incendies meurtriers de Los Angeles",
+    "link": "https://www.lefigaro.fr/international/incendies-meurtriers-de-los-angeles-l-un-des-suspects-reconnu-coupable-apres-un-deuxieme-proces-20261121",
+    "summary": "Ce chauffeur Uber de 30 ans, dont la peine sera prononcée ultérieurement, risque jusqu’à 40 ans d’emprisonnement.",
+    "published": "2026-11-21T01:23:05+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/incendies-meurtriers-de-los-angeles-l-un-des-suspects-reconnu-coupable-apres-un-deuxieme-proces-20261121",
+    "image": "https://i.f1g.fr/media/cms/1650x1100_crop/2026/11/21/e281213294f10ea0dd2b41ae94777fa1c529448f2d325d864f19b08308dd674e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.080101+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Eunice : dix universités, et autant de frontières à faire tomber",
+    "link": "https://www.liberation.fr/forums/eunice-dix-universites-et-autant-de-frontieres-a-faire-tomber-20261121_QH2FRJYEGBF7XGGZSYKXBGTQNY/",
+    "summary": "Un étudiant de Valenciennes pourrait-il effectuer une partie de son cursus en Finlande, le poursuivre en Espagne et ainsi obtenir un diplôme multi-universités ? C’est la promesse d’Eunice (European University for Customised Education) qui réunit dix établissements depuis 2020.",
+    "published": "2026-11-21T01:19:00+00:00",
+    "authors": [
+      "Delphine Bernard-Bruls"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/eunice-dix-universites-et-autant-de-frontieres-a-faire-tomber-20261121_QH2FRJYEGBF7XGGZSYKXBGTQNY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565056+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Pérou : séisme de magnitude 6,7 dans le centre du pays",
+    "link": "https://www.lefigaro.fr/international/perou-seisme-de-magnitude-6-7-dans-le-centre-du-pays-20261121",
+    "summary": "Aucun bilan de victimes ou de dégâts n’est disponible dans l’immédiat, a annoncé l’Institut géophysique péruvien (IGP).",
+    "published": "2026-11-21T01:08:41+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/perou-seisme-de-magnitude-6-7-dans-le-centre-du-pays-20261121",
+    "image": "https://i.f1g.fr/media/cms/3000x1682_crop/2026/11/21/b668d8fc023540804a15e43a3cd70c941cfd46567b974828af59d0a4c05d5a83.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.080084+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Un nouveau record» : le jeu vidéo GTA 6 a vendu 32,5 millions de copies, générant 3,79 milliards de dollars en 24 heures",
+    "link": "https://www.lefigaro.fr/secteur/high-tech/un-nouveau-record-le-jeu-video-gta-6-a-vendu-32-5-millions-de-copies-generant-3-79-milliards-de-dollars-en-24-heures-20261120",
+    "summary": "Sam Houser, président et fondateur de Rockstar Games, s’est dit «extrêmement touché par l’accueil que nous ont réservé les joueurs du monde entier».",
+    "published": "2026-11-21T00:50:48+00:00",
+    "authors": [],
+    "categories": [
+      "Tech & Web"
+    ],
+    "guid": "https://www.lefigaro.fr/secteur/high-tech/un-nouveau-record-le-jeu-video-gta-6-a-vendu-32-5-millions-de-copies-generant-3-79-milliards-de-dollars-en-24-heures-20261120",
+    "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/021297296c279f44e7a3defd26f4d462d65677a59765497e20c0d1fae18bbca2.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.079909+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "En Seine-Maritime, le Cailly refait son lit",
+    "link": "https://www.liberation.fr/forums/en-seine-maritime-le-cailly-refait-son-lit-20261121_WB2WVL5V6ZCGZL76BIRNKECBFA/",
+    "summary": "Enterrée dans les années 60, la rivière va refaire surface grâce à des travaux, prévus en 2027, qui permettront de recréer une continuité écologique avec la Seine.",
+    "published": "2026-11-21T00:50:00+00:00",
+    "authors": [
+      "Christelle Granja"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/en-seine-maritime-le-cailly-refait-son-lit-20261121_WB2WVL5V6ZCGZL76BIRNKECBFA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565082+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’intelligence artificielle",
+    "link": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+    "summary": "Les inquiétudes sur le modèle économique des entreprises, les incertitudes sur l’avenir des data centers et les déboires du champion Nvidia ont effacé des milliards de dollars de valorisation, la Bourse américaine vivant une de ses pires semaines depuis la crise liée au Covid.",
+    "published": "2026-11-21T00:33:30+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+    "image": "https://img.lemde.fr/2026/11/17/145/0/8640/4320/644/322/60/0/1aac9c6_ftp-1-bl2mjk8u5plu-723cd91866ad4c908c14cab2908a80fe-0-22cb69999ee142a0a4ae95c6c2e55cd5.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.290047+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Argentine : le gouvernement donne son soutien à un mégaprojet de GNL de 50 milliards de dollars",
+    "link": "https://www.lefigaro.fr/conjoncture/argentine-le-gouvernement-apporte-son-soutien-a-un-megaprojet-de-gnl-de-50-milliards-de-dollars-20261121",
+    "summary": "Le projet Argentina LNG prévoit déjà de dépenser 25 milliards de dollars entre 2027 et 2030.",
+    "published": "2026-11-21T00:28:28+00:00",
+    "authors": [],
+    "categories": [
+      "Conjoncture"
+    ],
+    "guid": "https://www.lefigaro.fr/conjoncture/argentine-le-gouvernement-apporte-son-soutien-a-un-megaprojet-de-gnl-de-50-milliards-de-dollars-20261121",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/21/f84788b55086b9e541f7255f861b78dfa53e9dc33b0013d2052848919c5c7899.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.080117+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
+    "link": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
+    "summary": "Ces revenus, équivalents à 3,5 milliards d’euros environ, sont près de cinq fois supérieurs à ceux générés en vingt-quatre heures par la version précédente de la mythique saga de « Grand Theft Auto », en 2013. Le jeu vidéo, lancé jeudi, a été salué par la critique.",
+    "published": "2026-11-21T00:13:13+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
+    "image": "https://img.lemde.fr/2026/11/19/181/0/6000/3000/644/322/60/0/2339ee9_ftp-1-iog45s2jy4zp-2305932040.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.290158+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Au procès de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence »",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
+    "summary": "Contrôlé en 2020 devant son studio de musique, le producteur avait été tabassé par les agents, qui avaient ensuite prétendu sur procès-verbal qu’il les avait agressés. Une version démentie par les images filmées par une caméra de surveillance.",
+    "published": "2026-11-20T23:46:36+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/21/au-proces-de-l-interpellation-de-michel-zecler-le-caractere-raciste-des-violences-retenu-trois-policiers-condamnes-a-des-peines-de-prison-ferme-et-l-espoir-d-une-jurisprudence_6813718_3224.html",
+    "image": "https://img.lemde.fr/2026/11/20/0/0/5144/2572/644/322/60/0/0ee0e4b_ftp-1-rkpzyby0pscn-2026-11-20t094309z-113922976-rc2lroav1l6q-rtrmadp-3-france-justice-zecler.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.289944+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Brésil : Jair Bolsonaro quitte sa résidence surveillée pour l'hôpital en raison de douleurs abdominales",
+    "link": "https://www.lefigaro.fr/international/bresil-jair-bolsonaro-quitte-sa-residence-surveillee-pour-l-hopital-en-raison-de-douleurs-abdominales-20261121",
+    "summary": "L’ancien président souffre des séquelles d’un coup de couteau reçu au ventre pendant la campagne présidentielle de 2018, et a été opéré à plusieurs reprises.",
+    "published": "2026-11-20T23:29:28+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/bresil-jair-bolsonaro-quitte-sa-residence-surveillee-pour-l-hopital-en-raison-de-douleurs-abdominales-20261121",
+    "image": "https://i.f1g.fr/media/cms/3000x2009_crop/2026/11/21/6d972d3a3542de20fc8d2d4f84998d8e27be65104accb6ad534e6e693bef3c8b.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.080144+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Etats-Unis : un juge valide un accord d’indemnisation par Bayer de 7,25 milliards de dollars pour solder l’ensemble des plaintes liées au Roundup",
+    "link": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
+    "summary": "Cette indemnisation « ne comporte aucune reconnaissance de responsabilité ou de faute », avait précisé en février le géant de l’agrochimie, qui a racheté Monsanto en 2018.",
+    "published": "2026-11-20T23:25:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/planete/article/2026/11/21/etats-unis-un-juge-valide-un-accord-d-indemnisation-par-bayer-de-7-25-milliards-de-dollars-pour-solder-l-ensemble-des-plaintes-liees-au-roundup_6813717_3244.html",
+    "image": "https://img.lemde.fr/2026/04/27/684/0/8192/4096/644/322/60/0/874de26_ftp-1-89jmyvuosf6a-5879674-01-06.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.290276+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Transition écologique : nous serons ce que nous produirons",
+    "link": "https://www.liberation.fr/forums/transition-ecologique-nous-serons-ce-que-nous-produirons-20261121_I54L6QPHZZGPBBUGYRBOGZOY3Y/",
+    "summary": "Produire en France ou en Europe est un choix de société et un impératif pour nos économies et notre indépendance énergétique.",
+    "published": "2026-11-20T23:20:00+00:00",
+    "authors": [
+      "Célia Agostini"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/transition-ecologique-nous-serons-ce-que-nous-produirons-20261121_I54L6QPHZZGPBBUGYRBOGZOY3Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565102+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Affaire Zecler: la justice reconnaît enfin le racisme des policiers",
+    "link": "https://www.mediapart.fr/journal/france/201126/affaire-zecler-la-justice-reconnait-enfin-le-racisme-des-policiers",
+    "summary": "Les trois policiers qui avaient tabassé Michel Zecler en 2020 ont été condamnés vendredi à des peines allant d’un an à deux ans ferme. La cour criminelle de Paris a finalement reconnu la circonstance aggravante de racisme, et tous trois ont l’interdiction d’exercer le métier de policier.",
+    "published": "2026-11-20T22:42:39+00:00",
+    "authors": [
+      "David Perrotin"
+    ],
+    "categories": [
+      "France",
+      "A la Une, Michel Zecler, Police, Racisme, Violences policières"
+    ],
+    "guid": "1361539 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-verdict-zecler.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.345474+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Présidentielle 2027 : Dominique de Villepin officialise sa candidature, entre geste gaullien et référence révolutionnaire",
+    "link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
+    "summary": "Après le faux départ de 2012, l’ancien premier ministre entend bien être présent au premier tour en avril. A 73 ans, il se frottera peut-être pour la première fois au suffrage universel. Il a dévoilé vendredi ses premières propositions et livré un réquisitoire implacable contre les différents partis.",
+    "published": "2026-11-20T22:25:50+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html",
+    "image": "https://img.lemde.fr/2026/11/20/1304/0/7824/3912/644/322/60/0/179f10c_ftp-1-vbs4jp83yis5-afp-d84a6uh.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.289999+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "«Mayday, Mayday, Mayday» : un avion d’American Airlines fait demi-tour vingt minutes après son décollage, des flammes signalées près d’un moteur",
+    "link": "https://www.lefigaro.fr/international/mayday-mayday-mayday-un-avion-d-american-airlines-fait-demi-tour-vingt-minutes-apres-son-decollage-des-flammes-signalees-pres-d-un-moteur-20261120",
+    "summary": "Alors que l’avion devait rallier Portland, les pilotes d’un autre appareil de SkyWest Airlines, qui venait de décoller, ont signalé au contrôle aérien que des flammes semblaient s’échapper de l’un de ses moteurs.",
+    "published": "2026-11-20T22:16:28+00:00",
+    "authors": [],
+    "categories": [
+      "International"
+    ],
+    "guid": "https://www.lefigaro.fr/international/mayday-mayday-mayday-un-avion-d-american-airlines-fait-demi-tour-vingt-minutes-apres-son-decollage-des-flammes-signalees-pres-d-un-moteur-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/f3f49c95a3c8e1f892213ebd30b5de3facf57a3e38782db1b2c7f4a4049b89fc.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.080238+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "EN DIRECT - Présidentielle 2027 : Mélenchon ne peut pas rester «dans son couloir de natation» s’il veut avoir une chance au second tour, estime Tondelier",
+    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
+    "summary": "La secrétaire nationale des Écologistes a rappelé que sa main tendue à LFI ne présageait en rien du vote des militants, qui diront s’ils préfèrent qu’elle reste candidate, ou que le parti se rallie à Jean-Luc Mélenchon ou à Raphaël Glucksmann.",
+    "published": "2026-11-20T22:03:03+00:00",
+    "authors": [],
+    "categories": [
+      "Présidentielle"
+    ],
+    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/20/d7bf7fc5f187b40319db70e4d663f465a04d60ade0e65a8a91a47db02fe5c633.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.079984+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Affaire Michel Zecler : le récit mensonger des policiers mis à nu au procès",
+    "link": "https://www.lefigaro.fr/actualite-france/affaire-michel-zecler-le-recit-mensonger-des-policiers-mis-a-nu-au-proces-20261120",
+    "summary": "La circonstance aggravante de racisme, écartée au stade de l’instruction, a été retenue par le verdict mais les peines sont inférieures aux réquisitions.",
+    "published": "2026-11-20T22:00:56+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/affaire-michel-zecler-le-recit-mensonger-des-policiers-mis-a-nu-au-proces-20261120",
+    "image": "https://i.f1g.fr/media/cms/2694x1515_crop/2026/11/20/0e65671889f9967d7a53e28c7c64db0026cf70446282735f7b3d8ac9267a9f45.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.079813+00:00"
+  },
+  {
+    "source": "Mediapart",
+    "title": "Violences policières, racisme: contre l’impunité, l’éclat de la justice",
+    "link": "https://www.mediapart.fr/journal/france/201126/violences-policieres-racisme-contre-l-impunite-l-eclat-de-la-justice-0",
+    "summary": "Le verdict dans l’affaire Michel Zecler fera-t-il avancer la reconnaissance des violences et du racisme dans la police? Rien n’est moins sûr, tant le déni du gouvernement est profond: en témoignent la répression brutale de la jeunesse mobilisée et le passage en force de la loi dite du «permis de tuer».",
+    "published": "2026-11-20T21:46:38+00:00",
+    "authors": [
+      "Carine Fouteau"
+    ],
+    "categories": [
+      "Violences policières : l’affaire Michel Zecler",
+      "A la Une, Police, Racisme, Violences policières"
+    ],
+    "guid": "1361520 at https://www.mediapart.fr/",
+    "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-violences-policieres.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.345518+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "Procès Zecler : les trois policiers condamnés à des peines d’un à deux ans de prison ferme, la circonstance aggravante de racisme retenue",
+    "link": "https://www.lefigaro.fr/actualite-france/proces-zecler-les-trois-policiers-condamnes-a-des-peines-d-un-a-deux-ans-de-prison-ferme-la-circonstance-aggravante-de-racisme-retenue-20261120",
+    "summary": "Dans leurs derniers mots à la cour vendredi matin, les trois accusés, dont l’un en pleurs, ont de nouveau présenté leurs excuses à Michel Zecler et aux parties civiles. «Je voudrais m’excuser pour la justice, pour l’image que j’ai donnée de la police», a également dit l’un d’entre eux.",
+    "published": "2026-11-20T21:20:26+00:00",
+    "authors": [],
+    "categories": [
+      "Société"
+    ],
+    "guid": "https://www.lefigaro.fr/actualite-france/proces-zecler-les-trois-policiers-condamnes-a-des-peines-d-un-a-deux-ans-de-prison-ferme-la-circonstance-aggravante-de-racisme-retenue-20261120",
+    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/20/065a46a5b6ab983eb2d4112d0bd4621e43f3faac923feaf3a85fe208eb555a12.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.079855+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Procès de l’agression de Michel Zecler : les trois policiers condamnés à de la prison ferme, le caractère raciste retenu",
+    "link": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-les-trois-policiers-condamnes-a-de-la-prison-ferme-le-caractere-raciste-retenu-20261120_XYMUA36HLVC7XAAVSGIWMAGYCE/",
+    "summary": "Aurélien Lapersonne, Philippe Tondeux et Pierre Plantier ont été condamnés à des peines allant d’une à deux années fermes ce vendredi 20 novembre. La cour criminelle départementale de Paris a finalement reconnu la circonstance aggravante du racisme. L’avocat de Michel Zecler a parlé de «succès» et de «décision qui fait date»",
+    "published": "2026-11-20T21:20:11+00:00",
+    "authors": [
+      "Ludovic Séré"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/proces-de-lagression-de-michel-zecler-les-trois-policiers-condamnes-a-de-la-prison-ferme-le-caractere-raciste-retenu-20261120_XYMUA36HLVC7XAAVSGIWMAGYCE/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565131+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "En Suisse aussi, la jeunesse descend dans la rue contre « un avenir bouché »",
+    "link": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
+    "summary": "Plusieurs dizaines de milliers de jeunes ont manifesté vendredi 20 novembre dans les grandes villes du pays alpin. Austérité budgétaire, coupes dans les services publics, pouvoir d’achat, coût du logement et crise climatique alimentaient les slogans.",
+    "published": "2026-11-20T21:12:29+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/20/en-suisse-aussi-la-jeunesse-descend-dans-la-rue-contre-un-avenir-bouche_6813714_3210.html",
+    "image": "https://img.lemde.fr/2026/11/20/416/0/5000/2500/644/322/60/0/1a19530_ftp-1-7j4w0q681gqd-afp-d8476nq.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.290178+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Julien Perrot, «inclus dans quelque chose de très grand»",
+    "link": "https://www.liberation.fr/forums/julien-perrot-inclus-dans-quelque-chose-de-tres-grand-20261120_34GKER7W4ZA45EPFQIO56AF4VY/",
+    "summary": "Le naturaliste suisse à la tête de la maison d’édition la Salamandre, créateur de fanzines et de documentaires, pense la biodiversité comme un lieu d’apaisement à réinvestir pour mieux la protéger.",
+    "published": "2026-11-20T21:06:00+00:00",
+    "authors": [
+      "François Carrel"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/forums/julien-perrot-inclus-dans-quelque-chose-de-tres-grand-20261120_34GKER7W4ZA45EPFQIO56AF4VY/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565153+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "États-Unis : Vance, Rubio, DeSantis… la présidentielle de l’après-Trump a déjà démarré",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/monde/etats-unis-vance-rubio-desantis-la-presidentielle-de-lapres-trump-a-deja-demarre",
+    "summary": "De notre correspondant à WashingtonDonald Trump voulait que l’Amérique vote comme si son nom figurait sur les bulletins. C’est précisément ce qu’elle a fait, mais pour formuler on ne peut... L’article États-Unis : Vance, Rubio, DeSantis… la présidentielle de l’après-Trump a déjà démarré est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T20:58:11+00:00",
+    "authors": [
+      "Pierre Victor"
+    ],
+    "categories": [
+      "Non classé",
+      "Donald Trump",
+      "Etats-Unis",
+      "JD Vance",
+      "Marco Rubio"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/etats-unis-vance-rubio-desantis-la-presidentielle-de-lapres-trump-a-deja-demarre",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.227355+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Affaire des fuites d’infos de l’Intérieur vers le RN : le sort du préfet Hugues Moutouh en suspens",
+    "link": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
+    "summary": "Des perquisitions ont eu lieu ces dernières semaines au siège du parti de Marine Le Pen et à Beauvau, dans le cadre d’une enquête judiciaire pour des soupçons de transmissions d’informations confidentielles au profit du parti d’extrême droite.",
+    "published": "2026-11-20T20:54:48+00:00",
+    "authors": [
+      "Emilia Spada, Léonard Cassette, Lucas Biosca, Service Photo, AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565177+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Le patron de Malakoff Humanis, Thomas Saunier, visé par une enquête pour corruption, démis de ses fonctions",
+    "link": "https://www.liberation.fr/societe/le-patron-de-malakoff-humanis-thomas-saunier-vise-par-une-enquete-pour-corruption-demis-de-ses-fonctions-20261120_U4GLNJEDV5D5BPPEPDNQPEQ77Y/",
+    "summary": "Le directeur général depuis 10 ans du poids lourd de l’assurance n’avait plus la confiance des syndicats et du patronat. Il a été débarqué ce vendredi 20 novembre.",
+    "published": "2026-11-20T20:43:10+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/societe/le-patron-de-malakoff-humanis-thomas-saunier-vise-par-une-enquete-pour-corruption-demis-de-ses-fonctions-20261120_U4GLNJEDV5D5BPPEPDNQPEQ77Y/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565197+00:00"
+  },
+  {
+    "source": "Le Monde",
+    "title": "Génocide des Rohingya : la Cour internationale de justice « confirme qu’elle est indubitablement la boussole du droit international »",
+    "link": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+    "summary": "En reconnaissant le génocide des Rohingya commis par la Birmanie, la plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, cet arrêt pourrait faire jurisprudence.",
+    "published": "2026-11-20T20:38:52+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+    "image": "https://img.lemde.fr/2026/11/20/816/0/4928/2464/644/322/60/0/cc22378_ftp-1-7jkzpxcagury-afp-d83v29f.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.290074+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "GTA VI a été vendu à 32,5 millions d’exemplaires, générant 3,79 milliards de dollars le jour de sa sortie",
+    "link": "https://www.liberation.fr/culture/jeux-video/gta-vi-a-ete-vendu-a-325-millions-dexemplaires-generant-379-milliards-de-dollars-le-jour-de-sa-sortie-20261120_YAPSE5MSI5FRDILZLHJ2ENSWPU/",
+    "summary": "En 24 heures et grâce aux pré-commandes, le jeu vidéo a battu un «record» selon son éditeur Rockstar Games. C’est cinq fois plus que son prédécesseur en 2013, GTA V.",
+    "published": "2026-11-20T20:35:31+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/jeux-video/gta-vi-a-ete-vendu-a-325-millions-dexemplaires-generant-379-milliards-de-dollars-le-jour-de-sa-sortie-20261120_YAPSE5MSI5FRDILZLHJ2ENSWPU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565219+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "«Une funeste connerie» : bronca des créateurs de contenu contre les nouvelles mesures de l’Arcom pour le pluralisme",
+    "link": "https://www.liberation.fr/economie/medias/une-funeste-connerie-bronca-des-createurs-de-contenu-contre-les-nouvelles-mesures-de-larcom-pour-le-pluralisme-20261120_R5C6BOL6WNG3DOZIOIIQLFITYU/",
+    "summary": "Au lendemain de l’annonce du régulateur de l’audiovisuel et du numérique, de nombreux influenceurs, comme Jean Massiet ou Gaspard G, s’offusquent de ces nouvelles règles en vue de la présidentielle.",
+    "published": "2026-11-20T20:34:01+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/economie/medias/une-funeste-connerie-bronca-des-createurs-de-contenu-contre-les-nouvelles-mesures-de-larcom-pour-le-pluralisme-20261120_R5C6BOL6WNG3DOZIOIIQLFITYU/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565240+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Jean-Michel Jarre, l’homme machines",
+    "link": "https://www.liberation.fr/culture/musique/jean-michel-jarre-lhomme-machines-20261120_P4KROCFBPNBRFNJ6BJ52OJRV6M/",
+    "summary": "Sortie en librairie de «Machines», recueil des instruments électroniques que Jean-Michel Jarre collectionne depuis près de cinquante ans.",
+    "published": "2026-11-20T20:17:00+00:00",
+    "authors": [
+      "Benoît Carretier"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/culture/musique/jean-michel-jarre-lhomme-machines-20261120_P4KROCFBPNBRFNJ6BJ52OJRV6M/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565257+00:00"
+  },
+  {
+    "source": "Valeurs actuelles",
+    "title": "La solidarité européenne, une fraternité sans père",
+    "link": "https://www.valeursactuelles.com/clubvaleurs/monde/la-solidarite-europeenne-une-fraternite-sans-pere",
+    "summary": "Aucun pays n’a autant reçu de l’Union Européenne que la Pologne, et le prochain budget devrait encore lui verser plus de 123 milliards d’euros. Son président, Karol Nawrocki, ne s’en... L’article La solidarité européenne, une fraternité sans père est apparu en premier sur Valeurs actuelles .",
+    "published": "2026-11-20T20:01:12+00:00",
+    "authors": [
+      "Guillaume Giffo"
+    ],
+    "categories": [
+      "Non classé",
+      "Europe",
+      "nation",
+      "solidarité",
+      "Union européenne"
+    ],
+    "guid": "https://www.valeursactuelles.com/clubvaleurs/monde/la-solidarite-europeenne-une-fraternite-sans-pere",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.227394+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "David Lisnard, dynamiteur populiste de la bataille à droite",
+    "link": "https://www.liberation.fr/politique/lisnard-dynamiteur-populiste-de-la-bataille-a-droite-20261120_XBOH6GUQORBZPOVFP6T6TZRUFA/",
+    "summary": "Le maire de Cannes et candidat Nouvelle Energie à la présidentielle a réussi à bousculer le trio Attal-Philippe-Retailleau. Ses rivaux dénoncent sa proximité avec l’extrême droite et refusent sa proposition d’une primaire jusqu’à Zemmour.",
+    "published": "2026-11-20T19:52:48+00:00",
+    "authors": [
+      "Victor Boiteau"
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/politique/lisnard-dynamiteur-populiste-de-la-bataille-a-droite-20261120_XBOH6GUQORBZPOVFP6T6TZRUFA/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565280+00:00"
+  },
+  {
+    "source": "Libération",
+    "title": "Grâce à l’IA, un chercheur affirme avoir résolu l’un des problèmes mathématiques les plus importants du monde",
+    "link": "https://www.liberation.fr/international/grace-a-lia-un-chercheur-affirme-avoir-resolu-lun-des-problemes-mathematiques-les-plus-importants-du-monde-20261120_2UWLZTQX6JF6DBEBDW6EJ7SUS4/",
+    "summary": "Levent Alpöge, mathématicien turco-américain de 34 ans, employé d’Anthropic, a annoncé ce vendredi 20 novembre avoir trouvé la solution à l’hypothèse de Riemann, qui fait partie des sept problèmes dits «du millénaire».",
+    "published": "2026-11-20T19:39:29+00:00",
+    "authors": [
+      "Libération ., AFP ."
+    ],
+    "categories": [],
+    "guid": "https://www.liberation.fr/international/grace-a-lia-un-chercheur-affirme-avoir-resolu-lun-des-problemes-mathematiques-les-plus-importants-du-monde-20261120_2UWLZTQX6JF6DBEBDW6EJ7SUS4/",
+    "image": null,
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.565303+00:00"
+  },
+  {
     "source": "Le Figaro",
     "title": "Artex, Cairn, PentAGI : ces hordes d’IA «offensives» qui font trembler la Commission européenne, le FBI et l’économie mondiale",
     "link": "https://www.lefigaro.fr/secteur/high-tech/artex-cairn-pentagi-ces-hordes-d-ia-offensives-qui-font-trembler-la-commission-europeenne-le-fbi-et-l-economie-mondiale-20261120",
@@ -12,7 +509,7 @@
     "guid": "https://www.lefigaro.fr/secteur/high-tech/artex-cairn-pentagi-ces-hordes-d-ia-offensives-qui-font-trembler-la-commission-europeenne-le-fbi-et-l-economie-mondiale-20261120",
     "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/3a2df8931642d9336a021c82b394325e674912442b2ae5b180c4c3093092195f.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800431+00:00"
+    "fetched_at": "2026-11-21T01:59:07.080067+00:00"
   },
   {
     "source": "Le Figaro",
@@ -30,6 +527,19 @@
     "fetched_at": "2026-11-20T19:40:14.800219+00:00"
   },
   {
+    "source": "Le Monde",
+    "title": "Projet de loi logement : les députés n’ont pas revoté sur le droit de louer les passoires thermiques",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/20/projet-de-loi-logement-les-deputes-n-ont-pas-revote-sur-le-droit-de-louer-les-passoires-thermiques_6813700_3224.html",
+    "summary": "L’examen de ce texte qui ambitionne de relancer la création de logements s’est achevé vendredi. Le gouvernement mise sur une suppression ultérieure de l’amendement RN qui réautorise la mise en location des logements les plus énergivores.",
+    "published": "2026-11-20T19:34:01+00:00",
+    "authors": [],
+    "categories": [],
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/20/projet-de-loi-logement-les-deputes-n-ont-pas-revote-sur-le-droit-de-louer-les-passoires-thermiques_6813700_3224.html",
+    "image": "https://img.lemde.fr/2026/11/13/934/0/3733/1866/644/322/60/0/31da29a_upload-1-6ca3qghwdv7h-lewisjoly-vieausmic-033.JPG",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.290197+00:00"
+  },
+  {
     "source": "Libération",
     "title": "Bulle IA : «Il ne faut pas perdre de vue que les investisseurs ne sont pas forcément rationnels»",
     "link": "https://www.liberation.fr/economie/economie-numerique/bulle-ia-il-ne-faut-pas-perdre-de-vue-que-les-investisseurs-ne-sont-pas-forcement-rationnels-20261120_3ZMQUIX55RA7LEOQHQPVQSISXQ/",
@@ -42,7 +552,7 @@
     "guid": "https://www.liberation.fr/economie/economie-numerique/bulle-ia-il-ne-faut-pas-perdre-de-vue-que-les-investisseurs-ne-sont-pas-forcement-rationnels-20261120_3ZMQUIX55RA7LEOQHQPVQSISXQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960319+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565342+00:00"
   },
   {
     "source": "Le Figaro",
@@ -57,7 +567,7 @@
     "guid": "https://www.lefigaro.fr/actualite-france/la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-definitivement-adoptee-au-parlement-20261120",
     "image": "https://i.f1g.fr/media/cms/orig/2026/11/20/906305af2fa97d2bc4865be825ab2d3ef5c780afd937b330db0cbce57c452df7.JPG",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800365+00:00"
+    "fetched_at": "2026-11-21T01:59:07.080216+00:00"
   },
   {
     "source": "Le Figaro",
@@ -85,7 +595,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/11/20/une-information-judiciaire-ouverte-contre-gerard-depardieu-et-michel-houellebecq-accuses-de-viol-en-reunion-et-d-agressions-sexuelles-lors-d-un-tournage_6813698_3224.html",
     "image": "https://img.lemde.fr/2026/11/20/0/97/1006/503/644/322/60/0/3449d3c_upload-1-fobb0c8ctxha-1217824.png",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.782974+00:00"
+    "fetched_at": "2026-11-21T01:59:07.290094+00:00"
   },
   {
     "source": "Le Figaro",
@@ -118,7 +628,7 @@
     "guid": "1361559 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-la-loi-permis.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892799+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345552+00:00"
   },
   {
     "source": "Libération",
@@ -133,7 +643,7 @@
     "guid": "https://www.liberation.fr/international/europe/au-danemark-les-autorites-accusent-la-russie-davoir-commandite-le-meurtre-dun-rappeur-ukrainien-20261120_IHVAG2EHGBDZTPAZP3AK7NU43A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960360+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565363+00:00"
   },
   {
     "source": "Libération",
@@ -148,7 +658,7 @@
     "guid": "https://www.liberation.fr/idees-et-debats/editorial/david-lisnard-le-regard-a-lextreme-droite-20261120_J3YNVKL3FZCE7LC46GCFPDCXZE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960379+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565381+00:00"
   },
   {
     "source": "Le Figaro",
@@ -163,7 +673,7 @@
     "guid": "https://www.lefigaro.fr/elections/presidentielles/guillaume-tabard-le-reve-elyseen-des-anciens-de-matignon-20261120",
     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/20/3def76e0c47572322d4d2674ee01fdbe34b378729780d2d90c4499a5fcdb2ab5.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800531+00:00"
+    "fetched_at": "2026-11-21T01:59:07.080034+00:00"
   },
   {
     "source": "Libération",
@@ -178,7 +688,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/metoo-stand-up-classement-sans-suite-en-faveur-de-seb-mellia-la-plaignante-tania-dutel-annonce-un-recours-20261120_2GPX2C6YGVGTVKNN3QAOMEXIVE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960401+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565402+00:00"
   },
   {
     "source": "Libération",
@@ -193,7 +703,7 @@
     "guid": "https://www.liberation.fr/societe/ce-nest-pas-tous-les-jours-quun-navire-sechoue-sur-les-cotes-landaises-un-cargo-sous-loeil-des-badauds-et-la-surveillance-des-secours-20261120_TBAHKDLFIZEVZLBS3ZCVVWPKQQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960425+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565427+00:00"
   },
   {
     "source": "Le Monde",
@@ -206,7 +716,7 @@
     "guid": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
     "image": "https://img.lemde.fr/2026/11/20/217/0/5232/2616/644/322/60/0/80ea034_ftp-1-d4lnbmnpqrlm-afp-d86h8hj.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.782854+00:00"
+    "fetched_at": "2026-11-21T01:59:07.290022+00:00"
   },
   {
     "source": "Le Figaro",
@@ -221,7 +731,7 @@
     "guid": "https://www.lefigaro.fr/politique/le-gouvernement-s-en-remet-au-rn-pour-eviter-la-crise-financiere-les-indiscrets-du-figaro-20261120",
     "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/11/20/f9a4bd42816d730c84aec9937ffe1f5108036306e4d51647450446e32ce1363a.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800409+00:00"
+    "fetched_at": "2026-11-21T01:59:07.079876+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -244,7 +754,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/histoire/histoire-de-france-comment-letat-a-petit-a-petit-desarme-les-francais",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899563+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227428+00:00"
   },
   {
     "source": "Le Figaro",
@@ -280,16 +790,16 @@
     "source": "Libération",
     "title": "La présomption d’usage légal des armes par les forces de l’ordre définitivement adoptée au Parlement",
     "link": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
-    "summary": "Le Sénat, comme l’Assemblée nationale en juillet dernier, a validé ce vendredi 20 novembre, ce texte décrit par plusieurs groupes de gauche comme un «permis de tuer».",
+    "summary": "Le Sénat, comme l’Assemblée nationale en juillet dernier, a validé ce vendredi 20 novembre, ce texte décrit comme un «permis de tuer» par la gauche et plusieurs associations.",
     "published": "2026-11-20T18:47:00+00:00",
     "authors": [
-      "Libération ., AFP ."
+      "Ismaël Halissat"
     ],
     "categories": [],
     "guid": "https://www.liberation.fr/societe/police-justice/le-senat-se-fracture-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-20261120_WPSHZYWZYRBYNHESCLCJHQEMSU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960445+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565448+00:00"
   },
   {
     "source": "Le Monde",
@@ -302,7 +812,7 @@
     "guid": "https://www.lemonde.fr/societe/article/2026/11/20/la-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-definitivement-adoptee-par-le-parlement-ayant-ete-approuvee-au-senat_6813692_3224.html",
     "image": "https://img.lemde.fr/2026/10/27/194/0/5490/2745/644/322/60/0/cf69f72_ftp-1-dz3pfzmhehhq-afp-d4la7pd.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.782793+00:00"
+    "fetched_at": "2026-11-21T01:59:07.289974+00:00"
   },
   {
     "source": "Libération",
@@ -317,7 +827,7 @@
     "guid": "https://www.liberation.fr/checknews/contenus-ia-google-supprime-de-son-moteur-de-recherche-plusieurs-sites-dactu-dont-marie-france-20261120_DBIDSLMBOZHRZBZV4YCAZWWKGI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960465+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565472+00:00"
   },
   {
     "source": "Libération",
@@ -332,7 +842,7 @@
     "guid": "https://www.liberation.fr/international/europe/hugues-moutouh-de-villepin-a-lelysee-greve-le-1er-decembre-lactu-de-ce-vendredi-20-novembre-20261120_BAC2ZYPB55HQ7KITQBAKH7DLTA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960482+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565489+00:00"
   },
   {
     "source": "Mediapart",
@@ -344,13 +854,13 @@
       "Sabrina Kassa"
     ],
     "categories": [
-      "France",
+      "Violences policières : l’affaire Michel Zecler",
       "A la Une, Justice, Michel Zecler, Racisme, Violences policières"
     ],
     "guid": "1361541 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-il-faut-que-cette-decision.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892834+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345578+00:00"
   },
   {
     "source": "Le Figaro",
@@ -365,7 +875,7 @@
     "guid": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-meetings-deplacements-le-plan-de-raphael-glucksmann-pour-tenter-de-se-relancer-20261120",
     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/20/743298e3a6c9244c4ef0369d3af0321ad921da45bd42a3023387f87b58663c68.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800509+00:00"
+    "fetched_at": "2026-11-21T01:59:07.080011+00:00"
   },
   {
     "source": "Le Figaro",
@@ -387,28 +897,13 @@
     "title": "Budget : députés et sénateurs s’entendent sur un premier texte malgré l’enlisement politique",
     "link": "https://www.lemonde.fr/politique/article/2026/11/20/budget-deputes-et-senateurs-s-entendent-sur-un-premier-texte-malgre-l-enlisement-politique_6813691_823448.html",
     "summary": "La commission mixte paritaire réunie vendredi 19 novembre a trouvé un accord sur le projet de loi de fin de gestion pour 2026. Trouver un compromis sur le budget 2027, rejeté à l’Assemblée et jugé « suicidaire » au Sénat, s’annonce plus ardu.",
-    "published": "2026-11-20T18:24:13+00:00",
+    "published": "2026-11-20T18:24:10+00:00",
     "authors": [],
     "categories": [],
     "guid": "https://www.lemonde.fr/politique/article/2026/11/20/budget-deputes-et-senateurs-s-entendent-sur-un-premier-texte-malgre-l-enlisement-politique_6813691_823448.html",
     "image": "https://img.lemde.fr/2026/11/17/2016/0/3448/1724/644/322/60/0/2234b41_upload-1-kbpuluaioqx7-cbi1348122.JPG",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.782999+00:00"
-  },
-  {
-    "source": "Le Figaro",
-    "title": "EN DIRECT - Présidentielle 2027 : Mélenchon ne peut pas rester «dans son couloir de natation» s’il veut avoir une chance au second tour, estime Tondelier",
-    "link": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
-    "summary": "La secrétaire nationale des Écologistes a rappelé que sa main tendue à LFI ne présageait en rien du vote des militants, qui diront s’ils préfèrent qu’elle reste candidate, ou que le parti se rallie à Jean-Luc Mélenchon ou à Raphaël Glucksmann.",
-    "published": "2026-11-20T18:24:02+00:00",
-    "authors": [],
-    "categories": [
-      "Présidentielle"
-    ],
-    "guid": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-tensions-chez-les-ecologistes-villepin-se-prepare-a-entrer-en-scene-20261120",
-    "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/11/20/d7bf7fc5f187b40319db70e4d663f465a04d60ade0e65a8a91a47db02fe5c633.jpg",
-    "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800490+00:00"
+    "fetched_at": "2026-11-21T01:59:07.290136+00:00"
   },
   {
     "source": "Le Monde",
@@ -436,7 +931,7 @@
     "guid": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqua-fevrier-pour-convaincre-lui-promet-de-surprendre-20261120_V6TAIK6H7NGWFCXCCZQ24HWBLA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960504+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565511+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -458,7 +953,7 @@
     "guid": "https://www.valeursactuelles.com/politique/tu-ne-tengages-meme-pas-contre-hitler-le-chanteur-vianney-violemment-insulte-sur-radio-nova",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899608+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227462+00:00"
   },
   {
     "source": "Le Monde",
@@ -486,7 +981,22 @@
     "guid": "https://www.liberation.fr/idees-et-debats/tribunes/lalliance-des-ecologistes-et-de-lfi-serait-un-contresens-majeur-pour-les-verts-20261120_MLCSPJ7MCFFWJB5D6PIEVTYJMY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960524+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565532+00:00"
+  },
+  {
+    "source": "Le Figaro",
+    "title": "La semaine du FigaroVox - «GTA VI pourrait-il donner envie de lire des livres ?»",
+    "link": "https://www.lefigaro.fr/vox/medias/la-semaine-du-figarovox-gta-vi-pourrait-il-donner-envie-de-lire-des-livres-20261120",
+    "summary": "Retrouvez chaque samedi la sélection du FigaroVox : décryptages, points de vue et controverses.",
+    "published": "2026-11-20T17:58:14+00:00",
+    "authors": [],
+    "categories": [
+      "Vox Médias"
+    ],
+    "guid": "https://www.lefigaro.fr/vox/medias/la-semaine-du-figarovox-gta-vi-pourrait-il-donner-envie-de-lire-des-livres-20261120",
+    "image": "https://i.f1g.fr/media/cms/2850x1604_crop/2026/11/20/5f9df4d22706fcb006a633d536238e4d43ca4d3c2513f49678df301798c9ce3e.jpg",
+    "full_text": null,
+    "fetched_at": "2026-11-21T01:59:07.079927+00:00"
   },
   {
     "source": "Le Figaro",
@@ -514,7 +1024,7 @@
     "guid": "https://www.lemonde.fr/afrique/article/2026/11/20/au-mali-une-nouvelle-societe-militaire-turque-epaule-secretement-la-junte-d-assimi-goita_6813684_3212.html",
     "image": "https://img.lemde.fr/2026/11/20/60/0/1920/960/644/322/60/0/7b2cb67_upload-1-hrg6fr5ju6vr-image-satok.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.782927+00:00"
+    "fetched_at": "2026-11-21T01:59:07.290219+00:00"
   },
   {
     "source": "Le Figaro",
@@ -529,7 +1039,7 @@
     "guid": "https://www.lefigaro.fr/sciences/l-hypothese-de-riemann-plus-celebre-probleme-de-mathematiques-au-monde-aurait-ete-resolue-par-claude-l-ia-d-anthropic-20261120",
     "image": "https://i.f1g.fr/media/cms/3000x2007_crop/2026/11/20/f12d429d9bd2a8f1c2a942755686ffe08557be760b1e83e78b7546bf38154433.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800312+00:00"
+    "fetched_at": "2026-11-21T01:59:07.080167+00:00"
   },
   {
     "source": "Le Figaro",
@@ -588,7 +1098,7 @@
     "guid": "1361506 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-dominique-de-villepin-candidat.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892859+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345601+00:00"
   },
   {
     "source": "Libération",
@@ -603,7 +1113,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/seul-en-pleurs-dans-un-lit-dans-une-creche-privee-de-loise-un-bebe-oublie-plusieurs-heures-en-fin-de-journee-20261120_QNP526GMDRHPXIELZECIJ3BHOI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960547+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565558+00:00"
   },
   {
     "source": "Libération",
@@ -618,7 +1128,7 @@
     "guid": "https://www.liberation.fr/societe/education/a-paris-un-centre-inedit-pour-les-familles-confrontees-aux-violences-sexuelles-dans-le-periscolaire-20261120_YUGYIOB4VZGOLBRVF6KJDGHX2Y/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960569+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565583+00:00"
   },
   {
     "source": "Libération",
@@ -633,7 +1143,7 @@
     "guid": "https://www.liberation.fr/politique/elections/je-suis-candidat-a-lelection-presidentielle-de-2027-annonce-dominique-de-villepin-20261120_SF2ZFQEWNJEXNAR3E2QCZPRSFI/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960590+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565604+00:00"
   },
   {
     "source": "Libération",
@@ -648,7 +1158,7 @@
     "guid": "https://www.liberation.fr/societe/roger-boulanger-dernier-survivant-du-camp-de-concentration-francais-du-struthof-est-mort-20261120_AE2B4NDAQREJBIEMVPH2JMCO74/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960613+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565627+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -671,7 +1181,7 @@
     "guid": "https://www.valeursactuelles.com/politique/presidentielle-2027-ils-ne-sont-pas-tous-passes-du-cote-du-rn-assure-jean-luc-melenchon-apres-sa-rencontre-avec-les-grands-patrons",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899660+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227505+00:00"
   },
   {
     "source": "Le Figaro",
@@ -686,22 +1196,20 @@
     "guid": "https://www.lefigaro.fr/sciences/et-si-einstein-s-etait-trompe-l-astrophysicien-david-elbaz-repond-20261120",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/20/8ab7bc7b2db7a60e13869cd8ed02a8bb3f1242f09f743e69900032cfdb5138e4.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800343+00:00"
+    "fetched_at": "2026-11-21T01:59:07.080188+00:00"
   },
   {
-    "source": "Libération",
-    "title": "EN DIRECT – Affaire des fuites d’infos de l’Intérieur vers le RN : le préfet mis en cause convoqué à Beauvau par Laurent Nuñez",
-    "link": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
-    "summary": "Des perquisitions ont eu lieu ces dernières semaines au siège du parti de Marine Le Pen et à Beauvau, dans le cadre d’une enquête judiciaire pour des soupçons de transmissions d’informations confidentielles au profit du parti d’extrême droite.",
-    "published": "2026-11-20T17:17:52+00:00",
-    "authors": [
-      "Emilia Spada, Léonard Cassette, Lucas Biosca, Service Photo, AFP ."
-    ],
+    "source": "Le Monde",
+    "title": "A Ribeauvillé, le maire refuse la pose d’un pavé de mémoire pour un ancien habitant juif",
+    "link": "https://www.lemonde.fr/societe/article/2026/11/20/a-ribeauville-le-maire-refuse-la-pose-d-un-pave-de-memoire-pour-un-ancien-habitant-juif_6813678_3224.html",
+    "summary": "La ville du Haut-Rhin appuie son refus en se défendant de ne pas vouloir favoriser une catégorie de victimes du nazisme. Des arguments sur lesquels s’interrogent la famille et l’association.",
+    "published": "2026-11-20T17:19:06+00:00",
+    "authors": [],
     "categories": [],
-    "guid": "https://www.liberation.fr/societe/police-justice/en-diret-affaire-des-fuites-dinfos-de-linterieur-vers-le-rn-le-prefet-suspecte-convoque-en-fin-de-matinee-par-laurent-nunez-20261120_WG2TEKBGI5E4HOV6APKLT4AM6I/",
-    "image": null,
+    "guid": "https://www.lemonde.fr/societe/article/2026/11/20/a-ribeauville-le-maire-refuse-la-pose-d-un-pave-de-memoire-pour-un-ancien-habitant-juif_6813678_3224.html",
+    "image": "https://img.lemde.fr/2026/11/20/700/0/6000/3000/644/322/60/0/b5737ff_upload-1-f08uoamx0seq-000-46z78wx.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960636+00:00"
+    "fetched_at": "2026-11-21T01:59:07.290116+00:00"
   },
   {
     "source": "Libération",
@@ -716,7 +1224,7 @@
     "guid": "https://www.liberation.fr/forums/on-ne-sauvera-pas-la-biodiversite-sans-education-a-lenvironnement-sortir-de-sa-reserve-pour-preserver-le-vivant-20261120_AF5JJI3DSZC73B7N4WKKMSPB2A/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960660+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565651+00:00"
   },
   {
     "source": "Libération",
@@ -731,7 +1239,7 @@
     "guid": "https://www.liberation.fr/forums/momoko-seto-realisatrice-cest-un-peu-un-indiana-jones-vegetal-20261120_VDMQJCZV2JF3JOSW7HI3JLOFGY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960678+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565669+00:00"
   },
   {
     "source": "Libération",
@@ -746,7 +1254,7 @@
     "guid": "https://www.liberation.fr/politique/affaires-et-couacs-tout-semble-glisser-sur-marine-le-pen-jusqua-quand-20261120_WH4B75J2EZGYRH6NVYTZ7SV2JQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960696+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565692+00:00"
   },
   {
     "source": "Le Monde",
@@ -787,7 +1295,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/il-y-a-une-volonte-de-detruire-et-de-salir-une-maison-dedition-accusee-davoir-envoye-des-images-volees-de-gisele-pelicot-denudee-pour-promouvoir-un-livre-20261120_IDJVGH72FBHBFCGFVA247PWX64/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960726+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565719+00:00"
   },
   {
     "source": "Libération",
@@ -802,7 +1310,7 @@
     "guid": "https://www.liberation.fr/politique/rapprochement-ecolos-lfi-je-veux-que-ce-soient-nos-adherents-qui-decident-dit-amine-kessaci-20261120_WXDBO7JV3BEZLP5XMH4JENVQUY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960748+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565741+00:00"
   },
   {
     "source": "Libération",
@@ -817,7 +1325,7 @@
     "guid": "https://www.liberation.fr/culture/series/le-cinema-selon-cunk-sur-netflix-diane-morgan-bete-et-geniale-20261120_OMVHUZ7LJFAPXCYW2SL4EXEWIA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960766+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565761+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -842,7 +1350,7 @@
     "guid": "https://www.valeursactuelles.com/economie/le-bilan-economique-demmanuel-macron-anatomie-dun-desastre",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899700+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227541+00:00"
   },
   {
     "source": "Libération",
@@ -857,7 +1365,7 @@
     "guid": "https://www.liberation.fr/politique/mathieu-souquiere-face-a-lextreme-droite-il-faut-des-politiques-visant-a-renforcer-nos-liens-faire-regresser-la-solitude-et-consolider-notre-souverainete-individuelle-20261121_TURRMXEAHRBAVNDNEOVBZ534HE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960790+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565786+00:00"
   },
   {
     "source": "Le Monde",
@@ -906,7 +1414,7 @@
     "guid": "https://www.valeursactuelles.com/politique/nader-on-va-venir-te-buter-un-elu-rn-menace-de-mort-et-agresse-par-des-militants-antifas-lors-dun-tractage",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899739+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227577+00:00"
   },
   {
     "source": "Libération",
@@ -921,7 +1429,7 @@
     "guid": "https://www.liberation.fr/culture/cinema/hollywood-le-crash-test-a-100-milliards-de-david-ellison-patron-de-skydance-20261120_QEJT5ZTWFZDTHOEEGNUWWHD4HQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960812+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565811+00:00"
   },
   {
     "source": "Mediapart",
@@ -939,7 +1447,7 @@
     "guid": "1361496 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-valerie-pecresse.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892885+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345625+00:00"
   },
   {
     "source": "Mediapart",
@@ -957,7 +1465,7 @@
     "guid": "1361489 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-cancer-colere-bruxelles-1.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892909+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345648+00:00"
   },
   {
     "source": "Libération",
@@ -972,7 +1480,7 @@
     "guid": "https://www.liberation.fr/economie/social/une-anomalie-qui-dure-depuis-longtemps-jean-pierre-farandou-finalement-favorable-a-la-suppression-de-lavantage-fiscal-des-retraites-20261120_A2RBPCODXNED7O67DXEKOFUL3U/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960836+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565836+00:00"
   },
   {
     "source": "Libération",
@@ -987,7 +1495,7 @@
     "guid": "https://www.liberation.fr/portraits/maylis-adhemar-ecrivaine-confessions-dune-ex-fasciste-20261120_TO3X677RTVD5VLJ4WVVOVVDJUY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960853+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565853+00:00"
   },
   {
     "source": "Le Monde",
@@ -1000,7 +1508,7 @@
     "guid": "https://www.lemonde.fr/les-decodeurs/article/2026/11/20/inside-deutsche-bank-le-gouvernement-allemand-reclame-de-la-transparence-sur-les-revelations-de-l-enquete-journalistique_6813660_4355770.html",
     "image": "https://img.lemde.fr/2026/11/20/683/0/8196/4098/644/322/60/0/b28ab03_ftp-1-wrxvhkvkwdhe-afp-d83z946.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.783065+00:00"
+    "fetched_at": "2026-11-21T01:59:07.290240+00:00"
   },
   {
     "source": "Libération",
@@ -1015,7 +1523,7 @@
     "guid": "https://www.liberation.fr/international/moyen-orient/en-israel-la-percee-historique-des-partis-arabes-ravive-les-discours-racistes-20261120_LO5FQX7OAZHDNAQCLNT4COPKOA/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960875+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565874+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1035,7 +1543,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/presidentielle-2027-dominique-de-villepin-ou-le-chiraquisme-vain",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899768+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227606+00:00"
   },
   {
     "source": "Mediapart",
@@ -1053,7 +1561,7 @@
     "guid": "1361428 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-la-bataille-culturelle-pour-taxer-les-ultrariches-s-invite-paris.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892932+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345669+00:00"
   },
   {
     "source": "Libération",
@@ -1068,7 +1576,7 @@
     "guid": "https://www.liberation.fr/economie/social/hausse-des-salaires-un-nouvel-appel-a-la-greve-dans-la-fonction-publique-le-1er-decembre-20261120_ABDFFBKH45DIREAFQFOU3NCZME/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960899+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565897+00:00"
   },
   {
     "source": "Mediapart",
@@ -1086,7 +1594,7 @@
     "guid": "1361463 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-cop-31.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892954+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345691+00:00"
   },
   {
     "source": "Libération",
@@ -1101,7 +1609,7 @@
     "guid": "https://www.liberation.fr/environnement/animaux/nous-exhortons-les-visiteurs-a-mettre-ses-affaires-en-securite-fiona-hippopotame-star-du-zoo-de-cincinnati-est-morte-apres-avoir-avale-un-bonnet-20261120_Q6NZERBQ45ELHNLDOFLONJMENY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960923+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565923+00:00"
   },
   {
     "source": "Libération",
@@ -1116,7 +1624,7 @@
     "guid": "https://www.liberation.fr/international/europe/la-pologne-et-ses-allies-accusent-la-russie-apres-une-chute-de-missiles-pres-de-la-frontiere-avec-lukraine-20261120_E7B54NML35A47LFVWRXB4EVCMU/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960946+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565944+00:00"
   },
   {
     "source": "Libération",
@@ -1131,7 +1639,7 @@
     "guid": "https://www.liberation.fr/culture/musique/cinema-publicite-television-lavenir-incertain-des-musiciens-a-limage-20261120_2KALFMOIBJF6VMCWZGYGUMOGVQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960969+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565970+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1161,7 +1669,7 @@
     "guid": "https://www.liberation.fr/economie/transports/deraillement-du-ter-en-normandie-une-collision-entre-des-passagers-et-un-autre-train-evitee-de-justesse-20261120_S2DGB2DRZNGILHLNHJ2XVLTZWQ/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.960991+00:00"
+    "fetched_at": "2026-11-21T01:59:07.565992+00:00"
   },
   {
     "source": "Libération",
@@ -1176,7 +1684,7 @@
     "guid": "https://www.liberation.fr/international/asie-pacifique/genocide-des-rohingyas-apres-la-decision-historique-de-la-cij-les-reactions-internationales-senchainent-20261120_T6GQJ2LXAJGFJOENXUVFY55D6M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961015+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566015+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1195,7 +1703,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/politique/les-delices-du-palais-du-luxembourg",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899796+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227632+00:00"
   },
   {
     "source": "Le Monde",
@@ -1223,7 +1731,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/affaire-barbara-butch-allan-brunon-responsable-lfi-a-grenoble-appele-a-comparaitre-le-15-fevrier-20261120_R7U6RWVAJNBZTFEVVTH6VZ7OUE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961041+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566037+00:00"
   },
   {
     "source": "Libération",
@@ -1238,7 +1746,7 @@
     "guid": "https://www.liberation.fr/societe/police-justice/des-risques-pour-gagner-deux-ou-trois-secondes-le-jeune-motard-qui-a-tue-kamilya-7-ans-presente-ses-excuses-lors-de-son-proces-20261120_XQLISND47RF43E2HTKXRHTJWCE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961066+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566061+00:00"
   },
   {
     "source": "Libération",
@@ -1253,7 +1761,7 @@
     "guid": "https://www.liberation.fr/economie/medias/comment-cela-peut-il-fonctionner-sibyle-veil-sceptique-sur-la-privatisation-de-laudiovisuel-public-portee-par-le-rn-20261120_SBQCTF76DZFUZHRWKWLF5G5PTE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961090+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566086+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1283,7 +1791,7 @@
     "guid": "https://www.liberation.fr/politique/le-statut-de-favori-du-rn-a-lepreuve-de-lavalanche-des-affaires-20261120_4QE66TMBRNCKFPSTKZ7QH3F34M/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961111+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566107+00:00"
   },
   {
     "source": "Libération",
@@ -1298,7 +1806,7 @@
     "guid": "https://www.liberation.fr/international/europe/une-membre-fidele-du-parti-nazi-a-112-ans-la-doyenne-du-danemark-rattrapee-par-son-passe-20261120_UFNPZG4CZRC6BGG3WWPDHGSYQM/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961136+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566130+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1321,7 +1829,7 @@
     "guid": "https://www.valeursactuelles.com/clubvaleurs/regions/provence-alpes-cote-dazur/var/toulon/societe/il-na-aucun-affect-aucune-emotion-24-mois-de-prison-pour-avoir-depece-un-chat-dans-le-var",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:15.899835+00:00"
+    "fetched_at": "2026-11-21T01:59:07.227673+00:00"
   },
   {
     "source": "Libération",
@@ -1336,7 +1844,7 @@
     "guid": "https://www.liberation.fr/politique/fuites-au-ministere-de-linterieur-hugues-moutouh-le-prefet-bulldozer-soupconne-davoir-tuyaute-le-rn-20261120_NDYQ4YL7YZHQHPDPPOMUSUTLMY/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961161+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566152+00:00"
   },
   {
     "source": "Le Figaro",
@@ -1351,7 +1859,7 @@
     "guid": "https://tvmag.lefigaro.fr/programme-tv/series/le-palmares-des-70-meilleures-series-tv-du-21e-siecle-selon-les-experts-du-petit-ecran-20261120",
     "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/11/12/0eebe169f13ef83fe1c6bc6ab27aa9fc8bb6e2619ef9c2e9c1af41aa0908971e.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.800578+00:00"
+    "fetched_at": "2026-11-21T01:59:07.080265+00:00"
   },
   {
     "source": "Libération",
@@ -1366,7 +1874,7 @@
     "guid": "https://www.liberation.fr/culture/scenes/challenge-physique-tourbillon-permanent-fierte-danser-dance-de-lucinda-childs-intense-experience-20261120_JC5UINP5DFDOJFLRGNLPYOVATE/",
     "image": null,
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.961187+00:00"
+    "fetched_at": "2026-11-21T01:59:07.566178+00:00"
   },
   {
     "source": "Valeurs actuelles",
@@ -1513,7 +2021,7 @@
     "guid": "1361411 at https://www.mediapart.fr/",
     "image": "https://static.mediapart.fr/etmagine/default/files/2026/11/20/261120-img-espagne-le-conservateur-feijoo-l-offensive-lors-du-seul-face-face-televise-de-la-campagne.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-20T19:40:14.892977+00:00"
+    "fetched_at": "2026-11-21T01:59:07.345713+00:00"
   },
   {
     "source": "Mediapart",
@@ -6408,7 +6916,7 @@
     "guid": "https://www.lefigaro.fr/secteur/high-tech/gta-6-ahurissant-de-realisme-bande-son-exceptionnelle-narration-hollywoodienne-nos-premieres-impressions-sur-le-jeu-video-evenement-20261118",
     "image": "https://i.f1g.fr/media/cms/3000x1688_crop/2026/11/18/97d9556ad5926800c3f9c93a0df05d9551aa20a48b179dfd112aeb9d1caa6e07.jpg",
     "full_text": null,
-    "fetched_at": "2026-11-18T20:03:20.154192+00:00"
+    "fetched_at": "2026-11-21T01:59:07.079950+00:00"
   },
   {
     "source": "Le Figaro",
